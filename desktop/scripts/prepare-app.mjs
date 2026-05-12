@@ -661,7 +661,7 @@ if (fs.existsSync(desktopConstantsPath)) {
 const desktopRuntimeConfig = `window.__FRONT_RUNTIME_CONFIG__ = {
   apiBase: "http://127.0.0.1:41000",
   xApiKey: "retain-pdf-desktop",
-  ocrProvider: "paddle",
+  ocrProvider: "mineru",
   mineruToken: "",
   paddleToken: "",
   modelApiKey: "",

@@ -363,7 +363,12 @@ export function mountBrowserCredentialsFeature({
 
   function hasBrowserCredentials() {
     const definition = getOcrProviderDefinition(currentOcrProvider());
-    return Boolean(($(`${definition.tokenField}`)?.value || "").trim() && ($("api_key").value || "").trim());
+    const ocrToken = ($(`${definition.tokenField}`)?.value || "").trim();
+    const apiKey = ($("api_key").value || "").trim();
+    if (definition.id === "mineru") {
+      return Boolean(apiKey);
+    }
+    return Boolean(ocrToken && apiKey);
   }
 
   function openBrowserCredentialsDialog(options = {}) {
@@ -380,6 +385,12 @@ export function mountBrowserCredentialsFeature({
   async function ensureOcrCredentialsReady({ onMissingToken, onInvalidToken } = {}) {
     const provider = currentOcrProvider();
     const definition = getOcrProviderDefinition(provider);
+    if (definition.id === "mineru") {
+      state.validatedOcrProvider = definition.id;
+      state.validatedOcrToken = "";
+      state.ocrValidationStatus = "skipped";
+      return true;
+    }
     const fallbackToken = definition.id === "paddle" ? defaultPaddleToken() : defaultMineruToken();
     const token = ($(`${definition.tokenField}`)?.value || fallbackToken).trim();
     if (!token) {
@@ -491,18 +502,19 @@ export function mountBrowserCredentialsFeature({
     const { mineruInput, paddleInput, apiKeyInput } = browserCredentialElements();
     const ocrToken = (definition.id === "paddle" ? paddleInput?.value : mineruInput?.value)?.trim() || "";
     const modelApiKey = apiKeyInput?.value?.trim() || "";
-    if (!ocrToken || !modelApiKey) {
-      if (!ocrToken) {
-        setOcrValidationMessage(definition.validationMissingMessage, "error", definition.id);
-      }
-      if (!modelApiKey) {
-        setDeepSeekValidationMessage(TRANSLATION_PROVIDER_DEFINITION.validationMissingMessage, "error");
-      }
+    if (!modelApiKey) {
+      setDeepSeekValidationMessage(TRANSLATION_PROVIDER_DEFINITION.validationMissingMessage, "error");
       return;
     }
-    const validation = await runOcrTokenValidation(definition.id, ocrToken, { showResult: true });
-    if (!validation.ok) {
-      return;
+    if (definition.id === "paddle") {
+      if (!ocrToken) {
+        setOcrValidationMessage(definition.validationMissingMessage, "error", definition.id);
+        return;
+      }
+      const validation = await runOcrTokenValidation(definition.id, ocrToken, { showResult: true });
+      if (!validation.ok) {
+        return;
+      }
     }
     try {
       if (state.desktopMode) {

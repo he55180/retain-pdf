@@ -16,7 +16,7 @@ let isQuitting = false;
 let closeToTrayHintShown = false;
 let desktopLogPath = "";
 
-const DEFAULT_OCR_PROVIDER = "paddle";
+const DEFAULT_OCR_PROVIDER = "mineru";
 const DEFAULT_MODEL = "deepseek-v4-flash";
 const DEFAULT_BASE_URL = "https://api.deepseek.com/v1";
 
@@ -71,7 +71,8 @@ function hasOwn(target, key) {
 }
 
 function normalizeOcrProvider(value) {
-  return value === "paddle" ? "paddle" : DEFAULT_OCR_PROVIDER;
+  const v = `${value || ""}`.trim().toLowerCase();
+  return v === "paddle" || v === "mineru" ? v : DEFAULT_OCR_PROVIDER;
 }
 
 function normalizeTrimmedString(value, fallback = "") {
