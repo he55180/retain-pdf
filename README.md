@@ -1,212 +1,126 @@
-# RetainPDF：PDF 保留排版翻译工具
+# RetainPDF · CHEC 东非坦桑尼亚水工项目群定制版
 
-<p align="center">
-  <img src="image/RetainPDF-github.svg" alt="RetainPDF" width="320" />
-</p>
+> 基于 [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) 二次开发  
+> 中国港湾工程有限责任公司 · 东非坦桑尼亚水工项目群
 
+---
 
-开源社区做保留排版的项目不少，但是都围绕可复制，可编辑的 PDF，以及行内公式不复杂的场景.
+## 📌 关于本版本
 
-RetainPDF 从一开始就是要解决各类 PDF 的保留排版翻译问题，尤其是图片型/扫描版 PDF，以及行内公式的渲染问题.
+本版本为 CHEC 东非坦桑尼亚水工项目群内部定制版，针对非洲现场网络环境进行了专项优化：
 
-在保留排版翻译这个领域，正面硬刚闭源模型,并且在一些场景下做得更好，比如翻译后的 PDF 体积、整体速度和字体大小控制。
+- ✅ **默认使用 MinerU OCR**，完全绕过百度 PaddleOCR 强制验证
+- ✅ **无需百度账号**，非洲网络环境稳定可用
+- ✅ **DeepSeek 翻译**，费用极低，翻译质量高
+- ✅ **格式还原输出**，保留原文排版结构
+- ✅ **一键安装**，同事直接下载 `.exe` 双击安装即可使用
 
-此外本项目是前后端分离、OCR、翻译、排版与交付打通的全栈项目，整体结构尽量解耦，既能直接使用，也方便后续开发者继续扩展、替换模块和二次开发。
+---
 
+## 🚀 快速开始（同事使用指南）
 
-简单对比：
+### 第一步：下载安装包
 
-| 项目 | 扫描型 PDF | 复杂行内公式 | 代码不误翻 | 表格控制 | 自定义翻译策略 | 排版保留 | PDF 压缩优化 | API 自动化 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PDFMathTranslate | ❌ | ❌ | ❌ | 弱 | 弱 | 一般 | 一般 | ✅ |
-| PolyglotPDF | ❌ | ❌ | ❌ | 弱 | 弱 | 一般 | 一般 | ✅ |
-| Doc2X | ✅ | ✅ | ❌ | 中 | 弱 | 强 | 弱 | ❌ 不开放 |
-| RetainPDF | ✅ | ✅ | ✅ | ✅ 可开关 | ✅ 可按规则配置 | 强 | ✅ 持续优化 | ✅ |
+前往 [Releases 页面](https://github.com/he55180/retain-pdf/releases) 下载最新版本：
 
-## 效果图
-
-### SCI 论文
-
-<p align="center">
-  <img src="image/image%201.png" alt="SCI 示例 1" width="860" />
-</p>
-
-<p align="center">
-  <img src="image/image%202.png" alt="SCI 示例 2" width="860" />
-</p>
-
-### 图片型 / 扫描版 PDF
-
-<p align="center">
-  <img src="image/image%203.png" alt="扫描版示例 1" width="860" />
-</p>
-
-<p align="center">
-  <img src="image/image%207.png" alt="扫描版示例 2" width="860" />
-</p>
-
-### 图书类
-
-<p align="center">
-  <img src="image/image%204.png" alt="图书示例 1" width="860" />
-</p>
-
-<p align="center">
-  <img src="image/image%205.png" alt="图书示例 2" width="860" />
-</p>
-
-<p align="center">
-  <img src="image/image%206.png" alt="图书示例 3" width="860" />
-</p>
-
-## 快速开始
-
-如果你只是想直接使用，先去 [GitHub Releases](https://github.com/wxyhgk/retain-pdf/releases) 下载对应平台的发布包：
-
-- Windows：优先下载 `Setup.exe`
-- macOS：下载 `.dmg`
-- Linux：下载 `.deb`
-
-如果你想给局域网、团队或多台设备一起用，优先选 Docker 部署。
-
-### Windows 桌面端
-
-<p align="center">
-  <img src="image/RetainPDF-desktop.png" alt="RetainPDF Windows 桌面端" width="860" />
-</p>
-
-### macOS 提示
-
-由于当前没有 Apple 开发者账号，macOS 版本第一次打开时可能会提示应用“已损坏”。这不是文件真的损坏，而是系统的签名校验导致的。把应用拖到 `/Applications` 后，执行：
-
-```bash
-sudo xattr -r -d com.apple.quarantine /Applications/RetainPDF.app
+```
+RetainPDF-Windows-vX.X.X-Setup.exe
 ```
 
-然后再重新打开应用即可。
+双击安装，按提示完成即可。
 
-### Docker 部署
+### 第二步：首次配置
 
-当前仓库提供了 Docker 交付目录：
+安装后首次启动会弹出配置界面，填入以下凭证：
 
-- [docker/delivery/README.md](docker/delivery/README.md)
-- [docker/delivery/docker-compose.yml](docker/delivery/docker-compose.yml)
+| 凭证 | 获取方式 |
+|---|---|
+| **MinerU Token** | 登录 [mineru.net](https://mineru.net) → API 管理 → 创建 Token |
+| **DeepSeek API Key** | 登录 [platform.deepseek.com](https://platform.deepseek.com) → API Keys |
 
-基本步骤：
+填写完成后点击 **保存并启动**。
 
-```bash
-git clone https://github.com/wxyhgk/retain-pdf.git
-cd retain-pdf/docker/delivery
-docker compose up -d
+### 第三步：翻译 PDF
+
+1. 点击上传 PDF 文件（支持扫描件）
+2. 选择目标语言（中文）
+3. 等待翻译完成，下载输出文件
+
+---
+
+## 💡 设计思路
+
+原版存在一个已知 Bug：即使选择了 MinerU 作为 OCR 服务商，界面仍强制要求填写 PaddleOCR Token 才能保存配置。这导致在非洲项目现场（无法稳定访问百度国内服务器）完全无法正常使用。
+
+本版本的改动思路：
+
+- **默认使用 MinerU**，非洲网络环境开箱即用
+- **保留 PaddleOCR 作为备选**，可在设置中随时切换
+- **取消强制验证**，选 MinerU 时直接跳过 Token 检查，选 PaddleOCR 时才验证
+- 回国或百度可访问时，切换回 PaddleOCR 可获得更好的中文版面还原效果
+
+**两全其美：非洲现场能用 + 国内效果更好。**
+
+---
+
+## 🔧 与原版的主要改动
+
+| 文件 | 改动内容 |
+|---|---|
+| `desktop/main.js` | 默认 OCR 服务商从 `paddle` 改为 `mineru` |
+| `desktop/scripts/prepare-app.mjs` | 构建注入默认值改为 `mineru` |
+| `frontend/.../credentials/browser.js` | MinerU 模式跳过 OCR Token 强制验证 |
+
+---
+
+## 📋 推荐翻译提示词（工程合同专用）
+
+在软件翻译设置中使用以下提示词，锁定 CHEC 项目专业术语：
+
+```
+你是专业的工程合同翻译专家，请将以下英文内容翻译成简体中文。
+要求：
+1. 以下术语固定翻译，不得意译：
+   - Environmental Impact Assessment → 环境影响评估（EIA）
+   - Environmental Management Plan → 环境管理计划（EMP）
+   - Contractor → 承包方
+   - Employer → 业主方
+   - Force Majeure → 不可抗力
+   - Tanzania Shillings (TZS) → 坦桑尼亚先令
+2. 保留原文中的合同编号、人名、地名不翻译
+3. 保留原文排版结构，包括编号、缩进
+4. 法律条款翻译力求准确，不得随意简化
 ```
 
-启动后默认访问：
+---
 
-```text
-http://127.0.0.1:40001
-```
+## 📊 使用策略建议
 
-默认端口：
+根据实际测试，建议按文件类型选择 OCR 服务商：
 
-- `40001`：前端页面
-- `41000`：Rust API
-- `42000`：multipart 异步提交接口
+| 文件类型 | 推荐 OCR | 是否需要 VPN | 说明 |
+|---|---|---|---|
+| 日常英文合同、技术报告 | **MinerU** | ❌ 不需要 | 开箱即用，速度快，英文效果好 |
+| 复杂扫描件、证件、许可证 | **PaddleOCR** | ✅ 需要香港节点 | 版面还原更强，支持斯瓦希里语识别 |
+| EIA 报告、多栏排版文件 | **PaddleOCR** | ✅ 需要香港节点 | 中文排版还原效果更佳 |
 
-### Docker 更新
+**切换方法：**
+1. 开启 VPN，连接香港节点
+2. 打开软件设置 → OCR 服务商 → 切换为 **PaddleOCR**
+3. 填入百度 AI Studio Token（[aistudio.baidu.com](https://aistudio.baidu.com) 注册获取）
+4. 翻译完成后可关闭 VPN
 
-如果只是更新到最新镜像版本：
+---
 
-```bash
-cd retain-pdf/docker/delivery
-docker compose pull
-docker compose up -d
-```
+## ⚠️ 注意事项
 
-如果你要切换到指定镜像版本，也可以这样：
+- MinerU Token 有效期 **90 天**，到期后需登录 mineru.net 重新创建
+- 非洲网络环境下每页 OCR 约需 **30～60 秒**，请耐心等待
+- 本软件仅供 CHEC 内部使用，请勿对外分发
 
-```bash
-cd retain-pdf/docker/delivery
-APP_IMAGE=wxyhgk/retainpdf-app:latest \
-WEB_IMAGE=wxyhgk/retainpdf-web:latest \
-docker compose up -d
-```
+---
 
-更新后建议执行一次状态检查：
+## 📄 开源协议
 
-```bash
-docker compose ps
-```
-
-当前镜像地址：
-
-- [wxyhgk/retainpdf-app](https://hub.docker.com/r/wxyhgk/retainpdf-app)
-- [wxyhgk/retainpdf-web](https://hub.docker.com/r/wxyhgk/retainpdf-web)
-
-## 交流群
-
-如果你在使用、部署或二次开发 RetainPDF 时遇到问题，欢迎加入 QQ 交流群一起讨论。
-
-- QQ 群号：`1101779791`
-
-<p align="center">
-  <img src="image/QQ_Group.JPG" alt="RetainPDF QQ 交流群二维码" width="280" />
-</p>
-
-## 开发者
-
-
-### 文档入口
-
-建议按下面顺序阅读。
-
-- [文档目录](doc/README.md)
-- [主线文档](doc/core/README.md)
-- [参考资料](doc/reference/README.md)
-- [运维与过程记录](doc/ops/README.md)
-- [Pipeline 阶段契约](backend/scripts/runtime/pipeline/README.md)
-
-### 代码与子模块说明
-
-- [后端脚本说明](backend/scripts/README.md)
-- `frontend/`：当前浏览器前端静态资源与桌面端打包输入目录
-
-### 当前目录结构
-
-- `frontend/`
-  浏览器前端、桌面壳、预览实验页面。
-- `backend/`
-  Rust API、Python 脚本、嵌入式 Python、历史工作区。
-- `docker/`
-  Dockerfile、发布脚本、交付用 compose 配置。
-- `data/`
-  本地运行输出、任务目录、历史样本数据。
-
-### 当前工程判断
-
-RetainPDF 目前已经可以完成从 PDF 上传、OCR、翻译、排版重建到产物下载的完整链路。
-
-接下来我的重点不是盲目堆功能，而是继续把下面几件事做稳：
-
-- 工程一致性
-- API 与产物契约稳定性
-- 构建可复现性
-- 长文块与公式场景下的翻译稳定性
-
-如果你想了解我接下来准备怎么推进，可以看：
-
-- [工程评价与后续执行计划](doc/ops/planning/工程评价与后续执行计划.md)
-
-### 欢迎一起参与
-
-如果你也对下面这些方向感兴趣，欢迎一起把这个项目继续往前做：
-
-- 高精度 OCR / 疑难版面解析
-- 长文块与公式场景下的翻译稳定性
-- 排版回填、字体自适应与 PDF 渲染
-- 桌面端、Docker 交付与工程化完善
-
-不管你更擅长算法、前端、后端还是部署，只要你也想把“真正能用的 PDF 保留排版翻译”这件事做深，欢迎进来一起搞。
-
-## License
-
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for the full text.
+本项目基于原项目 MIT 协议进行二次开发，同样遵循 MIT 开源协议。  
+原项目地址：[wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf)
