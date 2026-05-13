@@ -44,10 +44,6 @@
       {
         "from": "app/backend",
         "to": "backend"
-      },
-      {
-        "from": "src/runtime/shared/docling-models",
-        "to": "backend/docling-models"
       }
     ],
     "asar": true,

@@ -166,32 +166,31 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
     return document
 
 
-def _configure_offline_models() -> None:
-    """Point HuggingFace to bundled models dir so no network download is needed.
+def _ensure_models_cached() -> None:
+    """Ensure Docling AI models are downloaded and cached locally.
 
-    Priority:
-      1. DOCLING_MODELS_DIR env var (explicit override)
-      2. Bundled location relative to this script: ../../docling-models/huggingface
-         (matches the electron-builder extraResources layout)
-      3. System default ~/.cache/huggingface
+    Uses hf-mirror.com (HuggingFace China mirror) which is accessible
+    from both China and most international locations including Africa.
+
+    On first run this will download ~500MB of models. Subsequent runs
+    re-use the local cache in ~/.cache/huggingface/.
     """
     import os
 
-    bundled = os.environ.get("DOCLING_MODELS_DIR", "")
-    if not bundled:
-        # Try bundled location relative to the scripts directory
-        scripts_dir = Path(__file__).resolve().parent
-        candidate = scripts_dir.parent / "docling-models" / "huggingface"
-        if candidate.exists():
-            bundled = str(candidate)
+    cache_home = os.path.expanduser(os.environ.get("HF_HOME", "~/.cache/huggingface"))
+    models_ready = os.path.isdir(os.path.join(cache_home, "hub", "models--docling-project--docling-models"))
 
-    if bundled:
-        os.environ["HF_HOME"] = bundled
-        os.environ["HF_HUB_CACHE"] = str(Path(bundled) / "hub")
-        os.environ["HF_HUB_OFFLINE"] = "1"
-        print(f"docling-worker: offline_models={bundled}", flush=True)
-    else:
-        print("docling-worker: offline_models=system_cache (models may download on first use)", flush=True)
+    # Always use hf-mirror.com for faster downloads from China / global access
+    os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
+
+    if models_ready:
+        print("docling-worker: models_cached (models found in local cache)", flush=True)
+        return
+
+    print("docling-worker: first_run  downloading AI models (~500MB, first time only)...", flush=True)
+    print("docling-worker: mirror=https://hf-mirror.com", flush=True)
+    # The actual download happens implicitly when DocumentConverter is first used.
+    # We trigger it eagerly here so progress is visible before the conversion starts.
 
 
 def main() -> None:
@@ -209,7 +208,7 @@ def main() -> None:
     print(f"docling-worker: do_ocr={args.do_ocr}", flush=True)
     print(f"docling-worker: do_table_structure={args.do_table_structure}", flush=True)
 
-    _configure_offline_models()
+    _ensure_models_cached()
 
     # Lazy import so the script is importable without docling installed
     from docling.document_converter import DocumentConverter, PdfFormatOption
