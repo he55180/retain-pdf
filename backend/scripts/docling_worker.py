@@ -77,7 +77,7 @@ def _label_to_role(label: str) -> tuple[str, str, str, str, bool]:
 
 
 def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
-    """Convert Docling output to document.v1.json format.
+    """Convert Docling output to document.v1.json format (validated contract).
 
     iterate_items() yields (item, level) tuples. Each item has:
       - .label (DocItemLabel enum, .value gives the string)
@@ -101,6 +101,7 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
         page_obj = docling_doc.pages.get(page_num)
         page_width = page_obj.size.width if (page_obj and page_obj.size) else 0
         page_height = page_obj.size.height if (page_obj and page_obj.size) else 0
+        page_index = page_num - 1  # Docling uses 1-based, contract uses 0-based
 
         blocks = []
         for reading_order, (item, _level) in enumerate(page_items[page_num]):
@@ -113,6 +114,9 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
             translate_reason = "main_text" if translate else f"layout_role={layout_role}"
 
             block = {
+                "block_id": str(uuid.uuid4()),
+                "page_index": page_index,
+                "order": reading_order,
                 "reading_order": reading_order,
                 "geometry": {
                     "bbox": [bbox.l, bbox.t, bbox.r, bbox.b],
@@ -130,7 +134,21 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                 "provenance": {
                     "provider": "docling",
                     "raw_label": label,
+                    "raw_sub_type": "",
                     "raw_bbox": [bbox.l, bbox.t, bbox.r, bbox.b],
+                    "raw_path": str(pdf_path),
+                },
+                "continuation_hint": {
+                    "source": "",
+                    "group_id": "",
+                    "role": "",
+                    "scope": "",
+                    "reading_order": -1,
+                    "confidence": 0.0,
+                },
+                "metadata": {},
+                "source": {
+                    "provider": "docling",
                 },
             }
             if text:
@@ -140,14 +158,20 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
             total_blocks += 1
 
         pages_data.append({
+            "page_index": page_index,
             "page": page_num,
-            "size": {"width": page_width, "height": page_height},
+            "width": page_width,
+            "height": page_height,
+            "unit": "pt",
             "blocks": blocks,
         })
 
     document = {
-        "schema_version": "document.v1",
-        "doc_id": str(uuid.uuid4()),
+        "schema": "normalized_document_v1",
+        "schema_version": "1.1",
+        "document_id": str(uuid.uuid4()),
+        "source": {},
+        "page_count": len(pages_data),
         "pages": pages_data,
         "assets": {},
         "derived": {
@@ -162,6 +186,7 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                 "elapsed_seconds": round(elapsed, 2),
             },
         },
+        "markers": {},
     }
     return document
 
