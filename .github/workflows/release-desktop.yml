@@ -182,6 +182,7 @@ jobs:
             desktop/win/RetainPDF-Windows-${{ steps.version.outputs.version }}-Setup.exe
 
   build-linux-release:
+    if: false  # disabled: docling models exceed GitHub 2GB limit
     runs-on: ubuntu-latest
 
     steps:
