@@ -131,6 +131,10 @@ fn validate_provider_token(
     input: &CreateJobInput,
     provider_kind: &OcrProviderKind,
 ) -> Result<(), AppError> {
+    let provider = parse_provider_kind(&input.ocr.provider);
+    if matches!(provider, OcrProviderKind::Docling) {
+        return Ok(()); // Docling is local-only, no token needed
+    }
     let token = provider_token(provider_kind, &input.ocr);
     let field_name = provider_token_field_name(provider_kind).unwrap_or("provider_token");
     let display_name = provider_display_name(provider_kind).unwrap_or("Provider");

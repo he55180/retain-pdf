@@ -154,6 +154,10 @@ async fn execute_provider_transport(
                 )
                 .await?;
             }
+            OcrProviderKind::Docling => {
+                // Docling is local-only: no cloud transport needed.
+                // The Python worker handles everything via the stage spec.
+            }
             OcrProviderKind::Unknown => return Err(anyhow!("unsupported OCR provider")),
         }
         return Ok(upload_path);
@@ -185,6 +189,10 @@ async fn execute_provider_transport(
                 parent_job_id,
             )
             .await?;
+        }
+        OcrProviderKind::Docling => {
+            // Docling is local-only, no remote transport needed.
+            // Python worker handles via stage spec.
         }
         OcrProviderKind::Unknown => return Err(anyhow!("unsupported OCR provider")),
     }

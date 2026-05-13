@@ -212,6 +212,61 @@ def run_paddle_to_job_dir(args: SimpleNamespace) -> tuple[Path, Path, Path, Path
     )
 
 
+def _run_docling_to_job_dir(args: SimpleNamespace) -> tuple:
+    """Convert source PDF via Docling and produce document.v1.json artifacts."""
+    import time
+    import uuid
+    from types import SimpleNamespace as SN
+
+    source_pdf_path = Path(args.file_path).resolve()
+    if not source_pdf_path.exists():
+        raise RuntimeError(f"source PDF not found: {source_pdf_path}")
+
+    job_dirs = job_dirs_from_explicit_args(args)
+    ocr_dir = job_dirs.ocr_dir
+    ocr_dir.mkdir(parents=True, exist_ok=True)
+
+    # Use the docling_worker module
+    from docling_worker import _build_document_v1
+
+    from docling.document_converter import DocumentConverter, PdfFormatOption
+    from docling.datamodel.pipeline_options import PdfPipelineOptions
+
+    pipeline_opts = PdfPipelineOptions(do_ocr=True, do_table_structure=True)
+    converter = DocumentConverter(
+        format_options={"pdf": PdfFormatOption(pipeline_options=pipeline_opts)},
+    )
+
+    start = time.perf_counter()
+    result = converter.convert(str(source_pdf_path))
+    elapsed = time.perf_counter() - start
+
+    docling_doc = result.document
+    total_pages = len(docling_doc.pages)
+    print(f"docling: pages={total_pages} elapsed={elapsed:.1f}s", flush=True)
+
+    for page_num in sorted(docling_doc.pages.keys()):
+        count = sum(1 for item, _ in docling_doc.iterate_items()
+                    if item.prov and item.prov[0].page_no == page_num)
+        print(f"docling: progress  page={page_num}/{total_pages}  items={count}", flush=True)
+
+    # Save raw output as layout.json (pipeline expects this)
+    layout_json_path = ocr_dir / "layout.json"
+    with open(layout_json_path, "w", encoding="utf-8") as f:
+        json.dump({"provider": "docling", "elapsed_seconds": round(elapsed, 2)}, f, ensure_ascii=False)
+
+    # Build and save document.v1.json
+    document = _build_document_v1(source_pdf_path, docling_doc, elapsed)
+    normalized_json_path = ocr_dir / "document.v1.json"
+    with open(normalized_json_path, "w", encoding="utf-8") as f:
+        json.dump(document, f, ensure_ascii=False, indent=2)
+
+    block_count = sum(len(p["blocks"]) for p in document["pages"])
+    print(f"docling: done  pages={total_pages}  blocks={block_count}  output={normalized_json_path}", flush=True)
+
+    return job_dirs, source_pdf_path, layout_json_path, normalized_json_path
+
+
 def main() -> None:
     parsed = parse_args()
     spec = ProviderStageSpec.load(Path(parsed.spec))
@@ -258,6 +313,13 @@ def main() -> None:
             )
             _, source_pdf_path, layout_json_path, normalized_json_path = run_paddle_to_job_dir(args)
             job_dirs = job_dirs_from_explicit_args(args)
+        elif provider == "docling":
+            emit_stage_transition(
+                stage="ocr_processing",
+                message="开始执行 Docling 本地 OCR 流程",
+                provider=provider,
+            )
+            job_dirs, source_pdf_path, layout_json_path, normalized_json_path = _run_docling_to_job_dir(args)
         else:
             raise RuntimeError(f"unsupported provider-backed workflow provider: {provider}")
 

@@ -30,6 +30,22 @@ pub fn provider_definition(kind: &OcrProviderKind) -> Option<OcrProviderDefiniti
             token_env_name: "RETAIN_PADDLE_API_TOKEN",
             capabilities: paddle::capabilities(),
         }),
+        OcrProviderKind::Docling => Some(OcrProviderDefinition {
+            kind: OcrProviderKind::Docling,
+            key: "docling",
+            display_name: "Docling",
+            token_field_name: "mineru_token",
+            token_env_name: "",
+            capabilities: OcrProviderCapabilities {
+                supports_remote_url_submit: false,
+                supports_local_file_upload: true,
+                supports_polling: false,
+                supports_download_bundle: false,
+                supports_extra_formats: false,
+                supports_formula_toggle: false,
+                supports_table_toggle: true,
+            },
+        }),
         OcrProviderKind::Unknown => None,
     }
 }
@@ -70,7 +86,7 @@ pub fn supported_provider_keys() -> Vec<&'static str> {
     [
         OcrProviderKind::Mineru,
         OcrProviderKind::Paddle,
-        OcrProviderKind::Unknown,
+        OcrProviderKind::Docling,
     ]
     .iter()
     .filter_map(|kind| provider_definition(kind).map(|definition| definition.key))
@@ -139,7 +155,7 @@ mod tests {
 
     #[test]
     fn supported_provider_keys_lists_all_supported_backends() {
-        assert_eq!(supported_provider_keys(), vec!["mineru", "paddle"]);
+        assert_eq!(supported_provider_keys(), vec!["mineru", "paddle", "docling"]);
     }
 
     #[test]
