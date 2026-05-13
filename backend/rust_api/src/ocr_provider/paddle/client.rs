@@ -282,7 +282,7 @@ impl PaddleClient {
     }
 
     fn auth_header(&self) -> String {
-        format!("bearer {}", self.token.trim())
+        format!("Bearer {}", self.token.trim())
     }
 
     async fn send_with_retry<F, Fut>(&self, stage: &'static str, mut action: F) -> Result<Response>

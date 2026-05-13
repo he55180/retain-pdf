@@ -53,7 +53,7 @@ def normalize_model_name(model: str) -> str:
 
 def build_headers(token: str) -> dict[str, str]:
     return {
-        "Authorization": f"bearer {token.strip()}",
+        "Authorization": f"Bearer {token.strip()}",
         "Accept": "application/json",
     }
 

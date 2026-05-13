@@ -231,20 +231,40 @@ def _run_docling_to_job_dir(args: SimpleNamespace) -> tuple:
     ocr_dir = job_dirs.ocr_dir
     ocr_dir.mkdir(parents=True, exist_ok=True)
 
-    # Use the docling_worker module
+    # --- check model cache ---
+    cache_home = os.environ["HF_HOME"]
+    models_cached = (
+        os.path.isdir(os.path.join(cache_home, "hub", "models--docling-project--docling-models"))
+        and os.path.isdir(os.path.join(cache_home, "hub", "models--docling-project--docling-layout-heron"))
+    )
+    if not models_cached:
+        print("docling: first_run  downloading AI models (~500MB, first time only)...", flush=True)
+        print("docling: mirror=https://hf-mirror.com", flush=True)
+        print("docling: this may take several minutes depending on network speed", flush=True)
+
     from docling_worker import _build_document_v1
 
     from docling.document_converter import DocumentConverter, PdfFormatOption
     from docling.datamodel.pipeline_options import PdfPipelineOptions
 
     pipeline_opts = PdfPipelineOptions(do_ocr=True, do_table_structure=True)
-    converter = DocumentConverter(
-        format_options={"pdf": PdfFormatOption(pipeline_options=pipeline_opts)},
-    )
-
-    start = time.perf_counter()
-    result = converter.convert(str(source_pdf_path))
-    elapsed = time.perf_counter() - start
+    try:
+        converter = DocumentConverter(
+            format_options={"pdf": PdfFormatOption(pipeline_options=pipeline_opts)},
+        )
+        start = time.perf_counter()
+        result = converter.convert(str(source_pdf_path))
+        elapsed = time.perf_counter() - start
+    except Exception as exc:
+        msg = str(exc).lower()
+        if "offline" in msg or "connection" in msg or "download" in msg:
+            raise RuntimeError(
+                "Docling AI models could not be downloaded. "
+                "Please check your network connection and ensure hf-mirror.com is accessible. "
+                "The models will be cached locally after the first successful download. "
+                f"Original error: {exc}"
+            ) from exc
+        raise
 
     docling_doc = result.document
     total_pages = len(docling_doc.pages)
@@ -255,8 +275,10 @@ def _run_docling_to_job_dir(args: SimpleNamespace) -> tuple:
                     if item.prov and item.prov[0].page_no == page_num)
         print(f"docling: progress  page={page_num}/{total_pages}  items={count}", flush=True)
 
-    # Save raw output as layout.json (pipeline expects this)
-    layout_json_path = ocr_dir / "layout.json"
+    # Save layout.json to the standard location (ocr_dir/unpacked/layout.json)
+    unpacked_dir = ocr_dir / "unpacked"
+    unpacked_dir.mkdir(parents=True, exist_ok=True)
+    layout_json_path = unpacked_dir / "layout.json"
     with open(layout_json_path, "w", encoding="utf-8") as f:
         json.dump({"provider": "docling", "elapsed_seconds": round(elapsed, 2)}, f, ensure_ascii=False)
 
