@@ -61,6 +61,15 @@ pub(super) async fn recover_remote_source_pdf(
         OcrProviderKind::Paddle => {
             download_source_pdf(&job.request_payload.source.source_url, source_dir).await
         }
+        OcrProviderKind::Docling => {
+            // Docling is local-only: source PDF already present in source_dir
+            let pdf = source_dir.join("source.pdf");
+            if pdf.exists() {
+                Ok(pdf)
+            } else {
+                Err(anyhow!("source PDF not found for docling: {}", pdf.display()))
+            }
+        }
         OcrProviderKind::Unknown => Err(anyhow!("unsupported OCR provider")),
     }
 }

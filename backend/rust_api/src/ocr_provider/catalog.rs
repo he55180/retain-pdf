@@ -70,6 +70,7 @@ pub fn provider_token<'a>(kind: &OcrProviderKind, input: &'a OcrInput) -> &'a st
     match kind {
         OcrProviderKind::Mineru => input.mineru_token.trim(),
         OcrProviderKind::Paddle => input.paddle_token.trim(),
+        OcrProviderKind::Docling => "",
         OcrProviderKind::Unknown => "",
     }
 }
@@ -78,6 +79,7 @@ pub fn provider_model_version<'a>(kind: &OcrProviderKind, input: &'a OcrInput) -
     match kind {
         OcrProviderKind::Mineru => input.model_version.trim(),
         OcrProviderKind::Paddle => input.paddle_model.trim(),
+        OcrProviderKind::Docling => "",
         OcrProviderKind::Unknown => "",
     }
 }

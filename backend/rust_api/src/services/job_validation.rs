@@ -84,6 +84,9 @@ pub fn validate_mineru_upload_limits(
                 true,
             )?;
         }
+        OcrProviderKind::Docling => {
+            validate_upload_limit(upload, "Docling", MINERU_MAX_BYTES, MINERU_MAX_PAGES, false)?;
+        }
         OcrProviderKind::Unknown => {}
     }
     Ok(())
