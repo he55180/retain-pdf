@@ -9,6 +9,12 @@ class BrowserCredentialsDialog extends HTMLElement {
     const ocrProviderOptions = OCR_PROVIDER_DEFINITIONS.map((provider) => `
       <option value="${provider.id}">${provider.label}</option>
     `).join("");
+    const targetLangOptions = [
+      { value: "en2zh", label: "EN → 中文 (Chinese)" },
+      { value: "zh2en", label: "中文 → EN (English)" },
+      { value: "en2sw", label: "EN → Kiswahili" },
+      { value: "sw2zh", label: "Kiswahili → 中文 (Chinese)" },
+    ].map((opt) => `<option value="${opt.value}">${opt.label}</option>`).join("");
     const secretToggleIcon = `
       <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
         <path d="M2.5 12s3.5-6 9.5-6 9.5 6 9.5 6-3.5 6-9.5 6-9.5-6-9.5-6Z"></path>
@@ -38,22 +44,22 @@ class BrowserCredentialsDialog extends HTMLElement {
         <form method="dialog" class="desktop-shell">
           <div class="desktop-head">
             <div class="credential-dialog-head">
-              <h2 id="browser-credentials-title">接口设置</h2>
+              <h2 id="browser-credentials-title">接口设置 / Settings</h2>
               <p id="browser-credentials-subtitle" class="muted hidden"></p>
             </div>
             <button id="browser-credentials-close-btn" type="submit" class="dialog-close-btn" aria-label="关闭">×</button>
           </div>
           <div class="desktop-body credential-dialog-body">
             <div id="browser-credentials-tabs" class="developer-tabs credential-tabs" role="tablist" aria-label="接口设置">
-              <button id="browser-credential-tab-api" type="button" class="developer-tab credential-tab is-active" data-credential-tab="api" role="tab" aria-selected="true">API 设置</button>
-              <button id="browser-credential-tab-task" type="button" class="developer-tab credential-tab" data-credential-tab="task" role="tab" aria-selected="false">任务选项</button>
+              <button id="browser-credential-tab-api" type="button" class="developer-tab credential-tab is-active" data-credential-tab="api" role="tab" aria-selected="true">API / API Settings</button>
+              <button id="browser-credential-tab-task" type="button" class="developer-tab credential-tab" data-credential-tab="task" role="tab" aria-selected="false">任务 / Task Options</button>
             </div>
             <div class="credential-card-grid credential-panels">
               <section class="credential-panel is-active" data-credential-panel="api" role="tabpanel">
                 <div class="credential-card-grid credential-card-grid-compact">
                   <section class="credential-card">
                     <div class="credential-card-head">
-                      <h3>OCR 凭证</h3>
+                      <h3>OCR 引擎 / OCR Engine</h3>
                     </div>
                     <label>
                       <span class="developer-label">
@@ -97,22 +103,30 @@ class BrowserCredentialsDialog extends HTMLElement {
 
               <section class="credential-card credential-panel" data-credential-panel="task" role="tabpanel" hidden>
                 <div class="credential-card-head">
-                  <h3>任务选项</h3>
+                  <h3>任务选项 / Task Options</h3>
                 </div>
                 <label>
                   <span class="developer-label">
-                    <span>公式模式</span>
+                    <span>翻译方向 / Direction</span>
+                  </span>
+                  <select id="browser-job-target-lang" aria-label="翻译方向">
+                    ${targetLangOptions}
+                  </select>
+                </label>
+                <label>
+                  <span class="developer-label">
+                    <span>公式模式 / Formula Mode</span>
                   </span>
                   <select id="browser-job-math-mode" aria-label="公式模式">
-                    <option value="placeholder">占位保护</option>
-                    <option value="direct_typst">直出公式</option>
+                    <option value="placeholder">占位保护 / Placeholder</option>
+                    <option value="direct_typst">直出公式 / Direct Typst</option>
                   </select>
                 </label>
               </section>
             </div>
             <div class="actions credential-dialog-actions">
               <span id="browser-credentials-status" class="upload-status hidden"></span>
-              <button id="browser-credentials-save-btn" type="button">保存</button>
+              <button id="browser-credentials-save-btn" type="button">保存 / Save</button>
             </div>
           </div>
         </form>

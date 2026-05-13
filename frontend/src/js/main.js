@@ -360,11 +360,12 @@ async function initializePage() {
     defaultModelApiKey,
     defaultModelBaseUrl,
     getTaskOptions: () => workflowFeature?.developerConfigWithDefaults() || {},
-    saveTaskOptions: ({ mathMode, translateTitles }) => {
+    saveTaskOptions: ({ mathMode, translateTitles, targetLang }) => {
       state.developerConfig = {
         ...(state.developerConfig || {}),
         mathMode: normalizeMathMode(mathMode),
         translateTitles: translateTitles !== false,
+        targetLang: targetLang || state.developerConfig?.targetLang || "en2zh",
       };
       void savePersistedDeveloperStoredConfig(state.developerConfig);
     },

@@ -37,7 +37,7 @@ export function mountBrowserCredentialsFeature({
       return;
     }
     dialog.dataset.setupMode = setupMode ? "1" : "0";
-    $("browser-credentials-title").textContent = setupMode ? "首次配置" : "接口设置";
+    $("browser-credentials-title").textContent = setupMode ? "首次配置 / First Setup" : "接口设置 / Settings";
     const subtitle = $("browser-credentials-subtitle");
     if (subtitle) {
       const text = setupMode
@@ -46,7 +46,7 @@ export function mountBrowserCredentialsFeature({
       subtitle.textContent = text;
       subtitle.classList.toggle("hidden", !text);
     }
-    $("browser-credentials-save-btn").textContent = setupMode ? "保存并启动" : "保存";
+    $("browser-credentials-save-btn").textContent = setupMode ? "保存并启动 / Save & Start" : "保存 / Save";
     $("browser-credentials-tabs")?.classList.toggle("hidden", setupMode);
     if (setupMode) {
       activateCredentialTab("api");
@@ -305,6 +305,10 @@ export function mountBrowserCredentialsFeature({
     if (mathModeSelect) {
       mathModeSelect.value = taskOptions.mathMode === "placeholder" ? "placeholder" : "direct_typst";
     }
+    const targetLangSelect = $("browser-job-target-lang");
+    if (targetLangSelect) {
+      targetLangSelect.value = taskOptions.targetLang || "en2zh";
+    }
     setOcrValidationMessage("", "", "mineru");
     setOcrValidationMessage("", "", "paddle");
     setDeepSeekValidationMessage("", "");
@@ -328,6 +332,7 @@ export function mountBrowserCredentialsFeature({
     saveTaskOptions?.({
       mathMode: mathModeSelect?.value || "direct_typst",
       translateTitles: true,
+      targetLang: $("browser-job-target-lang")?.value || "en2zh",
     });
     saveBrowserStoredConfig();
   }
@@ -343,6 +348,7 @@ export function mountBrowserCredentialsFeature({
     const mineruToken = mineruInput?.value?.trim() || "";
     const paddleToken = paddleInput?.value?.trim() || "";
     const modelApiKey = apiKeyInput?.value?.trim() || "";
+    const targetLang = $("browser-job-target-lang")?.value || "en2zh";
     await saveDesktopConfig?.(
       mineruToken,
       modelApiKey,
@@ -358,6 +364,7 @@ export function mountBrowserCredentialsFeature({
     saveTaskOptions?.({
       mathMode: mathModeSelect?.value || "direct_typst",
       translateTitles: true,
+      targetLang,
     });
   }
 
@@ -573,6 +580,26 @@ export function mountBrowserCredentialsFeature({
     $("ocr_provider").value = provider;
     syncOcrProviderControls(provider);
   });
+
+  // Quick translation-direction toggle on main page
+  const quickToggle = $("quick-target-lang");
+  if (quickToggle) {
+    const taskOptions = getTaskOptions?.() || {};
+    quickToggle.value = taskOptions.targetLang || "en2zh";
+    quickToggle.addEventListener("change", () => {
+      const current = getTaskOptions?.() || {};
+      saveTaskOptions?.({
+        mathMode: current.mathMode || "direct_typst",
+        translateTitles: current.translateTitles !== false,
+        targetLang: quickToggle.value,
+      });
+      // also update the dialog select
+      const dialogSelect = $("browser-job-target-lang");
+      if (dialogSelect) {
+        dialogSelect.value = quickToggle.value;
+      }
+    });
+  }
 
   return {
     activateCredentialTab,

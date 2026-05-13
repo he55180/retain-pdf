@@ -53,6 +53,7 @@ export function mountWorkflowFeature({
       compileWorkers: Number(saved.compileWorkers || DEFAULT_COMPILE_WORKERS),
       timeoutSeconds: Number(saved.timeoutSeconds || DEFAULT_TIMEOUT_SECONDS),
       translateTitles: saved.translateTitles !== false,
+      targetLang: saved.targetLang || "en2zh",
     };
   }
 
@@ -276,6 +277,7 @@ export function mountWorkflowFeature({
   }
 
   function buildTranslationPayload(developerConfig) {
+    const targetLang = developerConfig.targetLang || "en2zh";
     return {
       mode: DEFAULT_MODE,
       math_mode: developerConfig.mathMode,
@@ -286,7 +288,7 @@ export function mountWorkflowFeature({
       batch_size: developerConfig.batchSize,
       classify_batch_size: developerConfig.classifyBatchSize,
       rule_profile_name: DEFAULT_RULE_PROFILE,
-      custom_rules_text: "",
+      custom_rules_text: "__TDIR__:" + targetLang,
       glossary_id: "",
       glossary_entries: [],
       skip_title_translation: !developerConfig.translateTitles,

@@ -52,6 +52,9 @@ def translate_book_pipeline(
         raise RuntimeError("No pages found in OCR JSON.")
 
     start, stop = resolve_page_range(page_count, start_page, end_page)
+    # Strip __TDIR__: marker from custom_rules_text; direction parsed in session_context
+    from services.translation.session_context import _parse_target_lang_from_custom_rules
+    cleaned_rules, _sl, _tl, _tln = _parse_target_lang_from_custom_rules(custom_rules_text)
     page_indices = range(start, stop + 1)
     policy_config = build_book_translation_policy_config(
         data=data,
@@ -64,7 +67,7 @@ def translate_book_pipeline(
         base_url=base_url,
         output_dir=output_dir,
         rule_profile_name=rule_profile_name,
-        custom_rules_text=custom_rules_text,
+        custom_rules_text=cleaned_rules,
     )
     if policy_config.domain_context.get("domain") or policy_config.domain_context.get("translation_guidance"):
         print(
@@ -74,6 +77,7 @@ def translate_book_pipeline(
     print(f"rule profile: {policy_config.rule_profile_name}", flush=True)
     translation_context = build_translation_context_from_policy(
         policy_config,
+        extra_guidance=custom_rules_text,  # original with marker for direction parsing
         glossary_entries=glossary_entries or [],
         model=model,
         base_url=base_url,
