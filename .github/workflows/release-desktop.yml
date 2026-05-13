@@ -148,6 +148,61 @@ jobs:
           $bundleSize = [Math]::Round(((Get-ChildItem $bundleRoot -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB), 2)
           Write-Host "Bundled Python size: ${bundleSize} MB"
 
+      - name: Pre-cache Docling models for offline use
+        shell: pwsh
+        run: |
+          $sitePackages = Join-Path $PWD "desktop/src/runtime/windows/python/Lib/site-packages"
+          $pythonExe = Join-Path $PWD "desktop/src/runtime/windows/python/python.exe"
+          $env:PYTHONPATH = $sitePackages
+          Write-Host "Installing docling + reportlab..."
+          & $pythonExe -m pip install --target $sitePackages docling reportlab
+          Write-Host "Running one-shot Docling conversion to trigger model downloads..."
+          $script = @'
+          from reportlab.pdfgen import canvas
+          import tempfile, os
+          tmp = tempfile.NamedTemporaryFile(delete=False, suffix='.pdf')
+          c = canvas.Canvas(tmp.name)
+          c.drawString(100, 750, 'Docling model cache warmup for offline packaging.')
+          c.drawString(100, 700, 'This triggers HuggingFace model downloads.')
+          c.save()
+          pdf_path = tmp.name
+          print(f'warmup_pdf={pdf_path}')
+          from docling.document_converter import DocumentConverter, PdfFormatOption
+          from docling.datamodel.pipeline_options import PdfPipelineOptions
+          opts = PdfPipelineOptions(do_ocr=True, do_table_structure=True)
+          converter = DocumentConverter(
+              format_options={"pdf": PdfFormatOption(pipeline_options=opts)})
+          import time
+          start = time.perf_counter()
+          result = converter.convert(pdf_path)
+          elapsed = time.perf_counter() - start
+          print(f'warmup_done pages={len(result.document.pages)} elapsed={elapsed:.1f}s')
+          os.unlink(pdf_path)
+          '@
+          $scriptPath = Join-Path $env:RUNNER_TEMP "warmup_convert.py"
+          $script | Out-File -Encoding utf8 $scriptPath
+          & $pythonExe $scriptPath
+          if ($LASTEXITCODE -ne 0) {
+            throw "Docling warmup conversion failed with exit code $LASTEXITCODE"
+          }
+          Write-Host "Copying HuggingFace cache for offline bundle..."
+          $hfCache = "$env:USERPROFILE\.cache\huggingface"
+          if (-not (Test-Path $hfCache)) {
+            throw "HuggingFace cache not found at $hfCache"
+          }
+          $bundleDir = Join-Path $PWD "desktop/src/runtime/shared/docling-models/huggingface"
+          if (Test-Path $bundleDir) {
+            Remove-Item $bundleDir -Recurse -Force
+          }
+          New-Item -ItemType Directory -Path $bundleDir -Force | Out-Null
+          robocopy $hfCache $bundleDir /E /NFL /NDL /NJH /NJS /NP
+          if ($LASTEXITCODE -gt 7) {
+            exit $LASTEXITCODE
+          }
+          $bundleSize = [Math]::Round(((Get-ChildItem $bundleDir -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB), 2)
+          Write-Host "Docling models bundled: ${bundleSize} MB"
+          Get-ChildItem $bundleDir -Recurse -Depth 3 | Select-Object FullName, Length
+
       - name: Install desktop dependencies
         working-directory: desktop
         shell: pwsh

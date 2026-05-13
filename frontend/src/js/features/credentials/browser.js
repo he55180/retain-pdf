@@ -365,7 +365,7 @@ export function mountBrowserCredentialsFeature({
     const definition = getOcrProviderDefinition(currentOcrProvider());
     const ocrToken = ($(`${definition.tokenField}`)?.value || "").trim();
     const apiKey = ($("api_key").value || "").trim();
-    if (definition.id === "mineru") {
+    if (definition.id === "mineru" || definition.id === "docling") {
       return Boolean(apiKey);
     }
     return Boolean(ocrToken && apiKey);
@@ -385,7 +385,7 @@ export function mountBrowserCredentialsFeature({
   async function ensureOcrCredentialsReady({ onMissingToken, onInvalidToken } = {}) {
     const provider = currentOcrProvider();
     const definition = getOcrProviderDefinition(provider);
-    if (definition.id === "mineru") {
+    if (definition.id === "mineru" || definition.id === "docling") {
       state.validatedOcrProvider = definition.id;
       state.validatedOcrToken = "";
       state.ocrValidationStatus = "skipped";
