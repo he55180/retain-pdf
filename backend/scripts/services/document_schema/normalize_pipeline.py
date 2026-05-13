@@ -12,6 +12,7 @@ sys.path.append(str(Path(__file__).resolve().parents[2]))
 
 from foundation.shared.job_dirs import add_explicit_job_dir_args
 from foundation.shared.job_dirs import job_dirs_from_explicit_args
+from foundation.shared.job_dirs import resolve_job_dirs
 from foundation.shared.stage_specs import NormalizeStageSpec
 from services.document_schema import DOCUMENT_SCHEMA_REPORT_FILE_NAME
 from services.document_schema import adapt_path_to_document_v1_with_report
@@ -287,7 +288,28 @@ def main() -> None:
     args = parse_args()
     if not args.spec.strip():
         raise RuntimeError("normalize worker now requires --spec <normalize.spec.json>")
-    args = _args_from_spec(NormalizeStageSpec.load(Path(args.spec)))
+
+    spec_path = Path(args.spec)
+
+    # Pre-flight: for docling, run OCR before NormalizeStageSpec validates
+    # the source_json existence.  NormalizeStageSpec.load() raises at
+    # stage_specs.py:110 if the file is missing, so we must intercept here.
+    spec_raw = json.loads(spec_path.read_text(encoding="utf-8"))
+    raw_inputs = spec_raw.get("inputs") or {}
+    raw_job = spec_raw.get("job") or {}
+    raw_provider = (raw_inputs.get("provider") or "").strip().lower()
+    raw_source_json = Path(raw_inputs.get("source_json") or "").resolve()
+    raw_source_pdf = Path(raw_inputs.get("source_pdf") or "").resolve()
+    raw_job_root = Path(raw_job.get("job_root") or "")
+
+    if raw_provider == "docling" and not raw_source_json.exists():
+        if not raw_source_pdf.exists():
+            raise RuntimeError(f"source pdf not found: {raw_source_pdf}")
+        ocr_dir = resolve_job_dirs(raw_job_root).ocr_dir
+        _run_docling_ocr_for_normalize(raw_source_pdf, raw_source_json, ocr_dir)
+
+    # Normal flow — NormalizeStageSpec.load() will now find layout.json
+    args = _args_from_spec(NormalizeStageSpec.load(spec_path))
     provider = args.provider.strip().lower()
     source_json_path = Path(args.source_json).resolve()
     source_pdf_path = Path(args.source_pdf).resolve()
@@ -299,10 +321,6 @@ def main() -> None:
     normalized_report_json_path = normalized_dir / DOCUMENT_SCHEMA_REPORT_FILE_NAME
 
     if provider == "docling":
-        if not source_json_path.exists():
-            if not source_pdf_path.exists():
-                raise RuntimeError(f"source pdf not found: {source_pdf_path}")
-            _run_docling_ocr_for_normalize(source_pdf_path, source_json_path, ocr_dir)
         source_json_path = _materialize_docling_source_for_normalize(
             ocr_dir, source_json_path
         )
