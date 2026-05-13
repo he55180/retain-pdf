@@ -214,6 +214,7 @@ def run_paddle_to_job_dir(args: SimpleNamespace) -> tuple[Path, Path, Path, Path
 
 def _run_docling_to_job_dir(args: SimpleNamespace) -> tuple:
     """Convert source PDF via Docling and produce document.v1.json artifacts."""
+    print("[DOCLING] worker started", flush=True)
     import os
     import time
 
@@ -275,18 +276,24 @@ def _run_docling_to_job_dir(args: SimpleNamespace) -> tuple:
                     if item.prov and item.prov[0].page_no == page_num)
         print(f"docling: progress  page={page_num}/{total_pages}  items={count}", flush=True)
 
-    # Save layout.json to the standard location (ocr_dir/unpacked/layout.json)
+    # Build document.v1.json
+    document = _build_document_v1(source_pdf_path, docling_doc, elapsed)
+
+    # Save document.v1.json
+    normalized_json_path = ocr_dir / "document.v1.json"
+    with open(normalized_json_path, "w", encoding="utf-8") as f:
+        json.dump(document, f, ensure_ascii=False, indent=2)
+
+    # Save layout.json with minimal metadata (provider + pointer to document.v1.json)
     unpacked_dir = ocr_dir / "unpacked"
     unpacked_dir.mkdir(parents=True, exist_ok=True)
     layout_json_path = unpacked_dir / "layout.json"
     with open(layout_json_path, "w", encoding="utf-8") as f:
-        json.dump({"provider": "docling", "elapsed_seconds": round(elapsed, 2)}, f, ensure_ascii=False)
-
-    # Build and save document.v1.json
-    document = _build_document_v1(source_pdf_path, docling_doc, elapsed)
-    normalized_json_path = ocr_dir / "document.v1.json"
-    with open(normalized_json_path, "w", encoding="utf-8") as f:
-        json.dump(document, f, ensure_ascii=False, indent=2)
+        json.dump({
+            "provider": "docling",
+            "document_v1_path": str(normalized_json_path),
+            "elapsed_seconds": round(elapsed, 2),
+        }, f, ensure_ascii=False)
 
     block_count = sum(len(p["blocks"]) for p in document["pages"])
     print(f"docling: done  pages={total_pages}  blocks={block_count}  output={normalized_json_path}", flush=True)

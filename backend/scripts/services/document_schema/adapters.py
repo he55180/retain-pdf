@@ -10,6 +10,7 @@ from services.document_schema.providers import PROVIDER_GENERIC_FLAT_OCR
 from services.document_schema.providers import PROVIDER_MINERU
 from services.document_schema.providers import PROVIDER_MINERU_CONTENT_LIST_V2
 from services.document_schema.providers import PROVIDER_PADDLE
+from services.document_schema.providers import PROVIDER_DOCLING
 from services.document_schema.validator import build_validation_report
 from services.document_schema.validator import validate_document_payload
 
@@ -71,11 +72,33 @@ def _build_paddle_document(payload: dict, document_id: str, source_json_path: Pa
     )
 
 
+def _build_docling_document(payload: dict, document_id: str, source_json_path: Path, provider_version: str) -> dict:
+    if payload.get("schema_version") == "document.v1":
+        return payload
+    doc_v1_str = payload.get("document_v1_path", "")
+    if doc_v1_str:
+        doc_v1_path = Path(doc_v1_str)
+        if doc_v1_path.exists():
+            return json.loads(doc_v1_path.read_text(encoding="utf-8"))
+    raise RuntimeError("Docling payload is not in document.v1 format")
+
+
+def _looks_like_docling(payload: dict) -> bool:
+    if payload.get("schema_version") == "document.v1":
+        derived = payload.get("derived") or {}
+        signals = derived.get("provider_signals") or {}
+        return signals.get("provider") == "docling"
+    if payload.get("provider") == "docling" and "document_v1_path" in payload:
+        return True
+    return payload.get("provider") == "docling"
+
+
 _ADAPTER_BUILDERS: dict[str, AdapterBuilder] = {
     PROVIDER_GENERIC_FLAT_OCR: _build_generic_flat_ocr_document,
     PROVIDER_MINERU: _build_mineru_document,
     PROVIDER_MINERU_CONTENT_LIST_V2: _build_mineru_content_list_v2_document,
     PROVIDER_PADDLE: _build_paddle_document,
+    PROVIDER_DOCLING: _build_docling_document,
 }
 
 _ADAPTER_DETECTORS: list[tuple[str, Detector]] = []
@@ -264,6 +287,12 @@ register_ocr_adapter(
     provider=PROVIDER_PADDLE,
     detector=_looks_like_paddle_layout,
     builder=_build_paddle_document,
+)
+
+register_ocr_adapter(
+    provider=PROVIDER_DOCLING,
+    detector=_looks_like_docling,
+    builder=_build_docling_document,
 )
 
 

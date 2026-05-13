@@ -174,6 +174,115 @@ def _args_from_spec(spec: NormalizeStageSpec) -> SimpleNamespace:
     )
 
 
+def _run_docling_ocr_for_normalize(
+    source_pdf_path: Path,
+    layout_json_path: Path,
+    ocr_dir: Path,
+) -> None:
+    """Run Docling local OCR, save document.v1.json and minimal layout.json metadata."""
+    import os
+    import time
+
+    print("[DOCLING] normalize worker running OCR", flush=True)
+
+    os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+    os.environ["HF_HUB_OFFLINE"] = "0"
+    os.environ["HF_HUB_VERBOSITY"] = "error"
+    os.environ.setdefault("HF_HOME", os.path.expanduser("~/.cache/huggingface"))
+
+    cache_home = os.environ["HF_HOME"]
+    models_cached = (
+        os.path.isdir(os.path.join(cache_home, "hub", "models--docling-project--docling-models"))
+        and os.path.isdir(os.path.join(cache_home, "hub", "models--docling-project--docling-layout-heron"))
+    )
+    if not models_cached:
+        print("docling: first_run  downloading AI models (~500MB, first time only)...", flush=True)
+        print("docling: mirror=https://hf-mirror.com", flush=True)
+        print("docling: this may take several minutes depending on network speed", flush=True)
+
+    from docling_worker import _build_document_v1
+
+    try:
+        from docling.document_converter import DocumentConverter, PdfFormatOption
+        from docling.datamodel.pipeline_options import PdfPipelineOptions
+    except ImportError as exc:
+        raise RuntimeError(
+            "Docling is not installed in the Python runtime. "
+            "Please ensure docling is included in the desktop application package. "
+            f"Original error: {exc}"
+        ) from exc
+
+    pipeline_opts = PdfPipelineOptions(do_ocr=True, do_table_structure=True)
+    try:
+        converter = DocumentConverter(
+            format_options={"pdf": PdfFormatOption(pipeline_options=pipeline_opts)},
+        )
+        start = time.perf_counter()
+        result = converter.convert(str(source_pdf_path))
+        elapsed = time.perf_counter() - start
+    except Exception as exc:
+        msg = str(exc).lower()
+        if "offline" in msg or "connection" in msg or "download" in msg:
+            raise RuntimeError(
+                "Docling AI models could not be downloaded. "
+                "Please check your network connection and ensure hf-mirror.com is accessible. "
+                "The models will be cached locally after the first successful download. "
+                f"Original error: {exc}"
+            ) from exc
+        raise
+
+    docling_doc = result.document
+    total_pages = len(docling_doc.pages)
+    print(f"docling: pages={total_pages} elapsed={elapsed:.1f}s", flush=True)
+
+    for page_num in sorted(docling_doc.pages.keys()):
+        count = sum(1 for item, _ in docling_doc.iterate_items()
+                    if item.prov and item.prov[0].page_no == page_num)
+        print(f"docling: progress  page={page_num}/{total_pages}  items={count}", flush=True)
+
+    document = _build_document_v1(source_pdf_path, docling_doc, elapsed)
+    doc_v1_path = ocr_dir / "document.v1.json"
+    doc_v1_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(doc_v1_path, "w", encoding="utf-8") as f:
+        json.dump(document, f, ensure_ascii=False, indent=2)
+
+    layout_json_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(layout_json_path, "w", encoding="utf-8") as f:
+        json.dump({
+            "provider": "docling",
+            "document_v1_path": str(doc_v1_path),
+            "elapsed_seconds": round(elapsed, 2),
+        }, f, ensure_ascii=False)
+
+    block_count = sum(len(p["blocks"]) for p in document["pages"])
+    print(
+        f"docling: done  pages={total_pages}  blocks={block_count}  output={doc_v1_path}",
+        flush=True,
+    )
+
+
+def _materialize_docling_source_for_normalize(
+    ocr_dir: Path,
+    layout_json_path: Path,
+) -> Path:
+    """Resolve the actual document.v1.json path from docling metadata."""
+    if layout_json_path.exists():
+        try:
+            meta = json.loads(layout_json_path.read_text(encoding="utf-8"))
+            if meta.get("provider") == "docling":
+                doc_v1_str = meta.get("document_v1_path", "")
+                if doc_v1_str:
+                    doc_v1_path = Path(doc_v1_str)
+                    if doc_v1_path.exists():
+                        return doc_v1_path
+        except (json.JSONDecodeError, OSError, ValueError):
+            pass
+    doc_v1_path = ocr_dir / "document.v1.json"
+    if doc_v1_path.exists():
+        return doc_v1_path
+    return layout_json_path
+
+
 def main() -> None:
     args = parse_args()
     if not args.spec.strip():
@@ -182,16 +291,26 @@ def main() -> None:
     provider = args.provider.strip().lower()
     source_json_path = Path(args.source_json).resolve()
     source_pdf_path = Path(args.source_pdf).resolve()
-    if not source_json_path.exists():
-        raise RuntimeError(f"source json not found: {source_json_path}")
-    if not source_pdf_path.exists():
-        raise RuntimeError(f"source pdf not found: {source_pdf_path}")
 
     job_dirs = job_dirs_from_explicit_args(args)
     ocr_dir = job_dirs.ocr_dir
     normalized_dir = ocr_dir / "normalized"
     normalized_json_path = normalized_dir / "document.v1.json"
     normalized_report_json_path = normalized_dir / DOCUMENT_SCHEMA_REPORT_FILE_NAME
+
+    if provider == "docling":
+        if not source_json_path.exists():
+            if not source_pdf_path.exists():
+                raise RuntimeError(f"source pdf not found: {source_pdf_path}")
+            _run_docling_ocr_for_normalize(source_pdf_path, source_json_path, ocr_dir)
+        source_json_path = _materialize_docling_source_for_normalize(
+            ocr_dir, source_json_path
+        )
+
+    if not source_json_path.exists():
+        raise RuntimeError(f"source json not found: {source_json_path}")
+    if not source_pdf_path.exists():
+        raise RuntimeError(f"source pdf not found: {source_pdf_path}")
 
     normalized_document, normalization_report = adapt_path_to_document_v1_with_report(
         source_json_path=source_json_path,

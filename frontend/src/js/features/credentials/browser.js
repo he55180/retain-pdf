@@ -581,26 +581,6 @@ export function mountBrowserCredentialsFeature({
     syncOcrProviderControls(provider);
   });
 
-  // Quick translation-direction toggle on main page
-  const quickToggle = $("quick-target-lang");
-  if (quickToggle) {
-    const taskOptions = getTaskOptions?.() || {};
-    quickToggle.value = taskOptions.targetLang || "en2zh";
-    quickToggle.addEventListener("change", () => {
-      const current = getTaskOptions?.() || {};
-      saveTaskOptions?.({
-        mathMode: current.mathMode || "direct_typst",
-        translateTitles: current.translateTitles !== false,
-        targetLang: quickToggle.value,
-      });
-      // also update the dialog select
-      const dialogSelect = $("browser-job-target-lang");
-      if (dialogSelect) {
-        dialogSelect.value = quickToggle.value;
-      }
-    });
-  }
-
   return {
     activateCredentialTab,
     ensureOcrCredentialsReady,

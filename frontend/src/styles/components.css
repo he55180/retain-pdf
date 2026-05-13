@@ -1363,39 +1363,3 @@ status-task-toolbar.task-toolbar {
   display: flex;
 }
 
-#translate-quick-bar {
-  position: relative;
-  z-index: 5;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.5rem 1rem;
-  margin-top: 0.5rem;
-  background: #f3f4f6;
-  border-radius: 8px;
-  font-size: 0.85rem;
-  pointer-events: auto;
-}
-
-#translate-quick-bar .translate-quick-label {
-  color: #6b7280;
-  white-space: nowrap;
-}
-
-#quick-target-lang {
-  position: relative;
-  z-index: 6;
-  padding: 0.25rem 0.5rem;
-  border: 1px solid #d1d5db;
-  border-radius: 6px;
-  background: #fff;
-  font-size: 0.85rem;
-  cursor: pointer;
-  pointer-events: auto;
-}
-
-#quick-target-lang:focus {
-  outline: none;
-  border-color: #6366f1;
-  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
-}
