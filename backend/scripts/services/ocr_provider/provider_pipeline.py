@@ -214,9 +214,14 @@ def run_paddle_to_job_dir(args: SimpleNamespace) -> tuple[Path, Path, Path, Path
 
 def _run_docling_to_job_dir(args: SimpleNamespace) -> tuple:
     """Convert source PDF via Docling and produce document.v1.json artifacts."""
+    import os
     import time
-    import uuid
-    from types import SimpleNamespace as SN
+
+    # Route HuggingFace downloads through hf-mirror.com for global access
+    os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+    os.environ["HF_HUB_OFFLINE"] = "0"
+    os.environ["HF_HUB_VERBOSITY"] = "error"
+    os.environ.setdefault("HF_HOME", os.path.expanduser("~/.cache/huggingface"))
 
     source_pdf_path = Path(args.file_path).resolve()
     if not source_pdf_path.exists():
