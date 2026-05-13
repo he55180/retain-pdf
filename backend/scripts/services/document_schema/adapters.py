@@ -73,18 +73,25 @@ def _build_paddle_document(payload: dict, document_id: str, source_json_path: Pa
 
 
 def _build_docling_document(payload: dict, document_id: str, source_json_path: Path, provider_version: str) -> dict:
-    if payload.get("schema_version") == "document.v1":
-        return payload
+    if payload.get("schema") == "normalized_document_v1":
+        derived = payload.get("derived") or {}
+        signals = derived.get("provider_signals") or {}
+        if signals.get("provider") == "docling":
+            return payload
     doc_v1_str = payload.get("document_v1_path", "")
     if doc_v1_str:
         doc_v1_path = Path(doc_v1_str)
         if doc_v1_path.exists():
             return json.loads(doc_v1_path.read_text(encoding="utf-8"))
-    raise RuntimeError("Docling payload is not in document.v1 format")
+    raise RuntimeError(
+        f"Docling payload is not in document.v1 format: "
+        f"schema={payload.get('schema')!r} "
+        f"provider={payload.get('provider')!r}"
+    )
 
 
 def _looks_like_docling(payload: dict) -> bool:
-    if payload.get("schema_version") == "document.v1":
+    if payload.get("schema") == "normalized_document_v1":
         derived = payload.get("derived") or {}
         signals = derived.get("provider_signals") or {}
         return signals.get("provider") == "docling"

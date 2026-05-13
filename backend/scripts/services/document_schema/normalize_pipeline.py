@@ -241,7 +241,34 @@ def _run_docling_ocr_for_normalize(
                     if item.prov and item.prov[0].page_no == page_num)
         print(f"docling: progress  page={page_num}/{total_pages}  items={count}", flush=True)
 
+    # --- debug: dump raw Docling items for comparison ---
+    unpacked_dir = layout_json_path.parent
+    unpacked_dir.mkdir(parents=True, exist_ok=True)
+    raw_items = []
+    for item, level in docling_doc.iterate_items():
+        if item.prov:
+            prov = item.prov[0]
+            raw_items.append({
+                "label": item.label.value if hasattr(item.label, "value") else str(item.label),
+                "text": (getattr(item, "text", "") or "")[:200],
+                "page_no": prov.page_no,
+                "bbox": [prov.bbox.l, prov.bbox.t, prov.bbox.r, prov.bbox.b],
+            })
+    with open(unpacked_dir / "docling_raw_output.json", "w", encoding="utf-8") as f:
+        json.dump({
+            "total_pages": len(docling_doc.pages),
+            "total_items": len(raw_items),
+            "items": raw_items,
+        }, f, ensure_ascii=False, indent=2)
+    print(f"docling: debug  raw_output={unpacked_dir / 'docling_raw_output.json'}", flush=True)
+
     document = _build_document_v1(source_pdf_path, docling_doc, elapsed)
+
+    # --- debug: dump built document.v1 for schema comparison ---
+    with open(unpacked_dir / "docling_built_v1.json", "w", encoding="utf-8") as f:
+        json.dump(document, f, ensure_ascii=False, indent=2)
+    print(f"docling: debug  built_v1={unpacked_dir / 'docling_built_v1.json'}", flush=True)
+
     doc_v1_path = ocr_dir / "document.v1.json"
     doc_v1_path.parent.mkdir(parents=True, exist_ok=True)
     with open(doc_v1_path, "w", encoding="utf-8") as f:
