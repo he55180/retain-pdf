@@ -467,6 +467,33 @@ def _is_primary_translatable_text_block(block: dict, data: dict) -> bool:
     return layout_role in {"paragraph", "unknown", ""}
 
 
+def _is_skip_region(
+    block: dict,
+    page_width: float = 0,
+    page_height: float = 0,
+) -> bool:
+    """Skip translation for letterhead/sidebar/footer regions."""
+    if page_width <= 0 or page_height <= 0:
+        return False
+    bbox = list(block.get("bbox", []) or [])
+    if len(bbox) != 4:
+        geometry = block.get("geometry", {}) or {}
+        bbox = list(geometry.get("bbox", []) or [])
+        if len(bbox) != 4:
+            return False
+    x, y = bbox[0], bbox[1]
+    # Top 15%: letterhead / header
+    if y < page_height * 0.15:
+        return True
+    # Left 15% in top half: sidebar / director lists
+    if x < page_width * 0.15 and y < page_height * 0.50:
+        return True
+    # Bottom 12%: signature / footer
+    if y > page_height * 0.88:
+        return True
+    return False
+
+
 def should_translate_block(
     block: dict,
     data: dict,
@@ -475,6 +502,8 @@ def should_translate_block(
     inside_algorithm: bool = False,
     page_blocks: list[dict] | None = None,
     current_block_idx: int = -1,
+    page_width: float = 0,
+    page_height: float = 0,
 ) -> bool:
     explicit_policy = _block_policy_translate(block)
     del text, page_blocks, current_block_idx
@@ -483,10 +512,14 @@ def should_translate_block(
             return False
         if inside_algorithm or is_algorithm_semantic(block):
             return False
+        if _is_skip_region(block, page_width, page_height):
+            return False
         return True
     if inside_algorithm or is_algorithm_semantic(block):
         return False
     if "skip_translation" in normalize_tags(block.get("tags", [])):
+        return False
+    if _is_skip_region(block, page_width, page_height):
         return False
     if _block_kind(block) != "text":
         return False
@@ -501,6 +534,8 @@ def extract_block_item(
     item_suffix: str = "",
     inside_algorithm: bool = False,
     page_blocks: list[dict] | None = None,
+    page_width: float = 0,
+    page_height: float = 0,
 ) -> TextItem | None:
     segments = block_segments(block)
     lines = block_lines(block)
@@ -514,6 +549,8 @@ def extract_block_item(
         inside_algorithm=inside_algorithm,
         page_blocks=page_blocks,
         current_block_idx=block_idx,
+        page_width=page_width,
+        page_height=page_height,
     ) and not _is_keep_origin_render_block(block):
         return None
     block_type = _block_kind(block)
@@ -570,6 +607,8 @@ def extract_text_items(data: dict, page_idx: int) -> list[TextItem]:
         raise IndexError(f"page_idx {page_idx} out of range; total pages={len(pages)}")
 
     page = pages[page_idx]
+    pw = float(page.get("width", 0) or 0)
+    ph = float(page.get("height", 0) or 0)
     page_blocks = list(_iter_page_blocks(data, page))
     items: list[TextItem] = []
     def visit_block(block: dict, block_idx: int, item_suffix: str = "", inside_algorithm: bool = False) -> None:
@@ -582,6 +621,8 @@ def extract_text_items(data: dict, page_idx: int) -> list[TextItem]:
             item_suffix=item_suffix,
             inside_algorithm=current_inside_algorithm,
             page_blocks=page_blocks,
+            page_width=pw,
+            page_height=ph,
         )
         if item is not None:
             items.append(item)

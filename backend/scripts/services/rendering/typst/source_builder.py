@@ -127,15 +127,19 @@ def _build_typst_block(block_id: str, block: RenderBlock) -> str:
     )
 
 
-def _build_cover_rect(block_id: str, block: RenderBlock) -> str:
+def _build_cover_rect(block_id: str, block: RenderBlock,
+                     page_height: float = 0) -> str:
     rect_name = f"{block_id.replace('-', '_')}_cover"
     x0, y0, x1, y1 = block.cover_bbox
     width = max(8.0, x1 - x0)
     height = max(8.0, y1 - y0)
     cover_fill = _typst_rgb(block.cover_fill)
+    # Boost outset for bottom-page signature/footer areas
+    bottom_frac = y1 / page_height if page_height > 0 else 0
+    outset = 3.0 if bottom_frac > 0.85 else 1.5
     return (
         f"#let {rect_name} = rect(width: {width}pt, height: {height}pt, "
-        f"fill: {cover_fill}, outset: 1.5pt)\n"
+        f"fill: {cover_fill}, outset: {outset}pt)\n"
         "#context {\n"
         f"  place(top + left, dx: {x0}pt, dy: {y0}pt, {rect_name})\n"
         "}"
@@ -175,7 +179,7 @@ def build_typst_book_overlay_source(
         for index, block in enumerate(render_blocks):
             block_id = f"p{page_index}_{block.block_id}_{index}"
             if include_cover_rect:
-                lines.append(_build_cover_rect(block_id, block))
+                lines.append(_build_cover_rect(block_id, block, page_height=page_height))
             lines.append(_build_typst_block(block_id, block))
         if page_index + 1 < len(page_specs):
             lines.append("#pagebreak()")
@@ -206,7 +210,7 @@ def build_typst_book_background_source(
         )
         for index, block in enumerate(render_blocks):
             block_id = f"bgp{page_index}_{block.block_id}_{index}"
-            lines.append(_build_cover_rect(block_id, block))
+            lines.append(_build_cover_rect(block_id, block, page_height=page_height))
             lines.append(_build_typst_block(block_id, block))
         if page_index + 1 < len(page_specs):
             lines.append("#pagebreak()")
