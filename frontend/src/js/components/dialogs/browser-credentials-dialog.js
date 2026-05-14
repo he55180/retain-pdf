@@ -122,6 +122,15 @@ class BrowserCredentialsDialog extends HTMLElement {
                     <option value="direct_typst">直出公式 / Direct Typst</option>
                   </select>
                 </label>
+                <label>
+                  <span class="developer-label">
+                    <span>OCR 精度 / OCR Quality</span>
+                  </span>
+                  <select id="browser-job-umi-res" aria-label="OCR 精度">
+                    <option value="standard">标准 / Standard (1500px)</option>
+                    <option value="high">高精度 / High (4320px)</option>
+                  </select>
+                </label>
               </section>
             </div>
             <div class="actions credential-dialog-actions">

@@ -45,6 +45,7 @@ export function mountWorkflowFeature({
       workflow: normalizeWorkflow(saved.workflow),
       renderSourceJobId: `${saved.renderSourceJobId || ""}`.trim(),
       mathMode: normalizeMathMode(saved.mathMode),
+      umiHighRes: saved.umiHighRes === true,
       model: saved.model || defaultModelName(),
       baseUrl: saved.baseUrl || defaultModelBaseUrl(),
       workers: Number(saved.workers || DEFAULT_WORKERS),
@@ -267,12 +268,14 @@ export function mountWorkflowFeature({
     const token = definition.id === "paddle"
       ? ($("paddle_token")?.value || defaultPaddleToken())
       : ($("mineru_token")?.value || defaultMineruToken());
+    const developerConfig = developerConfigWithDefaults();
     return {
       provider,
       [definition.tokenField]: token,
       model_version: DEFAULT_MODEL_VERSION,
       language: DEFAULT_LANGUAGE,
       page_ranges: pageRanges,
+      extra_formats: developerConfig.umiHighRes ? "umi_high_res" : "",
     };
   }
 

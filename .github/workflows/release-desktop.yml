@@ -148,6 +148,24 @@ jobs:
           $bundleSize = [Math]::Round(((Get-ChildItem $bundleRoot -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB), 2)
           Write-Host "Bundled Python size: ${bundleSize} MB"
 
+      - name: Download Umi-OCR offline OCR engine
+        shell: pwsh
+        run: |
+          $umiVersion = "v2.1.5"
+          $umiUrl = "https://github.com/hiroi-sora/Umi-OCR/releases/download/$umiVersion/Umi-OCR_Paddle_v2.1.5.7z.exe"
+          $umiDownload = Join-Path $env:RUNNER_TEMP "umi-ocr.7z.exe"
+          $umiDest = Join-Path $PWD "desktop/app/umi-ocr"
+          Write-Host "Downloading Umi-OCR $umiVersion from $umiUrl"
+          Invoke-WebRequest -Uri $umiUrl -OutFile $umiDownload
+          if (Test-Path $umiDest) {
+            Remove-Item $umiDest -Recurse -Force
+          }
+          New-Item -ItemType Directory -Path $umiDest -Force | Out-Null
+          # 7z self-extracting archive
+          & $umiDownload -o"$umiDest" -y
+          Write-Host "Umi-OCR extracted to $umiDest"
+          Get-ChildItem $umiDest -Recurse -Depth 1 | Select-Object FullName, Length
+
       - name: Install desktop dependencies
         working-directory: desktop
         shell: pwsh

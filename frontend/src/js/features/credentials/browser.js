@@ -309,6 +309,10 @@ export function mountBrowserCredentialsFeature({
     if (targetLangSelect) {
       targetLangSelect.value = taskOptions.targetLang || "en2zh";
     }
+    const umiResSelect = $("browser-job-umi-res");
+    if (umiResSelect) {
+      umiResSelect.value = taskOptions.umiHighRes ? "high" : "standard";
+    }
     setOcrValidationMessage("", "", "mineru");
     setOcrValidationMessage("", "", "paddle");
     setDeepSeekValidationMessage("", "");
@@ -333,6 +337,7 @@ export function mountBrowserCredentialsFeature({
       mathMode: mathModeSelect?.value || "direct_typst",
       translateTitles: true,
       targetLang: $("browser-job-target-lang")?.value || "en2zh",
+      umiHighRes: $("browser-job-umi-res")?.value === "high",
     });
     saveBrowserStoredConfig();
   }

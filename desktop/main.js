@@ -406,6 +406,55 @@ function resolveBackendRoot() {
   return path.join(__dirname, "app", "backend");
 }
 
+function resolveUmiOcrExe() {
+  const candidates = [];
+  if (app.isPackaged) {
+    candidates.push(path.join(process.resourcesPath, "umi-ocr", "Umi-OCR.exe"));
+  }
+  candidates.push(path.join(__dirname, "umi-ocr", "Umi-OCR.exe"));
+  candidates.push(path.join(__dirname, "app", "umi-ocr", "Umi-OCR.exe"));
+  for (const candidate of candidates) {
+    if (fs.existsSync(candidate)) {
+      return candidate;
+    }
+  }
+  return null;
+}
+
+let umiOcrProcess = null;
+
+function startUmiOCR() {
+  const umiExe = resolveUmiOcrExe();
+  if (!umiExe) {
+    logDesktop("[desktop] Umi-OCR not found, skipping local OCR engine");
+    return;
+  }
+  logDesktop(`[desktop] starting Umi-OCR: ${umiExe}`);
+  try {
+    umiOcrProcess = childProcess.spawn(umiExe, [], {
+      stdio: "ignore",
+      detached: false,
+    });
+    umiOcrProcess.on("error", (err) => {
+      logDesktop(`[desktop] Umi-OCR process error: ${err.message}`);
+    });
+    umiOcrProcess.on("exit", (code) => {
+      logDesktop(`[desktop] Umi-OCR exited with code ${code}`);
+    });
+  } catch (err) {
+    logDesktop(`[desktop] failed to start Umi-OCR: ${err.message}`);
+  }
+}
+
+function stopUmiOCR() {
+  if (umiOcrProcess) {
+    try {
+      umiOcrProcess.kill();
+    } catch (_) { /* ignore */ }
+    umiOcrProcess = null;
+  }
+}
+
 function resolveBackendBinary(backendRoot) {
   const candidates = process.platform === "win32"
     ? [path.join(backendRoot, "bin", "rust_api.exe")]
@@ -831,6 +880,9 @@ async function startBundledBackend() {
     env.TYPST_BIN = typstBin;
   }
 
+  updateSplashProgress(44, "正在启动本地 OCR 引擎", "Umi-OCR 离线识别引擎初始化中");
+  startUmiOCR();
+
   updateSplashProgress(52, "正在启动本地服务", "Rust API 与 Python worker 正在启动");
   logDesktop(`[desktop] spawning backend: ${backendBin}`);
   backendChild = spawn(backendBin, [], {
@@ -991,6 +1043,7 @@ app.on("window-all-closed", () => {
 
 app.on("before-quit", () => {
   isQuitting = true;
+  stopUmiOCR();
   if (!usingExternalBackend && backendChild && !backendChild.killed) {
     backendStopping = true;
     backendChild.kill();

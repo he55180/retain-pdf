@@ -3,13 +3,13 @@ export const DEFAULT_OCR_PROVIDER = "docling";
 export const OCR_PROVIDER_DEFINITIONS = [
   {
     id: "docling",
-    label: "Docling 离线",
-    description: "断网可用，英语/斯语快速预览。",
+    label: "本地高速识别 / Local Fast OCR",
+    description: "完全离线，CPU 友好，中英文最佳。",
     tokenField: "mineru_token",
     runtimeConfigKey: "mineruToken",
     tokenLabel: "离线智能解析",
     tokenPlaceholder: "无需 Token",
-    validationButtonLabel: "检测 Docling",
+    validationButtonLabel: "检测本地引擎",
     validationIdleMessage: "本地引擎就绪",
     validationMissingMessage: "",
     validationUnavailableMessage: "本地引擎无需验证",
