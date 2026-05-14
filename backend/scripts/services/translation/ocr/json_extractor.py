@@ -22,6 +22,7 @@ from services.translation.ocr.normalized_reader import (
     block_reading_order as _block_reading_order,
     block_semantic_role as _block_semantic_role,
     block_sub_type as _block_sub_type,
+    block_text as _block_text,
     raw_block_type as _raw_block_type,
     ensure_normalized_document,
     get_pages as _get_pages,
@@ -200,6 +201,10 @@ def block_segments(block: dict) -> list[dict]:
                     "content": normalize_span_text(content, next_content),
                 }
             )
+    if not segments:
+        text = _block_text(block)
+        if text and text.strip():
+            segments.append({"type": "text", "content": normalize_text(text)})
     return segments
 
 
@@ -232,6 +237,13 @@ def block_lines(block: dict) -> list[dict]:
                     "spans": spans_out,
                 }
             )
+    if not lines_out:
+        text = _block_text(block)
+        if text and text.strip():
+            lines_out.append({
+                "bbox": _block_bbox(block),
+                "spans": [{"type": "text", "content": normalize_text(text), "bbox": _block_bbox(block)}],
+            })
     return lines_out
 
 
