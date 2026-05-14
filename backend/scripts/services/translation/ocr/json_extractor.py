@@ -471,8 +471,8 @@ def _is_skip_region(
     block: dict,
     page_width: float = 0,
     page_height: float = 0,
+    page_index: int = 0,
 ) -> bool:
-    """Skip translation for letterhead/sidebar/footer regions."""
     if page_width <= 0 or page_height <= 0:
         return False
     bbox = list(block.get("bbox", []) or [])
@@ -482,13 +482,11 @@ def _is_skip_region(
         if len(bbox) != 4:
             return False
     x, y = bbox[0], bbox[1]
-    # Top 15%: letterhead / header
-    if y < page_height * 0.15:
-        return True
-    # Left 15% in top half: sidebar / director lists
-    if x < page_width * 0.15 and y < page_height * 0.50:
-        return True
-    # Bottom 12%: signature / footer
+    if page_index == 0:
+        if y < page_height * 0.15:
+            return True
+        if x < page_width * 0.15 and y < page_height * 0.50:
+            return True
     if y > page_height * 0.88:
         return True
     return False
@@ -504,6 +502,7 @@ def should_translate_block(
     current_block_idx: int = -1,
     page_width: float = 0,
     page_height: float = 0,
+    page_index: int = 0,
 ) -> bool:
     explicit_policy = _block_policy_translate(block)
     del text, page_blocks, current_block_idx
@@ -512,14 +511,14 @@ def should_translate_block(
             return False
         if inside_algorithm or is_algorithm_semantic(block):
             return False
-        if _is_skip_region(block, page_width, page_height):
+        if _is_skip_region(block, page_width, page_height, page_index):
             return False
         return True
     if inside_algorithm or is_algorithm_semantic(block):
         return False
     if "skip_translation" in normalize_tags(block.get("tags", [])):
         return False
-    if _is_skip_region(block, page_width, page_height):
+    if _is_skip_region(block, page_width, page_height, page_index):
         return False
     if _block_kind(block) != "text":
         return False
@@ -551,6 +550,7 @@ def extract_block_item(
         current_block_idx=block_idx,
         page_width=page_width,
         page_height=page_height,
+        page_index=page_idx,
     ) and not _is_keep_origin_render_block(block):
         return None
     block_type = _block_kind(block)

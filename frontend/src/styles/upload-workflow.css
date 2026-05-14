@@ -38,11 +38,11 @@
   .upload-tile {
     position: relative;
     display: grid;
-    gap: 10px;
-    min-height: min(360px, 42vh);
+    gap: 8px;
+    min-height: auto;
     min-width: 0;
-    max-height: 85vh;
-    padding: 28px 24px;
+    max-height: calc(100vh - 180px);
+    padding: 24px 20px;
     border: 1px solid #e6e6eb;
     border-radius: 26px;
     cursor: pointer;
@@ -51,7 +51,7 @@
       radial-gradient(circle at 50% 0%, rgba(245, 245, 247, 0.96) 0%, rgba(255, 255, 255, 1) 55%),
       #ffffff;
     justify-items: center;
-    align-content: center;
+    align-content: start;
     text-align: center;
     overflow-y: auto;
     isolation: isolate;
