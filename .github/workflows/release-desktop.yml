@@ -142,7 +142,7 @@ jobs:
           python -m pip install --only-binary :all: --target $sitePackages -r desktop/requirements-desktop-windows.txt
           $pythonBundleExe = Join-Path $bundleRoot "python.exe"
           $env:PYTHONPATH = $sitePackages
-          & $pythonBundleExe -c "import requests, fitz, pikepdf, PIL, urllib3, paddleocr; print('python_bundle_import_check=ok')"
+          & $pythonBundleExe -c "import sys; mods=['requests','fitz','pikepdf','PIL','urllib3','paddleocr']; [__import__(m) or print(f'OK {m}', flush=True) for m in mods]; print('python_bundle_import_check=ok')"
           Remove-Item Env:PYTHONPATH -ErrorAction SilentlyContinue
           Get-ChildItem $bundleRoot | Select-Object Name, Length, LastWriteTime
           $bundleSize = [Math]::Round(((Get-ChildItem $bundleRoot -Recurse -File | Measure-Object -Property Length -Sum).Sum / 1MB), 2)
