@@ -3,8 +3,8 @@ export const DEFAULT_OCR_PROVIDER = "docling";
 export const OCR_PROVIDER_DEFINITIONS = [
   {
     id: "docling",
-    label: "本地高速识别 / Local Fast OCR",
-    description: "完全离线，CPU 友好，中英文最佳。",
+    label: "AI 版面分析 / AI Layout",
+    description: "PPStructure + Umi-OCR，自动过滤页眉页脚。",
     tokenField: "mineru_token",
     runtimeConfigKey: "mineruToken",
     tokenLabel: "离线智能解析",

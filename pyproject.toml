@@ -2,14 +2,15 @@
 name = "retain-pdf-backend"
 version = "4.1.0-beta8"
 description = "Retain PDF backend pipeline dependencies and tooling"
-requires-python = ">=3.11,<3.12"
+requires-python = ">=3.11,<3.13"
 dependencies = [
   "Pillow==10.4.0",
   "PyMuPDF==1.26.5",
   "pikepdf==7.2.0",
   "requests==2.32.5",
   "urllib3==2.5.0",
-  "docling",
+  "paddlepaddle==3.0.0",
+  "paddleocr==2.9.1",
 ]
 
 [project.optional-dependencies]

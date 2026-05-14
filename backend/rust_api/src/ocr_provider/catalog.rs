@@ -33,7 +33,7 @@ pub fn provider_definition(kind: &OcrProviderKind) -> Option<OcrProviderDefiniti
         OcrProviderKind::Docling => Some(OcrProviderDefinition {
             kind: OcrProviderKind::Docling,
             key: "docling",
-            display_name: "Local Fast OCR",
+            display_name: "AI Layout (PPStructure)",
             token_field_name: "mineru_token",
             token_env_name: "",
             capabilities: OcrProviderCapabilities {
