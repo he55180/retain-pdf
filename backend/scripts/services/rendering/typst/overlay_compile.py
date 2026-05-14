@@ -19,7 +19,7 @@ def compile_page_overlay_pdf(
     model: str = "",
     base_url: str = "",
     font_family: str = fonts.TYPST_DEFAULT_FONT_FAMILY,
-    include_cover_rect: bool = False,
+    include_cover_rect: bool = True,
     font_paths: list[Path] | None = None,
     temp_root: Path | None = None,
     work_subdir: str = "page-overlays",
@@ -49,7 +49,7 @@ def compile_book_overlay_pdf(
     stem: str,
     *,
     font_family: str = fonts.TYPST_DEFAULT_FONT_FAMILY,
-    include_cover_rect: bool = False,
+    include_cover_rect: bool = True,
     font_paths: list[Path] | None = None,
     temp_root: Path | None = None,
 ) -> Path:

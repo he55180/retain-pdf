@@ -51,7 +51,7 @@ def overlay_translated_items_on_page(
         model=model,
         base_url=base_url,
         font_family=font_family,
-        include_cover_rect=False,
+        include_cover_rect=True,
         font_paths=font_paths,
         temp_root=temp_root,
         work_subdir="single-page",
