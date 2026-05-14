@@ -138,8 +138,8 @@ jobs:
             Remove-Item $sitePackages -Recurse -Force
           }
           New-Item -ItemType Directory -Path $sitePackages -Force | Out-Null
-          python -m pip install --upgrade pip
-          python -m pip install --target $sitePackages -r desktop/requirements-desktop-windows.txt
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install --only-binary :all: --target $sitePackages -r desktop/requirements-desktop-windows.txt
           $pythonBundleExe = Join-Path $bundleRoot "python.exe"
           $env:PYTHONPATH = $sitePackages
           & $pythonBundleExe -c "import requests, fitz, pikepdf, PIL, urllib3, paddleocr; print('python_bundle_import_check=ok')"
