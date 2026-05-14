@@ -39,8 +39,9 @@
     position: relative;
     display: grid;
     gap: 10px;
-    min-height: 360px;
+    min-height: min(360px, 42vh);
     min-width: 0;
+    max-height: 85vh;
     padding: 28px 24px;
     border: 1px solid #e6e6eb;
     border-radius: 26px;
@@ -52,7 +53,7 @@
     justify-items: center;
     align-content: center;
     text-align: center;
-    overflow: hidden;
+    overflow-y: auto;
     isolation: isolate;
     width: 100%;
   }

@@ -690,11 +690,11 @@
     border-color: #ececf1;
     color: #1d1d1f;
     box-shadow: 0 12px 34px rgba(15, 23, 42, 0.05);
-    overflow: hidden;
+    overflow: auto;
     padding-top: 20px;
     padding-bottom: 20px;
-    min-height: 448px;
-    height: 448px;
+    min-height: 320px;
+    max-height: 50vh;
   }
 
   .status-card h2,
