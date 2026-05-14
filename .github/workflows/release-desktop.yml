@@ -310,7 +310,7 @@ jobs:
           mkdir -p "$site_packages"
           "$bundle_root/bin/python3" -m pip install --target "$site_packages" -r desktop/requirements-desktop-posix.txt
           "$bundle_root/bin/python3" - <<'PY'
-          import requests, fitz, pikepdf, PIL, urllib3, paddleocr
+          import requests, fitz, pikepdf, PIL, urllib3
           print("python_bundle_import_check=ok")
           PY
           ldd "$bundle_root/bin/python3"
@@ -361,7 +361,6 @@ jobs:
             desktop/linux/RetainPDF-Linux-${{ steps.version.outputs.version }}.deb
 
   build-macos-release:
-    if: false  # disabled: PaddlePaddle needs OpenBLAS; revisit when macOS bundling is ready
     runs-on: macos-latest
 
     steps:
@@ -729,7 +728,7 @@ jobs:
               print("python_sys_path=" + "|".join(sys.path))
               raise SystemExit("missing _socket extension on sys.path")
           print(f"python_socket_ext={socket_spec.origin}")
-          for module_name in ["_socket", "socket", "ssl", "requests", "fitz", "pikepdf", "PIL", "urllib3", "paddleocr"]:
+          for module_name in ["_socket", "socket", "ssl", "requests", "fitz", "pikepdf", "PIL", "urllib3"]:
               importlib.import_module(module_name)
           print("python_bundle_import_check=ok")
           PY
@@ -881,7 +880,7 @@ jobs:
           if socket_spec is None:
               raise SystemExit("missing _socket extension on sys.path")
           print(f"packaged_python_socket_ext={socket_spec.origin}")
-          for module_name in ["_socket", "socket", "ssl", "requests", "fitz", "pikepdf", "PIL", "urllib3", "paddleocr"]:
+          for module_name in ["_socket", "socket", "ssl", "requests", "fitz", "pikepdf", "PIL", "urllib3"]:
               importlib.import_module(module_name)
           print("packaged_python_import_check=ok")
           PY
