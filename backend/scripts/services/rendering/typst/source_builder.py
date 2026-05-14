@@ -134,7 +134,8 @@ def _build_cover_rect(block_id: str, block: RenderBlock) -> str:
     height = max(8.0, y1 - y0)
     cover_fill = _typst_rgb(block.cover_fill)
     return (
-        f"#let {rect_name} = rect(width: {width}pt, height: {height}pt, fill: {cover_fill})\n"
+        f"#let {rect_name} = rect(width: {width}pt, height: {height}pt, "
+        f"fill: {cover_fill}, outset: 1.5pt)\n"
         "#context {\n"
         f"  place(top + left, dx: {x0}pt, dy: {y0}pt, {rect_name})\n"
         "}"
