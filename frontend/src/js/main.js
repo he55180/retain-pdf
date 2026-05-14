@@ -360,13 +360,15 @@ async function initializePage() {
     defaultModelApiKey,
     defaultModelBaseUrl,
     getTaskOptions: () => workflowFeature?.developerConfigWithDefaults() || {},
-    saveTaskOptions: ({ mathMode, translateTitles, targetLang, umiHighRes }) => {
+    saveTaskOptions: ({ mathMode, translateTitles, targetLang, umiHighRes, umiHeaderPct, umiFooterPct }) => {
       state.developerConfig = {
         ...(state.developerConfig || {}),
         mathMode: normalizeMathMode(mathMode),
         translateTitles: translateTitles !== false,
         targetLang: targetLang || state.developerConfig?.targetLang || "en2zh",
         umiHighRes: umiHighRes === true,
+        umiHeaderPct: Number.isFinite(umiHeaderPct) ? umiHeaderPct : (state.developerConfig?.umiHeaderPct ?? 10),
+        umiFooterPct: Number.isFinite(umiFooterPct) ? umiFooterPct : (state.developerConfig?.umiFooterPct ?? 10),
       };
       void savePersistedDeveloperStoredConfig(state.developerConfig);
     },

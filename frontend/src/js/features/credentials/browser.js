@@ -313,6 +313,14 @@ export function mountBrowserCredentialsFeature({
     if (umiResSelect) {
       umiResSelect.value = taskOptions.umiHighRes ? "high" : "standard";
     }
+    const umiHeaderPct = $("browser-job-umi-header-pct");
+    if (umiHeaderPct) {
+      umiHeaderPct.value = taskOptions.umiHeaderPct ?? 10;
+    }
+    const umiFooterPct = $("browser-job-umi-footer-pct");
+    if (umiFooterPct) {
+      umiFooterPct.value = taskOptions.umiFooterPct ?? 10;
+    }
     setOcrValidationMessage("", "", "mineru");
     setOcrValidationMessage("", "", "paddle");
     setDeepSeekValidationMessage("", "");
@@ -338,6 +346,8 @@ export function mountBrowserCredentialsFeature({
       translateTitles: true,
       targetLang: $("browser-job-target-lang")?.value || "en2zh",
       umiHighRes: $("browser-job-umi-res")?.value === "high",
+      umiHeaderPct: Number($("browser-job-umi-header-pct")?.value) || 15,
+      umiFooterPct: Number($("browser-job-umi-footer-pct")?.value) || 12,
     });
     saveBrowserStoredConfig();
   }

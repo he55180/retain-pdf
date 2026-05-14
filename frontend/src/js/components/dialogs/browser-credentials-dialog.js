@@ -131,6 +131,18 @@ class BrowserCredentialsDialog extends HTMLElement {
                     <option value="high">高精度 / High (4320px)</option>
                   </select>
                 </label>
+                <label>
+                  <span class="developer-label">
+                    <span>页眉忽略 / Header Ignore %</span>
+                  </span>
+                  <input type="number" id="browser-job-umi-header-pct" min="0" max="40" step="1" value="10" aria-label="页眉忽略比例" />
+                </label>
+                <label>
+                  <span class="developer-label">
+                    <span>页脚忽略 / Footer Ignore %</span>
+                  </span>
+                  <input type="number" id="browser-job-umi-footer-pct" min="0" max="40" step="1" value="10" aria-label="页脚忽略比例" />
+                </label>
               </section>
             </div>
             <div class="actions credential-dialog-actions">

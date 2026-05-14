@@ -46,6 +46,8 @@ export function mountWorkflowFeature({
       renderSourceJobId: `${saved.renderSourceJobId || ""}`.trim(),
       mathMode: normalizeMathMode(saved.mathMode),
       umiHighRes: saved.umiHighRes === true,
+      umiHeaderPct: Number.isFinite(saved.umiHeaderPct) ? saved.umiHeaderPct : 10,
+      umiFooterPct: Number.isFinite(saved.umiFooterPct) ? saved.umiFooterPct : 10,
       model: saved.model || defaultModelName(),
       baseUrl: saved.baseUrl || defaultModelBaseUrl(),
       workers: Number(saved.workers || DEFAULT_WORKERS),
@@ -269,13 +271,19 @@ export function mountWorkflowFeature({
       ? ($("paddle_token")?.value || defaultPaddleToken())
       : ($("mineru_token")?.value || defaultMineruToken());
     const developerConfig = developerConfigWithDefaults();
+    const extraParts = [];
+    if (developerConfig.umiHighRes) {
+      extraParts.push("umi_high_res");
+    }
+    extraParts.push(`umi_hdr=${developerConfig.umiHeaderPct ?? 10}`);
+    extraParts.push(`umi_ftr=${developerConfig.umiFooterPct ?? 10}`);
     return {
       provider,
       [definition.tokenField]: token,
       model_version: DEFAULT_MODEL_VERSION,
       language: DEFAULT_LANGUAGE,
       page_ranges: pageRanges,
-      extra_formats: developerConfig.umiHighRes ? "umi_high_res" : "",
+      extra_formats: extraParts.join(";"),
     };
   }
 

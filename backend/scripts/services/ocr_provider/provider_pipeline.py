@@ -227,12 +227,29 @@ def _run_umi_ocr_to_job_dir(args: SimpleNamespace) -> tuple:
     from umi_ocr_worker import process_pdf
 
     extra = (getattr(args, "extra_formats", "") or "").strip().lower()
-    limit_side_len = 4320 if "high" in extra else 1500
+    limit_side_len = 4320 if "umi_high_res" in extra else 1500
+
+    # Parse header/footer ignore percentages from extra_formats
+    ignore_header_pct = 0.10
+    ignore_footer_pct = 0.10
+    for part in extra.replace(";", " ").split():
+        if part.startswith("umi_hdr="):
+            try:
+                ignore_header_pct = float(part.split("=", 1)[1]) / 100.0
+            except ValueError:
+                pass
+        elif part.startswith("umi_ftr="):
+            try:
+                ignore_footer_pct = float(part.split("=", 1)[1]) / 100.0
+            except ValueError:
+                pass
 
     process_pdf(
         pdf_path=source_pdf_path,
         output_dir=ocr_dir,
         limit_side_len=limit_side_len,
+        ignore_header_pct=ignore_header_pct,
+        ignore_footer_pct=ignore_footer_pct,
     )
 
     # Read back the generated paths
