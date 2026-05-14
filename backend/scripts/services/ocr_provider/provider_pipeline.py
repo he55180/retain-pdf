@@ -212,39 +212,6 @@ def run_paddle_to_job_dir(args: SimpleNamespace) -> tuple[Path, Path, Path, Path
     )
 
 
-def _run_umi_ocr_to_job_dir(args: SimpleNamespace) -> tuple:
-    """Convert source PDF via PPStructure + Umi-OCR dual-pipeline and produce document.v1.json."""
-    print("[PPStructure] dual-pipeline worker started", flush=True)
-
-    source_pdf_path = Path(args.file_path).resolve()
-    if not source_pdf_path.exists():
-        raise RuntimeError(f"source PDF not found: {source_pdf_path}")
-
-    job_dirs = job_dirs_from_explicit_args(args)
-    ocr_dir = job_dirs.ocr_dir
-    ocr_dir.mkdir(parents=True, exist_ok=True)
-
-    from ppstructure_worker import process_pdf
-
-    extra = (getattr(args, "extra_formats", "") or "").strip().lower()
-    limit_side_len = 4320 if "umi_high_res" in extra else 1500
-
-    process_pdf(
-        pdf_path=source_pdf_path,
-        output_dir=ocr_dir,
-        limit_side_len=limit_side_len,
-    )
-
-    normalized_json_path = ocr_dir / "document.v1.json"
-    unpacked_dir = ocr_dir / "unpacked"
-    layout_json_path = unpacked_dir / "layout.json"
-
-    if not layout_json_path.exists():
-        raise RuntimeError(f"PPStructure did not produce layout.json at {layout_json_path}")
-
-    return job_dirs, source_pdf_path, layout_json_path, normalized_json_path
-
-
 def main() -> None:
     parsed = parse_args()
     spec = ProviderStageSpec.load(Path(parsed.spec))
@@ -291,13 +258,6 @@ def main() -> None:
             )
             _, source_pdf_path, layout_json_path, normalized_json_path = run_paddle_to_job_dir(args)
             job_dirs = job_dirs_from_explicit_args(args)
-        elif provider == "docling":
-            emit_stage_transition(
-                stage="ocr_processing",
-                message="开始执行 PPStructure 版面分析 + OCR 流程",
-                provider=provider,
-            )
-            job_dirs, source_pdf_path, layout_json_path, normalized_json_path = _run_umi_ocr_to_job_dir(args)
         else:
             raise RuntimeError(f"unsupported provider-backed workflow provider: {provider}")
 

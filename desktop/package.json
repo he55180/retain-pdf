@@ -44,10 +44,6 @@
       {
         "from": "app/backend",
         "to": "backend"
-      },
-      {
-        "from": "app/umi-ocr",
-        "to": "umi-ocr"
       }
     ],
     "asar": true,

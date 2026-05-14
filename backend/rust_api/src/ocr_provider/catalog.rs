@@ -30,22 +30,7 @@ pub fn provider_definition(kind: &OcrProviderKind) -> Option<OcrProviderDefiniti
             token_env_name: "RETAIN_PADDLE_API_TOKEN",
             capabilities: paddle::capabilities(),
         }),
-        OcrProviderKind::Docling => Some(OcrProviderDefinition {
-            kind: OcrProviderKind::Docling,
-            key: "docling",
-            display_name: "AI Layout (PPStructure)",
-            token_field_name: "mineru_token",
-            token_env_name: "",
-            capabilities: OcrProviderCapabilities {
-                supports_remote_url_submit: false,
-                supports_local_file_upload: true,
-                supports_polling: false,
-                supports_download_bundle: false,
-                supports_extra_formats: false,
-                supports_formula_toggle: false,
-                supports_table_toggle: true,
-            },
-        }),
+        OcrProviderKind::Docling => None,  // disabled: local OCR engines removed in v5.x rollback
         OcrProviderKind::Unknown => None,
     }
 }

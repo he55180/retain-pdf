@@ -43,3 +43,4 @@ backend/typst-win32/bin/
 VERSION
 .codex
 .codex/
+desktop/src/runtime/

@@ -1,22 +1,6 @@
-export const DEFAULT_OCR_PROVIDER = "docling";
+export const DEFAULT_OCR_PROVIDER = "mineru";
 
 export const OCR_PROVIDER_DEFINITIONS = [
-  {
-    id: "docling",
-    label: "AI 版面分析 / AI Layout",
-    description: "PPStructure + Umi-OCR，自动过滤页眉页脚。",
-    tokenField: "mineru_token",
-    runtimeConfigKey: "mineruToken",
-    tokenLabel: "离线智能解析",
-    tokenPlaceholder: "无需 Token",
-    validationButtonLabel: "检测本地引擎",
-    validationIdleMessage: "本地引擎就绪",
-    validationMissingMessage: "",
-    validationUnavailableMessage: "本地引擎无需验证",
-    docsUrl: "",
-    docsLabel: "",
-    supportsValidation: false,
-  },
   {
     id: "mineru",
     label: "MinerU 云端",
@@ -35,7 +19,7 @@ export const OCR_PROVIDER_DEFINITIONS = [
   },
   {
     id: "paddle",
-    label: "PaddleOCR VPN",
+    label: "PaddleOCR",
     description: "需香港节点，中文版面最佳。",
     tokenField: "paddle_token",
     runtimeConfigKey: "paddleToken",
