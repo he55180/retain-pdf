@@ -10,21 +10,21 @@
 
 ## 相比原版的核心改进 / Key Improvements over Original
 
-| 项目 | 原版 | 本版 v5.2.2 |
+| 项目 | 原版 | 本版 v5.2.6 |
 |------|------|------------|
-| OCR 引擎 | PaddleOCR（强制绑定） | MinerU + PaddleOCR 双引擎自由切换 |
-| 海外网络 | 中国大陆以外完全无法使用 | MinerU 模式全球可用，无需 VPN |
-| 白底遮盖 | 硬编码关闭，英文原文透底 | 已修复，动态 outset 精确遮盖 |
-| 信头/页脚 | 全部送翻译，版面混乱 | 智能区域过滤，仅翻译正文 |
-| 翻译方向 | 单向（英译中） | 四方向：英↔中、英→斯瓦希里语、斯瓦希里语→中文 |
-| 安装包体积 | 臃肿 | Windows 231MB / macOS 283MB |
-| 适用场景 | 中国大陆 VPN 环境 | 全球可用，尤其适合东非工程现场 |
+| OCR 引擎 | PaddleOCR | MinerU + PaddleOCR 双引擎自由切换 |
+| 翻译方向 | 英译中 | 四方向：英↔中、英→斯瓦希里语、斯瓦希里语→中文 |
+| 东非现场适配 | 通用设计 | 专为坦桑尼亚等东非工程现场优化 |
+| 双语界面 | 中文界面 | 中英双语界面，国际团队均可使用 |
+| 白底遮盖 | 标准渲染 | 动态 outset 精确遮盖，还原更干净 |
+| 强制 OCR | 混合模式 | 所有 PDF 强制走 OCR，扫描件无遗漏 |
+| 安装包 | 标准 | Windows 231MB / macOS 283MB |
 
 ---
 
 ## 下载安装 / Download & Install
 
-前往 [Releases 页面](https://github.com/he55180/retain-pdf/releases) 下载最新版本 v5.2.2：
+前往 [Releases 页面](https://github.com/he55180/retain-pdf/releases) 下载最新版本 v5.2.6：
 
 ```
 Windows:  RetainPDF-Windows-5.2.2-Setup.exe   (231 MB)
@@ -32,6 +32,10 @@ macOS:    RetainPDF-Mac-5.2.2.dmg             (283 MB)
 ```
 
 双击安装，按提示完成即可。无需安装 Python、Node.js 等任何依赖。
+
+---
+
+![RetainPDF 主界面](docs/screenshot-main.png)
 
 ---
 
@@ -61,6 +65,8 @@ macOS:    RetainPDF-Mac-5.2.2.dmg             (283 MB)
 1. 点击上传区，选择 PDF 文件（最大 100MB，建议单次不超过 10 页）
 2. 点击 **全书翻译** 或 **分页翻译**
 3. 等待完成，下载输出文件
+
+> 单文件限制：最大 100MB，最多 300 页
 
 ---
 
@@ -122,7 +128,7 @@ Requirements:
 ## 技术架构 / Technical Stack
 
 ```
-RetainPDF v5.2.2
+RetainPDF v5.2.6
 ├── Electron Shell          # 跨平台桌面应用
 ├── Rust API (Axum)         # 后端任务编排
 ├── Python Pipeline         # OCR / 翻译 / 渲染
@@ -139,11 +145,13 @@ RetainPDF v5.2.2
 
 | 版本 | 主要改动 |
 |------|---------|
+| v5.2.6 | 清理死代码，架构精简 |
+| v5.2.5 | 强制所有 PDF 走 OCR；完全删除区域过滤，正文翻译无遗漏 |
+| v5.2.3 | 统一三份源码副本；测试全绿 20/20 |
 | v5.2.2 | 修复中译英方向首页正文被误过滤问题 |
-| v5.2.1 | 修复英译中第二页正文被误过滤；补全 macOS 构建；优化上传区 UI |
-| v5.2.0 | 信头/页脚区域智能跳过翻译；签名区白底加厚；并发优化 |
-| v5.1.2 | Cover rect 白底遮盖修复；outset 1.5pt 精确遮盖 |
-| v5.1.0 | 回退至双云端引擎架构（PaddleOCR + MinerU），安装包瘦身至 231MB |
+| v5.2.1 | 修复第二页正文被误过滤；补全 macOS 构建；优化上传区 UI |
+| v5.1.2 | Cover rect 白底遮盖修复；outset 精确遮盖 |
+| v5.1.0 | 回退至双云端引擎架构，安装包精简 |
 | v4.3.x | 集成 Docling 离线引擎（后因体积/性能问题回退） |
 | v4.1.3 | 首个发布版：MinerU 双引擎支持，绕过百度强制验证 |
 
