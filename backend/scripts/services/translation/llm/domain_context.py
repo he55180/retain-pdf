@@ -2,7 +2,6 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-import fitz
 
 from foundation.shared.prompt_loader import load_prompt
 
@@ -16,17 +15,11 @@ DOMAIN_CONTEXT_RAW_FILE_NAME = "domain-context.raw.txt"
 
 
 def extract_pdf_preview_text(source_pdf_path: Path, max_pages: int = 2) -> str:
-    doc = fitz.open(source_pdf_path)
-    try:
-        parts: list[str] = []
-        for page_idx in range(min(max_pages, len(doc))):
-            page = doc[page_idx]
-            text = page.get_text("text").strip()
-            if text:
-                parts.append(f"[Page {page_idx + 1}]\n{text}")
-        return "\n\n".join(parts).strip()
-    finally:
-        doc.close()
+    # PyMuPDF text extraction disabled in v5.2.5.
+    # All PDFs go through MinerU or PaddleOCR.
+    # OCR-based preview is the primary source.
+    del source_pdf_path, max_pages
+    return ""
 
 
 def build_domain_inference_messages(preview_text: str) -> list[dict[str, str]]:
@@ -113,9 +106,9 @@ def infer_domain_context(
     preview_text_fallback: str = "",
     output_dir: Path | None = None,
 ) -> dict[str, str]:
-    preview_text = extract_pdf_preview_text(source_pdf_path, max_pages=2) if source_pdf_path is not None else ""
-    if not preview_text:
-        preview_text = preview_text_fallback.strip()
+    preview_text = preview_text_fallback.strip()
+    if not preview_text and source_pdf_path is not None:
+        preview_text = extract_pdf_preview_text(source_pdf_path, max_pages=2)
     return infer_domain_context_from_preview_text(
         preview_text=preview_text,
         api_key=api_key,

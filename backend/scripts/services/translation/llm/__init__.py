@@ -15,7 +15,6 @@ _EXPORTS = {
     ),
     "chat_completions_url": ("services.translation.llm.shared.provider_runtime", "chat_completions_url"),
     "extract_json_text": ("services.translation.llm.shared.response_parsing", "extract_json_text"),
-    "extract_pdf_preview_text": ("services.translation.llm.domain_context", "extract_pdf_preview_text"),
     "get_api_key": ("services.translation.llm.shared.provider_runtime", "get_api_key"),
     "get_session": ("services.translation.llm.shared.provider_runtime", "get_session"),
     "infer_domain_context": ("services.translation.llm.domain_context", "infer_domain_context"),
