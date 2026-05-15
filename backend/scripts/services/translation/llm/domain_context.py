@@ -14,14 +14,6 @@ DOMAIN_CONTEXT_FILE_NAME = "domain-context.json"
 DOMAIN_CONTEXT_RAW_FILE_NAME = "domain-context.raw.txt"
 
 
-def extract_pdf_preview_text(source_pdf_path: Path, max_pages: int = 2) -> str:
-    # PyMuPDF text extraction disabled in v5.2.5.
-    # All PDFs go through MinerU or PaddleOCR.
-    # OCR-based preview is the primary source.
-    del source_pdf_path, max_pages
-    return ""
-
-
 def build_domain_inference_messages(preview_text: str) -> list[dict[str, str]]:
     user_payload = {
         "task": load_prompt("domain_inference_task.txt"),
@@ -99,16 +91,12 @@ def infer_domain_context_from_preview_text(
 
 def infer_domain_context(
     *,
-    source_pdf_path: Path | None,
     api_key: str,
     model: str,
     base_url: str,
-    preview_text_fallback: str = "",
+    preview_text: str = "",
     output_dir: Path | None = None,
 ) -> dict[str, str]:
-    preview_text = preview_text_fallback.strip()
-    if not preview_text and source_pdf_path is not None:
-        preview_text = extract_pdf_preview_text(source_pdf_path, max_pages=2)
     return infer_domain_context_from_preview_text(
         preview_text=preview_text,
         api_key=api_key,

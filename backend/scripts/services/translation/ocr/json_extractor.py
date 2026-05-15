@@ -475,9 +475,7 @@ def should_translate_block(
     inside_algorithm: bool = False,
     page_blocks: list[dict] | None = None,
     current_block_idx: int = -1,
-    target_lang: str = "",
 ) -> bool:
-    del target_lang  # reserved for future direction-specific logic
     explicit_policy = _block_policy_translate(block)
     del text, page_blocks, current_block_idx
     if explicit_policy is not None:
@@ -503,7 +501,6 @@ def extract_block_item(
     item_suffix: str = "",
     inside_algorithm: bool = False,
     page_blocks: list[dict] | None = None,
-    target_lang: str = "",
 ) -> TextItem | None:
     segments = block_segments(block)
     lines = block_lines(block)
@@ -517,7 +514,6 @@ def extract_block_item(
         inside_algorithm=inside_algorithm,
         page_blocks=page_blocks,
         current_block_idx=block_idx,
-        target_lang=target_lang,
     ) and not _is_keep_origin_render_block(block):
         return None
     block_type = _block_kind(block)
@@ -568,7 +564,7 @@ def _seed_structure_role(block: dict) -> str:
     return ""
 
 
-def extract_text_items(data: dict, page_idx: int, *, target_lang: str = "") -> list[TextItem]:
+def extract_text_items(data: dict, page_idx: int) -> list[TextItem]:
     pages = get_pages(data)
     if page_idx >= len(pages):
         raise IndexError(f"page_idx {page_idx} out of range; total pages={len(pages)}")
@@ -586,7 +582,6 @@ def extract_text_items(data: dict, page_idx: int, *, target_lang: str = "") -> l
             item_suffix=item_suffix,
             inside_algorithm=current_inside_algorithm,
             page_blocks=page_blocks,
-            target_lang=target_lang,
         )
         if item is not None:
             items.append(item)

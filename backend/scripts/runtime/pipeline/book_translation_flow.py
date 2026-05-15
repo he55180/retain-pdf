@@ -43,14 +43,11 @@ def translate_book_with_global_continuations(
     elif not domain_guidance and policy_config is not None:
         domain_guidance = policy_config.domain_guidance
 
-    resolved_target_lang = translation_context.target_lang if translation_context is not None else ""
-
     translation_paths, page_payloads = load_page_payloads(
         data=data,
         output_dir=output_dir,
         page_indices=page_indices,
         math_mode=(policy_config.math_mode if policy_config is not None else "placeholder"),
-        target_lang=resolved_target_lang,
     )
     run_initial_continuation_pass(
         page_payloads=page_payloads,

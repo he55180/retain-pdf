@@ -205,11 +205,10 @@ def build_book_translation_policy_config(
         preview_text = extract_ocr_preview_text(data, max_pages=2)
         try:
             domain_context = infer_domain_context(
-                source_pdf_path=source_pdf_path,
                 api_key=api_key,
                 model=model,
                 base_url=base_url,
-                preview_text_fallback=preview_text,
+                preview_text=preview_text,
                 output_dir=output_dir,
             )
         except Exception as exc:
