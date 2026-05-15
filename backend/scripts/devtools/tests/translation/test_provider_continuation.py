@@ -432,24 +432,24 @@ def test_generic_provider_continuation_hint_flows_through_extractor_and_template
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 240.0,
-                    "height": 200.0,
+                    "width": 400.0,
+                    "height": 400.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [0, 0, 100, 20],
+                            "bbox": [50, 80, 150, 100],
                             "text": "left column sentence",
                             "lines": [
                                 {
-                                    "bbox": [0, 0, 100, 20],
+                                    "bbox": [50, 80, 150, 100],
                                     "spans": [
                                         {
                                             "type": "text",
                                             "raw_type": "text",
                                             "text": "left column sentence",
-                                            "bbox": [0, 0, 100, 20],
+                                            "bbox": [50, 80, 150, 100],
                                         }
                                     ],
                                 }
@@ -470,17 +470,17 @@ def test_generic_provider_continuation_hint_flows_through_extractor_and_template
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [120, 0, 220, 20],
+                            "bbox": [170, 80, 270, 100],
                             "text": "right column continuation",
                             "lines": [
                                 {
-                                    "bbox": [120, 0, 220, 20],
+                                    "bbox": [170, 80, 270, 100],
                                     "spans": [
                                         {
                                             "type": "text",
                                             "raw_type": "text",
                                             "text": "right column continuation",
-                                            "bbox": [120, 0, 220, 20],
+                                            "bbox": [170, 80, 270, 100],
                                         }
                                     ],
                                 }
@@ -537,16 +537,16 @@ def test_extract_text_items_only_keeps_primary_body_like_text_blocks() -> None:
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 300.0,
-                    "height": 240.0,
+                    "width": 400.0,
+                    "height": 500.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [0, 0, 140, 20],
+                            "bbox": [50, 80, 190, 100],
                             "text": "Body paragraph",
-                            "lines": [{"bbox": [0, 0, 140, 20], "spans": [{"type": "text", "raw_type": "text", "text": "Body paragraph", "bbox": [0, 0, 140, 20]}]}],
+                            "lines": [{"bbox": [50, 80, 190, 100], "spans": [{"type": "text", "raw_type": "text", "text": "Body paragraph", "bbox": [50, 80, 190, 100]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -555,9 +555,9 @@ def test_extract_text_items_only_keeps_primary_body_like_text_blocks() -> None:
                         {
                             "type": "text",
                             "sub_type": "heading",
-                            "bbox": [0, 30, 140, 50],
+                            "bbox": [50, 110, 190, 130],
                             "text": "Results",
-                            "lines": [{"bbox": [0, 30, 140, 50], "spans": [{"type": "text", "raw_type": "text", "text": "Results", "bbox": [0, 30, 140, 50]}]}],
+                            "lines": [{"bbox": [50, 110, 190, 130], "spans": [{"type": "text", "raw_type": "text", "text": "Results", "bbox": [50, 110, 190, 130]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "heading", "by": "", "confidence": 0.0},
@@ -566,9 +566,9 @@ def test_extract_text_items_only_keeps_primary_body_like_text_blocks() -> None:
                         {
                             "type": "text",
                             "sub_type": "table_caption",
-                            "bbox": [0, 60, 200, 80],
+                            "bbox": [50, 140, 250, 160],
                             "text": "Table 1. Caption text",
-                            "lines": [{"bbox": [0, 60, 200, 80], "spans": [{"type": "text", "raw_type": "text", "text": "Table 1. Caption text", "bbox": [0, 60, 200, 80]}]}],
+                            "lines": [{"bbox": [50, 140, 250, 160], "spans": [{"type": "text", "raw_type": "text", "text": "Table 1. Caption text", "bbox": [50, 140, 250, 160]}]}],
                             "segments": [],
                             "tags": ["caption", "table_caption"],
                             "derived": {"role": "table_caption", "by": "", "confidence": 0.0},
@@ -577,9 +577,9 @@ def test_extract_text_items_only_keeps_primary_body_like_text_blocks() -> None:
                         {
                             "type": "text",
                             "sub_type": "header",
-                            "bbox": [0, 90, 200, 110],
+                            "bbox": [50, 170, 250, 190],
                             "text": "Journal Header",
-                            "lines": [{"bbox": [0, 90, 200, 110], "spans": [{"type": "text", "raw_type": "text", "text": "Journal Header", "bbox": [0, 90, 200, 110]}]}],
+                            "lines": [{"bbox": [50, 170, 250, 190], "spans": [{"type": "text", "raw_type": "text", "text": "Journal Header", "bbox": [50, 170, 250, 190]}]}],
                             "segments": [],
                             "tags": ["skip_translation"],
                             "derived": {"role": "header", "by": "", "confidence": 0.0},
@@ -610,8 +610,8 @@ def test_extract_text_items_keeps_empty_subtype_plain_text_body_block() -> None:
         "pages": [
             {
                 "page_index": 0,
-                "width": 200.0,
-                "height": 120.0,
+                "width": 300.0,
+                "height": 300.0,
                 "unit": "pt",
                 "blocks": [
                         {
@@ -620,19 +620,19 @@ def test_extract_text_items_keeps_empty_subtype_plain_text_body_block() -> None:
                             "order": 0,
                             "type": "text",
                             "sub_type": "",
-                            "geometry": {"bbox": [0, 0, 150, 20]},
+                            "geometry": {"bbox": [50, 80, 200, 100]},
                             "content": {"kind": "text", "text": "Plain normalized body block"},
-                            "bbox": [0, 0, 150, 20],
+                            "bbox": [50, 80, 200, 100],
                             "text": "Plain normalized body block",
                             "lines": [
                                 {
-                                    "bbox": [0, 0, 150, 20],
+                                    "bbox": [50, 80, 200, 100],
                                 "spans": [
                                     {
                                         "type": "text",
                                         "raw_type": "text",
                                         "text": "Plain normalized body block",
-                                        "bbox": [0, 0, 150, 20],
+                                        "bbox": [50, 80, 200, 100],
                                     }
                                 ],
                             }
@@ -673,16 +673,16 @@ def test_extract_text_items_keeps_publisher_metadata_tail_run_without_local_meta
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 400.0,
-                    "height": 800.0,
+                    "width": 500.0,
+                    "height": 1000.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [20, 20, 200, 40],
+                            "bbox": [70, 100, 250, 120],
                             "text": "Actual body paragraph",
-                            "lines": [{"bbox": [20, 20, 200, 40], "spans": [{"type": "text", "raw_type": "text", "text": "Actual body paragraph", "bbox": [20, 20, 200, 40]}]}],
+                            "lines": [{"bbox": [70, 100, 250, 120], "spans": [{"type": "text", "raw_type": "text", "text": "Actual body paragraph", "bbox": [70, 100, 250, 120]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -691,9 +691,9 @@ def test_extract_text_items_keeps_publisher_metadata_tail_run_without_local_meta
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [220, 620, 380, 640],
+                            "bbox": [270, 700, 430, 720],
                             "text": "doi:10.1186/1752-153X-6-70",
-                            "lines": [{"bbox": [220, 620, 380, 640], "spans": [{"type": "text", "raw_type": "text", "text": "doi:10.1186/1752-153X-6-70", "bbox": [220, 620, 380, 640]}]}],
+                            "lines": [{"bbox": [270, 700, 430, 720], "spans": [{"type": "text", "raw_type": "text", "text": "doi:10.1186/1752-153X-6-70", "bbox": [270, 700, 430, 720]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -702,9 +702,9 @@ def test_extract_text_items_keeps_publisher_metadata_tail_run_without_local_meta
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [220, 644, 390, 664],
+                            "bbox": [270, 724, 440, 744],
                             "text": "Cite this article as: Example et al.",
-                            "lines": [{"bbox": [220, 644, 390, 664], "spans": [{"type": "text", "raw_type": "text", "text": "Cite this article as: Example et al.", "bbox": [220, 644, 390, 664]}]}],
+                            "lines": [{"bbox": [270, 724, 440, 744], "spans": [{"type": "text", "raw_type": "text", "text": "Cite this article as: Example et al.", "bbox": [270, 724, 440, 744]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -713,9 +713,9 @@ def test_extract_text_items_keeps_publisher_metadata_tail_run_without_local_meta
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [220, 668, 390, 688],
+                            "bbox": [270, 748, 440, 768],
                             "text": "Submit your manuscript here:",
-                            "lines": [{"bbox": [220, 668, 390, 688], "spans": [{"type": "text", "raw_type": "text", "text": "Submit your manuscript here:", "bbox": [220, 668, 390, 688]}]}],
+                            "lines": [{"bbox": [270, 748, 440, 768], "spans": [{"type": "text", "raw_type": "text", "text": "Submit your manuscript here:", "bbox": [270, 748, 440, 768]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -724,9 +724,9 @@ def test_extract_text_items_keeps_publisher_metadata_tail_run_without_local_meta
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [220, 692, 390, 712],
+                            "bbox": [270, 772, 440, 792],
                             "text": "http://example.com/manuscript/",
-                            "lines": [{"bbox": [220, 692, 390, 712], "spans": [{"type": "text", "raw_type": "text", "text": "http://example.com/manuscript/", "bbox": [220, 692, 390, 712]}]}],
+                            "lines": [{"bbox": [270, 772, 440, 792], "spans": [{"type": "text", "raw_type": "text", "text": "http://example.com/manuscript/", "bbox": [270, 772, 440, 792]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -758,16 +758,16 @@ def test_extract_text_items_keeps_short_publisher_metadata_singleton_without_loc
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 300.0,
-                    "height": 400.0,
+                    "width": 400.0,
+                    "height": 500.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [20, 20, 180, 40],
+                            "bbox": [70, 100, 230, 120],
                             "text": "Actual body paragraph",
-                            "lines": [{"bbox": [20, 20, 180, 40], "spans": [{"type": "text", "raw_type": "text", "text": "Actual body paragraph", "bbox": [20, 20, 180, 40]}]}],
+                            "lines": [{"bbox": [70, 100, 230, 120], "spans": [{"type": "text", "raw_type": "text", "text": "Actual body paragraph", "bbox": [70, 100, 230, 120]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -776,9 +776,9 @@ def test_extract_text_items_keeps_short_publisher_metadata_singleton_without_loc
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [220, 20, 280, 36],
+                            "bbox": [270, 100, 330, 116],
                             "text": "Open Access",
-                            "lines": [{"bbox": [220, 20, 280, 36], "spans": [{"type": "text", "raw_type": "text", "text": "Open Access", "bbox": [220, 20, 280, 36]}]}],
+                            "lines": [{"bbox": [270, 100, 330, 116], "spans": [{"type": "text", "raw_type": "text", "text": "Open Access", "bbox": [270, 100, 330, 116]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -804,16 +804,16 @@ def test_extract_text_items_skips_all_caps_badge_singleton() -> None:
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 300.0,
-                    "height": 400.0,
+                    "width": 400.0,
+                    "height": 500.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [20, 20, 180, 40],
+                            "bbox": [70, 100, 230, 120],
                             "text": "Actual body paragraph",
-                            "lines": [{"bbox": [20, 20, 180, 40], "spans": [{"type": "text", "raw_type": "text", "text": "Actual body paragraph", "bbox": [20, 20, 180, 40]}]}],
+                            "lines": [{"bbox": [70, 100, 230, 120], "spans": [{"type": "text", "raw_type": "text", "text": "Actual body paragraph", "bbox": [70, 100, 230, 120]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -822,9 +822,9 @@ def test_extract_text_items_skips_all_caps_badge_singleton() -> None:
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [220, 20, 295, 36],
+                            "bbox": [270, 100, 345, 116],
                             "text": "RESEARCH ARTICLE",
-                            "lines": [{"bbox": [220, 20, 295, 36], "spans": [{"type": "text", "raw_type": "text", "text": "RESEARCH ARTICLE", "bbox": [220, 20, 295, 36]}]}],
+                            "lines": [{"bbox": [270, 100, 345, 116], "spans": [{"type": "text", "raw_type": "text", "text": "RESEARCH ARTICLE", "bbox": [270, 100, 345, 116]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -850,16 +850,16 @@ def test_extract_text_items_skips_front_matter_author_line_between_title_and_abs
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 400.0,
-                    "height": 500.0,
+                    "width": 500.0,
+                    "height": 600.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "title",
-                            "bbox": [20, 20, 320, 56],
+                            "bbox": [70, 100, 370, 136],
                             "text": "Document Title",
-                            "lines": [{"bbox": [20, 20, 320, 56], "spans": [{"type": "text", "raw_type": "text", "text": "Document Title", "bbox": [20, 20, 320, 56]}]}],
+                            "lines": [{"bbox": [70, 100, 370, 136], "spans": [{"type": "text", "raw_type": "text", "text": "Document Title", "bbox": [70, 100, 370, 136]}]}],
                             "segments": [],
                             "tags": ["title"],
                             "derived": {"role": "title", "by": "", "confidence": 0.0},
@@ -868,9 +868,9 @@ def test_extract_text_items_skips_front_matter_author_line_between_title_and_abs
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [20, 70, 260, 90],
+                            "bbox": [70, 150, 310, 170],
                             "text": "Alice Smith and Bob Jones",
-                            "lines": [{"bbox": [20, 70, 260, 90], "spans": [{"type": "text", "raw_type": "text", "text": "Alice Smith and Bob Jones", "bbox": [20, 70, 260, 90]}]}],
+                            "lines": [{"bbox": [70, 150, 310, 170], "spans": [{"type": "text", "raw_type": "text", "text": "Alice Smith and Bob Jones", "bbox": [70, 150, 310, 170]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -879,9 +879,9 @@ def test_extract_text_items_skips_front_matter_author_line_between_title_and_abs
                         {
                             "type": "text",
                             "sub_type": "heading",
-                            "bbox": [20, 110, 100, 128],
+                            "bbox": [70, 190, 150, 208],
                             "text": "Abstract",
-                            "lines": [{"bbox": [20, 110, 100, 128], "spans": [{"type": "text", "raw_type": "text", "text": "Abstract", "bbox": [20, 110, 100, 128]}]}],
+                            "lines": [{"bbox": [70, 190, 150, 208], "spans": [{"type": "text", "raw_type": "text", "text": "Abstract", "bbox": [70, 190, 150, 208]}]}],
                             "segments": [],
                             "tags": ["heading"],
                             "derived": {"role": "heading", "by": "", "confidence": 0.0},
@@ -890,9 +890,9 @@ def test_extract_text_items_skips_front_matter_author_line_between_title_and_abs
                         {
                             "type": "text",
                             "sub_type": "abstract",
-                            "bbox": [20, 136, 360, 200],
+                            "bbox": [70, 216, 410, 280],
                             "text": "This is the abstract body.",
-                            "lines": [{"bbox": [20, 136, 360, 200], "spans": [{"type": "text", "raw_type": "text", "text": "This is the abstract body.", "bbox": [20, 136, 360, 200]}]}],
+                            "lines": [{"bbox": [70, 216, 410, 280], "spans": [{"type": "text", "raw_type": "text", "text": "This is the abstract body.", "bbox": [70, 216, 410, 280]}]}],
                             "segments": [],
                             "tags": ["abstract"],
                             "derived": {"role": "abstract", "by": "", "confidence": 0.0},
@@ -918,16 +918,16 @@ def test_extract_text_items_skips_keywords_line_singleton() -> None:
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 400.0,
-                    "height": 500.0,
+                    "width": 500.0,
+                    "height": 600.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "abstract",
-                            "bbox": [20, 20, 360, 80],
+                            "bbox": [70, 100, 410, 160],
                             "text": "This is the abstract body.",
-                            "lines": [{"bbox": [20, 20, 360, 80], "spans": [{"type": "text", "raw_type": "text", "text": "This is the abstract body.", "bbox": [20, 20, 360, 80]}]}],
+                            "lines": [{"bbox": [70, 100, 410, 160], "spans": [{"type": "text", "raw_type": "text", "text": "This is the abstract body.", "bbox": [70, 100, 410, 160]}]}],
                             "segments": [],
                             "tags": ["abstract"],
                             "derived": {"role": "abstract", "by": "", "confidence": 0.0},
@@ -936,9 +936,9 @@ def test_extract_text_items_skips_keywords_line_singleton() -> None:
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [20, 90, 320, 110],
+                            "bbox": [70, 170, 370, 190],
                             "text": "Keywords: Indigo, DFT, CIS",
-                            "lines": [{"bbox": [20, 90, 320, 110], "spans": [{"type": "text", "raw_type": "text", "text": "Keywords: Indigo, DFT, CIS", "bbox": [20, 90, 320, 110]}]}],
+                            "lines": [{"bbox": [70, 170, 370, 190], "spans": [{"type": "text", "raw_type": "text", "text": "Keywords: Indigo, DFT, CIS", "bbox": [70, 170, 370, 190]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -947,9 +947,9 @@ def test_extract_text_items_skips_keywords_line_singleton() -> None:
                         {
                             "type": "text",
                             "sub_type": "heading",
-                            "bbox": [20, 130, 120, 148],
+                            "bbox": [70, 210, 170, 228],
                             "text": "Introduction",
-                            "lines": [{"bbox": [20, 130, 120, 148], "spans": [{"type": "text", "raw_type": "text", "text": "Introduction", "bbox": [20, 130, 120, 148]}]}],
+                            "lines": [{"bbox": [70, 210, 170, 228], "spans": [{"type": "text", "raw_type": "text", "text": "Introduction", "bbox": [70, 210, 170, 228]}]}],
                             "segments": [],
                             "tags": ["heading"],
                             "derived": {"role": "heading", "by": "", "confidence": 0.0},
@@ -979,16 +979,16 @@ def test_extract_text_items_keeps_ancillary_tail_sections_after_body_without_loc
             "provider": PROVIDER_GENERIC_FLAT_OCR,
             "pages": [
                 {
-                    "width": 300.0,
-                    "height": 500.0,
+                    "width": 400.0,
+                    "height": 600.0,
                     "unit": "pt",
                     "blocks": [
                         {
                             "type": "text",
                             "sub_type": "heading",
-                            "bbox": [20, 20, 120, 40],
+                            "bbox": [70, 100, 170, 120],
                             "text": "Conclusions",
-                            "lines": [{"bbox": [20, 20, 120, 40], "spans": [{"type": "text", "raw_type": "text", "text": "Conclusions", "bbox": [20, 20, 120, 40]}]}],
+                            "lines": [{"bbox": [70, 100, 170, 120], "spans": [{"type": "text", "raw_type": "text", "text": "Conclusions", "bbox": [70, 100, 170, 120]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "heading", "by": "", "confidence": 0.0},
@@ -997,9 +997,9 @@ def test_extract_text_items_keeps_ancillary_tail_sections_after_body_without_loc
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [20, 44, 260, 84],
+                            "bbox": [70, 124, 310, 164],
                             "text": "Actual concluding paragraph.",
-                            "lines": [{"bbox": [20, 44, 260, 84], "spans": [{"type": "text", "raw_type": "text", "text": "Actual concluding paragraph.", "bbox": [20, 44, 260, 84]}]}],
+                            "lines": [{"bbox": [70, 124, 310, 164], "spans": [{"type": "text", "raw_type": "text", "text": "Actual concluding paragraph.", "bbox": [70, 124, 310, 164]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -1008,9 +1008,9 @@ def test_extract_text_items_keeps_ancillary_tail_sections_after_body_without_loc
                         {
                             "type": "text",
                             "sub_type": "heading",
-                            "bbox": [20, 120, 180, 140],
+                            "bbox": [70, 200, 230, 220],
                             "text": "Competing interests",
-                            "lines": [{"bbox": [20, 120, 180, 140], "spans": [{"type": "text", "raw_type": "text", "text": "Competing interests", "bbox": [20, 120, 180, 140]}]}],
+                            "lines": [{"bbox": [70, 200, 230, 220], "spans": [{"type": "text", "raw_type": "text", "text": "Competing interests", "bbox": [70, 200, 230, 220]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "heading", "by": "", "confidence": 0.0},
@@ -1019,9 +1019,9 @@ def test_extract_text_items_keeps_ancillary_tail_sections_after_body_without_loc
                         {
                             "type": "text",
                             "sub_type": "body",
-                            "bbox": [20, 144, 260, 184],
+                            "bbox": [70, 224, 310, 264],
                             "text": "The authors declare that they have no competing interests.",
-                            "lines": [{"bbox": [20, 144, 260, 184], "spans": [{"type": "text", "raw_type": "text", "text": "The authors declare that they have no competing interests.", "bbox": [20, 144, 260, 184]}]}],
+                            "lines": [{"bbox": [70, 224, 310, 264], "spans": [{"type": "text", "raw_type": "text", "text": "The authors declare that they have no competing interests.", "bbox": [70, 224, 310, 264]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "", "by": "", "confidence": 0.0},
@@ -1030,9 +1030,9 @@ def test_extract_text_items_keeps_ancillary_tail_sections_after_body_without_loc
                         {
                             "type": "text",
                             "sub_type": "heading",
-                            "bbox": [20, 200, 120, 220],
+                            "bbox": [70, 280, 170, 300],
                             "text": "References",
-                            "lines": [{"bbox": [20, 200, 120, 220], "spans": [{"type": "text", "raw_type": "text", "text": "References", "bbox": [20, 200, 120, 220]}]}],
+                            "lines": [{"bbox": [70, 280, 170, 300], "spans": [{"type": "text", "raw_type": "text", "text": "References", "bbox": [70, 280, 170, 300]}]}],
                             "segments": [],
                             "tags": [],
                             "derived": {"role": "heading", "by": "", "confidence": 0.0},
