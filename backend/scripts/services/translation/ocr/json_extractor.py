@@ -503,7 +503,13 @@ def should_translate_block(
     page_width: float = 0,
     page_height: float = 0,
     page_index: int = 0,
+    target_lang: str = "",
 ) -> bool:
+    # _is_skip_region() was designed for English letter layouts (letterhead,
+    # awards, director columns).  For zh→en translation those regions often
+    # contain the first body paragraph of a Chinese document, so we disable
+    # the heuristic entirely when translating into English.
+    skip_region_enabled = not target_lang.strip().lower().startswith("en")
     explicit_policy = _block_policy_translate(block)
     del text, page_blocks, current_block_idx
     if explicit_policy is not None:
@@ -511,14 +517,14 @@ def should_translate_block(
             return False
         if inside_algorithm or is_algorithm_semantic(block):
             return False
-        if _is_skip_region(block, page_width, page_height, page_index):
+        if skip_region_enabled and _is_skip_region(block, page_width, page_height, page_index):
             return False
         return True
     if inside_algorithm or is_algorithm_semantic(block):
         return False
     if "skip_translation" in normalize_tags(block.get("tags", [])):
         return False
-    if _is_skip_region(block, page_width, page_height, page_index):
+    if skip_region_enabled and _is_skip_region(block, page_width, page_height, page_index):
         return False
     if _block_kind(block) != "text":
         return False
@@ -535,6 +541,7 @@ def extract_block_item(
     page_blocks: list[dict] | None = None,
     page_width: float = 0,
     page_height: float = 0,
+    target_lang: str = "",
 ) -> TextItem | None:
     segments = block_segments(block)
     lines = block_lines(block)
@@ -551,6 +558,7 @@ def extract_block_item(
         page_width=page_width,
         page_height=page_height,
         page_index=page_idx,
+        target_lang=target_lang,
     ) and not _is_keep_origin_render_block(block):
         return None
     block_type = _block_kind(block)
@@ -601,7 +609,7 @@ def _seed_structure_role(block: dict) -> str:
     return ""
 
 
-def extract_text_items(data: dict, page_idx: int) -> list[TextItem]:
+def extract_text_items(data: dict, page_idx: int, *, target_lang: str = "") -> list[TextItem]:
     pages = get_pages(data)
     if page_idx >= len(pages):
         raise IndexError(f"page_idx {page_idx} out of range; total pages={len(pages)}")
@@ -623,6 +631,7 @@ def extract_text_items(data: dict, page_idx: int) -> list[TextItem]:
             page_blocks=page_blocks,
             page_width=pw,
             page_height=ph,
+            target_lang=target_lang,
         )
         if item is not None:
             items.append(item)

@@ -31,6 +31,7 @@ def translate_book_pages(
     sci_cutoff_page_idx: int | None = None,
     sci_cutoff_block_idx: int | None = None,
     policy_config: TranslationPolicyConfig | None = None,
+    target_lang: str = "",
 ) -> tuple[dict[int, list[dict]], list[dict]]:
     page_count = get_page_count(data)
     summaries: list[dict] = []
@@ -38,7 +39,7 @@ def translate_book_pages(
 
     output_dir.mkdir(parents=True, exist_ok=True)
     for page_idx in page_indices:
-        items = extract_text_items(data, page_idx=page_idx)
+        items = extract_text_items(data, page_idx=page_idx, target_lang=target_lang)
         translation_path = output_dir / default_page_translation_name(page_idx)
         summary = translate_items_to_path(
             items=items,
@@ -72,12 +73,13 @@ def load_page_payloads(
     output_dir: Path,
     page_indices: range,
     math_mode: str = "direct_typst",
+    target_lang: str = "",
 ) -> tuple[dict[int, Path], dict[int, list[dict]]]:
     translation_paths: dict[int, Path] = {}
     page_payloads: dict[int, list[dict]] = {}
     output_dir.mkdir(parents=True, exist_ok=True)
     for page_idx in page_indices:
-        items = extract_text_items(data, page_idx=page_idx)
+        items = extract_text_items(data, page_idx=page_idx, target_lang=target_lang)
         translation_path = output_dir / default_page_translation_name(page_idx)
         ensure_translation_template(items, translation_path, page_idx=page_idx, math_mode=math_mode)
         translation_paths[page_idx] = translation_path
