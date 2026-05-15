@@ -467,28 +467,6 @@ def _is_primary_translatable_text_block(block: dict, data: dict) -> bool:
     return layout_role in {"paragraph", "unknown", ""}
 
 
-def _is_skip_region(
-    block: dict,
-    page_width: float = 0,
-    page_height: float = 0,
-    page_index: int = 0,
-) -> bool:
-    if page_width <= 0 or page_height <= 0:
-        return False
-    bbox = list(block.get("bbox", []) or [])
-    if len(bbox) != 4:
-        geometry = block.get("geometry", {}) or {}
-        bbox = list(geometry.get("bbox", []) or [])
-        if len(bbox) != 4:
-            return False
-    x, y = bbox[0], bbox[1]
-    if page_index == 0 and x < page_width * 0.12 and y < page_height * 0.45:
-        return True
-    if y > page_height * 0.88:
-        return True
-    return False
-
-
 def should_translate_block(
     block: dict,
     data: dict,
@@ -497,16 +475,9 @@ def should_translate_block(
     inside_algorithm: bool = False,
     page_blocks: list[dict] | None = None,
     current_block_idx: int = -1,
-    page_width: float = 0,
-    page_height: float = 0,
-    page_index: int = 0,
     target_lang: str = "",
 ) -> bool:
-    # _is_skip_region() was designed for English letter layouts (letterhead,
-    # awards, director columns).  For zh→en translation those regions often
-    # contain the first body paragraph of a Chinese document, so we disable
-    # the heuristic entirely when translating into English.
-    skip_region_enabled = not target_lang.strip().lower().startswith("en")
+    del target_lang  # reserved for future direction-specific logic
     explicit_policy = _block_policy_translate(block)
     del text, page_blocks, current_block_idx
     if explicit_policy is not None:
@@ -514,14 +485,10 @@ def should_translate_block(
             return False
         if inside_algorithm or is_algorithm_semantic(block):
             return False
-        if skip_region_enabled and _is_skip_region(block, page_width, page_height, page_index):
-            return False
         return True
     if inside_algorithm or is_algorithm_semantic(block):
         return False
     if "skip_translation" in normalize_tags(block.get("tags", [])):
-        return False
-    if skip_region_enabled and _is_skip_region(block, page_width, page_height, page_index):
         return False
     if _block_kind(block) != "text":
         return False
@@ -536,8 +503,6 @@ def extract_block_item(
     item_suffix: str = "",
     inside_algorithm: bool = False,
     page_blocks: list[dict] | None = None,
-    page_width: float = 0,
-    page_height: float = 0,
     target_lang: str = "",
 ) -> TextItem | None:
     segments = block_segments(block)
@@ -552,9 +517,6 @@ def extract_block_item(
         inside_algorithm=inside_algorithm,
         page_blocks=page_blocks,
         current_block_idx=block_idx,
-        page_width=page_width,
-        page_height=page_height,
-        page_index=page_idx,
         target_lang=target_lang,
     ) and not _is_keep_origin_render_block(block):
         return None
@@ -612,8 +574,6 @@ def extract_text_items(data: dict, page_idx: int, *, target_lang: str = "") -> l
         raise IndexError(f"page_idx {page_idx} out of range; total pages={len(pages)}")
 
     page = pages[page_idx]
-    pw = float(page.get("width", 0) or 0)
-    ph = float(page.get("height", 0) or 0)
     page_blocks = list(_iter_page_blocks(data, page))
     items: list[TextItem] = []
     def visit_block(block: dict, block_idx: int, item_suffix: str = "", inside_algorithm: bool = False) -> None:
@@ -626,8 +586,6 @@ def extract_text_items(data: dict, page_idx: int, *, target_lang: str = "") -> l
             item_suffix=item_suffix,
             inside_algorithm=current_inside_algorithm,
             page_blocks=page_blocks,
-            page_width=pw,
-            page_height=ph,
             target_lang=target_lang,
         )
         if item is not None:
