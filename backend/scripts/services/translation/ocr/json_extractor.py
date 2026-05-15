@@ -483,9 +483,9 @@ def _is_skip_region(
             return False
     x, y = bbox[0], bbox[1]
     if page_index == 0:
-        if y < page_height * 0.15:
+        if y < page_height * 0.10:
             return True
-        if x < page_width * 0.15 and y < page_height * 0.50:
+        if x < page_width * 0.12 and y < page_height * 0.45:
             return True
     if y > page_height * 0.88:
         return True
