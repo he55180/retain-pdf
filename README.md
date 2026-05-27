@@ -10,7 +10,7 @@
 
 ## 相比原版的核心改进 / Key Improvements over Original
 
-| 项目 | 原版 | 本版 v5.2.6 |
+| 项目 | 原版 | 本版 v5.2.7 |
 |------|------|------------|
 | OCR 引擎 | PaddleOCR | MinerU + PaddleOCR 双引擎自由切换 |
 | 翻译方向 | 英译中 | 四方向：英↔中、英→斯瓦希里语、斯瓦希里语→中文 |
@@ -24,7 +24,7 @@
 
 ## 下载安装 / Download & Install
 
-前往 [Releases 页面](https://github.com/he55180/retain-pdf/releases) 下载最新版本 v5.2.6：
+前往 [Releases 页面](https://github.com/he55180/retain-pdf/releases) 下载最新版本 v5.2.7：
 
 ```
 Windows:  RetainPDF-Windows-5.2.2-Setup.exe   (231 MB)
@@ -32,6 +32,24 @@ macOS:    RetainPDF-Mac-5.2.2.dmg             (283 MB)
 ```
 
 双击安装，按提示完成即可。无需安装 Python、Node.js 等任何依赖。
+
+---
+
+## 运行模式 / Running Modes
+
+### 完整模式（推荐，需要GPU）
+- NVIDIA显卡 4GB显存以上
+- pip install -r requirements-full.txt
+- 表格翻译、扫描件处理全功能可用
+
+### 基础模式（无GPU也可用）
+- pip install -r requirements-base.txt  
+- 使用MinerU云端OCR
+- 普通文字翻译正常，复杂表格效果有限
+
+## 必须配置 / Required Configurations
+- DeepSeek API Key（翻译核心）
+- MinerU Token（基础模式必须）
 
 ---
 
@@ -128,7 +146,7 @@ Requirements:
 ## 技术架构 / Technical Stack
 
 ```
-RetainPDF v5.2.6
+RetainPDF v5.2.7
 ├── Electron Shell          # 跨平台桌面应用
 ├── Rust API (Axum)         # 后端任务编排
 ├── Python Pipeline         # OCR / 翻译 / 渲染
@@ -145,6 +163,7 @@ RetainPDF v5.2.6
 
 | 版本 | 主要改动 |
 |------|---------|
+| v5.2.7 | 表格翻译全面打通，新增单元格级回填，坐标校准与目录页码保护，首发本地 MD5 OCR 缓存，自动切换斯语方向 |
 | v5.2.6 | 清理死代码，架构精简 |
 | v5.2.5 | 强制所有 PDF 走 OCR；完全删除区域过滤，正文翻译无遗漏 |
 | v5.2.3 | 统一三份源码副本；测试全绿 20/20 |
