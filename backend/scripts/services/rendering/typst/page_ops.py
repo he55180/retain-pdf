@@ -67,6 +67,52 @@ def redaction_items_from_render_blocks(
     return redaction_items
 
 
+def _draw_table_outer_borders(
+    page: fitz.Page,
+    translated_items: list[dict],
+    *,
+    page_width: float,
+    page_height: float,
+    border_width: float = 0.75,
+    border_color: tuple[float, float, float] = (0.0, 0.0, 0.0),
+) -> int:
+    """P3 方案C: 在表格块的白底覆盖区域上重绘外边框矩形。
+
+    遍历 build_render_blocks 结果，对所有 block_id 以 'table-item' 开头的块，
+    在其 cover_bbox 位置画一个细边框矩形（不填充），保留表格视觉轮廓。
+    返回重绘的边框数量。
+    """
+    from services.rendering.api.render_payloads import build_render_blocks
+    try:
+        render_blocks = build_render_blocks(translated_items, page_width=page_width, page_height=page_height)
+    except Exception:
+        return 0
+
+    drawn = 0
+    for block in render_blocks:
+        if not block.block_id.startswith("table-item"):
+            continue
+        if len(block.cover_bbox) != 4:
+            continue
+        x0, y0, x1, y1 = block.cover_bbox
+        rect = fitz.Rect(x0, y0, x1, y1)
+        if rect.is_empty or rect.width < 2 or rect.height < 2:
+            continue
+        try:
+            shape = page.new_shape()
+            shape.draw_rect(rect)
+            shape.finish(
+                color=border_color,
+                fill=None,
+                width=border_width,
+            )
+            shape.commit(overlay=True)
+            drawn += 1
+        except Exception:
+            pass
+    return drawn
+
+
 def apply_source_page_overlay(
     page: fitz.Page,
     translated_items: list[dict],
@@ -86,8 +132,15 @@ def apply_source_page_overlay(
             page_height=page.rect.height,
         )
         redaction = redact_translated_text_areas(page, redaction_items, cover_only=False, strategy=redaction_strategy)
+        # P3: redraw table outer borders after erasure on image-background pages too.
+        table_border_count = _draw_table_outer_borders(
+            page, translated_items,
+            page_width=page.rect.width,
+            page_height=page.rect.height,
+        )
         redaction["elapsed_seconds"] = time.perf_counter() - started
         redaction["source_overlay_mode"] = "background_image"
+        redaction["table_border_redrawn"] = table_border_count
         return redaction
 
     vector_cover_only = should_use_cover_only_for_vector_text(page, translated_items)
@@ -102,8 +155,16 @@ def apply_source_page_overlay(
         cover_only=cover_only or vector_cover_only,
         strategy=redaction_strategy,
     )
+    # P3: After white-background erasure, redraw outer border for each table block
+    # so the table visual frame is preserved (scheme C: cover + redraw outer border).
+    table_border_count = _draw_table_outer_borders(
+        page, translated_items,
+        page_width=page.rect.width,
+        page_height=page.rect.height,
+    )
     redaction["elapsed_seconds"] = time.perf_counter() - started
     redaction["source_overlay_mode"] = str(redaction.get("strategy") or redaction.get("route") or "visual_only")
+    redaction["table_border_redrawn"] = table_border_count
     return redaction
 
 

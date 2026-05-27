@@ -120,6 +120,9 @@ def map_block_kind(raw_type: str) -> tuple[str, str]:
         return "text", "page_number"
     if raw_type == "image":
         return "image", "figure"
+    # P2: Recognize table types that were previously falling through to unknown.
+    if raw_type in {"table", "table_body", "table_html"}:
+        return "table", "table_body"
     return "unknown", ""
 
 

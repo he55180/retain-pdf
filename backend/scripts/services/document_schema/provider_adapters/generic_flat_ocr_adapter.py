@@ -74,6 +74,9 @@ def _structure_role(block: dict) -> str:
 def _policy(block: dict) -> dict:
     kind = _block_kind(block)
     sub_type = _block_sub_type(block)
+    # P1: Allow table blocks with actual text content to be translated.
+    if kind == "table" and str(block.get("text", "") or "").strip():
+        return {"translate": True, "translate_reason": "table_with_text"}
     if kind != "text":
         return {"translate": False, "translate_reason": f"provider_non_text:{kind}"}
     if sub_type == "abstract":

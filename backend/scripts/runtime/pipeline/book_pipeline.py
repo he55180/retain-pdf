@@ -23,6 +23,10 @@ def _blocking_untranslated_items(translated_pages_map: dict[int, list[dict]]) ->
             final_status = str(item.get("final_status", "") or "").strip()
             if final_status not in {"kept_origin", "failed"}:
                 continue
+            # 若被判定为 skip_ 或 code，则属于合法的保留原文状态，不予以阻拦
+            label = str(item.get("classification_label", "") or "").strip()
+            if label.startswith("skip_") or label == "code":
+                continue
             diagnostics = dict(item.get("translation_diagnostics") or {})
             route_path = list(diagnostics.get("route_path") or [])
             if "fast_path_keep_origin" in route_path:

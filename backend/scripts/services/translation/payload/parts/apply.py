@@ -264,6 +264,15 @@ def apply_translated_text_map(payload: list[dict], translated: dict) -> None:
             prefix = str(item.get("mixed_literal_prefix", "") or "")
             item["protected_translated_text"] = _join_prefix_and_tail(prefix, item["protected_translated_text"])
             item["translated_text"] = _join_prefix_and_tail(prefix, item["translated_text"])
+
+        # Restore Table of Contents suffix (dots and page number)
+        toc_suffix = item.get("metadata", {}).get("toc_suffix")
+        if toc_suffix:
+            item["translated_text"] = str(item.get("translated_text", "")).strip() + toc_suffix
+            item["protected_translated_text"] = str(item.get("protected_translated_text", "")).strip() + toc_suffix
+            item["translation_unit_translated_text"] = str(item.get("translation_unit_translated_text", "")).strip() + toc_suffix
+            item["translation_unit_protected_translated_text"] = str(item.get("translation_unit_protected_translated_text", "")).strip() + toc_suffix
+
         preserved_group_unit_id = preserved_group_units.get(str(item_id or ""))
         if preserved_group_unit_id:
             item["translation_unit_id"] = preserved_group_unit_id

@@ -7,6 +7,7 @@ from services.rendering.layout.payload.metrics import resolve_typst_binary_fit
 
 
 def payload_to_render_block(payload: dict) -> RenderBlock:
+    is_table_block = bool(payload.get("_is_table_block", False))
     fit_to_box, fit_min_font_size_pt, fit_min_leading_em, fit_max_height_pt = resolve_typst_binary_fit(
         {
             **payload["item"],
@@ -24,8 +25,22 @@ def payload_to_render_block(payload: dict) -> RenderBlock:
         adjacent_collision_risk=payload["adjacent_collision_risk"],
         adjacent_available_height_pt=payload["adjacent_available_height_pt"],
     )
+    # P3: Table blocks must always use fit_to_box so pdftr_fit_markdown shrinks
+    # the font until the translation fits within the table bbox height.
+    if is_table_block:
+        fit_to_box = True
+        inner = payload["inner_bbox"]
+        if len(inner) == 4:
+            fit_max_height_pt = max(8.0, inner[3] - inner[1])
+        if not fit_min_font_size_pt or fit_min_font_size_pt > payload["font_size_pt"]:
+            fit_min_font_size_pt = max(4.0, payload["font_size_pt"] * 0.35)
+
+    # Embed 'table' tag in block_id so page_ops can identify table blocks
+    # for outer-border redraw without needing separate bookkeeping.
+    block_id_prefix = "table-item" if is_table_block else "item"
+
     return RenderBlock(
-        block_id=f"item-{payload['index']}",
+        block_id=f"{block_id_prefix}-{payload['index']}",
         bbox=payload["bbox"],
         cover_bbox=payload["cover_bbox"],
         inner_bbox=payload["inner_bbox"],
@@ -46,3 +61,4 @@ def payload_to_render_block(payload: dict) -> RenderBlock:
 
 def emit_render_blocks(block_payloads: list[dict]) -> list[RenderBlock]:
     return [payload_to_render_block(payload) for payload in sorted(block_payloads, key=lambda payload: payload["index"])]
+

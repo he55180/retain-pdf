@@ -127,7 +127,11 @@ def _build_structure_role(block: dict, *, layout_role: str, semantic_role: str) 
     return _STRUCTURE_ROLE_FROM_LAYOUT_ROLE.get(layout_role, "")
 
 
-def _translate_policy_reason(*, kind: str, layout_role: str, semantic_role: str) -> tuple[bool, str]:
+def _translate_policy_reason(*, kind: str, layout_role: str, semantic_role: str, has_text: bool = False) -> tuple[bool, str]:
+    # P1: Allow table blocks with actual text content to be translated.
+    # Tables were previously hard-blocked by the generic non_text guard.
+    if kind == "table" and has_text:
+        return True, "table_with_text"
     if kind != "text":
         return False, "non_text"
     if layout_role in _TEXT_ANCILLARY_LAYOUT_ROLES:
@@ -160,7 +164,7 @@ def _build_content(block: dict, *, page_index: int, order: int) -> dict:
     return content
 
 
-def _build_policy(block: dict, *, kind: str, layout_role: str, semantic_role: str) -> dict:
+def _build_policy(block: dict, *, kind: str, layout_role: str, semantic_role: str, has_text: bool = False) -> dict:
     existing = block.get("policy")
     translate_reason = ""
     translate = None
@@ -171,11 +175,16 @@ def _build_policy(block: dict, *, kind: str, layout_role: str, semantic_role: st
         if translate_reason == "missing_contract_fields":
             translate = None
             translate_reason = ""
+        # P1+P2: 强制对被标记为 non_text 的 table 块进行重新评估，以释放有文字表格的翻译许可
+        if kind == "table" and translate is False and translate_reason == "non_text":
+            translate = None
+            translate_reason = ""
     if translate is None:
         translate, translate_reason = _translate_policy_reason(
             kind=kind,
             layout_role=layout_role,
             semantic_role=semantic_role,
+            has_text=has_text,
         )
     elif not translate_reason:
         translate_reason = "explicit_policy"
@@ -250,11 +259,14 @@ def enrich_document_contract_v1(document: dict) -> dict:
             block["layout_role"] = layout_role
             block["semantic_role"] = semantic_role
             block["structure_role"] = structure_role
+            _kind = str(content.get("kind", "unknown") or "unknown")
+            _has_text = bool(str(content.get("text", "") or "").strip())
             block["policy"] = _build_policy(
                 block,
-                kind=str(content.get("kind", "unknown") or "unknown"),
+                kind=_kind,
                 layout_role=layout_role,
                 semantic_role=semantic_role,
+                has_text=_has_text,
             )
             block["provenance"] = _build_provenance(block)
     document["assets"] = _collect_assets(pages)

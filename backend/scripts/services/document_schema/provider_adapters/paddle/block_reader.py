@@ -70,8 +70,11 @@ def _paddle_structure_role(*, block_type: str, sub_type: str) -> str:
     return ""
 
 
-def _paddle_translate_policy(*, raw_label: str, block_type: str, sub_type: str) -> dict:
+def _paddle_translate_policy(*, raw_label: str, block_type: str, sub_type: str, text: str = "") -> dict:
     label = raw_label.strip().lower()
+    # P1: Allow table blocks with actual text content to be translated.
+    if block_type == "table" and text.strip():
+        return {"translate": True, "translate_reason": "table_with_text"}
     if block_type != "text":
         return {"translate": False, "translate_reason": f"provider_non_text:{block_type or 'unknown'}"}
     if label == "abstract":
@@ -205,6 +208,7 @@ def build_block_spec(
         raw_label=block_context["raw_label"],
         block_type=block_type,
         sub_type=sub_type,
+        text=block_context["text"],
     )
     metadata["structure_role"] = structure_role
     metadata["layout_role"] = layout_role

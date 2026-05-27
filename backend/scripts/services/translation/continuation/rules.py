@@ -157,9 +157,11 @@ def same_page(a: dict, b: dict) -> bool:
 
 
 def eligible(item: dict) -> bool:
+    has_parent_block = item.get("parent_block_id") or item.get("metadata", {}).get("parent_block_id")
     return (
         item_block_kind(item) == "text"
         and not item_is_caption_like(item)
+        and not has_parent_block
         and has_balanced_inline_math_delimiters(item.get("protected_source_text", ""))
         and bool(normalize_text(item.get("protected_source_text", "")))
     )

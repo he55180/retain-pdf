@@ -82,6 +82,8 @@ PRIMARY_TRANSLATABLE_STRUCTURE_ROLES = {
     ROLE_OPTION_DESCRIPTION,
     ROLE_EXAMPLE_INTRO,
     ROLE_EXAMPLE_LINE,
+    ROLE_INDEX_ENTRY,
+    ROLE_TITLE,
 }
 DERIVED_STRUCTURE_ROLE_MAP = {
     "title": ROLE_TITLE,
@@ -125,6 +127,8 @@ _TRANSLATION_METADATA_BRIDGE_KEYS = {
     "provider_column_layout_mode",
     "column_index_guess",
     "provider_column_index_guess",
+    "parent_block_id",
+    "toc_suffix",
 }
 
 
@@ -151,7 +155,12 @@ def _translation_metadata_bridge(block: dict) -> dict:
 
 
 def _repair_math_control_chars(text: str, next_text: str = "") -> str:
-    if not text or not _MATH_CONTROL_CHAR_RE.search(text):
+    if not text:
+        return text
+    # Clean special bullet and list symbols
+    text = text.replace("\uf0b7", "• ")
+    text = text.replace("\uf02d", "- ")
+    if not _MATH_CONTROL_CHAR_RE.search(text):
         return text
 
     chars = list(text)
@@ -476,8 +485,10 @@ def should_translate_block(
     page_blocks: list[dict] | None = None,
     current_block_idx: int = -1,
 ) -> bool:
+    if text and re.fullmatch(r"^[0-9.\s·_\-]+$", text.strip()):
+        return False
     explicit_policy = _block_policy_translate(block)
-    del text, page_blocks, current_block_idx
+    del page_blocks, current_block_idx
     if explicit_policy is not None:
         if not explicit_policy:
             return False
@@ -521,6 +532,26 @@ def extract_block_item(
     layout_role = _block_layout_role(block)
     semantic_role = _block_semantic_role(block)
     policy_translate = _block_policy_translate(block)
+
+    # Protect Table of Contents dots and page numbers
+    toc_suffix = ""
+    is_toc_candidate = (
+        structure_role == ROLE_INDEX_ENTRY
+        or layout_role == "index_entry"
+        or _raw_block_type(block) in ("document_index", "table_cell")
+    )
+    if is_toc_candidate:
+        match = re.search(r"^(.*?)\s*([.·_ -]*)\s*(\d+)$", text)
+        if match:
+            is_valid_toc = True
+            if _raw_block_type(block) == "table_cell":
+                is_valid_toc = bool(re.search(r"[.·_\-]", match.group(2))) or structure_role == ROLE_INDEX_ENTRY or layout_role == "index_entry"
+            if is_valid_toc:
+                text_prefix = match.group(1).strip()
+                if text_prefix:
+                    text = text_prefix
+                    toc_suffix = " " + match.group(2) + " " + match.group(3)
+
     return TextItem(
         item_id=f"p{page_idx + 1:03d}-b{block_idx:03d}{item_suffix}",
         page_idx=page_idx,
@@ -532,6 +563,7 @@ def extract_block_item(
         lines=lines,
         metadata={
             **_translation_metadata_bridge(block),
+            **({"toc_suffix": toc_suffix} if toc_suffix else {}),
         },
         block_kind=block_type,
         layout_role=layout_role,

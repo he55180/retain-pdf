@@ -223,6 +223,7 @@ def build_block_payloads(
                 font_size_pt,
                 leading_em,
             )
+        is_table_block = str(item_block_kind(item)).strip().lower() == "table"
         item_cover_bbox = resolve_cover_bbox(item)
         block_payloads.append(
             {
@@ -233,7 +234,12 @@ def build_block_payloads(
                 "inner_bbox": list(bbox) if use_raw_text_bbox else item_inner_bbox,
                 "translated_text": translated_text,
                 "formula_map": formula_map,
-                "render_kind": "plain_line" if item.get("_force_plain_line") or is_flag_like_plain_text_block(item) else "markdown",
+                # P3: table blocks always use markdown render kind (not plain_line)
+                # so that pdftr_fit_markdown engine can be activated via fit_to_box.
+                "render_kind": "markdown" if is_table_block else (
+                    "plain_line" if item.get("_force_plain_line") or is_flag_like_plain_text_block(item)
+                    else "markdown"
+                ),
                 "font_size_pt": font_size_pt,
                 "leading_em": leading_em,
                 "font_weight": resolve_font_weight(item),
@@ -243,11 +249,14 @@ def build_block_payloads(
                 "dense_small_box": dense_small_box,
                 "heavy_dense_small_box": heavy_dense_small_box,
                 "wide_aspect_body_text": wide_aspect_body_text,
-                "prefer_typst_fit": bool(body_flags.get(index, False) and dense_small_box),
+                # P3: table blocks must always activate Typst binary fit (font auto-sizing).
+                "prefer_typst_fit": True if is_table_block else bool(body_flags.get(index, False) and dense_small_box),
                 "adjacent_collision_risk": False,
                 "adjacent_available_height_pt": None,
                 "text_color": item.get("_render_text_color", (0, 0, 0)),
                 "cover_fill": item.get("_render_cover_fill", (1, 1, 1)),
+                # P3: mark table blocks for outer-border redraw in page_ops.
+                "_is_table_block": is_table_block,
             }
         )
 

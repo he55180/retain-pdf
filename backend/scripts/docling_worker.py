@@ -119,7 +119,7 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                 "order": reading_order,
                 "reading_order": reading_order,
                 "geometry": {
-                    "bbox": [bbox.l, bbox.t, bbox.r, bbox.b],
+                    "bbox": [bbox.l, page_height - bbox.t, bbox.r, page_height - bbox.b],
                 },
                 "content": {
                     "kind": kind,
@@ -135,7 +135,7 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                     "provider": "docling",
                     "raw_label": label,
                     "raw_sub_type": "",
-                    "raw_bbox": [bbox.l, bbox.t, bbox.r, bbox.b],
+                    "raw_bbox": [bbox.l, page_height - bbox.t, bbox.r, page_height - bbox.b],
                     "raw_path": str(pdf_path),
                 },
                 "continuation_hint": {
@@ -156,6 +156,62 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
 
             blocks.append(block)
             total_blocks += 1
+
+            # P3 Table adaptation: expand non-empty cells into independent text blocks
+            # for cell-level translation and background cover overlay, while keeping 
+            # the parent table block empty for scheme C border redraw.
+            if label in ("table", "document_index") and hasattr(item, "data") and getattr(item.data, "table_cells", None):
+                for cell_idx, cell in enumerate(item.data.table_cells):
+                    cell_text = (getattr(cell, "text", "") or "").strip()
+                    if not cell_text:
+                        continue
+                    cell_bbox = getattr(cell, "bbox", None)
+                    if not cell_bbox:
+                        continue
+                    
+                    cell_block = {
+                        "block_id": f"{block['block_id']}-cell-{cell_idx}",
+                        "page_index": page_index,
+                        "order": reading_order,
+                        "reading_order": reading_order,
+                        "geometry": {
+                            "bbox": [cell_bbox.l, cell_bbox.t, cell_bbox.r, cell_bbox.b],
+                        },
+                        "content": {
+                            "kind": "text",
+                            "text": cell_text,
+                        },
+                        "layout_role": "paragraph",
+                        "semantic_role": "body",
+                        "structure_role": "body",
+                        "policy": {
+                            "translate": True,
+                            "translate_reason": "table_cell",
+                        },
+                        "provenance": {
+                            "provider": "docling",
+                            "raw_label": "table_cell",
+                            "raw_sub_type": "",
+                            "raw_bbox": [cell_bbox.l, cell_bbox.t, cell_bbox.r, cell_bbox.b],
+                            "raw_path": str(pdf_path),
+                        },
+                        "continuation_hint": {
+                            "source": "",
+                            "group_id": "",
+                            "role": "",
+                            "scope": "",
+                            "reading_order": -1,
+                            "confidence": 0.0,
+                        },
+                        "metadata": {
+                            "parent_block_id": block["block_id"],
+                        },
+                        "source": {
+                            "provider": "docling",
+                        }
+                    }
+                    blocks.append(cell_block)
+                    total_blocks += 1
 
         pages_data.append({
             "page_index": page_index,
@@ -228,6 +284,39 @@ def main() -> None:
         print(f"ERROR: PDF not found: {pdf_path}", file=sys.stderr)
         sys.exit(1)
 
+    # 1. Calculate PDF MD5 for caching
+    import hashlib
+    hasher = hashlib.md5()
+    try:
+        with open(pdf_path, "rb") as f:
+            for chunk in iter(lambda: f.read(65536), b""):
+                hasher.update(chunk)
+        pdf_md5 = hasher.hexdigest()
+    except Exception as e:
+        pdf_md5 = ""
+        print(f"docling-worker: failed to compute PDF MD5: {e}", file=sys.stderr)
+
+    backend_dir = Path(__file__).resolve().parent.parent
+    cache_dir = backend_dir / "workspace" / ".cache" / "ocr"
+    cache_file = cache_dir / f"{pdf_md5}.json" if pdf_md5 else None
+    doc_v1_path = output_dir / "document.v1.json"
+
+    # 2. Check cache hit
+    if cache_file and cache_file.exists():
+        print(f"docling-worker: cache hit! loading cached OCR result from {cache_file}", flush=True)
+        try:
+            with open(cache_file, "r", encoding="utf-8") as sf:
+                cached_data = json.load(sf)
+            with open(doc_v1_path, "w", encoding="utf-8") as df:
+                json.dump(cached_data, df, ensure_ascii=False, indent=2)
+            block_count = sum(len(p["blocks"]) for p in cached_data.get("pages", []))
+            total_pages = cached_data.get("page_count", 0)
+            print(f"docling-worker: done (cached)  pages={total_pages}  "
+                  f"blocks={block_count}  output={doc_v1_path}", flush=True)
+            sys.exit(0)
+        except Exception as e:
+            print(f"docling-worker: error reading cache, falling back to full OCR: {e}", file=sys.stderr)
+
     print(f"docling-worker: pdf={pdf_path}", flush=True)
     print(f"docling-worker: output_dir={output_dir}", flush=True)
     print(f"docling-worker: do_ocr={args.do_ocr}", flush=True)
@@ -270,9 +359,18 @@ def main() -> None:
 
     # --- build document.v1.json ---
     document = _build_document_v1(pdf_path, docling_doc, elapsed)
-    doc_v1_path = output_dir / "document.v1.json"
     with open(doc_v1_path, "w", encoding="utf-8") as f:
         json.dump(document, f, ensure_ascii=False, indent=2)
+
+    # 3. Save to cache
+    if cache_file:
+        try:
+            cache_dir.mkdir(parents=True, exist_ok=True)
+            with open(cache_file, "w", encoding="utf-8") as cf:
+                json.dump(document, cf, ensure_ascii=False, indent=2)
+            print(f"docling-worker: saved OCR result to cache: {cache_file}", flush=True)
+        except Exception as e:
+            print(f"docling-worker: error saving cache: {e}", file=sys.stderr)
 
     block_count = sum(len(p["blocks"]) for p in document["pages"])
     print(f"docling-worker: done  time={elapsed:.2f}s  pages={total_pages}  "

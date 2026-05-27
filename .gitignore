@@ -44,3 +44,6 @@ VERSION
 .codex
 .codex/
 desktop/src/runtime/
+
+backend/workspace/.cache/
+output_test/
