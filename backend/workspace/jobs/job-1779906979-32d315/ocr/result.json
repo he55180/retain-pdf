@@ -1,0 +1,283 @@
+{
+  "layoutParsingResults": [
+    {
+      "prunedResult": {
+        "page_count": 2,
+        "width": 1191,
+        "height": 1684,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "parsing_res_list": [
+          {
+            "block_label": "text",
+            "block_content": "Page 1 - This is a test document.",
+            "block_bbox": [
+              193,
+              160,
+              555,
+              194
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+              [
+                193.0,
+                160.0
+              ],
+              [
+                555.0,
+                160.0
+              ],
+              [
+                555.0,
+                194.0
+              ],
+              [
+                193.0,
+                194.0
+              ]
+            ]
+          }
+        ],
+        "layout_det_res": {
+          "boxes": [
+            {
+              "cls_id": 16,
+              "label": "number",
+              "score": 0.47202247381210327,
+              "coordinate": [
+                196,
+                160,
+                280,
+                193
+              ],
+              "order": 1,
+              "polygon_points": [
+                [
+                  196.0,
+                  160.0
+                ],
+                [
+                  280.0,
+                  160.0
+                ],
+                [
+                  280.0,
+                  193.0
+                ],
+                [
+                  196.0,
+                  193.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.3456694483757019,
+              "coordinate": [
+                193,
+                160,
+                555,
+                194
+              ],
+              "order": 2,
+              "polygon_points": [
+                [
+                  193.0,
+                  160.0
+                ],
+                [
+                  555.0,
+                  160.0
+                ],
+                [
+                  555.0,
+                  194.0
+                ],
+                [
+                  193.0,
+                  194.0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "markdown": {
+        "text": "Page 1 - This is a test document.",
+        "images": {}
+      }
+    },
+    {
+      "prunedResult": {
+        "page_count": 2,
+        "width": 1191,
+        "height": 1684,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "parsing_res_list": [
+          {
+            "block_label": "text",
+            "block_content": "Page 2 - This is the second page.",
+            "block_bbox": [
+              194,
+              160,
+              562,
+              195
+            ],
+            "block_id": 0,
+            "block_order": 1,
+            "group_id": 0,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+              [
+                194.0,
+                160.0
+              ],
+              [
+                562.0,
+                160.0
+              ],
+              [
+                562.0,
+                195.0
+              ],
+              [
+                194.0,
+                195.0
+              ]
+            ]
+          }
+        ],
+        "layout_det_res": {
+          "boxes": [
+            {
+              "cls_id": 16,
+              "label": "number",
+              "score": 0.5083792805671692,
+              "coordinate": [
+                197,
+                160,
+                281,
+                193
+              ],
+              "order": 1,
+              "polygon_points": [
+                [
+                  197.0,
+                  160.0
+                ],
+                [
+                  281.0,
+                  160.0
+                ],
+                [
+                  281.0,
+                  193.0
+                ],
+                [
+                  197.0,
+                  193.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.3172045350074768,
+              "coordinate": [
+                194,
+                160,
+                562,
+                195
+              ],
+              "order": 2,
+              "polygon_points": [
+                [
+                  194.0,
+                  160.0
+                ],
+                [
+                  562.0,
+                  160.0
+                ],
+                [
+                  562.0,
+                  195.0
+                ],
+                [
+                  194.0,
+                  195.0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "markdown": {
+        "text": "Page 2 - This is the second page.",
+        "images": {}
+      }
+    }
+  ],
+  "dataInfo": {
+    "numPages": 2,
+    "pages": [
+      {
+        "width": 1191,
+        "height": 1684
+      },
+      {
+        "width": 1191,
+        "height": 1684
+      }
+    ],
+    "type": "pdf"
+  },
+  "_meta": {
+    "source": "paddle_jsonl",
+    "lineCount": 1,
+    "provider": "paddle",
+    "taskId": "53189568136556544",
+    "jsonlUrl": "https://bj.bcebos.com/v1/paddleocr-store-8/job/20e36b21adfcd19f03f84fd3186028235e942e2edc91f50d253489c51b95ed22/json/7170f64170a70b2b26ae84cbee0d67c4.json?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-27T18%3A36%3A28Z%2F604800%2F%2F54db7dce1e91fd8d95ac59d1657c1b92ebc60c5590af6ca96fde4198c9996924"
+  }
+}

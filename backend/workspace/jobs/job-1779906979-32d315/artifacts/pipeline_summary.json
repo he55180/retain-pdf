@@ -1,0 +1,148 @@
+{
+  "job_root": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315",
+  "source_pdf": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\source\\simple.pdf",
+  "layout_json": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\ocr\\result.json",
+  "normalized_document_json": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\ocr\\normalized\\document.v1.json",
+  "normalization_report_json": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\ocr\\normalized\\document.v1.report.json",
+  "normalization_report": {
+    "source_json_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\ocr\\result.json",
+    "document_id": "job-1779906979-32d315",
+    "provider": "paddle",
+    "provider_version": "PaddleOCR-VL-1.5",
+    "defaults": {
+      "pages_seen": 2,
+      "blocks_seen": 2,
+      "document_defaults": {},
+      "page_defaults": {},
+      "block_defaults": {}
+    },
+    "validation": {
+      "valid": true,
+      "schema": "normalized_document_v1",
+      "schema_version": "1.1",
+      "page_count": 2,
+      "block_count": 2
+    },
+    "provider_signals": {
+      "provider": "paddle",
+      "suspicious_cross_column_merge_pages": 0,
+      "suspicious_cross_column_merge_blocks": 0,
+      "pages": [
+        {
+          "page_index": 0,
+          "column_layout_mode": "single",
+          "suspected_cross_column_merge_block_count": 0,
+          "suspected_block_ids": [],
+          "text_missing_but_bbox_present_count": 0,
+          "text_missing_but_bbox_present_block_ids": [],
+          "peer_block_absorbed_text_count": 0,
+          "peer_block_absorbed_text_block_ids": []
+        },
+        {
+          "page_index": 1,
+          "column_layout_mode": "single",
+          "suspected_cross_column_merge_block_count": 0,
+          "suspected_block_ids": [],
+          "text_missing_but_bbox_present_count": 0,
+          "text_missing_but_bbox_present_block_ids": [],
+          "peer_block_absorbed_text_count": 0,
+          "peer_block_absorbed_text_block_ids": []
+        }
+      ]
+    },
+    "detected_provider": "paddle",
+    "detection": {
+      "matched": true,
+      "provider": "paddle",
+      "attempts": [
+        {
+          "provider": "generic_flat_ocr",
+          "matched": false
+        },
+        {
+          "provider": "mineru_content_list_v2",
+          "matched": false
+        },
+        {
+          "provider": "mineru",
+          "matched": false
+        },
+        {
+          "provider": "paddle",
+          "matched": true
+        }
+      ]
+    },
+    "provider_was_explicit": true
+  },
+  "normalization_summary": {
+    "provider": "paddle",
+    "detected_provider": "paddle",
+    "provider_was_explicit": true,
+    "pages_observed": 2,
+    "blocks_observed": 2,
+    "defaulted_document_fields": 0,
+    "defaulted_page_fields": 0,
+    "defaulted_block_fields": 0,
+    "any_defaults_applied": false,
+    "valid": true,
+    "page_count": 2,
+    "block_count": 2,
+    "detection_matched": true,
+    "detection_attempts": 4
+  },
+  "source_json_used": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\ocr\\normalized\\document.v1.json",
+  "schema_validation": {
+    "valid": true,
+    "schema": "normalized_document_v1",
+    "schema_version": "1.1",
+    "page_count": 2,
+    "block_count": 2,
+    "path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\ocr\\normalized\\document.v1.json"
+  },
+  "translations_dir": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\translated",
+  "output_pdf": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\rendered\\simple-translated.pdf",
+  "pages_processed": 2,
+  "translated_items_total": 2,
+  "rule_profile_name": "general_sci",
+  "glossary": {
+    "enabled": false,
+    "glossary_id": "",
+    "glossary_name": "",
+    "entry_count": 0,
+    "level_counts": {
+      "preserve": 0,
+      "canonical": 0,
+      "preferred": 0
+    },
+    "resource_entry_count": 0,
+    "inline_entry_count": 0,
+    "overridden_entry_count": 0,
+    "source_hit_entry_count": 0,
+    "target_hit_entry_count": 0,
+    "unused_entry_count": 0,
+    "unapplied_source_hit_entry_count": 0,
+    "preferred_hit_entry_count": 0,
+    "preferred_adoption_rate": 0.0
+  },
+  "translate_elapsed": 4.297947200000635,
+  "save_elapsed": 0.20241369999712333,
+  "total_elapsed": 4.504696600000898,
+  "translation_diagnostics_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\artifacts\\translation_diagnostics.json",
+  "translation_provider_family": "deepseek_official",
+  "translation_peak_inflight_requests": 2,
+  "translation_timeout_attempts": 0,
+  "translation_retrying_items": 0,
+  "mode": "sci",
+  "model": "deepseek-chat",
+  "base_url": "https://api.deepseek.com/v1",
+  "render_mode": "typst",
+  "effective_render_mode": "typst",
+  "pdf_compress_dpi": 0,
+  "events_jsonl": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\logs\\pipeline_events.jsonl",
+  "invocation": {
+    "stage": "provider",
+    "input_protocol": "stage_spec",
+    "stage_spec_schema_version": "provider.stage.v1"
+  }
+}

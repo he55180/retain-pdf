@@ -1,0 +1,89 @@
+{
+  "provider_family": "deepseek_official",
+  "model": "deepseek-chat",
+  "base_url": "https://api.deepseek.com/v1",
+  "configured_workers": 10,
+  "configured_batch_size": 1,
+  "configured_classify_batch_size": 12,
+  "effective_workers_translation": 10,
+  "effective_workers_policy": 10,
+  "effective_workers_continuation": 8,
+  "effective_workers_mixed_split": 4,
+  "effective_batch_size_translation": 8,
+  "pending_items": 0,
+  "total_batches": 0,
+  "request_counts": {
+    "total_http_attempts": 0,
+    "succeeded_attempts": 0,
+    "failed_attempts": 0,
+    "retried_attempts": 0,
+    "timeout_attempts": 0,
+    "http_error_attempts": 0,
+    "request_exception_attempts": 0
+  },
+  "latency_summary_ms": {
+    "count": 0,
+    "min": 0,
+    "p50": 0,
+    "p90": 0,
+    "p95": 0,
+    "max": 0,
+    "mean": 0.0
+  },
+  "retry_summary": {
+    "retrying_request_labels": 0,
+    "max_http_attempt": 1
+  },
+  "concurrency_observed": {
+    "peak_inflight_translation_requests": 0,
+    "peak_inflight_classification_requests": 0,
+    "peak_inflight_policy_requests": 0,
+    "peak_inflight_all_llm_requests": 0
+  },
+  "adaptive_concurrency": {
+    "enabled": true,
+    "current_limit": 10,
+    "peak_limit": 10
+  },
+  "phase_elapsed_ms": {
+    "page_policies": 1
+  },
+  "slow_request_samples": [],
+  "recommendations": [],
+  "translation_protocol_version": "v2",
+  "status_summary": {
+    "translated": 0,
+    "partially_translated": 0,
+    "kept_origin": 0,
+    "failed": 0
+  },
+  "route_summary": {},
+  "error_summary": {},
+  "formula_route_summary": {},
+  "heavy_block_split_summary": {},
+  "slow_items": [],
+  "dead_letter_items": [],
+  "dead_letter_count": 0,
+  "unresolved_items": [],
+  "unresolved_translation_count": 0,
+  "glossary": {
+    "enabled": false,
+    "glossary_id": "",
+    "glossary_name": "",
+    "entry_count": 0,
+    "level_counts": {
+      "preserve": 0,
+      "canonical": 0,
+      "preferred": 0
+    },
+    "resource_entry_count": 0,
+    "inline_entry_count": 0,
+    "overridden_entry_count": 0,
+    "source_hit_entry_count": 0,
+    "target_hit_entry_count": 0,
+    "unused_entry_count": 0,
+    "unapplied_source_hit_entry_count": 0,
+    "preferred_hit_entry_count": 0,
+    "preferred_adoption_rate": 0.0
+  }
+}

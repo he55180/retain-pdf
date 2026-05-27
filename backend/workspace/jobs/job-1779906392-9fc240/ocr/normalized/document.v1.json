@@ -1,0 +1,37 @@
+{
+  "schema": "normalized_document_v1",
+  "schema_version": "1.1",
+  "document_id": "job-1779906392-9fc240",
+  "source": {
+    "provider": "mineru",
+    "provider_version": "vlm",
+    "raw_files": {
+      "layout_json": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906392-9fc240\\ocr\\unpacked\\layout.json"
+    }
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_index": 0,
+      "width": 595,
+      "height": 841,
+      "unit": "pt",
+      "blocks": [],
+      "page": 1
+    },
+    {
+      "page_index": 1,
+      "width": 595,
+      "height": 841,
+      "unit": "pt",
+      "blocks": [],
+      "page": 2
+    }
+  ],
+  "derived": {
+    "notes": "This layer stores post-OCR semantic conclusions from provider rules, local rules, or later LLM judgment."
+  },
+  "markers": {},
+  "doc_id": "job-1779906392-9fc240",
+  "assets": {}
+}

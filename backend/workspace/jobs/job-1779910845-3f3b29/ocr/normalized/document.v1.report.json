@@ -1,0 +1,52 @@
+{
+  "source_json_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779910845-3f3b29\\ocr\\unpacked\\layout.json",
+  "document_id": "job-1779910845-3f3b29",
+  "provider": "mineru",
+  "provider_version": "vlm",
+  "defaults": {
+    "pages_seen": 5,
+    "blocks_seen": 61,
+    "document_defaults": {
+      "markers": 1
+    },
+    "page_defaults": {},
+    "block_defaults": {
+      "reading_order": 61,
+      "geometry": 61,
+      "content": 61,
+      "layout_role": 61,
+      "semantic_role": 61,
+      "structure_role": 61,
+      "policy": 61,
+      "provenance": 61,
+      "continuation_hint": 61
+    }
+  },
+  "validation": {
+    "valid": true,
+    "schema": "normalized_document_v1",
+    "schema_version": "1.1",
+    "page_count": 5,
+    "block_count": 61
+  },
+  "detected_provider": "mineru",
+  "detection": {
+    "matched": true,
+    "provider": "mineru",
+    "attempts": [
+      {
+        "provider": "generic_flat_ocr",
+        "matched": false
+      },
+      {
+        "provider": "mineru_content_list_v2",
+        "matched": false
+      },
+      {
+        "provider": "mineru",
+        "matched": true
+      }
+    ]
+  },
+  "provider_was_explicit": true
+}

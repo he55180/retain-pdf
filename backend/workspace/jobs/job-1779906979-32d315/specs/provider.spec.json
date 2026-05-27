@@ -1,0 +1,65 @@
+{
+  "schema_version": "provider.stage.v1",
+  "stage": "provider",
+  "job": {
+    "job_id": "job-1779906979-32d315",
+    "job_root": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315",
+    "workflow": "translation"
+  },
+  "source": {
+    "file_url": "",
+    "file_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\simple.pdf"
+  },
+  "ocr": {
+    "provider": "paddle",
+    "credential_ref": "env:PADDLE_TOKEN",
+    "model_version": "",
+    "paddle_api_url": "",
+    "paddle_model": "",
+    "is_ocr": true,
+    "disable_formula": false,
+    "disable_table": false,
+    "language": "",
+    "page_ranges": "",
+    "data_id": "",
+    "no_cache": false,
+    "cache_tolerance": 0,
+    "extra_formats": "",
+    "poll_interval": 5,
+    "poll_timeout": 300
+  },
+  "translation": {
+    "start_page": 0,
+    "end_page": 1,
+    "batch_size": 1,
+    "workers": 10,
+    "mode": "sci",
+    "math_mode": "direct_typst",
+    "skip_title_translation": false,
+    "classify_batch_size": 12,
+    "rule_profile_name": "general_sci",
+    "custom_rules_text": "",
+    "glossary_id": "",
+    "glossary_name": "",
+    "glossary_resource_entry_count": 0,
+    "glossary_inline_entry_count": 0,
+    "glossary_overridden_entry_count": 0,
+    "glossary_entries": [],
+    "model": "deepseek-chat",
+    "base_url": "https://api.deepseek.com/v1",
+    "credential_ref": "env:RETAIN_TRANSLATION_API_KEY"
+  },
+  "render": {
+    "render_mode": "typst",
+    "compile_workers": 0,
+    "typst_font_family": "Source Han Sans HW",
+    "pdf_compress_dpi": 0,
+    "translated_pdf_name": "",
+    "body_font_size_factor": 1.0,
+    "body_leading_factor": 1.0,
+    "inner_bbox_shrink_x": 0.0,
+    "inner_bbox_shrink_y": 0.0,
+    "inner_bbox_dense_shrink_x": 0.0,
+    "inner_bbox_dense_shrink_y": 0.0
+  }
+}

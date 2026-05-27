@@ -1,0 +1,2546 @@
+[
+  {
+    "item_id": "p004-b000",
+    "page_idx": 3,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      164.66193644205728,
+      115.85988362630212,
+      505.8380533854167,
+      140.0504048665365
+    ],
+    "source_text": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm.",
+    "lines": [
+      {
+        "bbox": [
+          164.66193644205728,
+          115.85988362630212,
+          505.8380533854167,
+          140.0504048665365
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm.",
+            "bbox": [
+              164.66193644205728,
+              115.85988362630212,
+              505.8380533854167,
+              140.0504048665365
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm.",
+    "mixed_original_protected_source_text": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b000"
+    ],
+    "translation_unit_protected_source_text": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "经双方同意修订，以包含服务期限内的所有适用税费、关税和征收款。",
+    "translation_unit_translated_text": "经双方同意修订，以包含服务期限内的所有适用税费、关税和征收款。",
+    "protected_translated_text": "经双方同意修订，以包含服务期限内的所有适用税费、关税和征收款。",
+    "translated_text": "经双方同意修订，以包含服务期限内的所有适用税费、关税和征收款。",
+    "continuation_group": "",
+    "continuation_prev_text": "VZA",
+    "continuation_next_text": "",
+    "continuation_decision": "joined",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b000",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "RE / VZA",
+    "translation_context_after": "c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress / d.PaymentDetails"
+  },
+  {
+    "item_id": "p004-b001",
+    "page_idx": 3,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      148.15341186523438,
+      151.50907389322913,
+      504.9914957682292,
+      176.12400309244788
+    ],
+    "source_text": "c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress",
+    "lines": [
+      {
+        "bbox": [
+          148.15341186523438,
+          151.50907389322913,
+          504.9914957682292,
+          176.12400309244788
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress",
+            "bbox": [
+              148.15341186523438,
+              151.50907389322913,
+              504.9914957682292,
+              176.12400309244788
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress",
+    "mixed_original_protected_source_text": "c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b001"
+    ],
+    "translation_unit_protected_source_text": "c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "c. 所有发票应包含服务提供商的纳税人登记号/税务识别号及完整地址。",
+    "translation_unit_translated_text": "c. 所有发票应包含服务提供商的纳税人登记号/税务识别号及完整地址。",
+    "protected_translated_text": "c. 所有发票应包含服务提供商的纳税人登记号/税务识别号及完整地址。",
+    "translated_text": "c. 所有发票应包含服务提供商的纳税人登记号/税务识别号及完整地址。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b001",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "VZA / revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm.",
+    "translation_context_after": "d.PaymentDetails / Account Name:"
+  },
+  {
+    "item_id": "p004-b002",
+    "page_idx": 3,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      149.0,
+      189.28025309244788,
+      240.43182373046875,
+      200.73891194661462
+    ],
+    "source_text": "d.PaymentDetails",
+    "lines": [
+      {
+        "bbox": [
+          149.0,
+          189.28025309244788,
+          240.43182373046875,
+          200.73891194661462
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "d.PaymentDetails",
+            "bbox": [
+              149.0,
+              189.28025309244788,
+              240.43182373046875,
+              200.73891194661462
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "d.PaymentDetails",
+    "mixed_original_protected_source_text": "d.PaymentDetails",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b002"
+    ],
+    "translation_unit_protected_source_text": "d.PaymentDetails",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p004-b002",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "fast_path_keep_origin"
+      ],
+      "output_mode_path": [],
+      "fallback_to": "keep_origin",
+      "degradation_reason": "hard_metadata_fragment",
+      "final_status": "kept_origin"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm. / c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress",
+    "translation_context_after": "Account Name: / EmergencyPlus Medical Services T Ltd"
+  },
+  {
+    "item_id": "p004-b003",
+    "page_idx": 3,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      164.66193644205728,
+      211.773193359375,
+      241.70170084635416,
+      225.35384114583337
+    ],
+    "source_text": "Account Name:",
+    "lines": [
+      {
+        "bbox": [
+          164.66193644205728,
+          211.773193359375,
+          241.70170084635416,
+          225.35384114583337
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Account Name:",
+            "bbox": [
+              164.66193644205728,
+              211.773193359375,
+              241.70170084635416,
+              225.35384114583337
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Account Name:",
+    "mixed_original_protected_source_text": "Account Name:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b003"
+    ],
+    "translation_unit_protected_source_text": "Account Name:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "账户名称：",
+    "translation_unit_translated_text": "账户名称：",
+    "protected_translated_text": "账户名称：",
+    "translated_text": "账户名称：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p004-b004",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b003",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p004-b004",
+    "translation_context_before": "c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress / d.PaymentDetails",
+    "translation_context_after": "EmergencyPlus Medical Services T Ltd / Bank Name:"
+  },
+  {
+    "item_id": "p004-b004",
+    "page_idx": 3,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      274.71875,
+      212.62196858723962,
+      467.3181966145833,
+      225.35384114583337
+    ],
+    "source_text": "EmergencyPlus Medical Services T Ltd",
+    "lines": [
+      {
+        "bbox": [
+          274.71875,
+          212.62196858723962,
+          467.3181966145833,
+          225.35384114583337
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "EmergencyPlus Medical Services T Ltd",
+            "bbox": [
+              274.71875,
+              212.62196858723962,
+              467.3181966145833,
+              225.35384114583337
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "EmergencyPlus Medical Services T Ltd",
+    "mixed_original_protected_source_text": "EmergencyPlus Medical Services T Ltd",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b004"
+    ],
+    "translation_unit_protected_source_text": "EmergencyPlus Medical Services T Ltd",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p004-b003",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p004-b004",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p004-b003",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "d.PaymentDetails / Account Name:",
+    "translation_context_after": "Bank Name: / Diamond Trustbank(DTB) T Ltd"
+  },
+  {
+    "item_id": "p004-b005",
+    "page_idx": 3,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      164.66193644205728,
+      224.50504557291663,
+      227.30965169270834,
+      237.66129557291663
+    ],
+    "source_text": "Bank Name:",
+    "lines": [
+      {
+        "bbox": [
+          164.66193644205728,
+          224.50504557291663,
+          227.30965169270834,
+          237.66129557291663
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Bank Name:",
+            "bbox": [
+              164.66193644205728,
+              224.50504557291663,
+              227.30965169270834,
+              237.66129557291663
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Bank Name:",
+    "mixed_original_protected_source_text": "Bank Name:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b005"
+    ],
+    "translation_unit_protected_source_text": "Bank Name:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "银行名称：",
+    "translation_unit_translated_text": "银行名称：",
+    "protected_translated_text": "银行名称：",
+    "translated_text": "银行名称：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p004-b006",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b005",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p004-b006",
+    "translation_context_before": "Account Name: / EmergencyPlus Medical Services T Ltd",
+    "translation_context_after": "Diamond Trustbank(DTB) T Ltd / Branch:"
+  },
+  {
+    "item_id": "p004-b006",
+    "page_idx": 3,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      274.2954508463542,
+      225.35384114583337,
+      441.0738525390625,
+      237.66129557291663
+    ],
+    "source_text": "Diamond Trustbank(DTB) T Ltd",
+    "lines": [
+      {
+        "bbox": [
+          274.2954508463542,
+          225.35384114583337,
+          441.0738525390625,
+          237.66129557291663
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Diamond Trustbank(DTB) T Ltd",
+            "bbox": [
+              274.2954508463542,
+              225.35384114583337,
+              441.0738525390625,
+              237.66129557291663
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Diamond Trustbank(DTB) T Ltd",
+    "mixed_original_protected_source_text": "Diamond Trustbank(DTB) T Ltd",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b006"
+    ],
+    "translation_unit_protected_source_text": "Diamond Trustbank(DTB) T Ltd",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "Diamond Trustbank (DTB) T Ltd",
+    "translation_unit_translated_text": "Diamond Trustbank (DTB) T Ltd",
+    "protected_translated_text": "Diamond Trustbank (DTB) T Ltd",
+    "translated_text": "Diamond Trustbank (DTB) T Ltd",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p004-b005",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b006",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p004-b005",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "EmergencyPlus Medical Services T Ltd / Bank Name:",
+    "translation_context_after": "Branch: / MbeziBranch"
+  },
+  {
+    "item_id": "p004-b007",
+    "page_idx": 3,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      165.5085245768229,
+      238.51009114583337,
+      206.1448974609375,
+      248.695556640625
+    ],
+    "source_text": "Branch:",
+    "lines": [
+      {
+        "bbox": [
+          165.5085245768229,
+          238.51009114583337,
+          206.1448974609375,
+          248.695556640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Branch:",
+            "bbox": [
+              165.5085245768229,
+              238.51009114583337,
+              206.1448974609375,
+              248.695556640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Branch:",
+    "mixed_original_protected_source_text": "Branch:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b007"
+    ],
+    "translation_unit_protected_source_text": "Branch:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "分行：",
+    "translation_unit_translated_text": "分行：",
+    "protected_translated_text": "分行：",
+    "translated_text": "分行：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p004-b008",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b007",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p004-b008",
+    "translation_context_before": "Bank Name: / Diamond Trustbank(DTB) T Ltd",
+    "translation_context_after": "MbeziBranch / TZS Account number:0264997001(TZS)"
+  },
+  {
+    "item_id": "p004-b008",
+    "page_idx": 3,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      273.02557373046875,
+      238.085693359375,
+      343.7159016927083,
+      249.11995442708337
+    ],
+    "source_text": "MbeziBranch",
+    "lines": [
+      {
+        "bbox": [
+          273.02557373046875,
+          238.085693359375,
+          343.7159016927083,
+          249.11995442708337
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "MbeziBranch",
+            "bbox": [
+              273.02557373046875,
+              238.085693359375,
+              343.7159016927083,
+              249.11995442708337
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "MbeziBranch",
+    "mixed_original_protected_source_text": "MbeziBranch",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b008"
+    ],
+    "translation_unit_protected_source_text": "MbeziBranch",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "Mbezi 分行",
+    "translation_unit_translated_text": "Mbezi 分行",
+    "protected_translated_text": "Mbezi 分行",
+    "translated_text": "Mbezi 分行",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p004-b007",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b008",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p004-b007",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Diamond Trustbank(DTB) T Ltd / Branch:",
+    "translation_context_after": "TZS Account number:0264997001(TZS) / USD Acc0unt number:0264997002 (USD)"
+  },
+  {
+    "item_id": "p004-b009",
+    "page_idx": 3,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      164.66193644205728,
+      249.54435221354163,
+      364.8806966145833,
+      262.27620442708326
+    ],
+    "source_text": "TZS Account number:0264997001(TZS)",
+    "lines": [
+      {
+        "bbox": [
+          164.66193644205728,
+          249.54435221354163,
+          364.8806966145833,
+          262.27620442708326
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS Account number:0264997001(TZS)",
+            "bbox": [
+              164.66193644205728,
+              249.54435221354163,
+              364.8806966145833,
+              262.27620442708326
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS Account number:0264997001(TZS)",
+    "mixed_original_protected_source_text": "TZS Account number:0264997001(TZS)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b009"
+    ],
+    "translation_unit_protected_source_text": "TZS Account number:0264997001(TZS)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "TZS 账户号码：0264997001(TZS)",
+    "translation_unit_translated_text": "TZS 账户号码：0264997001(TZS)",
+    "protected_translated_text": "TZS 账户号码：0264997001(TZS)",
+    "translated_text": "TZS 账户号码：0264997001(TZS)",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b009",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Branch: / MbeziBranch",
+    "translation_context_after": "USD Acc0unt number:0264997002 (USD) / Swift Code:"
+  },
+  {
+    "item_id": "p004-b010",
+    "page_idx": 3,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      164.66193644205728,
+      261.851806640625,
+      366.5738525390625,
+      274.58367919921875
+    ],
+    "source_text": "USD Acc0unt number:0264997002 (USD)",
+    "lines": [
+      {
+        "bbox": [
+          164.66193644205728,
+          261.851806640625,
+          366.5738525390625,
+          274.58367919921875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "USD Acc0unt number:0264997002 (USD)",
+            "bbox": [
+              164.66193644205728,
+              261.851806640625,
+              366.5738525390625,
+              274.58367919921875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "USD Acc0unt number:0264997002 (USD)",
+    "mixed_original_protected_source_text": "USD Acc0unt number:0264997002 (USD)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b010"
+    ],
+    "translation_unit_protected_source_text": "USD Acc0unt number:0264997002 (USD)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "USD 账号:0264997002 (USD)",
+    "translation_unit_translated_text": "USD 账号:0264997002 (USD)",
+    "protected_translated_text": "USD 账号:0264997002 (USD)",
+    "translated_text": "USD 账号:0264997002 (USD)",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b010",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "MbeziBranch / TZS Account number:0264997001(TZS)",
+    "translation_context_after": "Swift Code: / DTKETZTZ"
+  },
+  {
+    "item_id": "p004-b011",
+    "page_idx": 3,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      164.23863728841147,
+      273.31048583984375,
+      223.92329915364584,
+      286.891133626302
+    ],
+    "source_text": "Swift Code:",
+    "lines": [
+      {
+        "bbox": [
+          164.23863728841147,
+          273.31048583984375,
+          223.92329915364584,
+          286.891133626302
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Swift Code:",
+            "bbox": [
+              164.23863728841147,
+              273.31048583984375,
+              223.92329915364584,
+              286.891133626302
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Swift Code:",
+    "mixed_original_protected_source_text": "Swift Code:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b011"
+    ],
+    "translation_unit_protected_source_text": "Swift Code:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p004-b011",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TZS Account number:0264997001(TZS) / USD Acc0unt number:0264997002 (USD)",
+    "translation_context_after": "DTKETZTZ / 5. E-Plus's Obligations:"
+  },
+  {
+    "item_id": "p004-b012",
+    "page_idx": 3,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      276.41192626953125,
+      274.58367919921875,
+      340.7528483072917,
+      286.0423380533855
+    ],
+    "source_text": "DTKETZTZ",
+    "lines": [
+      {
+        "bbox": [
+          276.41192626953125,
+          274.58367919921875,
+          340.7528483072917,
+          286.0423380533855
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "DTKETZTZ",
+            "bbox": [
+              276.41192626953125,
+              274.58367919921875,
+              340.7528483072917,
+              286.0423380533855
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "DTKETZTZ",
+    "mixed_original_protected_source_text": "DTKETZTZ",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b012"
+    ],
+    "translation_unit_protected_source_text": "DTKETZTZ",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p004-b012",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "USD Acc0unt number:0264997002 (USD) / Swift Code:",
+    "translation_context_after": "5. E-Plus's Obligations: / a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days..."
+  },
+  {
+    "item_id": "p004-b013",
+    "page_idx": 3,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      114.71307373046875,
+      313.203633626302,
+      234.9289754231771,
+      325.93548583984375
+    ],
+    "source_text": "5. E-Plus's Obligations:",
+    "lines": [
+      {
+        "bbox": [
+          114.71307373046875,
+          313.203633626302,
+          234.9289754231771,
+          325.93548583984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "5. E-Plus's Obligations:",
+            "bbox": [
+              114.71307373046875,
+              313.203633626302,
+              234.9289754231771,
+              325.93548583984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "5. E-Plus's Obligations:",
+    "mixed_original_protected_source_text": "5. E-Plus's Obligations:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b013"
+    ],
+    "translation_unit_protected_source_text": "5. E-Plus's Obligations:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "5. E-Plus 的义务：",
+    "translation_unit_translated_text": "5. E-Plus 的义务：",
+    "protected_translated_text": "5. E-Plus 的义务：",
+    "translated_text": "5. E-Plus 的义务：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b013",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Swift Code: / DTKETZTZ",
+    "translation_context_after": "a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days a week (24/7), irrespective..."
+  },
+  {
+    "item_id": "p004-b014",
+    "page_idx": 3,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      147.30682373046875,
+      338.24294026692706,
+      523.6164957682291,
+      437.9757893880208
+    ],
+    "source_text": "a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days a week (24/7), irrespectiveofweekendsandpublicholidays.Inviewof theimportantnatureof theservice,itisexpressly agreed that the ambulance serviceswill be available withoutfail24hoursaday7daysaweek.",
+    "lines": [
+      {
+        "bbox": [
+          147.30682373046875,
+          338.24294026692706,
+          523.6164957682291,
+          437.9757893880208
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days a week (24/7), irrespectiveofweekendsandpublicholidays.Inviewof theimportantnatureof theservice,itisexpressly agreed that the ambulance serviceswill be available withoutfail24hoursaday7daysaweek.",
+            "bbox": [
+              147.30682373046875,
+              338.24294026692706,
+              523.6164957682291,
+              437.9757893880208
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days a week (24/7), irrespectiveofweekendsandpublicholidays.Inviewof theimportantnatureof theservice,itisexpressly agreed that the ambulance serviceswill be available withoutfail24hoursaday7daysaweek.",
+    "mixed_original_protected_source_text": "a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days a week (24/7), irrespectiveofweekendsandpublicholidays.Inviewof theimportantnatureof theservice,itisexpressly agreed that the ambulance serviceswill be available withoutfail24hoursaday7daysaweek.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b014"
+    ],
+    "translation_unit_protected_source_text": "a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days a week (24/7), irrespectiveofweekendsandpublicholidays.Inviewof theimportantnatureof theservice,itisexpressly agreed that the ambulance serviceswill be available withoutfail24hoursaday7daysaweek.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "a. E-Plus 承诺将按照经批准的国家健康与安全标准、陆路运输监管局（LATRA）以及 E-Plus 要求和建议的其他任何国际标准，提供配备齐全的救护车，向客户提供救护车服务。救护车服务应每周 7 天、每天 24 小时（24/7）提供，无论周末还是公共假日。鉴于该服务的重要性，双方明确同意救护车服务将确保全天候不间断提供。",
+    "translation_unit_translated_text": "a. E-Plus 承诺将按照经批准的国家健康与安全标准、陆路运输监管局（LATRA）以及 E-Plus 要求和建议的其他任何国际标准，提供配备齐全的救护车，向客户提供救护车服务。救护车服务应每周 7 天、每天 24 小时（24/7）提供，无论周末还是公共假日。鉴于该服务的重要性，双方明确同意救护车服务将确保全天候不间断提供。",
+    "protected_translated_text": "a. E-Plus 承诺将按照经批准的国家健康与安全标准、陆路运输监管局（LATRA）以及 E-Plus 要求和建议的其他任何国际标准，提供配备齐全的救护车，向客户提供救护车服务。救护车服务应每周 7 天、每天 24 小时（24/7）提供，无论周末还是公共假日。鉴于该服务的重要性，双方明确同意救护车服务将确保全天候不间断提供。",
+    "translated_text": "a. E-Plus 承诺将按照经批准的国家健康与安全标准、陆路运输监管局（LATRA）以及 E-Plus 要求和建议的其他任何国际标准，提供配备齐全的救护车，向客户提供救护车服务。救护车服务应每周 7 天、每天 24 小时（24/7）提供，无论周末还是公共假日。鉴于该服务的重要性，双方明确同意救护车服务将确保全天候不间断提供。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b014",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "DTKETZTZ / 5. E-Plus's Obligations:",
+    "translation_context_after": "E-Plus shall operate a point of contact accessible24-hours a day throughwhich The Client will request for ambulance services in case of an emergency.The service will be activated by calling theE-Plus EmergencyDispatch Center dispatch@eplus.co.tz / E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthel..."
+  },
+  {
+    "item_id": "p004-b015",
+    "page_idx": 3,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 15,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      149.0,
+      450.2832845052083,
+      522.7698974609375,
+      514.366943359375
+    ],
+    "source_text": "E-Plus shall operate a point of contact accessible24-hours a day throughwhich The Client will request for ambulance services in case of an emergency.The service will be activated by calling theE-Plus EmergencyDispatch Center dispatch@eplus.co.tz",
+    "lines": [
+      {
+        "bbox": [
+          149.0,
+          450.2832845052083,
+          522.7698974609375,
+          514.366943359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-Plus shall operate a point of contact accessible24-hours a day throughwhich The Client will request for ambulance services in case of an emergency.The service will be activated by calling theE-Plus EmergencyDispatch Center dispatch@eplus.co.tz",
+            "bbox": [
+              149.0,
+              450.2832845052083,
+              522.7698974609375,
+              514.366943359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-Plus shall operate a point of contact accessible24-hours a day throughwhich The Client will request for ambulance services in case of an emergency.The service will be activated by calling theE-Plus EmergencyDispatch Center dispatch@eplus.co.tz",
+    "mixed_original_protected_source_text": "E-Plus shall operate a point of contact accessible24-hours a day throughwhich The Client will request for ambulance services in case of an emergency.The service will be activated by calling theE-Plus EmergencyDispatch Center dispatch@eplus.co.tz",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b015"
+    ],
+    "translation_unit_protected_source_text": "E-Plus shall operate a point of contact accessible24-hours a day throughwhich The Client will request for ambulance services in case of an emergency.The service will be activated by calling theE-Plus EmergencyDispatch Center dispatch@eplus.co.tz",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-Plus 应设立一个24小时可用的联系点，客户可通过该联系点在紧急情况下请求救护车服务。该服务通过致电 E-Plus 紧急调度中心（dispatch@eplus.co.tz）激活。",
+    "translation_unit_translated_text": "E-Plus 应设立一个24小时可用的联系点，客户可通过该联系点在紧急情况下请求救护车服务。该服务通过致电 E-Plus 紧急调度中心（dispatch@eplus.co.tz）激活。",
+    "protected_translated_text": "E-Plus 应设立一个24小时可用的联系点，客户可通过该联系点在紧急情况下请求救护车服务。该服务通过致电 E-Plus 紧急调度中心（dispatch@eplus.co.tz）激活。",
+    "translated_text": "E-Plus 应设立一个24小时可用的联系点，客户可通过该联系点在紧急情况下请求救护车服务。该服务通过致电 E-Plus 紧急调度中心（dispatch@eplus.co.tz）激活。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b015",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "5. E-Plus's Obligations: / a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days...",
+    "translation_context_after": "E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthelocationoftheemergencyandbegin delivery of care. / d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient's..."
+  },
+  {
+    "item_id": "p004-b016",
+    "page_idx": 3,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 16,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      148.57670084635416,
+      525.8256022135416,
+      522.7698974609375,
+      564.8699544270834
+    ],
+    "source_text": "E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthelocationoftheemergencyandbegin delivery of care.",
+    "lines": [
+      {
+        "bbox": [
+          148.57670084635416,
+          525.8256022135416,
+          522.7698974609375,
+          564.8699544270834
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthelocationoftheemergencyandbegin delivery of care.",
+            "bbox": [
+              148.57670084635416,
+              525.8256022135416,
+              522.7698974609375,
+              564.8699544270834
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthelocationoftheemergencyandbegin delivery of care.",
+    "mixed_original_protected_source_text": "E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthelocationoftheemergencyandbegin delivery of care.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b016"
+    ],
+    "translation_unit_protected_source_text": "E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthelocationoftheemergencyandbegin delivery of care.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-Plus 应将其救护车在达累斯萨拉姆进行调度和部署，以最大限度地缩短到达紧急现场并开始提供护理所需的时间。",
+    "translation_unit_translated_text": "E-Plus 应将其救护车在达累斯萨拉姆进行调度和部署，以最大限度地缩短到达紧急现场并开始提供护理所需的时间。",
+    "protected_translated_text": "E-Plus 应将其救护车在达累斯萨拉姆进行调度和部署，以最大限度地缩短到达紧急现场并开始提供护理所需的时间。",
+    "translated_text": "E-Plus 应将其救护车在达累斯萨拉姆进行调度和部署，以最大限度地缩短到达紧急现场并开始提供护理所需的时间。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b016",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "a.E-Plusundertakes that it shallconform tomakeavailablefullyequipped Ambulances with approved National Health andSafety standards,Land Transport RegulatoryAuthority(LATRA)and anyotherinternational standards asrequiredandadvisedbyE-PlustodeliverambulanceservicestotheClient. The ambulance services shall be rendered 24 hours, 7 days a week (24/7), irrespective...",
+    "translation_context_after": "d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient'sinitial assessmentetc.This list isbyno means anexhaustivelistbut a mereindicationoftheforms thatwill be needed. / e.E-Plus shall as part of the agreed Services e..."
+  },
+  {
+    "item_id": "p004-b017",
+    "page_idx": 3,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 17,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.8835245768229,
+      575.9042561848959,
+      522.3465983072916,
+      639.5635172526041
+    ],
+    "source_text": "d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient'sinitial assessmentetc.This list isbyno means anexhaustivelistbut a mereindicationoftheforms thatwill be needed.",
+    "lines": [
+      {
+        "bbox": [
+          146.8835245768229,
+          575.9042561848959,
+          522.3465983072916,
+          639.5635172526041
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient'sinitial assessmentetc.This list isbyno means anexhaustivelistbut a mereindicationoftheforms thatwill be needed.",
+            "bbox": [
+              146.8835245768229,
+              575.9042561848959,
+              522.3465983072916,
+              639.5635172526041
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient'sinitial assessmentetc.This list isbyno means anexhaustivelistbut a mereindicationoftheforms thatwill be needed.",
+    "mixed_original_protected_source_text": "d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient'sinitial assessmentetc.This list isbyno means anexhaustivelistbut a mereindicationoftheforms thatwill be needed.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b017"
+    ],
+    "translation_unit_protected_source_text": "d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient'sinitial assessmentetc.This list isbyno means anexhaustivelistbut a mereindicationoftheforms thatwill be needed.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "d.E-Plus 应按照 E-Plus 标准程序的要求，填写所有必要的文件。这些文件包括用药记录、转运记录、患者初步评估等。此清单并非详尽无遗，仅为所需表格的指示性列举。",
+    "translation_unit_translated_text": "d.E-Plus 应按照 E-Plus 标准程序的要求，填写所有必要的文件。这些文件包括用药记录、转运记录、患者初步评估等。此清单并非详尽无遗，仅为所需表格的指示性列举。",
+    "protected_translated_text": "d.E-Plus 应按照 E-Plus 标准程序的要求，填写所有必要的文件。这些文件包括用药记录、转运记录、患者初步评估等。此清单并非详尽无遗，仅为所需表格的指示性列举。",
+    "translated_text": "d.E-Plus 应按照 E-Plus 标准程序的要求，填写所有必要的文件。这些文件包括用药记录、转运记录、患者初步评估等。此清单并非详尽无遗，仅为所需表格的指示性列举。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b017",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-Plus shall operate a point of contact accessible24-hours a day throughwhich The Client will request for ambulance services in case of an emergency.The service will be activated by calling theE-Plus EmergencyDispatch Center dispatch@eplus.co.tz / E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthel...",
+    "translation_context_after": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price. / f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and lic..."
+  },
+  {
+    "item_id": "p004-b018",
+    "page_idx": 3,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 18,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.8835245768229,
+      651.8709716796875,
+      522.3465983072916,
+      692.6128743489584
+    ],
+    "source_text": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price.",
+    "lines": [
+      {
+        "bbox": [
+          146.8835245768229,
+          651.8709716796875,
+          522.3465983072916,
+          692.6128743489584
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price.",
+            "bbox": [
+              146.8835245768229,
+              651.8709716796875,
+              522.3465983072916,
+              692.6128743489584
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 18,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price.",
+    "mixed_original_protected_source_text": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b018"
+    ],
+    "translation_unit_protected_source_text": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "e.E-Plus 应在约定服务范围内，确保在提供服务时使用其自有设施，包括车辆、工具、机械、器具及设备，且不产生额外费用，并作为约定合同价格的组成部分。",
+    "translation_unit_translated_text": "e.E-Plus 应在约定服务范围内，确保在提供服务时使用其自有设施，包括车辆、工具、机械、器具及设备，且不产生额外费用，并作为约定合同价格的组成部分。",
+    "protected_translated_text": "e.E-Plus 应在约定服务范围内，确保在提供服务时使用其自有设施，包括车辆、工具、机械、器具及设备，且不产生额外费用，并作为约定合同价格的组成部分。",
+    "translated_text": "e.E-Plus 应在约定服务范围内，确保在提供服务时使用其自有设施，包括车辆、工具、机械、器具及设备，且不产生额外费用，并作为约定合同价格的组成部分。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair.",
+    "continuation_decision": "joined",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b018",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-Plusshall position and distribute its ambulancesinDaresSalaam in amanner thatminimizesthetimetakentoreachthelocationoftheemergencyandbegin delivery of care. / d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient's...",
+    "translation_context_after": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair. / Provide the Client with..."
+  }
+]

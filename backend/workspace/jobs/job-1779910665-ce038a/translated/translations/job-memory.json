@@ -1,0 +1,139 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "CHEC": {
+      "hits": 2,
+      "key": "CHEC",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b028",
+        "p004-b009"
+      ],
+      "value": "CHEC"
+    },
+    "Cheng Yongjian": {
+      "hits": 1,
+      "key": "Cheng Yongjian",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b007"
+      ],
+      "value": "Cheng Yongjian"
+    },
+    "DMGP": {
+      "hits": 3,
+      "key": "DMGP",
+      "prompt_eligible": false,
+      "sources": [
+        "p001-b002"
+      ],
+      "value": "达累斯萨拉姆海上门户项目"
+    },
+    "DP World": {
+      "hits": 1,
+      "key": "DP World",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "DP World"
+    },
+    "En": {
+      "hits": 1,
+      "key": "En",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b025"
+      ],
+      "value": "En"
+    },
+    "Eng": {
+      "hits": 2,
+      "key": "Eng",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b007",
+        "p001-b049"
+      ],
+      "value": "Eng"
+    },
+    "IL": {
+      "hits": 2,
+      "key": "IL",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b012",
+        "p001-b049"
+      ],
+      "value": "IL"
+    },
+    "INROS LACKNER": {
+      "hits": 1,
+      "key": "INROS LACKNER",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b025"
+      ],
+      "value": "INROS LACKNER"
+    },
+    "PE": {
+      "hits": 1,
+      "key": "PE",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b022"
+      ],
+      "value": "PE"
+    },
+    "RE": {
+      "hits": 1,
+      "key": "RE",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b049"
+      ],
+      "value": "RE"
+    },
+    "Rodrigues": {
+      "hits": 1,
+      "key": "Rodrigues",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b049"
+      ],
+      "value": "Rodrigues"
+    },
+    "TPA": {
+      "hits": 5,
+      "key": "TPA",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b033",
+        "p001-b022",
+        "p003-b014",
+        "p001-b019",
+        "p002-b011"
+      ],
+      "value": "TPA"
+    },
+    "TZ-TPA": {
+      "hits": 1,
+      "key": "TZ-TPA",
+      "prompt_eligible": true,
+      "sources": [
+        "p005-b004"
+      ],
+      "value": "TZ-TPA"
+    },
+    "World": {
+      "hits": 1,
+      "key": "World",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "World"
+    }
+  },
+  "version": 1
+}

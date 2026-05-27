@@ -1,0 +1,95 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "ACLS/BLS": {
+      "hits": 3,
+      "key": "ACLS/BLS",
+      "prompt_eligible": false,
+      "sources": [
+        "p010-b004"
+      ],
+      "value": "针对心脏骤停时提供救生服务所需的最低培训要求"
+    },
+    "BVM": {
+      "hits": 1,
+      "key": "BVM",
+      "prompt_eligible": true,
+      "sources": [
+        "p011-b017"
+      ],
+      "value": "BVM"
+    },
+    "E-Plus": {
+      "hits": 13,
+      "key": "E-Plus",
+      "prompt_eligible": true,
+      "sources": [
+        "p011-b002",
+        "p006-b000",
+        "p008-b006",
+        "p006-b027",
+        "p007-b015",
+        "p008-b005",
+        "p008-b007"
+      ],
+      "value": "E-Plus"
+    },
+    "ETT": {
+      "hits": 3,
+      "key": "ETT",
+      "prompt_eligible": true,
+      "sources": [
+        "p010-b007"
+      ],
+      "value": "气管插管"
+    },
+    "IO": {
+      "hits": 3,
+      "key": "IO",
+      "prompt_eligible": true,
+      "sources": [
+        "p010-b011"
+      ],
+      "value": "骨内"
+    },
+    "LMA": {
+      "hits": 3,
+      "key": "LMA",
+      "prompt_eligible": true,
+      "sources": [
+        "p010-b007"
+      ],
+      "value": "和喉罩"
+    },
+    "March": {
+      "hits": 1,
+      "key": "March",
+      "prompt_eligible": true,
+      "sources": [
+        "p009-b025"
+      ],
+      "value": "March"
+    },
+    "Plus": {
+      "hits": 3,
+      "key": "Plus",
+      "prompt_eligible": true,
+      "sources": [
+        "p007-b019",
+        "p006-b027",
+        "p006-b006"
+      ],
+      "value": "Plus"
+    },
+    "TZS": {
+      "hits": 1,
+      "key": "TZS",
+      "prompt_eligible": true,
+      "sources": [
+        "p012-b016"
+      ],
+      "value": "TZS"
+    }
+  },
+  "version": 1
+}

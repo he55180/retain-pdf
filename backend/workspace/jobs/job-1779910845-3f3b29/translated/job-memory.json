@@ -1,0 +1,60 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "CW-DIR": {
+      "hits": 1,
+      "key": "CW-DIR",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b001"
+      ],
+      "value": "CW-DIR"
+    },
+    "Eng": {
+      "hits": 1,
+      "key": "Eng",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b030"
+      ],
+      "value": "Eng"
+    },
+    "IL": {
+      "hits": 1,
+      "key": "IL",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b030"
+      ],
+      "value": "IL"
+    },
+    "RE": {
+      "hits": 1,
+      "key": "RE",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b030"
+      ],
+      "value": "RE"
+    },
+    "Rodrigues": {
+      "hits": 1,
+      "key": "Rodrigues",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b030"
+      ],
+      "value": "Rodrigues"
+    },
+    "TZ-TPA": {
+      "hits": 1,
+      "key": "TZ-TPA",
+      "prompt_eligible": true,
+      "sources": [
+        "p001-b001"
+      ],
+      "value": "TZ-TPA"
+    }
+  },
+  "version": 1
+}

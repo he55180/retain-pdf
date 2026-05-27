@@ -1,0 +1,3352 @@
+[
+  {
+    "item_id": "p009-b000",
+    "page_idx": 8,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      96.93466186523438,
+      176.54838053385413,
+      513.0340983072916,
+      203.70967610677087
+    ],
+    "source_text": "IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing.",
+    "lines": [
+      {
+        "bbox": [
+          96.93466186523438,
+          176.54838053385413,
+          513.0340983072916,
+          203.70967610677087
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing.",
+            "bbox": [
+              96.93466186523438,
+              176.54838053385413,
+              513.0340983072916,
+              203.70967610677087
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing.",
+    "mixed_original_protected_source_text": "IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b000"
+    ],
+    "translation_unit_protected_source_text": "IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "兹证明，双方已于上文所载日期正式签署本文件。",
+    "translation_unit_translated_text": "兹证明，双方已于上文所载日期正式签署本文件。",
+    "protected_translated_text": "兹证明，双方已于上文所载日期正式签署本文件。",
+    "translated_text": "兹证明，双方已于上文所载日期正式签署本文件。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b000",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "15.2.E-Plus'duty to defend,indemnify and hold the Client harmless shall arise in connectionwithanyclaim,damage,lossorexpense(includingbutnot limitedtoreasonable attorney'sfees,courtcosts,andthecostof appellateproceedings)thatisattributableto personal or bodily injury, sickness, disease, death, injury to, impairment or destruction of property including loss...",
+    "translation_context_after": "SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD / Witnessed·"
+  },
+  {
+    "item_id": "p009-b001",
+    "page_idx": 8,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      99.05113728841145,
+      215.59275309244788,
+      508.3778483072917,
+      226.20261637369788
+    ],
+    "source_text": "SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD",
+    "lines": [
+      {
+        "bbox": [
+          99.05113728841145,
+          215.59275309244788,
+          508.3778483072917,
+          226.20261637369788
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD",
+            "bbox": [
+              99.05113728841145,
+              215.59275309244788,
+              508.3778483072917,
+              226.20261637369788
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD",
+    "mixed_original_protected_source_text": "SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b001"
+    ],
+    "translation_unit_protected_source_text": "SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "代表CHINA HARBOUR ENGINEERING COMPANY LTD签署",
+    "translation_unit_translated_text": "代表CHINA HARBOUR ENGINEERING COMPANY LTD签署",
+    "protected_translated_text": "代表CHINA HARBOUR ENGINEERING COMPANY LTD签署",
+    "translated_text": "代表CHINA HARBOUR ENGINEERING COMPANY LTD签署",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b001",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "15.3. E-Plus agrees to indemnify, defend and hold the Client harmless from and against any and all penalties and damagesincurred by theClientas aresult of E-Plus'failure toobtain regulations in the performance of its services under this Agreement. / IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing.",
+    "translation_context_after": "Witnessed· / By"
+  },
+  {
+    "item_id": "p009-b005",
+    "page_idx": 8,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      294.6136474609375,
+      250.81754557291663,
+      350.4886474609375,
+      263.97379557291674
+    ],
+    "source_text": "Witnessed·",
+    "lines": [
+      {
+        "bbox": [
+          294.6136474609375,
+          250.81754557291663,
+          350.4886474609375,
+          263.97379557291674
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Witnessed·",
+            "bbox": [
+              294.6136474609375,
+              250.81754557291663,
+              350.4886474609375,
+              263.97379557291674
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Witnessed·",
+    "mixed_original_protected_source_text": "Witnessed·",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b005"
+    ],
+    "translation_unit_protected_source_text": "Witnessed·",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "见证人：",
+    "translation_unit_translated_text": "见证人：",
+    "protected_translated_text": "见证人：",
+    "translated_text": "见证人：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b005",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing. / SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD",
+    "translation_context_after": "By / Designation:..."
+  },
+  {
+    "item_id": "p009-b006",
+    "page_idx": 8,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      295.88352457682294,
+      291.13509114583326,
+      312.8153483072917,
+      300.89617919921875
+    ],
+    "source_text": "By",
+    "lines": [
+      {
+        "bbox": [
+          295.88352457682294,
+          291.13509114583326,
+          312.8153483072917,
+          300.89617919921875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "By",
+            "bbox": [
+              295.88352457682294,
+              291.13509114583326,
+              312.8153483072917,
+              300.89617919921875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "By",
+    "mixed_original_protected_source_text": "By",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b006"
+    ],
+    "translation_unit_protected_source_text": "By",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "签署人",
+    "translation_unit_translated_text": "签署人",
+    "protected_translated_text": "签署人",
+    "translated_text": "签署人",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b006",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD / Witnessed·",
+    "translation_context_after": "Designation:... / DARESSALAAM"
+  },
+  {
+    "item_id": "p009-b007",
+    "page_idx": 8,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      294.1903483072917,
+      311.930440266927,
+      364.8806966145833,
+      326.359883626302
+    ],
+    "source_text": "Designation:...",
+    "lines": [
+      {
+        "bbox": [
+          294.1903483072917,
+          311.930440266927,
+          364.8806966145833,
+          326.359883626302
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Designation:...",
+            "bbox": [
+              294.1903483072917,
+              311.930440266927,
+              364.8806966145833,
+              326.359883626302
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Designation:...",
+    "mixed_original_protected_source_text": "Designation:...",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b007"
+    ],
+    "translation_unit_protected_source_text": "Designation:...",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "职务：...",
+    "translation_unit_translated_text": "职务：...",
+    "protected_translated_text": "职务：...",
+    "translated_text": "职务：...",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b007",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Witnessed· / By",
+    "translation_context_after": "DARESSALAAM / *"
+  },
+  {
+    "item_id": "p009-b008",
+    "page_idx": 8,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      119.36932373046875,
+      353.945556640625,
+      215.4573974609375,
+      357.76513671875
+    ],
+    "source_text": "DARESSALAAM",
+    "lines": [
+      {
+        "bbox": [
+          119.36932373046875,
+          353.945556640625,
+          215.4573974609375,
+          357.76513671875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "DARESSALAAM",
+            "bbox": [
+              119.36932373046875,
+              353.945556640625,
+              215.4573974609375,
+              357.76513671875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "DARESSALAAM",
+    "mixed_original_protected_source_text": "DARESSALAAM",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b008"
+    ],
+    "translation_unit_protected_source_text": "DARESSALAAM",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "达累斯萨拉姆",
+    "translation_unit_translated_text": "达累斯萨拉姆",
+    "protected_translated_text": "达累斯萨拉姆",
+    "translated_text": "达累斯萨拉姆",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b008",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "By / Designation:...",
+    "translation_context_after": "* / Date:*.."
+  },
+  {
+    "item_id": "p009-b009",
+    "page_idx": 8,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      216.3039754231771,
+      350.9748128255208,
+      223.5,
+      358.1895345052083
+    ],
+    "source_text": "*",
+    "lines": [
+      {
+        "bbox": [
+          216.3039754231771,
+          350.9748128255208,
+          223.5,
+          358.1895345052083
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "*",
+            "bbox": [
+              216.3039754231771,
+              350.9748128255208,
+              223.5,
+              358.1895345052083
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "*",
+    "mixed_original_protected_source_text": "*",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b009"
+    ],
+    "translation_unit_protected_source_text": "*",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p009-b009",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Designation:... / DARESSALAAM",
+    "translation_context_after": "Date:*.. / Date:"
+  },
+  {
+    "item_id": "p009-b010",
+    "page_idx": 8,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      84.23579406738281,
+      360.3114827473958,
+      128.2585245768229,
+      370.4969889322917
+    ],
+    "source_text": "Date:*..",
+    "lines": [
+      {
+        "bbox": [
+          84.23579406738281,
+          360.3114827473958,
+          128.2585245768229,
+          370.4969889322917
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Date:*..",
+            "bbox": [
+              84.23579406738281,
+              360.3114827473958,
+              128.2585245768229,
+              370.4969889322917
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Date:*..",
+    "mixed_original_protected_source_text": "Date:*..",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b010"
+    ],
+    "translation_unit_protected_source_text": "Date:*..",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "日期:*..",
+    "translation_unit_translated_text": "日期:*..",
+    "protected_translated_text": "日期:*..",
+    "translated_text": "日期:*..",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b010",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "DARESSALAAM / *",
+    "translation_context_after": "Date: / SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED"
+  },
+  {
+    "item_id": "p009-b011",
+    "page_idx": 8,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      294.1903483072917,
+      359.8870849609375,
+      322.1278483072917,
+      373.0433349609375
+    ],
+    "source_text": "Date:",
+    "lines": [
+      {
+        "bbox": [
+          294.1903483072917,
+          359.8870849609375,
+          322.1278483072917,
+          373.0433349609375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Date:",
+            "bbox": [
+              294.1903483072917,
+              359.8870849609375,
+              322.1278483072917,
+              373.0433349609375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Date:",
+    "mixed_original_protected_source_text": "Date:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b011"
+    ],
+    "translation_unit_protected_source_text": "Date:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "日期：",
+    "translation_unit_translated_text": "日期：",
+    "protected_translated_text": "日期：",
+    "translated_text": "日期：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b011",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "* / Date:*..",
+    "translation_context_after": "SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED / Witnessed."
+  },
+  {
+    "item_id": "p009-b012",
+    "page_idx": 8,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      98.20454915364583,
+      431.60986328125,
+      522.3465983072916,
+      454.9516194661458
+    ],
+    "source_text": "SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED",
+    "lines": [
+      {
+        "bbox": [
+          98.20454915364583,
+          431.60986328125,
+          522.3465983072916,
+          454.9516194661458
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED",
+            "bbox": [
+              98.20454915364583,
+              431.60986328125,
+              522.3465983072916,
+              454.9516194661458
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED",
+    "mixed_original_protected_source_text": "SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b012"
+    ],
+    "translation_unit_protected_source_text": "SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "代表 EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED 签署",
+    "translation_unit_translated_text": "代表 EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED 签署",
+    "protected_translated_text": "代表 EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED 签署",
+    "translated_text": "代表 EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED 签署",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b012",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Date:*.. / Date:",
+    "translation_context_after": "Witnessed. / SusanNg'ong'a"
+  },
+  {
+    "item_id": "p009-b013",
+    "page_idx": 8,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      294.6136474609375,
+      492.7227783203125,
+      350.0653483072917,
+      505.4546305338542
+    ],
+    "source_text": "Witnessed.",
+    "lines": [
+      {
+        "bbox": [
+          294.6136474609375,
+          492.7227783203125,
+          350.0653483072917,
+          505.4546305338542
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Witnessed.",
+            "bbox": [
+              294.6136474609375,
+              492.7227783203125,
+              350.0653483072917,
+              505.4546305338542
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Witnessed.",
+    "mixed_original_protected_source_text": "Witnessed.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b013"
+    ],
+    "translation_unit_protected_source_text": "Witnessed.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "见证人：",
+    "translation_unit_translated_text": "见证人：",
+    "protected_translated_text": "见证人：",
+    "translated_text": "见证人：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b013",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Date: / SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED",
+    "translation_context_after": "SusanNg'ong'a / RobertOuma"
+  },
+  {
+    "item_id": "p009-b014",
+    "page_idx": 8,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      525.4012044270834,
+      183.28692626953125,
+      537.7086588541666
+    ],
+    "source_text": "SusanNg'ong'a",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          525.4012044270834,
+          183.28692626953125,
+          537.7086588541666
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "SusanNg'ong'a",
+            "bbox": [
+              115.55966186523438,
+              525.4012044270834,
+              183.28692626953125,
+              537.7086588541666
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "SusanNg'ong'a",
+    "mixed_original_protected_source_text": "SusanNg'ong'a",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b014"
+    ],
+    "translation_unit_protected_source_text": "SusanNg'ong'a",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p009-b014",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "SignedforandonbehalfoftheEMERGENCYPLUSMEDICALSERVICESTANZANIA LIMITED / Witnessed.",
+    "translation_context_after": "RobertOuma / By"
+  },
+  {
+    "item_id": "p009-b015",
+    "page_idx": 8,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 15,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      355.9914957682292,
+      525.8256022135416,
+      411.8664957682292,
+      537.2842610677084
+    ],
+    "source_text": "RobertOuma",
+    "lines": [
+      {
+        "bbox": [
+          355.9914957682292,
+          525.8256022135416,
+          411.8664957682292,
+          537.2842610677084
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "RobertOuma",
+            "bbox": [
+              355.9914957682292,
+              525.8256022135416,
+              411.8664957682292,
+              537.2842610677084
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "RobertOuma",
+    "mixed_original_protected_source_text": "RobertOuma",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b015"
+    ],
+    "translation_unit_protected_source_text": "RobertOuma",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p009-b015",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Witnessed. / SusanNg'ong'a",
+    "translation_context_after": "By / ManagingDirector"
+  },
+  {
+    "item_id": "p009-b016",
+    "page_idx": 8,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 16,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      86.35227457682292,
+      532.6159261067709,
+      101.16761271158855,
+      541.95263671875
+    ],
+    "source_text": "By",
+    "lines": [
+      {
+        "bbox": [
+          86.35227457682292,
+          532.6159261067709,
+          101.16761271158855,
+          541.95263671875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "By",
+            "bbox": [
+              86.35227457682292,
+              532.6159261067709,
+              101.16761271158855,
+              541.95263671875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "By",
+    "mixed_original_protected_source_text": "By",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b016"
+    ],
+    "translation_unit_protected_source_text": "By",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "签署人",
+    "translation_unit_translated_text": "签署人",
+    "protected_translated_text": "签署人",
+    "translated_text": "签署人",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p009-b017",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b016",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p009-b017",
+    "translation_context_before": "SusanNg'ong'a / RobertOuma",
+    "translation_context_after": "ManagingDirector / Finance&AdministrationOfficer"
+  },
+  {
+    "item_id": "p009-b017",
+    "page_idx": 8,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 17,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      144.76704915364584,
+      547.4697672526041,
+      223.92329915364584,
+      560.2016194661459
+    ],
+    "source_text": "ManagingDirector",
+    "lines": [
+      {
+        "bbox": [
+          144.76704915364584,
+          547.4697672526041,
+          223.92329915364584,
+          560.2016194661459
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ManagingDirector",
+            "bbox": [
+              144.76704915364584,
+              547.4697672526041,
+              223.92329915364584,
+              560.2016194661459
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ManagingDirector",
+    "mixed_original_protected_source_text": "ManagingDirector",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b017"
+    ],
+    "translation_unit_protected_source_text": "ManagingDirector",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "董事总经理",
+    "translation_unit_translated_text": "董事总经理",
+    "protected_translated_text": "董事总经理",
+    "translated_text": "董事总经理",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p009-b016",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b017",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p009-b016",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "RobertOuma / By",
+    "translation_context_after": "Finance&AdministrationOfficer / Designation:.."
+  },
+  {
+    "item_id": "p009-b018",
+    "page_idx": 8,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 18,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      359.8011474609375,
+      547.0453694661459,
+      519.8068033854166,
+      559.3528238932291
+    ],
+    "source_text": "Finance&AdministrationOfficer",
+    "lines": [
+      {
+        "bbox": [
+          359.8011474609375,
+          547.0453694661459,
+          519.8068033854166,
+          559.3528238932291
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Finance&AdministrationOfficer",
+            "bbox": [
+              359.8011474609375,
+              547.0453694661459,
+              519.8068033854166,
+              559.3528238932291
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Finance&AdministrationOfficer",
+    "mixed_original_protected_source_text": "Finance&AdministrationOfficer",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b018"
+    ],
+    "translation_unit_protected_source_text": "Finance&AdministrationOfficer",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "财务与行政主任",
+    "translation_unit_translated_text": "财务与行政主任",
+    "protected_translated_text": "财务与行政主任",
+    "translated_text": "财务与行政主任",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b018",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "By / ManagingDirector",
+    "translation_context_after": "Designation:.. / Designation:"
+  },
+  {
+    "item_id": "p009-b019",
+    "page_idx": 8,
+    "block_idx": 19,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 19,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      84.65909322102864,
+      554.2600911458334,
+      154.50283813476562,
+      566.991943359375
+    ],
+    "source_text": "Designation:..",
+    "lines": [
+      {
+        "bbox": [
+          84.65909322102864,
+          554.2600911458334,
+          154.50283813476562,
+          566.991943359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Designation:..",
+            "bbox": [
+              84.65909322102864,
+              554.2600911458334,
+              154.50283813476562,
+              566.991943359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Designation:..",
+    "mixed_original_protected_source_text": "Designation:..",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b019",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b019"
+    ],
+    "translation_unit_protected_source_text": "Designation:..",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "职务：..",
+    "translation_unit_translated_text": "职务：..",
+    "protected_translated_text": "职务：..",
+    "translated_text": "职务：..",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b019",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ManagingDirector / Finance&AdministrationOfficer",
+    "translation_context_after": "Designation: / Sign .."
+  },
+  {
+    "item_id": "p009-b020",
+    "page_idx": 8,
+    "block_idx": 20,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 20,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      293.7670491536458,
+      555.10888671875,
+      355.1448974609375,
+      567.8407389322916
+    ],
+    "source_text": "Designation:",
+    "lines": [
+      {
+        "bbox": [
+          293.7670491536458,
+          555.10888671875,
+          355.1448974609375,
+          567.8407389322916
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Designation:",
+            "bbox": [
+              293.7670491536458,
+              555.10888671875,
+              355.1448974609375,
+              567.8407389322916
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 18,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Designation:",
+    "mixed_original_protected_source_text": "Designation:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b020",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b020"
+    ],
+    "translation_unit_protected_source_text": "Designation:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "职位：",
+    "translation_unit_translated_text": "职位：",
+    "protected_translated_text": "职位：",
+    "translated_text": "职位：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b020",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Finance&AdministrationOfficer / Designation:..",
+    "translation_context_after": "Sign .. / Sign"
+  },
+  {
+    "item_id": "p009-b022",
+    "page_idx": 8,
+    "block_idx": 22,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 22,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      85.5056864420573,
+      577.601806640625,
+      116.40625,
+      589.9092610677084
+    ],
+    "source_text": "Sign ..",
+    "lines": [
+      {
+        "bbox": [
+          85.5056864420573,
+          577.601806640625,
+          116.40625,
+          589.9092610677084
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Sign ..",
+            "bbox": [
+              85.5056864420573,
+              577.601806640625,
+              116.40625,
+              589.9092610677084
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 19,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Sign ..",
+    "mixed_original_protected_source_text": "Sign ..",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b022",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b022"
+    ],
+    "translation_unit_protected_source_text": "Sign ..",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p009-b022",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Designation:.. / Designation:",
+    "translation_context_after": "Sign / PO.Box10391"
+  },
+  {
+    "item_id": "p009-b023",
+    "page_idx": 8,
+    "block_idx": 23,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 23,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      295.03692626953125,
+      579.2993977864584,
+      317.4715983072917,
+      590.3336588541666
+    ],
+    "source_text": "Sign",
+    "lines": [
+      {
+        "bbox": [
+          295.03692626953125,
+          579.2993977864584,
+          317.4715983072917,
+          590.3336588541666
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Sign",
+            "bbox": [
+              295.03692626953125,
+              579.2993977864584,
+              317.4715983072917,
+              590.3336588541666
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 20,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Sign",
+    "mixed_original_protected_source_text": "Sign",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b023",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b023"
+    ],
+    "translation_unit_protected_source_text": "Sign",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "签名",
+    "translation_unit_translated_text": "签名",
+    "protected_translated_text": "签名",
+    "translated_text": "签名",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b023",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Designation: / Sign ..",
+    "translation_context_after": "PO.Box10391 / Date:.30th.March.2026"
+  },
+  {
+    "item_id": "p009-b024",
+    "page_idx": 8,
+    "block_idx": 24,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 24,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      194.2926228841146,
+      590.3336588541666,
+      222.65340169270834,
+      597.5483805338541
+    ],
+    "source_text": "PO.Box10391",
+    "lines": [
+      {
+        "bbox": [
+          194.2926228841146,
+          590.3336588541666,
+          222.65340169270834,
+          597.5483805338541
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "PO.Box10391",
+            "bbox": [
+              194.2926228841146,
+              590.3336588541666,
+              222.65340169270834,
+              597.5483805338541
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 21,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "PO.Box10391",
+    "mixed_original_protected_source_text": "PO.Box10391",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b024",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b024"
+    ],
+    "translation_unit_protected_source_text": "PO.Box10391",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p009-b024",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Sign .. / Sign",
+    "translation_context_after": "Date:.30th.March.2026 / Date:....."
+  },
+  {
+    "item_id": "p009-b025",
+    "page_idx": 8,
+    "block_idx": 25,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 25,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      84.23579406738281,
+      601.3679606119791,
+      189.21307373046875,
+      611.1290283203125
+    ],
+    "source_text": "Date:.30th.March.2026",
+    "lines": [
+      {
+        "bbox": [
+          84.23579406738281,
+          601.3679606119791,
+          189.21307373046875,
+          611.1290283203125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Date:.30th.March.2026",
+            "bbox": [
+              84.23579406738281,
+              601.3679606119791,
+              189.21307373046875,
+              611.1290283203125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 23,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Date:.30th.March.2026",
+    "mixed_original_protected_source_text": "Date:.30th.March.2026",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b025",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b025"
+    ],
+    "translation_unit_protected_source_text": "Date:.30th.March.2026",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "日期：.30th.March.2026",
+    "translation_unit_translated_text": "日期：.30th.March.2026",
+    "protected_translated_text": "日期：.30th.March.2026",
+    "translated_text": "日期：.30th.March.2026",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b025",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Sign / PO.Box10391",
+    "translation_context_after": "Date:..... / 30/03/2026"
+  },
+  {
+    "item_id": "p009-b026",
+    "page_idx": 8,
+    "block_idx": 26,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 26,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      294.1903483072917,
+      602.64111328125,
+      338.63637288411456,
+      614.9486083984375
+    ],
+    "source_text": "Date:.....",
+    "lines": [
+      {
+        "bbox": [
+          294.1903483072917,
+          602.64111328125,
+          338.63637288411456,
+          614.9486083984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Date:.....",
+            "bbox": [
+              294.1903483072917,
+              602.64111328125,
+              338.63637288411456,
+              614.9486083984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 24,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Date:.....",
+    "mixed_original_protected_source_text": "Date:.....",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b026",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b026"
+    ],
+    "translation_unit_protected_source_text": "Date:.....",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "日期:.....",
+    "translation_unit_translated_text": "日期:.....",
+    "protected_translated_text": "日期:.....",
+    "translated_text": "日期:.....",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p009-b026",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PO.Box10391 / Date:.30th.March.2026",
+    "translation_context_after": "30/03/2026 / M"
+  },
+  {
+    "item_id": "p009-b027",
+    "page_idx": 8,
+    "block_idx": 27,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 27,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      366.1505533854167,
+      600.0947672526041,
+      413.1363525390625,
+      610.2802327473959
+    ],
+    "source_text": "30/03/2026",
+    "lines": [
+      {
+        "bbox": [
+          366.1505533854167,
+          600.0947672526041,
+          413.1363525390625,
+          610.2802327473959
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "30/03/2026",
+            "bbox": [
+              366.1505533854167,
+              600.0947672526041,
+              413.1363525390625,
+              610.2802327473959
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 22,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "30/03/2026",
+    "mixed_original_protected_source_text": "30/03/2026",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b027",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b027"
+    ],
+    "translation_unit_protected_source_text": "30/03/2026",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p009-b027",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Date:.30th.March.2026 / Date:.....",
+    "translation_context_after": "M / 1.General ScopeofWork"
+  },
+  {
+    "item_id": "p009-b029",
+    "page_idx": 8,
+    "block_idx": 29,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 29,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      587.1107991536459,
+      143.02116902669275,
+      593.883544921875,
+      151.50907389322913
+    ],
+    "source_text": "M",
+    "lines": [
+      {
+        "bbox": [
+          587.1107991536459,
+          143.02116902669275,
+          593.883544921875,
+          151.50907389322913
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "M",
+            "bbox": [
+              587.1107991536459,
+              143.02116902669275,
+              593.883544921875,
+              151.50907389322913
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 25,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "M",
+    "mixed_original_protected_source_text": "M",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p009-b029",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p009-b029"
+    ],
+    "translation_unit_protected_source_text": "M",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p010-b000",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p009-b029",
+      "page_idx": 8,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p010-b000",
+    "translation_context_before": "Date:..... / 30/03/2026",
+    "translation_context_after": "1.General ScopeofWork / Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam."
+  }
+]

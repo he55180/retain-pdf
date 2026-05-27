@@ -1,0 +1,24 @@
+[
+    {
+        "type": "page_footnote",
+        "text": "Page 1 - This is a test document. ",
+        "bbox": [
+            164,
+            95,
+            462,
+            112
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_footnote",
+        "text": "Page 2 - This is the second page. ",
+        "bbox": [
+            164,
+            95,
+            468,
+            112
+        ],
+        "page_idx": 1
+    }
+]

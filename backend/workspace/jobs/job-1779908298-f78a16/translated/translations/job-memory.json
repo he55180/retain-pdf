@@ -1,0 +1,173 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "ACLS/BLS": {
+      "hits": 3,
+      "key": "ACLS/BLS",
+      "prompt_eligible": false,
+      "sources": [
+        "p010-b004"
+      ],
+      "value": "生命抢救服务所需的最低培训"
+    },
+    "BVM": {
+      "hits": 1,
+      "key": "BVM",
+      "prompt_eligible": true,
+      "sources": [
+        "p011-b017"
+      ],
+      "value": "BVM"
+    },
+    "DTB": {
+      "hits": 1,
+      "key": "DTB",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b006"
+      ],
+      "value": "DTB"
+    },
+    "Diamond Trustbank": {
+      "hits": 1,
+      "key": "Diamond Trustbank",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b006"
+      ],
+      "value": "Diamond Trustbank"
+    },
+    "E-Plus": {
+      "hits": 29,
+      "key": "E-Plus",
+      "prompt_eligible": true,
+      "sources": [
+        "p008-b005",
+        "p004-b018",
+        "p005-b003",
+        "p011-b002",
+        "p008-b006",
+        "p007-b015",
+        "p008-b007",
+        "p002-b002"
+      ],
+      "value": "E-Plus"
+    },
+    "ETT": {
+      "hits": 3,
+      "key": "ETT",
+      "prompt_eligible": true,
+      "sources": [
+        "p010-b007"
+      ],
+      "value": "气管插管"
+    },
+    "Gerezani": {
+      "hits": 1,
+      "key": "Gerezani",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b004"
+      ],
+      "value": "Gerezani"
+    },
+    "KED": {
+      "hits": 1,
+      "key": "KED",
+      "prompt_eligible": true,
+      "sources": [
+        "p011-b007"
+      ],
+      "value": "KED"
+    },
+    "LATRA": {
+      "hits": 9,
+      "key": "LATRA",
+      "prompt_eligible": false,
+      "sources": [
+        "p003-b002",
+        "p004-b014",
+        "p005-b000"
+      ],
+      "value": "包括所有国家运输与安全管理局条例及陆路运输监管局"
+    },
+    "LMA": {
+      "hits": 3,
+      "key": "LMA",
+      "prompt_eligible": true,
+      "sources": [
+        "p010-b007"
+      ],
+      "value": "和喉罩"
+    },
+    "PPE": {
+      "hits": 3,
+      "key": "PPE",
+      "prompt_eligible": false,
+      "sources": [
+        "p005-b005"
+      ],
+      "value": "班时配备适当制服及所有其他必要的个人防护装备和服装"
+    },
+    "Plus": {
+      "hits": 4,
+      "key": "Plus",
+      "prompt_eligible": true,
+      "sources": [
+        "p005-b007",
+        "p006-b027",
+        "p006-b006",
+        "p007-b019"
+      ],
+      "value": "Plus"
+    },
+    "RENG": {
+      "hits": 1,
+      "key": "RENG",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "RENG"
+    },
+    "SusanNg": {
+      "hits": 1,
+      "key": "SusanNg",
+      "prompt_eligible": true,
+      "sources": [
+        "p009-b014"
+      ],
+      "value": "SusanNg"
+    },
+    "T Ltd": {
+      "hits": 1,
+      "key": "T Ltd",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b006"
+      ],
+      "value": "T Ltd"
+    },
+    "TZS": {
+      "hits": 3,
+      "key": "TZS",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b009",
+        "p003-b006",
+        "p012-b016"
+      ],
+      "value": "TZS"
+    },
+    "USD": {
+      "hits": 1,
+      "key": "USD",
+      "prompt_eligible": true,
+      "sources": [
+        "p004-b010"
+      ],
+      "value": "USD"
+    }
+  },
+  "version": 1
+}

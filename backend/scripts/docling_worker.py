@@ -169,13 +169,20 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                     if not cell_bbox:
                         continue
                     
+                    col_index = getattr(cell, "col_start", -1)
+                    if col_index == -1:
+                        col_index = getattr(cell, "col_index", -1)
+                    row_index = getattr(cell, "row_start", -1)
+                    if row_index == -1:
+                        row_index = getattr(cell, "row_index", -1)
+                    
                     cell_block = {
                         "block_id": f"{block['block_id']}-cell-{cell_idx}",
                         "page_index": page_index,
                         "order": reading_order,
                         "reading_order": reading_order,
                         "geometry": {
-                            "bbox": [cell_bbox.l, cell_bbox.t, cell_bbox.r, cell_bbox.b],
+                            "bbox": [cell_bbox.l, page_height - cell_bbox.t, cell_bbox.r, page_height - cell_bbox.b],
                         },
                         "content": {
                             "kind": "text",
@@ -192,7 +199,7 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                             "provider": "docling",
                             "raw_label": "table_cell",
                             "raw_sub_type": "",
-                            "raw_bbox": [cell_bbox.l, cell_bbox.t, cell_bbox.r, cell_bbox.b],
+                            "raw_bbox": [cell_bbox.l, page_height - cell_bbox.t, cell_bbox.r, page_height - cell_bbox.b],
                             "raw_path": str(pdf_path),
                         },
                         "continuation_hint": {
@@ -205,6 +212,8 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                         },
                         "metadata": {
                             "parent_block_id": block["block_id"],
+                            "row_index": row_index,
+                            "col_index": col_index,
                         },
                         "source": {
                             "provider": "docling",

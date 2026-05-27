@@ -1,0 +1,3636 @@
+[
+  {
+    "item_id": "p006-b000",
+    "page_idx": 5,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      163.81533813476562,
+      114.58669026692712,
+      521.9232991536459,
+      141.74798583984375
+    ],
+    "source_text": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions.",
+    "lines": [
+      {
+        "bbox": [
+          163.81533813476562,
+          114.58669026692712,
+          521.9232991536459,
+          141.74798583984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions.",
+            "bbox": [
+              163.81533813476562,
+              114.58669026692712,
+              521.9232991536459,
+              141.74798583984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions.",
+    "mixed_original_protected_source_text": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b000"
+    ],
+    "translation_unit_protected_source_text": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "或职业。E-Plus应对员工绩效、许可和行为负责。",
+    "translation_unit_translated_text": "或职业。E-Plus应对员工绩效、许可和行为负责。",
+    "protected_translated_text": "或职业。E-Plus应对员工绩效、许可和行为负责。",
+    "translated_text": "或职业。E-Plus应对员工绩效、许可和行为负责。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b000",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "",
+    "translation_context_after": "5.Entire Agreement: / ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement."
+  },
+  {
+    "item_id": "p006-b001",
+    "page_idx": 5,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.13636271158855,
+      178.67036946614587,
+      223.92329915364584,
+      191.4022216796875
+    ],
+    "source_text": "5.Entire Agreement:",
+    "lines": [
+      {
+        "bbox": [
+          115.13636271158855,
+          178.67036946614587,
+          223.92329915364584,
+          191.4022216796875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "5.Entire Agreement:",
+            "bbox": [
+              115.13636271158855,
+              178.67036946614587,
+              223.92329915364584,
+              191.4022216796875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "5.Entire Agreement:",
+    "mixed_original_protected_source_text": "5.Entire Agreement:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b001"
+    ],
+    "translation_unit_protected_source_text": "5.Entire Agreement:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "5. 完整协议：",
+    "translation_unit_translated_text": "5. 完整协议：",
+    "protected_translated_text": "5. 完整协议：",
+    "translated_text": "5. 完整协议：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b001",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions.",
+    "translation_context_after": "ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement. / 6. No Waiver:"
+  },
+  {
+    "item_id": "p006-b002",
+    "page_idx": 5,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      132.06818644205728,
+      202.86088053385413,
+      522.3465983072916,
+      227.05141194661462
+    ],
+    "source_text": "ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement.",
+    "lines": [
+      {
+        "bbox": [
+          132.06818644205728,
+          202.86088053385413,
+          522.3465983072916,
+          227.05141194661462
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement.",
+            "bbox": [
+              132.06818644205728,
+              202.86088053385413,
+              522.3465983072916,
+              227.05141194661462
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement.",
+    "mixed_original_protected_source_text": "ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b002"
+    ],
+    "translation_unit_protected_source_text": "ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "本协议构成双方就本协议所涉事项达成的完整协议与谅解。",
+    "translation_unit_translated_text": "本协议构成双方就本协议所涉事项达成的完整协议与谅解。",
+    "protected_translated_text": "本协议构成双方就本协议所涉事项达成的完整协议与谅解。",
+    "translated_text": "本协议构成双方就本协议所涉事项达成的完整协议与谅解。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b002",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions. / 5.Entire Agreement:",
+    "translation_context_after": "6. No Waiver: / No variation of this Agreement shall be valid unless it is in writing given by either party to the other."
+  },
+  {
+    "item_id": "p006-b003",
+    "page_idx": 5,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      240.63205973307288,
+      190.48295084635416,
+      252.51511637369788
+    ],
+    "source_text": "6. No Waiver:",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          240.63205973307288,
+          190.48295084635416,
+          252.51511637369788
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "6. No Waiver:",
+            "bbox": [
+              115.55966186523438,
+              240.63205973307288,
+              190.48295084635416,
+              252.51511637369788
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "6. No Waiver:",
+    "mixed_original_protected_source_text": "6. No Waiver:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b003"
+    ],
+    "translation_unit_protected_source_text": "6. No Waiver:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "6. 无弃权：",
+    "translation_unit_translated_text": "6. 无弃权：",
+    "protected_translated_text": "6. 无弃权：",
+    "translated_text": "6. 无弃权：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b003",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "5.Entire Agreement: / ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement.",
+    "translation_context_after": "No variation of this Agreement shall be valid unless it is in writing given by either party to the other. / 7.Termination:"
+  },
+  {
+    "item_id": "p006-b004",
+    "page_idx": 5,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      131.64488728841147,
+      265.2469685872395,
+      522.3465983072916,
+      291.13509114583326
+    ],
+    "source_text": "No variation of this Agreement shall be valid unless it is in writing given by either party to the other.",
+    "lines": [
+      {
+        "bbox": [
+          131.64488728841147,
+          265.2469685872395,
+          522.3465983072916,
+          291.13509114583326
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "No variation of this Agreement shall be valid unless it is in writing given by either party to the other.",
+            "bbox": [
+              131.64488728841147,
+              265.2469685872395,
+              522.3465983072916,
+              291.13509114583326
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "No variation of this Agreement shall be valid unless it is in writing given by either party to the other.",
+    "mixed_original_protected_source_text": "No variation of this Agreement shall be valid unless it is in writing given by either party to the other.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b004"
+    ],
+    "translation_unit_protected_source_text": "No variation of this Agreement shall be valid unless it is in writing given by either party to the other.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "对本协议的任何变更，除非由一方向另一方书面作出，否则无效。",
+    "translation_unit_translated_text": "对本协议的任何变更，除非由一方向另一方书面作出，否则无效。",
+    "protected_translated_text": "对本协议的任何变更，除非由一方向另一方书面作出，否则无效。",
+    "translated_text": "对本协议的任何变更，除非由一方向另一方书面作出，否则无效。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b004",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ThisAgreementconstitutes the entireAgreementandunderstandingof theparties relatingto thematters arisingin thisAgreement. / 6. No Waiver:",
+    "translation_context_after": "7.Termination: / Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus."
+  },
+  {
+    "item_id": "p006-b005",
+    "page_idx": 5,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      116.40625,
+      305.140116373698,
+      193.0227254231771,
+      316.59879557291674
+    ],
+    "source_text": "7.Termination:",
+    "lines": [
+      {
+        "bbox": [
+          116.40625,
+          305.140116373698,
+          193.0227254231771,
+          316.59879557291674
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "7.Termination:",
+            "bbox": [
+              116.40625,
+              305.140116373698,
+              193.0227254231771,
+              316.59879557291674
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "7.Termination:",
+    "mixed_original_protected_source_text": "7.Termination:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b005"
+    ],
+    "translation_unit_protected_source_text": "7.Termination:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "7. 终止：",
+    "translation_unit_translated_text": "7. 终止：",
+    "protected_translated_text": "7. 终止：",
+    "translated_text": "7. 终止：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b005",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "6. No Waiver: / No variation of this Agreement shall be valid unless it is in writing given by either party to the other.",
+    "translation_context_after": "Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus. / 8. Notice:"
+  },
+  {
+    "item_id": "p006-b006",
+    "page_idx": 5,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      132.4914754231771,
+      329.75504557291674,
+      524.4630533854166,
+      390.4435628255208
+    ],
+    "source_text": "Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus.",
+    "lines": [
+      {
+        "bbox": [
+          132.4914754231771,
+          329.75504557291674,
+          524.4630533854166,
+          390.4435628255208
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus.",
+            "bbox": [
+              132.4914754231771,
+              329.75504557291674,
+              524.4630533854166,
+              390.4435628255208
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus.",
+    "mixed_original_protected_source_text": "Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b006"
+    ],
+    "translation_unit_protected_source_text": "Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "任何一方可因另一方未能实质性地履行（启动终止的一方）而终止本协议。此外，客户拥有绝对权利，无需理由、为方便而随时暂停或终止本协议，只需提前三十(30)日书面通知E-Plus。",
+    "translation_unit_translated_text": "任何一方可因另一方未能实质性地履行（启动终止的一方）而终止本协议。此外，客户拥有绝对权利，无需理由、为方便而随时暂停或终止本协议，只需提前三十(30)日书面通知E-Plus。",
+    "protected_translated_text": "任何一方可因另一方未能实质性地履行（启动终止的一方）而终止本协议。此外，客户拥有绝对权利，无需理由、为方便而随时暂停或终止本协议，只需提前三十(30)日书面通知E-Plus。",
+    "translated_text": "任何一方可因另一方未能实质性地履行（启动终止的一方）而终止本协议。此外，客户拥有绝对权利，无需理由、为方便而随时暂停或终止本协议，只需提前三十(30)日书面通知E-Plus。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b006",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "No variation of this Agreement shall be valid unless it is in writing given by either party to the other. / 7.Termination:",
+    "translation_context_after": "8. Notice: / Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses."
+  },
+  {
+    "item_id": "p006-b007",
+    "page_idx": 5,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.98295084635417,
+      404.4486083984375,
+      170.1647745768229,
+      417.1804606119792
+    ],
+    "source_text": "8. Notice:",
+    "lines": [
+      {
+        "bbox": [
+          115.98295084635417,
+          404.4486083984375,
+          170.1647745768229,
+          417.1804606119792
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "8. Notice:",
+            "bbox": [
+              115.98295084635417,
+              404.4486083984375,
+              170.1647745768229,
+              417.1804606119792
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "8. Notice:",
+    "mixed_original_protected_source_text": "8. Notice:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b007"
+    ],
+    "translation_unit_protected_source_text": "8. Notice:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "8. 通知:",
+    "translation_unit_translated_text": "8. 通知:",
+    "protected_translated_text": "8. 通知:",
+    "translated_text": "8. 通知:",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b007",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "7.Termination: / Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus.",
+    "translation_context_after": "Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses. / EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD"
+  },
+  {
+    "item_id": "p006-b008",
+    "page_idx": 5,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      133.33807373046875,
+      429.9123128255208,
+      524.8863525390625,
+      467.2590738932292
+    ],
+    "source_text": "Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses.",
+    "lines": [
+      {
+        "bbox": [
+          133.33807373046875,
+          429.9123128255208,
+          524.8863525390625,
+          467.2590738932292
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses.",
+            "bbox": [
+              133.33807373046875,
+              429.9123128255208,
+              524.8863525390625,
+              467.2590738932292
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses.",
+    "mixed_original_protected_source_text": "Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b008"
+    ],
+    "translation_unit_protected_source_text": "Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "根据本协议一方向另一方发出的任何通知，均应以书面形式或通过电报、传真或电子邮件发送，并随后以书面形式确认送达以下地址。",
+    "translation_unit_translated_text": "根据本协议一方向另一方发出的任何通知，均应以书面形式或通过电报、传真或电子邮件发送，并随后以书面形式确认送达以下地址。",
+    "protected_translated_text": "根据本协议一方向另一方发出的任何通知，均应以书面形式或通过电报、传真或电子邮件发送，并随后以书面形式确认送达以下地址。",
+    "translated_text": "根据本协议一方向另一方发出的任何通知，均应以书面形式或通过电报、传真或电子邮件发送，并随后以书面形式确认送达以下地址。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b008",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Eitherpartymay terminatethisAgreementforfailureoftheotherpartytosubstantially party initiating the termination.Further, the Client has the absolute right to suspend or terminate thisAgreementwithout cause for convenience at any time upon thirty (30) days prior writtennotice toE-Plus. / 8. Notice:",
+    "translation_context_after": "EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD / CHINA HARBOUR ENGINEERING COMPANYLTD"
+  },
+  {
+    "item_id": "p006-b010",
+    "page_idx": 5,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      88.46875,
+      490.1764322916667,
+      278.5284016927083,
+      514.366943359375
+    ],
+    "source_text": "EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD",
+    "lines": [
+      {
+        "bbox": [
+          88.46875,
+          490.1764322916667,
+          278.5284016927083,
+          514.366943359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD",
+            "bbox": [
+              88.46875,
+              490.1764322916667,
+              278.5284016927083,
+              514.366943359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD",
+    "mixed_original_protected_source_text": "EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b010"
+    ],
+    "translation_unit_protected_source_text": "EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b010",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "8. Notice: / Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses.",
+    "translation_context_after": "CHINA HARBOUR ENGINEERING COMPANYLTD / Susan Ng'ong'a"
+  },
+  {
+    "item_id": "p006-b011",
+    "page_idx": 5,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      297.1534016927083,
+      489.32763671875,
+      527.8494466145834,
+      513.5181477864584
+    ],
+    "source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "lines": [
+      {
+        "bbox": [
+          297.1534016927083,
+          489.32763671875,
+          527.8494466145834,
+          513.5181477864584
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+            "bbox": [
+              297.1534016927083,
+              489.32763671875,
+              527.8494466145834,
+              513.5181477864584
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "mixed_original_protected_source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b011"
+    ],
+    "translation_unit_protected_source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b011",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Any noticegivenby either party to the other pursuant to theAgreement shall be sent in writing or by telegram, fax, or electronic mail and confirmed in writing to the following addresses. / EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD",
+    "translation_context_after": "Susan Ng'ong'a / Wang Meng"
+  },
+  {
+    "item_id": "p006-b012",
+    "page_idx": 5,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      87.62216186523438,
+      516.4889322916666,
+      164.66193644205728,
+      530.0695393880209
+    ],
+    "source_text": "Susan Ng'ong'a",
+    "lines": [
+      {
+        "bbox": [
+          87.62216186523438,
+          516.4889322916666,
+          164.66193644205728,
+          530.0695393880209
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Susan Ng'ong'a",
+            "bbox": [
+              87.62216186523438,
+              516.4889322916666,
+              164.66193644205728,
+              530.0695393880209
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Susan Ng'ong'a",
+    "mixed_original_protected_source_text": "Susan Ng'ong'a",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b012"
+    ],
+    "translation_unit_protected_source_text": "Susan Ng'ong'a",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b012",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "EMERGENCY PLUSMEDICAL SERVICESTANZANIALTD / CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "translation_context_after": "Wang Meng / Managing Director"
+  },
+  {
+    "item_id": "p006-b013",
+    "page_idx": 5,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      297.5767008463542,
+      515.2157389322916,
+      355.9914957682292,
+      529.2207845052084
+    ],
+    "source_text": "Wang Meng",
+    "lines": [
+      {
+        "bbox": [
+          297.5767008463542,
+          515.2157389322916,
+          355.9914957682292,
+          529.2207845052084
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Wang Meng",
+            "bbox": [
+              297.5767008463542,
+              515.2157389322916,
+              355.9914957682292,
+              529.2207845052084
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Wang Meng",
+    "mixed_original_protected_source_text": "Wang Meng",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b013"
+    ],
+    "translation_unit_protected_source_text": "Wang Meng",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b013",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHINA HARBOUR ENGINEERING COMPANYLTD / Susan Ng'ong'a",
+    "translation_context_after": "Managing Director / ConstructionManager"
+  },
+  {
+    "item_id": "p006-b014",
+    "page_idx": 5,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      88.04545084635417,
+      530.0695393880209,
+      177.36079915364584,
+      542.8014322916666
+    ],
+    "source_text": "Managing Director",
+    "lines": [
+      {
+        "bbox": [
+          88.04545084635417,
+          530.0695393880209,
+          177.36079915364584,
+          542.8014322916666
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Managing Director",
+            "bbox": [
+              88.04545084635417,
+              530.0695393880209,
+              177.36079915364584,
+              542.8014322916666
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Managing Director",
+    "mixed_original_protected_source_text": "Managing Director",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b014"
+    ],
+    "translation_unit_protected_source_text": "Managing Director",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "董事总经理",
+    "translation_unit_translated_text": "董事总经理",
+    "protected_translated_text": "董事总经理",
+    "translated_text": "董事总经理",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b014",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Susan Ng'ong'a / Wang Meng",
+    "translation_context_after": "ConstructionManager / Emergency Plus Medical Services TanzaniaLimited"
+  },
+  {
+    "item_id": "p006-b015",
+    "page_idx": 5,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      297.1534016927083,
+      527.9475911458334,
+      400.4375,
+      541.5282389322916
+    ],
+    "source_text": "ConstructionManager",
+    "lines": [
+      {
+        "bbox": [
+          297.1534016927083,
+          527.9475911458334,
+          400.4375,
+          541.5282389322916
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ConstructionManager",
+            "bbox": [
+              297.1534016927083,
+              527.9475911458334,
+              400.4375,
+              541.5282389322916
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ConstructionManager",
+    "mixed_original_protected_source_text": "ConstructionManager",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b015"
+    ],
+    "translation_unit_protected_source_text": "ConstructionManager",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "施工经理",
+    "translation_unit_translated_text": "施工经理",
+    "protected_translated_text": "施工经理",
+    "translated_text": "施工经理",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b015",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Wang Meng / Managing Director",
+    "translation_context_after": "Emergency Plus Medical Services TanzaniaLimited / CHINAHARBOURENGINEERINGCOMPANY LTD"
+  },
+  {
+    "item_id": "p006-b016",
+    "page_idx": 5,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      87.62216186523438,
+      541.5282389322916,
+      278.5284016927083,
+      566.991943359375
+    ],
+    "source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "lines": [
+      {
+        "bbox": [
+          87.62216186523438,
+          541.5282389322916,
+          278.5284016927083,
+          566.991943359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Emergency Plus Medical Services TanzaniaLimited",
+            "bbox": [
+              87.62216186523438,
+              541.5282389322916,
+              278.5284016927083,
+              566.991943359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "mixed_original_protected_source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b016"
+    ],
+    "translation_unit_protected_source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b016",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Managing Director / ConstructionManager",
+    "translation_context_after": "CHINAHARBOURENGINEERINGCOMPANY LTD / PlotNo.18 ChatoStreet,UrsinoEstate"
+  },
+  {
+    "item_id": "p006-b017",
+    "page_idx": 5,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      297.1534016927083,
+      542.3770345052084,
+      527.0028483072916,
+      566.991943359375
+    ],
+    "source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "lines": [
+      {
+        "bbox": [
+          297.1534016927083,
+          542.3770345052084,
+          527.0028483072916,
+          566.991943359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+            "bbox": [
+              297.1534016927083,
+              542.3770345052084,
+              527.0028483072916,
+              566.991943359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "mixed_original_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b017"
+    ],
+    "translation_unit_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b017",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ConstructionManager / Emergency Plus Medical Services TanzaniaLimited",
+    "translation_context_after": "PlotNo.18 ChatoStreet,UrsinoEstate / LugodaStreet-Gerezani"
+  },
+  {
+    "item_id": "p006-b018",
+    "page_idx": 5,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      88.04545084635417,
+      568.6895345052084,
+      264.13637288411456,
+      580.9969889322916
+    ],
+    "source_text": "PlotNo.18 ChatoStreet,UrsinoEstate",
+    "lines": [
+      {
+        "bbox": [
+          88.04545084635417,
+          568.6895345052084,
+          264.13637288411456,
+          580.9969889322916
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "PlotNo.18 ChatoStreet,UrsinoEstate",
+            "bbox": [
+              88.04545084635417,
+              568.6895345052084,
+              264.13637288411456,
+              580.9969889322916
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "PlotNo.18 ChatoStreet,UrsinoEstate",
+    "mixed_original_protected_source_text": "PlotNo.18 ChatoStreet,UrsinoEstate",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b018"
+    ],
+    "translation_unit_protected_source_text": "PlotNo.18 ChatoStreet,UrsinoEstate",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b018",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Emergency Plus Medical Services TanzaniaLimited / CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "translation_context_after": "LugodaStreet-Gerezani / P.O.Box10391,DaresSalaam-Tanzania"
+  },
+  {
+    "item_id": "p006-b019",
+    "page_idx": 5,
+    "block_idx": 19,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      298.0,
+      568.26513671875,
+      407.2102457682292,
+      580.9969889322916
+    ],
+    "source_text": "LugodaStreet-Gerezani",
+    "lines": [
+      {
+        "bbox": [
+          298.0,
+          568.26513671875,
+          407.2102457682292,
+          580.9969889322916
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "LugodaStreet-Gerezani",
+            "bbox": [
+              298.0,
+              568.26513671875,
+              407.2102457682292,
+              580.9969889322916
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "LugodaStreet-Gerezani",
+    "mixed_original_protected_source_text": "LugodaStreet-Gerezani",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b019",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b019"
+    ],
+    "translation_unit_protected_source_text": "LugodaStreet-Gerezani",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b019",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHINAHARBOURENGINEERINGCOMPANY LTD / PlotNo.18 ChatoStreet,UrsinoEstate",
+    "translation_context_after": "P.O.Box10391,DaresSalaam-Tanzania / P.O.Box 32550,Dar es Salaam-Tanzania"
+  },
+  {
+    "item_id": "p006-b020",
+    "page_idx": 5,
+    "block_idx": 20,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      88.46875,
+      582.694580078125,
+      278.10512288411456,
+      593.304443359375
+    ],
+    "source_text": "P.O.Box10391,DaresSalaam-Tanzania",
+    "lines": [
+      {
+        "bbox": [
+          88.46875,
+          582.694580078125,
+          278.10512288411456,
+          593.304443359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "P.O.Box10391,DaresSalaam-Tanzania",
+            "bbox": [
+              88.46875,
+              582.694580078125,
+              278.10512288411456,
+              593.304443359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "P.O.Box10391,DaresSalaam-Tanzania",
+    "mixed_original_protected_source_text": "P.O.Box10391,DaresSalaam-Tanzania",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b020",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b020"
+    ],
+    "translation_unit_protected_source_text": "P.O.Box10391,DaresSalaam-Tanzania",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b020",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PlotNo.18 ChatoStreet,UrsinoEstate / LugodaStreet-Gerezani",
+    "translation_context_after": "P.O.Box 32550,Dar es Salaam-Tanzania / Tel:+255753533495"
+  },
+  {
+    "item_id": "p006-b021",
+    "page_idx": 5,
+    "block_idx": 21,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      297.1534016927083,
+      580.9969889322916,
+      486.789794921875,
+      593.304443359375
+    ],
+    "source_text": "P.O.Box 32550,Dar es Salaam-Tanzania",
+    "lines": [
+      {
+        "bbox": [
+          297.1534016927083,
+          580.9969889322916,
+          486.789794921875,
+          593.304443359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "P.O.Box 32550,Dar es Salaam-Tanzania",
+            "bbox": [
+              297.1534016927083,
+              580.9969889322916,
+              486.789794921875,
+              593.304443359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "P.O.Box 32550,Dar es Salaam-Tanzania",
+    "mixed_original_protected_source_text": "P.O.Box 32550,Dar es Salaam-Tanzania",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b021",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b021"
+    ],
+    "translation_unit_protected_source_text": "P.O.Box 32550,Dar es Salaam-Tanzania",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b021",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "LugodaStreet-Gerezani / P.O.Box10391,DaresSalaam-Tanzania",
+    "translation_context_after": "Tel:+255753533495 / Tel:+255612612688"
+  },
+  {
+    "item_id": "p006-b022",
+    "page_idx": 5,
+    "block_idx": 22,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      89.31533813476562,
+      595.4264322916666,
+      193.4460245768229,
+      606.8850911458334
+    ],
+    "source_text": "Tel:+255753533495",
+    "lines": [
+      {
+        "bbox": [
+          89.31533813476562,
+          595.4264322916666,
+          193.4460245768229,
+          606.8850911458334
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Tel:+255753533495",
+            "bbox": [
+              89.31533813476562,
+              595.4264322916666,
+              193.4460245768229,
+              606.8850911458334
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Tel:+255753533495",
+    "mixed_original_protected_source_text": "Tel:+255753533495",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b022",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b022"
+    ],
+    "translation_unit_protected_source_text": "Tel:+255753533495",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b022",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "P.O.Box10391,DaresSalaam-Tanzania / P.O.Box 32550,Dar es Salaam-Tanzania",
+    "translation_context_after": "Tel:+255612612688 / Email:info@eplus.co.tz"
+  },
+  {
+    "item_id": "p006-b023",
+    "page_idx": 5,
+    "block_idx": 23,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      298.0,
+      595.0020345052084,
+      402.977294921875,
+      606.0362955729166
+    ],
+    "source_text": "Tel:+255612612688",
+    "lines": [
+      {
+        "bbox": [
+          298.0,
+          595.0020345052084,
+          402.977294921875,
+          606.0362955729166
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Tel:+255612612688",
+            "bbox": [
+              298.0,
+              595.0020345052084,
+              402.977294921875,
+              606.0362955729166
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Tel:+255612612688",
+    "mixed_original_protected_source_text": "Tel:+255612612688",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b023",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b023"
+    ],
+    "translation_unit_protected_source_text": "Tel:+255612612688",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b023",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "P.O.Box 32550,Dar es Salaam-Tanzania / Tel:+255753533495",
+    "translation_context_after": "Email:info@eplus.co.tz / Email:fhectdp@gmail.com"
+  },
+  {
+    "item_id": "p006-b024",
+    "page_idx": 5,
+    "block_idx": 24,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      89.31533813476562,
+      608.5826822916666,
+      199.79545084635416,
+      620.0413411458334
+    ],
+    "source_text": "Email:info@eplus.co.tz",
+    "lines": [
+      {
+        "bbox": [
+          89.31533813476562,
+          608.5826822916666,
+          199.79545084635416,
+          620.0413411458334
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Email:info@eplus.co.tz",
+            "bbox": [
+              89.31533813476562,
+              608.5826822916666,
+              199.79545084635416,
+              620.0413411458334
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Email:info@eplus.co.tz",
+    "mixed_original_protected_source_text": "Email:info@eplus.co.tz",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b024",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b024"
+    ],
+    "translation_unit_protected_source_text": "Email:info@eplus.co.tz",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b024",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Tel:+255753533495 / Tel:+255612612688",
+    "translation_context_after": "Email:fhectdp@gmail.com / 9. Quality control:"
+  },
+  {
+    "item_id": "p006-b025",
+    "page_idx": 5,
+    "block_idx": 25,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      298.4232991536458,
+      608.1582845052084,
+      423.71875,
+      619.616943359375
+    ],
+    "source_text": "Email:fhectdp@gmail.com",
+    "lines": [
+      {
+        "bbox": [
+          298.4232991536458,
+          608.1582845052084,
+          423.71875,
+          619.616943359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Email:fhectdp@gmail.com",
+            "bbox": [
+              298.4232991536458,
+              608.1582845052084,
+              423.71875,
+              619.616943359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d1b59491-aac7-482c-80b1-c9dc8ba105a3",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Email:fhectdp@gmail.com",
+    "mixed_original_protected_source_text": "Email:fhectdp@gmail.com",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b025",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b025"
+    ],
+    "translation_unit_protected_source_text": "Email:fhectdp@gmail.com",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p006-b025",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Tel:+255612612688 / Email:info@eplus.co.tz",
+    "translation_context_after": "9. Quality control: / Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanag..."
+  },
+  {
+    "item_id": "p006-b026",
+    "page_idx": 5,
+    "block_idx": 26,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      104.97727457682292,
+      658.6612955729166,
+      201.06534830729166,
+      672.6663411458334
+    ],
+    "source_text": "9. Quality control:",
+    "lines": [
+      {
+        "bbox": [
+          104.97727457682292,
+          658.6612955729166,
+          201.06534830729166,
+          672.6663411458334
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "9. Quality control:",
+            "bbox": [
+              104.97727457682292,
+              658.6612955729166,
+              201.06534830729166,
+              672.6663411458334
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "9. Quality control:",
+    "mixed_original_protected_source_text": "9. Quality control:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b026",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b026"
+    ],
+    "translation_unit_protected_source_text": "9. Quality control:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "9. 质量控制：",
+    "translation_unit_translated_text": "9. 质量控制：",
+    "protected_translated_text": "9. 质量控制：",
+    "translated_text": "9. 质量控制：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b026",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Email:info@eplus.co.tz / Email:fhectdp@gmail.com",
+    "translation_context_after": "Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanagement andsupplies,vehi..."
+  },
+  {
+    "item_id": "p006-b027",
+    "page_idx": 5,
+    "block_idx": 27,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      134.18466186523438,
+      684.5493977864584,
+      525.7329508463541,
+      722.320556640625
+    ],
+    "source_text": "Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanagement andsupplies,vehiclelicense,andsoonwill beresponsibilityof E-Plus.However,the Client shall beprovidedwith thecopyofthecredentials/licensure of theE-Plus and of their employees at theinception of thisAgreement and during the termwhenever the subject isrenewed or there is a change in staff assigned.",
+    "lines": [
+      {
+        "bbox": [
+          134.18466186523438,
+          684.5493977864584,
+          525.7329508463541,
+          722.320556640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanagement andsupplies,vehiclelicense,andsoonwill beresponsibilityof E-Plus.However,the Client shall beprovidedwith thecopyofthecredentials/licensure of theE-Plus and of their employees at theinception of thisAgreement and during the termwhenever the subject isrenewed or there is a change in staff assigned.",
+            "bbox": [
+              134.18466186523438,
+              684.5493977864584,
+              525.7329508463541,
+              722.320556640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 255.14,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanagement andsupplies,vehiclelicense,andsoonwill beresponsibilityof E-Plus.However,the Client shall beprovidedwith thecopyofthecredentials/licensure of theE-Plus and of their employees at theinception of thisAgreement and during the termwhenever the subject isrenewed or there is a change in staff assigned.",
+    "mixed_original_protected_source_text": "Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanagement andsupplies,vehiclelicense,andsoonwill beresponsibilityof E-Plus.However,the Client shall beprovidedwith thecopyofthecredentials/licensure of theE-Plus and of their employees at theinception of thisAgreement and during the termwhenever the subject isrenewed or there is a change in staff assigned.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p006-b027",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p006-b027"
+    ],
+    "translation_unit_protected_source_text": "Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanagement andsupplies,vehiclelicense,andsoonwill beresponsibilityof E-Plus.However,the Client shall beprovidedwith thecopyofthecredentials/licensure of theE-Plus and of their employees at theinception of thisAgreement and during the termwhenever the subject isrenewed or there is a change in staff assigned.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "救护车服务质量将通过客户指定机构进行的定期抽查与审计予以监督。E-Plus 负责按季度收集、监测客户反馈并据此采取行动，同时将相关报告提交客户主管机构。确保员工资质/执照处于最新状态、设备库存与物资管理、车辆牌照等事宜由 E-Plus 承担。然而，在本协议生效时以及协议期内每当相关证件更新或指派人员发生变动时，客户应获得 E-Plus 及其员工资质/执照的副本。",
+    "translation_unit_translated_text": "救护车服务质量将通过客户指定机构进行的定期抽查与审计予以监督。E-Plus 负责按季度收集、监测客户反馈并据此采取行动，同时将相关报告提交客户主管机构。确保员工资质/执照处于最新状态、设备库存与物资管理、车辆牌照等事宜由 E-Plus 承担。然而，在本协议生效时以及协议期内每当相关证件更新或指派人员发生变动时，客户应获得 E-Plus 及其员工资质/执照的副本。",
+    "protected_translated_text": "救护车服务质量将通过客户指定机构进行的定期抽查与审计予以监督。E-Plus 负责按季度收集、监测客户反馈并据此采取行动，同时将相关报告提交客户主管机构。确保员工资质/执照处于最新状态、设备库存与物资管理、车辆牌照等事宜由 E-Plus 承担。然而，在本协议生效时以及协议期内每当相关证件更新或指派人员发生变动时，客户应获得 E-Plus 及其员工资质/执照的副本。",
+    "translated_text": "救护车服务质量将通过客户指定机构进行的定期抽查与审计予以监督。E-Plus 负责按季度收集、监测客户反馈并据此采取行动，同时将相关报告提交客户主管机构。确保员工资质/执照处于最新状态、设备库存与物资管理、车辆牌照等事宜由 E-Plus 承担。然而，在本协议生效时以及协议期内每当相关证件更新或指派人员发生变动时，客户应获得 E-Plus 及其员工资质/执照的副本。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p006-b027",
+      "page_idx": 5,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Email:fhectdp@gmail.com / 9. Quality control:",
+    "translation_context_after": "10.Authorised Representatives / EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD"
+  }
+]

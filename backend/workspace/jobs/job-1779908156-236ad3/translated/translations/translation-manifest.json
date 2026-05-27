@@ -1,0 +1,256 @@
+{
+  "schema": "translation_manifest_v1",
+  "schema_version": 1,
+  "pages": [
+    {
+      "page_index": 0,
+      "page_number": 1,
+      "path": "page-001-deepseek.json"
+    },
+    {
+      "page_index": 1,
+      "page_number": 2,
+      "path": "page-002-deepseek.json"
+    },
+    {
+      "page_index": 2,
+      "page_number": 3,
+      "path": "page-003-deepseek.json"
+    },
+    {
+      "page_index": 3,
+      "page_number": 4,
+      "path": "page-004-deepseek.json"
+    },
+    {
+      "page_index": 4,
+      "page_number": 5,
+      "path": "page-005-deepseek.json"
+    }
+  ],
+  "glossary": {
+    "enabled": false,
+    "glossary_id": "",
+    "glossary_name": "",
+    "entry_count": 0,
+    "level_counts": {
+      "preserve": 0,
+      "canonical": 0,
+      "preferred": 0
+    },
+    "resource_entry_count": 0,
+    "inline_entry_count": 0,
+    "overridden_entry_count": 0,
+    "source_hit_entry_count": 0,
+    "target_hit_entry_count": 0,
+    "unused_entry_count": 0,
+    "unapplied_source_hit_entry_count": 0,
+    "preferred_hit_entry_count": 0,
+    "preferred_adoption_rate": 0.0
+  },
+  "math_mode": "direct_typst",
+  "translation_protocol_version": "v2",
+  "status_summary": {
+    "translated": 87,
+    "partially_translated": 0,
+    "kept_origin": 33,
+    "failed": 0
+  },
+  "route_summary": {
+    "block_level": {
+      "count": 120,
+      "success_rate": 0.725
+    },
+    "direct_typst": {
+      "count": 116,
+      "success_rate": 0.75
+    },
+    "fast_path_keep_origin": {
+      "count": 4,
+      "success_rate": 0.0
+    }
+  },
+  "error_summary": {},
+  "formula_route_summary": {},
+  "heavy_block_split_summary": {},
+  "slow_items": [],
+  "dead_letter_items": [],
+  "dead_letter_count": 0,
+  "unresolved_items": [
+    {
+      "item_id": "p001-b003",
+      "page_idx": 0,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p001-b020",
+      "page_idx": 0,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p001-b023",
+      "page_idx": 0,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p001-b026",
+      "page_idx": 0,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p001-b029",
+      "page_idx": 0,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b003",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b015",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b016",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b017",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b018",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b027",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b028",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b029",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b030",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b034",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p002-b038",
+      "page_idx": 1,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b003",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b007",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b011",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b015",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b019",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b023",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b028",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b029",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b033",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p003-b037",
+      "page_idx": 2,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p004-b003",
+      "page_idx": 3,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p004-b007",
+      "page_idx": 3,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    },
+    {
+      "item_id": "p004-b010",
+      "page_idx": 3,
+      "final_status": "kept_origin",
+      "reason": "untranslated"
+    }
+  ],
+  "unresolved_translation_count": 29
+}

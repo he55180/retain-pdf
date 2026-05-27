@@ -1,0 +1,2560 @@
+[
+  {
+    "item_id": "p007-b000",
+    "page_idx": 6,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      98.62783813476562,
+      193.09979248046875,
+      252.7073974609375,
+      205.40726725260413
+    ],
+    "source_text": "10.Authorised Representatives",
+    "lines": [
+      {
+        "bbox": [
+          98.62783813476562,
+          193.09979248046875,
+          252.7073974609375,
+          205.40726725260413
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "10.Authorised Representatives",
+            "bbox": [
+              98.62783813476562,
+              193.09979248046875,
+              252.7073974609375,
+              205.40726725260413
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "10.Authorised Representatives",
+    "mixed_original_protected_source_text": "10.Authorised Representatives",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b000"
+    ],
+    "translation_unit_protected_source_text": "10.Authorised Representatives",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "10. 授权代表",
+    "translation_unit_translated_text": "10. 授权代表",
+    "protected_translated_text": "10. 授权代表",
+    "translated_text": "10. 授权代表",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b000",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "9. Quality control: / Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanag...",
+    "translation_context_after": "EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD / CHINA HARBOUR ENGINEERING COMPANYLTD"
+  },
+  {
+    "item_id": "p007-b002",
+    "page_idx": 6,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.07670593261719,
+      223.65625,
+      262.86647542317706,
+      246.99798583984375
+    ],
+    "source_text": "EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD",
+    "lines": [
+      {
+        "bbox": [
+          74.07670593261719,
+          223.65625,
+          262.86647542317706,
+          246.99798583984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD",
+            "bbox": [
+              74.07670593261719,
+              223.65625,
+              262.86647542317706,
+              246.99798583984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD",
+    "mixed_original_protected_source_text": "EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b002"
+    ],
+    "translation_unit_protected_source_text": "EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b002",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Qualityof theambulanceservicewill bemonitored throughperiodicspotchecks and audits by Client's assigned authority.E-Plus will be responsible for obtaining, monitoring and acting upon customerfeedbackon a quarterlybasis and share thereport with the Client's authorities.Ensuringupdated staff credentials/licensure,equipment inventorymanagement andsupplies,vehi...",
+    "translation_context_after": "CHINA HARBOUR ENGINEERING COMPANYLTD / Susan Ng'ong'a"
+  },
+  {
+    "item_id": "p007-b003",
+    "page_idx": 6,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      283.1846516927083,
+      221.95867919921875,
+      513.0340983072916,
+      246.5735880533854
+    ],
+    "source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "lines": [
+      {
+        "bbox": [
+          283.1846516927083,
+          221.95867919921875,
+          513.0340983072916,
+          246.5735880533854
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+            "bbox": [
+              283.1846516927083,
+              221.95867919921875,
+              513.0340983072916,
+              246.5735880533854
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "mixed_original_protected_source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b003"
+    ],
+    "translation_unit_protected_source_text": "CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b003",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "10.Authorised Representatives / EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD",
+    "translation_context_after": "Susan Ng'ong'a / WangMeng"
+  },
+  {
+    "item_id": "p007-b004",
+    "page_idx": 6,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.92329406738281,
+      249.96875,
+      149.42329915364584,
+      261.42742919921875
+    ],
+    "source_text": "Susan Ng'ong'a",
+    "lines": [
+      {
+        "bbox": [
+          74.92329406738281,
+          249.96875,
+          149.42329915364584,
+          261.42742919921875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Susan Ng'ong'a",
+            "bbox": [
+              74.92329406738281,
+              249.96875,
+              149.42329915364584,
+              261.42742919921875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Susan Ng'ong'a",
+    "mixed_original_protected_source_text": "Susan Ng'ong'a",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b004"
+    ],
+    "translation_unit_protected_source_text": "Susan Ng'ong'a",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b004",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "EMERGENCYPLUSMEDICAL SERVICESTANZANIALTD / CHINA HARBOUR ENGINEERING COMPANYLTD",
+    "translation_context_after": "WangMeng / Managing Director"
+  },
+  {
+    "item_id": "p007-b005",
+    "page_idx": 6,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      283.1846516927083,
+      247.4223836263021,
+      341.5994466145833,
+      261.42742919921875
+    ],
+    "source_text": "WangMeng",
+    "lines": [
+      {
+        "bbox": [
+          283.1846516927083,
+          247.4223836263021,
+          341.5994466145833,
+          261.42742919921875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "WangMeng",
+            "bbox": [
+              283.1846516927083,
+              247.4223836263021,
+              341.5994466145833,
+              261.42742919921875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "WangMeng",
+    "mixed_original_protected_source_text": "WangMeng",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b005"
+    ],
+    "translation_unit_protected_source_text": "WangMeng",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b005",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHINA HARBOUR ENGINEERING COMPANYLTD / Susan Ng'ong'a",
+    "translation_context_after": "Managing Director / ConstructionManager"
+  },
+  {
+    "item_id": "p007-b006",
+    "page_idx": 6,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.07670593261719,
+      261.851806640625,
+      162.54545084635416,
+      275.8568522135417
+    ],
+    "source_text": "Managing Director",
+    "lines": [
+      {
+        "bbox": [
+          74.07670593261719,
+          261.851806640625,
+          162.54545084635416,
+          275.8568522135417
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Managing Director",
+            "bbox": [
+              74.07670593261719,
+              261.851806640625,
+              162.54545084635416,
+              275.8568522135417
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Managing Director",
+    "mixed_original_protected_source_text": "Managing Director",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b006"
+    ],
+    "translation_unit_protected_source_text": "Managing Director",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "董事总经理",
+    "translation_unit_translated_text": "董事总经理",
+    "protected_translated_text": "董事总经理",
+    "translated_text": "董事总经理",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b006",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Susan Ng'ong'a / WangMeng",
+    "translation_context_after": "ConstructionManager / Emergency Plus Medical Services TanzaniaLimited"
+  },
+  {
+    "item_id": "p007-b007",
+    "page_idx": 6,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      283.1846516927083,
+      261.00303141276044,
+      385.6221516927083,
+      273.31048583984375
+    ],
+    "source_text": "ConstructionManager",
+    "lines": [
+      {
+        "bbox": [
+          283.1846516927083,
+          261.00303141276044,
+          385.6221516927083,
+          273.31048583984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ConstructionManager",
+            "bbox": [
+              283.1846516927083,
+              261.00303141276044,
+              385.6221516927083,
+              273.31048583984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ConstructionManager",
+    "mixed_original_protected_source_text": "ConstructionManager",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b007"
+    ],
+    "translation_unit_protected_source_text": "ConstructionManager",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "施工经理",
+    "translation_unit_translated_text": "施工经理",
+    "protected_translated_text": "施工经理",
+    "translated_text": "施工经理",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b007",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "WangMeng / Managing Director",
+    "translation_context_after": "Emergency Plus Medical Services TanzaniaLimited / CHINAHARBOURENGINEERINGCOMPANY LTD"
+  },
+  {
+    "item_id": "p007-b008",
+    "page_idx": 6,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.07670593261719,
+      275.008056640625,
+      263.28977457682294,
+      298.77419026692706
+    ],
+    "source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "lines": [
+      {
+        "bbox": [
+          74.07670593261719,
+          275.008056640625,
+          263.28977457682294,
+          298.77419026692706
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Emergency Plus Medical Services TanzaniaLimited",
+            "bbox": [
+              74.07670593261719,
+              275.008056640625,
+              263.28977457682294,
+              298.77419026692706
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "mixed_original_protected_source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b008"
+    ],
+    "translation_unit_protected_source_text": "Emergency Plus Medical Services TanzaniaLimited",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b008",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Managing Director / ConstructionManager",
+    "translation_context_after": "CHINAHARBOURENGINEERINGCOMPANY LTD / OfficeTel;+255753533495"
+  },
+  {
+    "item_id": "p007-b009",
+    "page_idx": 6,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      282.33807373046875,
+      274.15928141276044,
+      512.6107991536459,
+      298.77419026692706
+    ],
+    "source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "lines": [
+      {
+        "bbox": [
+          282.33807373046875,
+          274.15928141276044,
+          512.6107991536459,
+          298.77419026692706
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+            "bbox": [
+              282.33807373046875,
+              274.15928141276044,
+              512.6107991536459,
+              298.77419026692706
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "mixed_original_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b009"
+    ],
+    "translation_unit_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b009",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ConstructionManager / Emergency Plus Medical Services TanzaniaLimited",
+    "translation_context_after": "OfficeTel;+255753533495 / Tel;+255612612688"
+  },
+  {
+    "item_id": "p007-b010",
+    "page_idx": 6,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.5,
+      300.89617919921875,
+      210.37784830729166,
+      311.93044026692706
+    ],
+    "source_text": "OfficeTel;+255753533495",
+    "lines": [
+      {
+        "bbox": [
+          74.5,
+          300.89617919921875,
+          210.37784830729166,
+          311.93044026692706
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "OfficeTel;+255753533495",
+            "bbox": [
+              74.5,
+              300.89617919921875,
+              210.37784830729166,
+              311.93044026692706
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "OfficeTel;+255753533495",
+    "mixed_original_protected_source_text": "OfficeTel;+255753533495",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b010"
+    ],
+    "translation_unit_protected_source_text": "OfficeTel;+255753533495",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "办公电话;+255753533495",
+    "translation_unit_translated_text": "办公电话;+255753533495",
+    "protected_translated_text": "办公电话;+255753533495",
+    "translated_text": "办公电话;+255753533495",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b010",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Emergency Plus Medical Services TanzaniaLimited / CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "translation_context_after": "Tel;+255612612688 / Email:ngonga.susan@eplus.co.tz"
+  },
+  {
+    "item_id": "p007-b011",
+    "page_idx": 6,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      282.76137288411456,
+      299.62298583984375,
+      388.5852457682292,
+      311.50604248046875
+    ],
+    "source_text": "Tel;+255612612688",
+    "lines": [
+      {
+        "bbox": [
+          282.76137288411456,
+          299.62298583984375,
+          388.5852457682292,
+          311.50604248046875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Tel;+255612612688",
+            "bbox": [
+              282.76137288411456,
+              299.62298583984375,
+              388.5852457682292,
+              311.50604248046875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Tel;+255612612688",
+    "mixed_original_protected_source_text": "Tel;+255612612688",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b011"
+    ],
+    "translation_unit_protected_source_text": "Tel;+255612612688",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b011",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHINAHARBOURENGINEERINGCOMPANY LTD / OfficeTel;+255753533495",
+    "translation_context_after": "Email:ngonga.susan@eplus.co.tz / Email:fhectdp@gmail.com"
+  },
+  {
+    "item_id": "p007-b012",
+    "page_idx": 6,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.07670593261719,
+      314.05242919921875,
+      228.15625,
+      326.35988362630206
+    ],
+    "source_text": "Email:ngonga.susan@eplus.co.tz",
+    "lines": [
+      {
+        "bbox": [
+          74.07670593261719,
+          314.05242919921875,
+          228.15625,
+          326.35988362630206
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Email:ngonga.susan@eplus.co.tz",
+            "bbox": [
+              74.07670593261719,
+              314.05242919921875,
+              228.15625,
+              326.35988362630206
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Email:ngonga.susan@eplus.co.tz",
+    "mixed_original_protected_source_text": "Email:ngonga.susan@eplus.co.tz",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b012"
+    ],
+    "translation_unit_protected_source_text": "Email:ngonga.susan@eplus.co.tz",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b012",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "OfficeTel;+255753533495 / Tel;+255612612688",
+    "translation_context_after": "Email:fhectdp@gmail.com / 11.Quality Improvement and Patient Safety Aspects and Monitoring"
+  },
+  {
+    "item_id": "p007-b013",
+    "page_idx": 6,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      283.1846516927083,
+      312.77923583984375,
+      408.9034016927083,
+      325.51108805338544
+    ],
+    "source_text": "Email:fhectdp@gmail.com",
+    "lines": [
+      {
+        "bbox": [
+          283.1846516927083,
+          312.77923583984375,
+          408.9034016927083,
+          325.51108805338544
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Email:fhectdp@gmail.com",
+            "bbox": [
+              283.1846516927083,
+              312.77923583984375,
+              408.9034016927083,
+              325.51108805338544
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "905964e8-57aa-4195-8761-fb692c05e6c2",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Email:fhectdp@gmail.com",
+    "mixed_original_protected_source_text": "Email:fhectdp@gmail.com",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b013"
+    ],
+    "translation_unit_protected_source_text": "Email:fhectdp@gmail.com",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p007-b013",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Tel;+255612612688 / Email:ngonga.susan@eplus.co.tz",
+    "translation_context_after": "11.Quality Improvement and Patient Safety Aspects and Monitoring / E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contract..."
+  },
+  {
+    "item_id": "p007-b014",
+    "page_idx": 6,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.86079915364583,
+      339.09173583984375,
+      437.2642008463542,
+      351.3992106119792
+    ],
+    "source_text": "11.Quality Improvement and Patient Safety Aspects and Monitoring",
+    "lines": [
+      {
+        "bbox": [
+          102.86079915364583,
+          339.09173583984375,
+          437.2642008463542,
+          351.3992106119792
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "11.Quality Improvement and Patient Safety Aspects and Monitoring",
+            "bbox": [
+              102.86079915364583,
+              339.09173583984375,
+              437.2642008463542,
+              351.3992106119792
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "11.Quality Improvement and Patient Safety Aspects and Monitoring",
+    "mixed_original_protected_source_text": "11.Quality Improvement and Patient Safety Aspects and Monitoring",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b014"
+    ],
+    "translation_unit_protected_source_text": "11.Quality Improvement and Patient Safety Aspects and Monitoring",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "11. 质量改进与患者安全方面及监测",
+    "translation_unit_translated_text": "11. 质量改进与患者安全方面及监测",
+    "protected_translated_text": "11. 质量改进与患者安全方面及监测",
+    "translated_text": "11. 质量改进与患者安全方面及监测",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b014",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Email:ngonga.susan@eplus.co.tz / Email:fhectdp@gmail.com",
+    "translation_context_after": "E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contractual terms.Staff qualification, knowledge, ongoing training, job des..."
+  },
+  {
+    "item_id": "p007-b015",
+    "page_idx": 6,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      131.22158813476562,
+      363.2822672526042,
+      524.039794921875,
+      514.366943359375
+    ],
+    "source_text": "E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contractual terms.Staff qualification, knowledge, ongoing training, job description, professional attire, identification cards and infection control and prevention practices (i.e.,standard precautions,waste managementetc.)arecruciala aspectsofqualityassuranceQuarterlyperformance monitoring and reporting shall be an expectation that shall include customer satisfaction, feedback,adequacy monitoring andresponseto closureofnon-conformance.E-Plus shall be accountable to submit action plan in case of any non-conformances.Contractual renewal shall be based on these performance indicators and performance evaluations by Client'srelevant authorities.",
+    "lines": [
+      {
+        "bbox": [
+          131.22158813476562,
+          363.2822672526042,
+          524.039794921875,
+          514.366943359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contractual terms.Staff qualification, knowledge, ongoing training, job description, professional attire, identification cards and infection control and prevention practices (i.e.,standard precautions,waste managementetc.)arecruciala aspectsofqualityassuranceQuarterlyperformance monitoring and reporting shall be an expectation that shall include customer satisfaction, feedback,adequacy monitoring andresponseto closureofnon-conformance.E-Plus shall be accountable to submit action plan in case of any non-conformances.Contractual renewal shall be based on these performance indicators and performance evaluations by Client'srelevant authorities.",
+            "bbox": [
+              131.22158813476562,
+              363.2822672526042,
+              524.039794921875,
+              514.366943359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contractual terms.Staff qualification, knowledge, ongoing training, job description, professional attire, identification cards and infection control and prevention practices (i.e.,standard precautions,waste managementetc.)arecruciala aspectsofqualityassuranceQuarterlyperformance monitoring and reporting shall be an expectation that shall include customer satisfaction, feedback,adequacy monitoring andresponseto closureofnon-conformance.E-Plus shall be accountable to submit action plan in case of any non-conformances.Contractual renewal shall be based on these performance indicators and performance evaluations by Client'srelevant authorities.",
+    "mixed_original_protected_source_text": "E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contractual terms.Staff qualification, knowledge, ongoing training, job description, professional attire, identification cards and infection control and prevention practices (i.e.,standard precautions,waste managementetc.)arecruciala aspectsofqualityassuranceQuarterlyperformance monitoring and reporting shall be an expectation that shall include customer satisfaction, feedback,adequacy monitoring andresponseto closureofnon-conformance.E-Plus shall be accountable to submit action plan in case of any non-conformances.Contractual renewal shall be based on these performance indicators and performance evaluations by Client'srelevant authorities.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b015"
+    ],
+    "translation_unit_protected_source_text": "E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contractual terms.Staff qualification, knowledge, ongoing training, job description, professional attire, identification cards and infection control and prevention practices (i.e.,standard precautions,waste managementetc.)arecruciala aspectsofqualityassuranceQuarterlyperformance monitoring and reporting shall be an expectation that shall include customer satisfaction, feedback,adequacy monitoring andresponseto closureofnon-conformance.E-Plus shall be accountable to submit action plan in case of any non-conformances.Contractual renewal shall be based on these performance indicators and performance evaluations by Client'srelevant authorities.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-Plus 必须确保遵守当地标准、国际标准以及组织内部规定，以提供最佳服务和实践。患者、访客和员工的安全与保障应始终得到确保。危及质量、安全和保障可能对合同条款产生严重影响。员工资质、知识、持续培训、岗位描述、职业着装、身份标识卡以及感染防控措施（如标准预防措施、废物管理等）是质量保证的关键方面。每季度应进行绩效监测和报告，内容应包括客户满意度、反馈、充分性监测以及不符合项关闭的响应。若出现任何不符合项，E-Plus 应负责提交行动计划。合同续签应基于这些绩效指标以及客户相关主管部门的绩效评估。",
+    "translation_unit_translated_text": "E-Plus 必须确保遵守当地标准、国际标准以及组织内部规定，以提供最佳服务和实践。患者、访客和员工的安全与保障应始终得到确保。危及质量、安全和保障可能对合同条款产生严重影响。员工资质、知识、持续培训、岗位描述、职业着装、身份标识卡以及感染防控措施（如标准预防措施、废物管理等）是质量保证的关键方面。每季度应进行绩效监测和报告，内容应包括客户满意度、反馈、充分性监测以及不符合项关闭的响应。若出现任何不符合项，E-Plus 应负责提交行动计划。合同续签应基于这些绩效指标以及客户相关主管部门的绩效评估。",
+    "protected_translated_text": "E-Plus 必须确保遵守当地标准、国际标准以及组织内部规定，以提供最佳服务和实践。患者、访客和员工的安全与保障应始终得到确保。危及质量、安全和保障可能对合同条款产生严重影响。员工资质、知识、持续培训、岗位描述、职业着装、身份标识卡以及感染防控措施（如标准预防措施、废物管理等）是质量保证的关键方面。每季度应进行绩效监测和报告，内容应包括客户满意度、反馈、充分性监测以及不符合项关闭的响应。若出现任何不符合项，E-Plus 应负责提交行动计划。合同续签应基于这些绩效指标以及客户相关主管部门的绩效评估。",
+    "translated_text": "E-Plus 必须确保遵守当地标准、国际标准以及组织内部规定，以提供最佳服务和实践。患者、访客和员工的安全与保障应始终得到确保。危及质量、安全和保障可能对合同条款产生严重影响。员工资质、知识、持续培训、岗位描述、职业着装、身份标识卡以及感染防控措施（如标准预防措施、废物管理等）是质量保证的关键方面。每季度应进行绩效监测和报告，内容应包括客户满意度、反馈、充分性监测以及不符合项关闭的响应。若出现任何不符合项，E-Plus 应负责提交行动计划。合同续签应基于这些绩效指标以及客户相关主管部门的绩效评估。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b015",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Email:fhectdp@gmail.com / 11.Quality Improvement and Patient Safety Aspects and Monitoring",
+    "translation_context_after": "12. GoverningLaw / This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania."
+  },
+  {
+    "item_id": "p007-b016",
+    "page_idx": 6,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      99.4744364420573,
+      527.523193359375,
+      209.53125,
+      539.40625
+    ],
+    "source_text": "12. GoverningLaw",
+    "lines": [
+      {
+        "bbox": [
+          99.4744364420573,
+          527.523193359375,
+          209.53125,
+          539.40625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "12. GoverningLaw",
+            "bbox": [
+              99.4744364420573,
+              527.523193359375,
+              209.53125,
+              539.40625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "12. GoverningLaw",
+    "mixed_original_protected_source_text": "12. GoverningLaw",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b016"
+    ],
+    "translation_unit_protected_source_text": "12. GoverningLaw",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "12. 管辖法律",
+    "translation_unit_translated_text": "12. 管辖法律",
+    "protected_translated_text": "12. 管辖法律",
+    "translated_text": "12. 管辖法律",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b016",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "11.Quality Improvement and Patient Safety Aspects and Monitoring / E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contract...",
+    "translation_context_after": "This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania. / 13. No joint Venture or Partnership"
+  },
+  {
+    "item_id": "p007-b017",
+    "page_idx": 6,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      132.9147745768229,
+      551.7137044270834,
+      524.039794921875,
+      577.601806640625
+    ],
+    "source_text": "This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania.",
+    "lines": [
+      {
+        "bbox": [
+          132.9147745768229,
+          551.7137044270834,
+          524.039794921875,
+          577.601806640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania.",
+            "bbox": [
+              132.9147745768229,
+              551.7137044270834,
+              524.039794921875,
+              577.601806640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania.",
+    "mixed_original_protected_source_text": "This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b017"
+    ],
+    "translation_unit_protected_source_text": "This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "本协议应受坦桑尼亚联合共和国法律管辖并据其解释。",
+    "translation_unit_translated_text": "本协议应受坦桑尼亚联合共和国法律管辖并据其解释。",
+    "protected_translated_text": "本协议应受坦桑尼亚联合共和国法律管辖并据其解释。",
+    "translated_text": "本协议应受坦桑尼亚联合共和国法律管辖并据其解释。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b017",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-Plus must ensure to comply with both local, International Standards and organizational regulations to ensure best services and practices.Patient,visitors and staff safety and security are ensured all the times.Jeopardizing quality,safety and securitymay have seriousimplications on contractual terms.Staff qualification, knowledge, ongoing training, job des...",
+    "translation_context_after": "13. No joint Venture or Partnership / Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party"
+  },
+  {
+    "item_id": "p007-b018",
+    "page_idx": 6,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      99.4744364420573,
+      590.3336588541666,
+      287.8409016927083,
+      604.3387044270834
+    ],
+    "source_text": "13. No joint Venture or Partnership",
+    "lines": [
+      {
+        "bbox": [
+          99.4744364420573,
+          590.3336588541666,
+          287.8409016927083,
+          604.3387044270834
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "13. No joint Venture or Partnership",
+            "bbox": [
+              99.4744364420573,
+              590.3336588541666,
+              287.8409016927083,
+              604.3387044270834
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "13. No joint Venture or Partnership",
+    "mixed_original_protected_source_text": "13. No joint Venture or Partnership",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b018"
+    ],
+    "translation_unit_protected_source_text": "13. No joint Venture or Partnership",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "13. 非合资企业或合伙企业",
+    "translation_unit_translated_text": "13. 非合资企业或合伙企业",
+    "protected_translated_text": "13. 非合资企业或合伙企业",
+    "translated_text": "13. 非合资企业或合伙企业",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b018",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "12. GoverningLaw / This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania.",
+    "translation_context_after": "Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party / 14.Force Majeure"
+  },
+  {
+    "item_id": "p007-b019",
+    "page_idx": 6,
+    "block_idx": 19,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      132.06818644205728,
+      616.6461588541666,
+      524.039794921875,
+      667.9980061848959
+    ],
+    "source_text": "Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party",
+    "lines": [
+      {
+        "bbox": [
+          132.06818644205728,
+          616.6461588541666,
+          524.039794921875,
+          667.9980061848959
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party",
+            "bbox": [
+              132.06818644205728,
+              616.6461588541666,
+              524.039794921875,
+              667.9980061848959
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 18,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party",
+    "mixed_original_protected_source_text": "Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p007-b019",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p007-b019"
+    ],
+    "translation_unit_protected_source_text": "Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "双方理解并同意，本协议中的任何内容均不得被视为或解释为在客户与E-Plus或任何其他方之间建立合伙关系或合资企业，亦不得使任何一方以任何方式对另一方的债务和义务承担责任。",
+    "translation_unit_translated_text": "双方理解并同意，本协议中的任何内容均不得被视为或解释为在客户与E-Plus或任何其他方之间建立合伙关系或合资企业，亦不得使任何一方以任何方式对另一方的债务和义务承担责任。",
+    "protected_translated_text": "双方理解并同意，本协议中的任何内容均不得被视为或解释为在客户与E-Plus或任何其他方之间建立合伙关系或合资企业，亦不得使任何一方以任何方式对另一方的债务和义务承担责任。",
+    "translated_text": "双方理解并同意，本协议中的任何内容均不得被视为或解释为在客户与E-Plus或任何其他方之间建立合伙关系或合资企业，亦不得使任何一方以任何方式对另一方的债务和义务承担责任。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p008-b000",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p007-b019",
+      "page_idx": 6,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p008-b000",
+    "translation_context_before": "This Agreement shall be governed by and construed in accordance with the laws of the UnitedRepublicof Tanzania. / 13. No joint Venture or Partnership",
+    "translation_context_after": "14.Force Majeure / NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweath..."
+  }
+]

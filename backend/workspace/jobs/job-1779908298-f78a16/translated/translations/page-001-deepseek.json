@@ -1,0 +1,806 @@
+[
+  {
+    "item_id": "p001-b002",
+    "page_idx": 0,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      110.48011271158855,
+      272.03729248046875,
+      510.4943033854167,
+      289.86189778645826
+    ],
+    "source_text": "AMBULANCESERVICEAGREEMENT",
+    "lines": [
+      {
+        "bbox": [
+          110.48011271158855,
+          272.03729248046875,
+          510.4943033854167,
+          289.86189778645826
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "AMBULANCESERVICEAGREEMENT",
+            "bbox": [
+              110.48011271158855,
+              272.03729248046875,
+              510.4943033854167,
+              289.86189778645826
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "AMBULANCESERVICEAGREEMENT",
+    "mixed_original_protected_source_text": "AMBULANCESERVICEAGREEMENT",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b002"
+    ],
+    "translation_unit_protected_source_text": "AMBULANCESERVICEAGREEMENT",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "救护车服务协议",
+    "translation_unit_translated_text": "救护车服务协议",
+    "protected_translated_text": "救护车服务协议",
+    "translated_text": "救护车服务协议",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b002",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "",
+    "translation_context_after": "BETWEEN / EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED"
+  },
+  {
+    "item_id": "p001-b003",
+    "page_idx": 0,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      260.3267008463542,
+      350.5504150390625,
+      362.3409016927083,
+      369.2237955729167
+    ],
+    "source_text": "BETWEEN",
+    "lines": [
+      {
+        "bbox": [
+          260.3267008463542,
+          350.5504150390625,
+          362.3409016927083,
+          369.2237955729167
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "BETWEEN",
+            "bbox": [
+              260.3267008463542,
+              350.5504150390625,
+              362.3409016927083,
+              369.2237955729167
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "BETWEEN",
+    "mixed_original_protected_source_text": "BETWEEN",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b003"
+    ],
+    "translation_unit_protected_source_text": "BETWEEN",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "协议双方",
+    "translation_unit_translated_text": "协议双方",
+    "protected_translated_text": "协议双方",
+    "translated_text": "协议双方",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b003",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "AMBULANCESERVICEAGREEMENT",
+    "translation_context_after": "EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED / AND"
+  },
+  {
+    "item_id": "p001-b004",
+    "page_idx": 0,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      119.36932373046875,
+      398.5070393880208,
+      503.7215983072917,
+      437.1270345052083
+    ],
+    "source_text": "EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED",
+    "lines": [
+      {
+        "bbox": [
+          119.36932373046875,
+          398.5070393880208,
+          503.7215983072917,
+          437.1270345052083
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED",
+            "bbox": [
+              119.36932373046875,
+              398.5070393880208,
+              503.7215983072917,
+              437.1270345052083
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED",
+    "mixed_original_protected_source_text": "EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b004"
+    ],
+    "translation_unit_protected_source_text": "EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b004",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "AMBULANCESERVICEAGREEMENT / BETWEEN",
+    "translation_context_after": "AND / CHINAHARBOURENGINEERINGCOMPANY LTD"
+  },
+  {
+    "item_id": "p001-b005",
+    "page_idx": 0,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      287.41762288411456,
+      464.2882893880208,
+      336.94317626953125,
+      485.508056640625
+    ],
+    "source_text": "AND",
+    "lines": [
+      {
+        "bbox": [
+          287.41762288411456,
+          464.2882893880208,
+          336.94317626953125,
+          485.508056640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "AND",
+            "bbox": [
+              287.41762288411456,
+              464.2882893880208,
+              336.94317626953125,
+              485.508056640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "AND",
+    "mixed_original_protected_source_text": "AND",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b005"
+    ],
+    "translation_unit_protected_source_text": "AND",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "与",
+    "translation_unit_translated_text": "与",
+    "protected_translated_text": "与",
+    "translated_text": "与",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b005",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "BETWEEN / EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED",
+    "translation_context_after": "CHINAHARBOURENGINEERINGCOMPANY LTD / FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD"
+  },
+  {
+    "item_id": "p001-b006",
+    "page_idx": 0,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      101.59091186523438,
+      513.09375,
+      523.1931966145834,
+      555.10888671875
+    ],
+    "source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "lines": [
+      {
+        "bbox": [
+          101.59091186523438,
+          513.09375,
+          523.1931966145834,
+          555.10888671875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+            "bbox": [
+              101.59091186523438,
+              513.09375,
+              523.1931966145834,
+              555.10888671875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "mixed_original_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b006"
+    ],
+    "translation_unit_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b006",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "EMERGENCY PLUS MEDICALSERVICES TANZANIALIMITED / AND",
+    "translation_context_after": "FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD / THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026"
+  },
+  {
+    "item_id": "p001-b007",
+    "page_idx": 0,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      121.90908813476562,
+      657.3881022135416,
+      504.9914957682292,
+      690.490966796875
+    ],
+    "source_text": "FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD",
+    "lines": [
+      {
+        "bbox": [
+          121.90908813476562,
+          657.3881022135416,
+          504.9914957682292,
+          690.490966796875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD",
+            "bbox": [
+              121.90908813476562,
+              657.3881022135416,
+              504.9914957682292,
+              690.490966796875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 6,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD",
+    "mixed_original_protected_source_text": "FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b007"
+    ],
+    "translation_unit_protected_source_text": "FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "关于向中国港湾工程有限公司提供救护车服务的协议",
+    "translation_unit_translated_text": "关于向中国港湾工程有限公司提供救护车服务的协议",
+    "protected_translated_text": "关于向中国港湾工程有限公司提供救护车服务的协议",
+    "translated_text": "关于向中国港湾工程有限公司提供救护车服务的协议",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b007",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "AND / CHINAHARBOURENGINEERINGCOMPANY LTD",
+    "translation_context_after": "THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026 / BETWEEN"
+  }
+]

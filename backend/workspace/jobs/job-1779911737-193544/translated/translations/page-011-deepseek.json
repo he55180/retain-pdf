@@ -1,0 +1,3214 @@
+[
+  {
+    "item_id": "p011-b000",
+    "page_idx": 10,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      275.1420491536458,
+      177.39717610677087,
+      347.102294921875,
+      188.85585530598962
+    ],
+    "source_text": "ANNEXURE2",
+    "lines": [
+      {
+        "bbox": [
+          275.1420491536458,
+          177.39717610677087,
+          347.102294921875,
+          188.85585530598962
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ANNEXURE2",
+            "bbox": [
+              275.1420491536458,
+              177.39717610677087,
+              347.102294921875,
+              188.85585530598962
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ANNEXURE2",
+    "mixed_original_protected_source_text": "ANNEXURE2",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b000"
+    ],
+    "translation_unit_protected_source_text": "ANNEXURE2",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "附件2",
+    "translation_unit_translated_text": "附件2",
+    "protected_translated_text": "附件2",
+    "translated_text": "附件2",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b000",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ANNEXURE1 / SCOPEOFWORK",
+    "translation_context_after": "LISTOFAMBULANCEEQUIPMENT / E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment:"
+  },
+  {
+    "item_id": "p011-b001",
+    "page_idx": 10,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      214.61079915364584,
+      203.2852783203125,
+      406.7869466145833,
+      214.31955973307288
+    ],
+    "source_text": "LISTOFAMBULANCEEQUIPMENT",
+    "lines": [
+      {
+        "bbox": [
+          214.61079915364584,
+          203.2852783203125,
+          406.7869466145833,
+          214.31955973307288
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "LISTOFAMBULANCEEQUIPMENT",
+            "bbox": [
+              214.61079915364584,
+              203.2852783203125,
+              406.7869466145833,
+              214.31955973307288
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "LISTOFAMBULANCEEQUIPMENT",
+    "mixed_original_protected_source_text": "LISTOFAMBULANCEEQUIPMENT",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b001"
+    ],
+    "translation_unit_protected_source_text": "LISTOFAMBULANCEEQUIPMENT",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "救护车设备清单",
+    "translation_unit_translated_text": "救护车设备清单",
+    "protected_translated_text": "救护车设备清单",
+    "translated_text": "救护车设备清单",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b001",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "SCOPEOFWORK / ANNEXURE2",
+    "translation_context_after": "E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment: / 1.AutomatedExternal Defibrillators"
+  },
+  {
+    "item_id": "p011-b002",
+    "page_idx": 10,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      97.78125,
+      228.74900309244788,
+      523.1931966145834,
+      253.78830973307288
+    ],
+    "source_text": "E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment:",
+    "lines": [
+      {
+        "bbox": [
+          97.78125,
+          228.74900309244788,
+          523.1931966145834,
+          253.78830973307288
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment:",
+            "bbox": [
+              97.78125,
+              228.74900309244788,
+              523.1931966145834,
+              253.78830973307288
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment:",
+    "mixed_original_protected_source_text": "E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b002"
+    ],
+    "translation_unit_protected_source_text": "E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-Plus应为其客户的患者提供救护车和紧急医疗运输服务以及撤离服务，包括以下设备：",
+    "translation_unit_translated_text": "E-Plus应为其客户的患者提供救护车和紧急医疗运输服务以及撤离服务，包括以下设备：",
+    "protected_translated_text": "E-Plus应为其客户的患者提供救护车和紧急医疗运输服务以及撤离服务，包括以下设备：",
+    "translated_text": "E-Plus应为其客户的患者提供救护车和紧急医疗运输服务以及撤离服务，包括以下设备：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b002",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ANNEXURE2 / LISTOFAMBULANCEEQUIPMENT",
+    "translation_context_after": "1.AutomatedExternal Defibrillators / 2.Pulse Oximeter"
+  },
+  {
+    "item_id": "p011-b003",
+    "page_idx": 10,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      265.671366373698,
+      287.41762288411456,
+      278.4032185872395
+    ],
+    "source_text": "1.AutomatedExternal Defibrillators",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          265.671366373698,
+          287.41762288411456,
+          278.4032185872395
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1.AutomatedExternal Defibrillators",
+            "bbox": [
+              115.55966186523438,
+              265.671366373698,
+              287.41762288411456,
+              278.4032185872395
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1.AutomatedExternal Defibrillators",
+    "mixed_original_protected_source_text": "1.AutomatedExternal Defibrillators",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b003"
+    ],
+    "translation_unit_protected_source_text": "1.AutomatedExternal Defibrillators",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 自动体外除颤器",
+    "translation_unit_translated_text": "1. 自动体外除颤器",
+    "protected_translated_text": "1. 自动体外除颤器",
+    "translated_text": "1. 自动体外除颤器",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b003",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "LISTOFAMBULANCEEQUIPMENT / E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment:",
+    "translation_context_after": "2.Pulse Oximeter / Mechanical Ventilator"
+  },
+  {
+    "item_id": "p011-b004",
+    "page_idx": 10,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      114.71307373046875,
+      278.827616373698,
+      204.45170084635416,
+      291.5594685872395
+    ],
+    "source_text": "2.Pulse Oximeter",
+    "lines": [
+      {
+        "bbox": [
+          114.71307373046875,
+          278.827616373698,
+          204.45170084635416,
+          291.5594685872395
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "2.Pulse Oximeter",
+            "bbox": [
+              114.71307373046875,
+              278.827616373698,
+              204.45170084635416,
+              291.5594685872395
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "2.Pulse Oximeter",
+    "mixed_original_protected_source_text": "2.Pulse Oximeter",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b004"
+    ],
+    "translation_unit_protected_source_text": "2.Pulse Oximeter",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2.脉搏血氧仪",
+    "translation_unit_translated_text": "2.脉搏血氧仪",
+    "protected_translated_text": "2.脉搏血氧仪",
+    "translated_text": "2.脉搏血氧仪",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b004",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-Plus shallprovide ambulance and emergencymedical transportationServices to theClient's patients as well as evacuation services, including the following equipment: / 1.AutomatedExternal Defibrillators",
+    "translation_context_after": "Mechanical Ventilator / PortableVentilator"
+  },
+  {
+    "item_id": "p011-b005",
+    "page_idx": 10,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      289.4375,
+      236.1988728841146,
+      304.29134114583326
+    ],
+    "source_text": "Mechanical Ventilator",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          289.4375,
+          236.1988728841146,
+          304.29134114583326
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Mechanical Ventilator",
+            "bbox": [
+              115.55966186523438,
+              289.4375,
+              236.1988728841146,
+              304.29134114583326
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Mechanical Ventilator",
+    "mixed_original_protected_source_text": "Mechanical Ventilator",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b005"
+    ],
+    "translation_unit_protected_source_text": "Mechanical Ventilator",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "机械通气机",
+    "translation_unit_translated_text": "机械通气机",
+    "protected_translated_text": "机械通气机",
+    "translated_text": "机械通气机",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b005",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1.AutomatedExternal Defibrillators / 2.Pulse Oximeter",
+    "translation_context_after": "PortableVentilator / KED,(Kendrick'sExtricationDevice)"
+  },
+  {
+    "item_id": "p011-b006",
+    "page_idx": 10,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.98295084635417,
+      304.29134114583326,
+      219.69034830729166,
+      315.32560221354174
+    ],
+    "source_text": "PortableVentilator",
+    "lines": [
+      {
+        "bbox": [
+          115.98295084635417,
+          304.29134114583326,
+          219.69034830729166,
+          315.32560221354174
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "PortableVentilator",
+            "bbox": [
+              115.98295084635417,
+              304.29134114583326,
+              219.69034830729166,
+              315.32560221354174
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "PortableVentilator",
+    "mixed_original_protected_source_text": "PortableVentilator",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b006"
+    ],
+    "translation_unit_protected_source_text": "PortableVentilator",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "便携式呼吸机",
+    "translation_unit_translated_text": "便携式呼吸机",
+    "protected_translated_text": "便携式呼吸机",
+    "translated_text": "便携式呼吸机",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b006",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "2.Pulse Oximeter / Mechanical Ventilator",
+    "translation_context_after": "KED,(Kendrick'sExtricationDevice) / AirwayManagementKit"
+  },
+  {
+    "item_id": "p011-b007",
+    "page_idx": 10,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.98295084635417,
+      317.44759114583326,
+      306.4659016927083,
+      328.90625
+    ],
+    "source_text": "KED,(Kendrick'sExtricationDevice)",
+    "lines": [
+      {
+        "bbox": [
+          115.98295084635417,
+          317.44759114583326,
+          306.4659016927083,
+          328.90625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "KED,(Kendrick'sExtricationDevice)",
+            "bbox": [
+              115.98295084635417,
+              317.44759114583326,
+              306.4659016927083,
+              328.90625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "KED,(Kendrick'sExtricationDevice)",
+    "mixed_original_protected_source_text": "KED,(Kendrick'sExtricationDevice)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b007"
+    ],
+    "translation_unit_protected_source_text": "KED,(Kendrick'sExtricationDevice)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p011-b007",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Mechanical Ventilator / PortableVentilator",
+    "translation_context_after": "AirwayManagementKit / Glucometer"
+  },
+  {
+    "item_id": "p011-b008",
+    "page_idx": 10,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      116.40625,
+      330.6038411458333,
+      245.5113728841146,
+      342.0625
+    ],
+    "source_text": "AirwayManagementKit",
+    "lines": [
+      {
+        "bbox": [
+          116.40625,
+          330.6038411458333,
+          245.5113728841146,
+          342.0625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "AirwayManagementKit",
+            "bbox": [
+              116.40625,
+              330.6038411458333,
+              245.5113728841146,
+              342.0625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "AirwayManagementKit",
+    "mixed_original_protected_source_text": "AirwayManagementKit",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b008"
+    ],
+    "translation_unit_protected_source_text": "AirwayManagementKit",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "气道管理套件",
+    "translation_unit_translated_text": "气道管理套件",
+    "protected_translated_text": "气道管理套件",
+    "translated_text": "气道管理套件",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b008",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PortableVentilator / KED,(Kendrick'sExtricationDevice)",
+    "translation_context_after": "Glucometer / Electrical suctionmachine"
+  },
+  {
+    "item_id": "p011-b009",
+    "page_idx": 10,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      116.40625,
+      342.0625,
+      187.94317626953125,
+      354.7943522135417
+    ],
+    "source_text": "Glucometer",
+    "lines": [
+      {
+        "bbox": [
+          116.40625,
+          342.0625,
+          187.94317626953125,
+          354.7943522135417
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Glucometer",
+            "bbox": [
+              116.40625,
+              342.0625,
+              187.94317626953125,
+              354.7943522135417
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Glucometer",
+    "mixed_original_protected_source_text": "Glucometer",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b009"
+    ],
+    "translation_unit_protected_source_text": "Glucometer",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "血糖仪",
+    "translation_unit_translated_text": "血糖仪",
+    "protected_translated_text": "血糖仪",
+    "translated_text": "血糖仪",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b009",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "KED,(Kendrick'sExtricationDevice) / AirwayManagementKit",
+    "translation_context_after": "Electrical suctionmachine / 9.Traction Splints"
+  },
+  {
+    "item_id": "p011-b010",
+    "page_idx": 10,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.13636271158855,
+      354.3699544270833,
+      252.7073974609375,
+      365.82861328125
+    ],
+    "source_text": "Electrical suctionmachine",
+    "lines": [
+      {
+        "bbox": [
+          115.13636271158855,
+          354.3699544270833,
+          252.7073974609375,
+          365.82861328125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Electrical suctionmachine",
+            "bbox": [
+              115.13636271158855,
+              354.3699544270833,
+              252.7073974609375,
+              365.82861328125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Electrical suctionmachine",
+    "mixed_original_protected_source_text": "Electrical suctionmachine",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b010"
+    ],
+    "translation_unit_protected_source_text": "Electrical suctionmachine",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "电动吸引器",
+    "translation_unit_translated_text": "电动吸引器",
+    "protected_translated_text": "电动吸引器",
+    "translated_text": "电动吸引器",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b010",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "AirwayManagementKit / Glucometer",
+    "translation_context_after": "9.Traction Splints / Spine board"
+  },
+  {
+    "item_id": "p011-b011",
+    "page_idx": 10,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      114.71307373046875,
+      366.6774088541667,
+      206.56817626953125,
+      379.4092610677083
+    ],
+    "source_text": "9.Traction Splints",
+    "lines": [
+      {
+        "bbox": [
+          114.71307373046875,
+          366.6774088541667,
+          206.56817626953125,
+          379.4092610677083
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "9.Traction Splints",
+            "bbox": [
+              114.71307373046875,
+              366.6774088541667,
+              206.56817626953125,
+              379.4092610677083
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "9.Traction Splints",
+    "mixed_original_protected_source_text": "9.Traction Splints",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b011"
+    ],
+    "translation_unit_protected_source_text": "9.Traction Splints",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "9.牵引夹板",
+    "translation_unit_translated_text": "9.牵引夹板",
+    "protected_translated_text": "9.牵引夹板",
+    "translated_text": "9.牵引夹板",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b011",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Glucometer / Electrical suctionmachine",
+    "translation_context_after": "Spine board / 11.Scoop stretcher"
+  },
+  {
+    "item_id": "p011-b012",
+    "page_idx": 10,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      378.98486328125,
+      189.6363728841146,
+      391.7167561848958
+    ],
+    "source_text": "Spine board",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          378.98486328125,
+          189.6363728841146,
+          391.7167561848958
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Spine board",
+            "bbox": [
+              115.55966186523438,
+              378.98486328125,
+              189.6363728841146,
+              391.7167561848958
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Spine board",
+    "mixed_original_protected_source_text": "Spine board",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b012"
+    ],
+    "translation_unit_protected_source_text": "Spine board",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "脊柱板",
+    "translation_unit_translated_text": "脊柱板",
+    "protected_translated_text": "脊柱板",
+    "translated_text": "脊柱板",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b012",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Electrical suctionmachine / 9.Traction Splints",
+    "translation_context_after": "11.Scoop stretcher / 12.Oxygen cylinder and appropriate masks"
+  },
+  {
+    "item_id": "p011-b013",
+    "page_idx": 10,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      116.40625,
+      392.9899088541667,
+      204.02840169270834,
+      404.4486083984375
+    ],
+    "source_text": "11.Scoop stretcher",
+    "lines": [
+      {
+        "bbox": [
+          116.40625,
+          392.9899088541667,
+          204.02840169270834,
+          404.4486083984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "11.Scoop stretcher",
+            "bbox": [
+              116.40625,
+              392.9899088541667,
+              204.02840169270834,
+              404.4486083984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "11.Scoop stretcher",
+    "mixed_original_protected_source_text": "11.Scoop stretcher",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b013"
+    ],
+    "translation_unit_protected_source_text": "11.Scoop stretcher",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "11.铲式担架",
+    "translation_unit_translated_text": "11.铲式担架",
+    "protected_translated_text": "11.铲式担架",
+    "translated_text": "11.铲式担架",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b013",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "9.Traction Splints / Spine board",
+    "translation_context_after": "12.Oxygen cylinder and appropriate masks / 13.A stretcherwith a set of straps"
+  },
+  {
+    "item_id": "p011-b014",
+    "page_idx": 10,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.98295084635417,
+      404.8730061848958,
+      311.96875,
+      417.6048583984375
+    ],
+    "source_text": "12.Oxygen cylinder and appropriate masks",
+    "lines": [
+      {
+        "bbox": [
+          115.98295084635417,
+          404.8730061848958,
+          311.96875,
+          417.6048583984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "12.Oxygen cylinder and appropriate masks",
+            "bbox": [
+              115.98295084635417,
+              404.8730061848958,
+              311.96875,
+              417.6048583984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "12.Oxygen cylinder and appropriate masks",
+    "mixed_original_protected_source_text": "12.Oxygen cylinder and appropriate masks",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b014"
+    ],
+    "translation_unit_protected_source_text": "12.Oxygen cylinder and appropriate masks",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "12.氧气瓶及适当面罩",
+    "translation_unit_translated_text": "12.氧气瓶及适当面罩",
+    "protected_translated_text": "12.氧气瓶及适当面罩",
+    "translated_text": "12.氧气瓶及适当面罩",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b014",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Spine board / 11.Scoop stretcher",
+    "translation_context_after": "13.A stretcherwith a set of straps / 14.Basic dressing pack"
+  },
+  {
+    "item_id": "p011-b015",
+    "page_idx": 10,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 15,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      417.1804606119792,
+      270.0625,
+      430.3367106119792
+    ],
+    "source_text": "13.A stretcherwith a set of straps",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          417.1804606119792,
+          270.0625,
+          430.3367106119792
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "13.A stretcherwith a set of straps",
+            "bbox": [
+              115.55966186523438,
+              417.1804606119792,
+              270.0625,
+              430.3367106119792
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "13.A stretcherwith a set of straps",
+    "mixed_original_protected_source_text": "13.A stretcherwith a set of straps",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b015"
+    ],
+    "translation_unit_protected_source_text": "13.A stretcherwith a set of straps",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "13.一副带一组绑带的担架",
+    "translation_unit_translated_text": "13.一副带一组绑带的担架",
+    "protected_translated_text": "13.一副带一组绑带的担架",
+    "translated_text": "13.一副带一组绑带的担架",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b015",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "11.Scoop stretcher / 12.Oxygen cylinder and appropriate masks",
+    "translation_context_after": "14.Basic dressing pack / 16.BagValve Masks (BVM)"
+  },
+  {
+    "item_id": "p011-b016",
+    "page_idx": 10,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 16,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      430.3367106119792,
+      223.92329915364584,
+      443.0685628255208
+    ],
+    "source_text": "14.Basic dressing pack",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          430.3367106119792,
+          223.92329915364584,
+          443.0685628255208
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "14.Basic dressing pack",
+            "bbox": [
+              115.55966186523438,
+              430.3367106119792,
+              223.92329915364584,
+              443.0685628255208
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "14.Basic dressing pack",
+    "mixed_original_protected_source_text": "14.Basic dressing pack",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b016"
+    ],
+    "translation_unit_protected_source_text": "14.Basic dressing pack",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "14.基本敷料包",
+    "translation_unit_translated_text": "14.基本敷料包",
+    "protected_translated_text": "14.基本敷料包",
+    "translated_text": "14.基本敷料包",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b016",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "12.Oxygen cylinder and appropriate masks / 13.A stretcherwith a set of straps",
+    "translation_context_after": "16.BagValve Masks (BVM) / 15.Airways"
+  },
+  {
+    "item_id": "p011-b017",
+    "page_idx": 10,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 17,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.13636271158855,
+      454.5272216796875,
+      249.74432373046875,
+      466.4102783203125
+    ],
+    "source_text": "16.BagValve Masks (BVM)",
+    "lines": [
+      {
+        "bbox": [
+          115.13636271158855,
+          454.5272216796875,
+          249.74432373046875,
+          466.4102783203125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "16.BagValve Masks (BVM)",
+            "bbox": [
+              115.13636271158855,
+              454.5272216796875,
+              249.74432373046875,
+              466.4102783203125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 19,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "16.BagValve Masks (BVM)",
+    "mixed_original_protected_source_text": "16.BagValve Masks (BVM)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b017"
+    ],
+    "translation_unit_protected_source_text": "16.BagValve Masks (BVM)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "16. 袋阀面罩 (BVM)",
+    "translation_unit_translated_text": "16. 袋阀面罩 (BVM)",
+    "protected_translated_text": "16. 袋阀面罩 (BVM)",
+    "translated_text": "16. 袋阀面罩 (BVM)",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b017",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "13.A stretcherwith a set of straps / 14.Basic dressing pack",
+    "translation_context_after": "15.Airways / 17.Splintsforupper and lowerlimbs"
+  },
+  {
+    "item_id": "p011-b018",
+    "page_idx": 10,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 18,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      440.9465738932292,
+      173.12784830729166,
+      455.3760172526042
+    ],
+    "source_text": "15.Airways",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          440.9465738932292,
+          173.12784830729166,
+          455.3760172526042
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "15.Airways",
+            "bbox": [
+              115.55966186523438,
+              440.9465738932292,
+              173.12784830729166,
+              455.3760172526042
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 18,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "15.Airways",
+    "mixed_original_protected_source_text": "15.Airways",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b018"
+    ],
+    "translation_unit_protected_source_text": "15.Airways",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p011-b018",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "fast_path_keep_origin"
+      ],
+      "output_mode_path": [],
+      "fallback_to": "keep_origin",
+      "degradation_reason": "hard_metadata_fragment",
+      "final_status": "kept_origin"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "14.Basic dressing pack / 16.BagValve Masks (BVM)",
+    "translation_context_after": "17.Splintsforupper and lowerlimbs / 18.Cervical collars"
+  },
+  {
+    "item_id": "p011-b019",
+    "page_idx": 10,
+    "block_idx": 19,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 19,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      467.2590738932292,
+      284.4545491536458,
+      479.5665283203125
+    ],
+    "source_text": "17.Splintsforupper and lowerlimbs",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          467.2590738932292,
+          284.4545491536458,
+          479.5665283203125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "17.Splintsforupper and lowerlimbs",
+            "bbox": [
+              115.55966186523438,
+              467.2590738932292,
+              284.4545491536458,
+              479.5665283203125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 20,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "17.Splintsforupper and lowerlimbs",
+    "mixed_original_protected_source_text": "17.Splintsforupper and lowerlimbs",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b019",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b019"
+    ],
+    "translation_unit_protected_source_text": "17.Splintsforupper and lowerlimbs",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "17. 上肢和下肢夹板",
+    "translation_unit_translated_text": "17. 上肢和下肢夹板",
+    "protected_translated_text": "17. 上肢和下肢夹板",
+    "translated_text": "17. 上肢和下肢夹板",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b019",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "16.BagValve Masks (BVM) / 15.Airways",
+    "translation_context_after": "18.Cervical collars / 19.Cardiacmonitor"
+  },
+  {
+    "item_id": "p011-b020",
+    "page_idx": 10,
+    "block_idx": 20,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 20,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.55966186523438,
+      479.9909261067708,
+      204.875,
+      491.0251871744792
+    ],
+    "source_text": "18.Cervical collars",
+    "lines": [
+      {
+        "bbox": [
+          115.55966186523438,
+          479.9909261067708,
+          204.875,
+          491.0251871744792
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "18.Cervical collars",
+            "bbox": [
+              115.55966186523438,
+              479.9909261067708,
+              204.875,
+              491.0251871744792
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 21,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "18.Cervical collars",
+    "mixed_original_protected_source_text": "18.Cervical collars",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b020",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b020"
+    ],
+    "translation_unit_protected_source_text": "18.Cervical collars",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "18.颈托",
+    "translation_unit_translated_text": "18.颈托",
+    "protected_translated_text": "18.颈托",
+    "translated_text": "18.颈托",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b020",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "15.Airways / 17.Splintsforupper and lowerlimbs",
+    "translation_context_after": "19.Cardiacmonitor / 20.Intubation kit"
+  },
+  {
+    "item_id": "p011-b021",
+    "page_idx": 10,
+    "block_idx": 21,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 21,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.98295084635417,
+      492.7227783203125,
+      207.83807373046875,
+      504.1814371744792
+    ],
+    "source_text": "19.Cardiacmonitor",
+    "lines": [
+      {
+        "bbox": [
+          115.98295084635417,
+          492.7227783203125,
+          207.83807373046875,
+          504.1814371744792
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "19.Cardiacmonitor",
+            "bbox": [
+              115.98295084635417,
+              492.7227783203125,
+              207.83807373046875,
+              504.1814371744792
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 22,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "19.Cardiacmonitor",
+    "mixed_original_protected_source_text": "19.Cardiacmonitor",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b021",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b021"
+    ],
+    "translation_unit_protected_source_text": "19.Cardiacmonitor",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p011-b021",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "fast_path_keep_origin"
+      ],
+      "output_mode_path": [],
+      "fallback_to": "keep_origin",
+      "degradation_reason": "hard_metadata_fragment",
+      "final_status": "kept_origin"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "17.Splintsforupper and lowerlimbs / 18.Cervical collars",
+    "translation_context_after": "20.Intubation kit / LIMIIED"
+  },
+  {
+    "item_id": "p011-b022",
+    "page_idx": 10,
+    "block_idx": 22,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 22,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.98295084635417,
+      505.0302327473958,
+      195.5625,
+      516.4889322916666
+    ],
+    "source_text": "20.Intubation kit",
+    "lines": [
+      {
+        "bbox": [
+          115.98295084635417,
+          505.0302327473958,
+          195.5625,
+          516.4889322916666
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "20.Intubation kit",
+            "bbox": [
+              115.98295084635417,
+              505.0302327473958,
+              195.5625,
+              516.4889322916666
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 23,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "20.Intubation kit",
+    "mixed_original_protected_source_text": "20.Intubation kit",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b022",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b022"
+    ],
+    "translation_unit_protected_source_text": "20.Intubation kit",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "20.插管包",
+    "translation_unit_translated_text": "20.插管包",
+    "protected_translated_text": "20.插管包",
+    "translated_text": "20.插管包",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p011-b022",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "18.Cervical collars / 19.Cardiacmonitor",
+    "translation_context_after": "LIMIIED / ANNEXURE3"
+  },
+  {
+    "item_id": "p011-b023",
+    "page_idx": 10,
+    "block_idx": 23,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 23,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      585.4176025390625,
+      100.5816548665365,
+      595.5767008463541,
+      144.71875
+    ],
+    "source_text": "LIMIIED",
+    "lines": [
+      {
+        "bbox": [
+          585.4176025390625,
+          100.5816548665365,
+          595.5767008463541,
+          144.71875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "LIMIIED",
+            "bbox": [
+              585.4176025390625,
+              100.5816548665365,
+              595.5767008463541,
+              144.71875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 24,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "LIMIIED",
+    "mixed_original_protected_source_text": "LIMIIED",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p011-b023",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p011-b023"
+    ],
+    "translation_unit_protected_source_text": "LIMIIED",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p011-b023",
+      "page_idx": 10,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "19.Cardiacmonitor / 20.Intubation kit",
+    "translation_context_after": "ANNEXURE3 / PAYMENTRATESFORTHESERVICES"
+  }
+]

@@ -1,0 +1,2012 @@
+[
+  {
+    "item_id": "p002-b000",
+    "page_idx": 1,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      97.78125,
+      202.43650309244788,
+      480.4403483072917,
+      213.04636637369788
+    ],
+    "source_text": "THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026",
+    "lines": [
+      {
+        "bbox": [
+          97.78125,
+          202.43650309244788,
+          480.4403483072917,
+          213.04636637369788
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026",
+            "bbox": [
+              97.78125,
+              202.43650309244788,
+              480.4403483072917,
+              213.04636637369788
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026",
+    "mixed_original_protected_source_text": "THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b000"
+    ],
+    "translation_unit_protected_source_text": "THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "本协议（2026年3月25日）",
+    "translation_unit_translated_text": "本协议（2026年3月25日）",
+    "protected_translated_text": "本协议（2026年3月25日）",
+    "translated_text": "本协议（2026年3月25日）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b000",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHINAHARBOURENGINEERINGCOMPANY LTD / FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD",
+    "translation_context_after": "BETWEEN / EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, in..."
+  },
+  {
+    "item_id": "p002-b001",
+    "page_idx": 1,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      282.33807373046875,
+      230.8709716796875,
+      338.21307373046875,
+      242.32963053385413
+    ],
+    "source_text": "BETWEEN",
+    "lines": [
+      {
+        "bbox": [
+          282.33807373046875,
+          230.8709716796875,
+          338.21307373046875,
+          242.32963053385413
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "BETWEEN",
+            "bbox": [
+              282.33807373046875,
+              230.8709716796875,
+              338.21307373046875,
+              242.32963053385413
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "BETWEEN",
+    "mixed_original_protected_source_text": "BETWEEN",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b001"
+    ],
+    "translation_unit_protected_source_text": "BETWEEN",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "协议双方",
+    "translation_unit_translated_text": "协议双方",
+    "protected_translated_text": "协议双方",
+    "translated_text": "协议双方",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b001",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "FORPROVISIONOFAMBULANCESERVICES TO CHINA HARBOURENGINEERING COMPANYLTD / THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026",
+    "translation_context_after": "EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, include its..."
+  },
+  {
+    "item_id": "p002-b002",
+    "page_idx": 1,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      98.20454915364583,
+      261.42742919921875,
+      524.039794921875,
+      347.1552327473958
+    ],
+    "source_text": "EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, include its successors and permitted assigns) of one part.",
+    "lines": [
+      {
+        "bbox": [
+          98.20454915364583,
+          261.42742919921875,
+          524.039794921875,
+          347.1552327473958
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, include its successors and permitted assigns) of one part.",
+            "bbox": [
+              98.20454915364583,
+              261.42742919921875,
+              524.039794921875,
+              347.1552327473958
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, include its successors and permitted assigns) of one part.",
+    "mixed_original_protected_source_text": "EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, include its successors and permitted assigns) of one part.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b002"
+    ],
+    "translation_unit_protected_source_text": "EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, include its successors and permitted assigns) of one part.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED，一家根据《公司法》[第212章，2002年修订版]在坦桑尼亚注册成立的组织，其总部位于坦桑尼亚达累斯萨拉姆市乌尔西诺庄园查托街18号，邮政信箱10391，电话：+255 753 533495，电子邮箱：info@eplus.co.tz（以下简称“E-Plus”，该称谓在上下文允许的情况下应包括其继承人和许可受让人），为一方。",
+    "translation_unit_translated_text": "EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED，一家根据《公司法》[第212章，2002年修订版]在坦桑尼亚注册成立的组织，其总部位于坦桑尼亚达累斯萨拉姆市乌尔西诺庄园查托街18号，邮政信箱10391，电话：+255 753 533495，电子邮箱：info@eplus.co.tz（以下简称“E-Plus”，该称谓在上下文允许的情况下应包括其继承人和许可受让人），为一方。",
+    "protected_translated_text": "EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED，一家根据《公司法》[第212章，2002年修订版]在坦桑尼亚注册成立的组织，其总部位于坦桑尼亚达累斯萨拉姆市乌尔西诺庄园查托街18号，邮政信箱10391，电话：+255 753 533495，电子邮箱：info@eplus.co.tz（以下简称“E-Plus”，该称谓在上下文允许的情况下应包括其继承人和许可受让人），为一方。",
+    "translated_text": "EMERGENCY PLUS MEDICAL SERVICES TANZANIA LIMITED，一家根据《公司法》[第212章，2002年修订版]在坦桑尼亚注册成立的组织，其总部位于坦桑尼亚达累斯萨拉姆市乌尔西诺庄园查托街18号，邮政信箱10391，电话：+255 753 533495，电子邮箱：info@eplus.co.tz（以下简称“E-Plus”，该称谓在上下文允许的情况下应包括其继承人和许可受让人），为一方。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b002",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "THIS AGREEMENT (\"this Agreement\") is made on the 25th Day of March, 2026 / BETWEEN",
+    "translation_context_after": "AND / CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors a..."
+  },
+  {
+    "item_id": "p002-b003",
+    "page_idx": 1,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      297.5767008463542,
+      357.3407389322917,
+      325.0909016927083,
+      370.92138671875
+    ],
+    "source_text": "AND",
+    "lines": [
+      {
+        "bbox": [
+          297.5767008463542,
+          357.3407389322917,
+          325.0909016927083,
+          370.92138671875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "AND",
+            "bbox": [
+              297.5767008463542,
+              357.3407389322917,
+              325.0909016927083,
+              370.92138671875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "AND",
+    "mixed_original_protected_source_text": "AND",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b003"
+    ],
+    "translation_unit_protected_source_text": "AND",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "与",
+    "translation_unit_translated_text": "与",
+    "protected_translated_text": "与",
+    "translated_text": "与",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b003",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "BETWEEN / EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, in...",
+    "translation_context_after": "CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors and per..."
+  },
+  {
+    "item_id": "p002-b004",
+    "page_idx": 1,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      99.4744364420573,
+      385.7751871744792,
+      521.0767008463541,
+      463.01513671875
+    ],
+    "source_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors and permitted assigns) of the other part.",
+    "lines": [
+      {
+        "bbox": [
+          99.4744364420573,
+          385.7751871744792,
+          521.0767008463541,
+          463.01513671875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors and permitted assigns) of the other part.",
+            "bbox": [
+              99.4744364420573,
+              385.7751871744792,
+              521.0767008463541,
+              463.01513671875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors and permitted assigns) of the other part.",
+    "mixed_original_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors and permitted assigns) of the other part.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b004"
+    ],
+    "translation_unit_protected_source_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors and permitted assigns) of the other part.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITED，一家在坦桑尼亚根据《公司法》注册成立的组织（注册编号：99870），纳税人识别号：121-046164，其总部位于Lugoda Street-Gerezani，P.O.Box 32550，Dar es Salaam，Tanzania，电话：+255612612688，电子邮箱：（以下简称“客户”，该称谓在上下文允许的情况下应包括其继承人和受让人），作为另一方。",
+    "translation_unit_translated_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITED，一家在坦桑尼亚根据《公司法》注册成立的组织（注册编号：99870），纳税人识别号：121-046164，其总部位于Lugoda Street-Gerezani，P.O.Box 32550，Dar es Salaam，Tanzania，电话：+255612612688，电子邮箱：（以下简称“客户”，该称谓在上下文允许的情况下应包括其继承人和受让人），作为另一方。",
+    "protected_translated_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITED，一家在坦桑尼亚根据《公司法》注册成立的组织（注册编号：99870），纳税人识别号：121-046164，其总部位于Lugoda Street-Gerezani，P.O.Box 32550，Dar es Salaam，Tanzania，电话：+255612612688，电子邮箱：（以下简称“客户”，该称谓在上下文允许的情况下应包括其继承人和受让人），作为另一方。",
+    "translated_text": "CHINAHARBOURENGINEERINGCOMPANYLIMITED，一家在坦桑尼亚根据《公司法》注册成立的组织（注册编号：99870），纳税人识别号：121-046164，其总部位于Lugoda Street-Gerezani，P.O.Box 32550，Dar es Salaam，Tanzania，电话：+255612612688，电子邮箱：（以下简称“客户”，该称谓在上下文允许的情况下应包括其继承人和受让人），作为另一方。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b004",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "EMERGENCYPLUSMEDICALSERVICESTANZANIALIMITED,anorganization incorporated inTanzaniaunder theCompaniesAct[CAP.212R.E 2002]with itsheadoffice located atPlotNo.18ChatoStreetUrsinoEstateP.O.Box10391,DaresSalaam-Tanzania,Tel: +255 753 533495 Email:info@eplus.co.tz(Herein after referred to as\"E-Plus\"which expression shall, where the context so admits, include its...",
+    "translation_context_after": "PREAMBLE / WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices."
+  },
+  {
+    "item_id": "p002-b005",
+    "page_idx": 1,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      100.74432373046875,
+      475.7469889322917,
+      165.5085245768229,
+      487.2056477864583
+    ],
+    "source_text": "PREAMBLE",
+    "lines": [
+      {
+        "bbox": [
+          100.74432373046875,
+          475.7469889322917,
+          165.5085245768229,
+          487.2056477864583
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "PREAMBLE",
+            "bbox": [
+              100.74432373046875,
+              475.7469889322917,
+              165.5085245768229,
+              487.2056477864583
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "PREAMBLE",
+    "mixed_original_protected_source_text": "PREAMBLE",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b005"
+    ],
+    "translation_unit_protected_source_text": "PREAMBLE",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "序言",
+    "translation_unit_translated_text": "序言",
+    "protected_translated_text": "序言",
+    "translated_text": "序言",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b005",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "AND / CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors a...",
+    "translation_context_after": "WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices. / WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus."
+  },
+  {
+    "item_id": "p002-b006",
+    "page_idx": 1,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      99.89772542317708,
+      499.9375,
+      524.039794921875,
+      524.976806640625
+    ],
+    "source_text": "WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices.",
+    "lines": [
+      {
+        "bbox": [
+          99.89772542317708,
+          499.9375,
+          524.039794921875,
+          524.976806640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices.",
+            "bbox": [
+              99.89772542317708,
+              499.9375,
+              524.039794921875,
+              524.976806640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices.",
+    "mixed_original_protected_source_text": "WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b006"
+    ],
+    "translation_unit_protected_source_text": "WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "鉴于客户是一家在坦桑尼亚正式注册的实体，提供银行及其他相关服务。",
+    "translation_unit_translated_text": "鉴于客户是一家在坦桑尼亚正式注册的实体，提供银行及其他相关服务。",
+    "protected_translated_text": "鉴于客户是一家在坦桑尼亚正式注册的实体，提供银行及其他相关服务。",
+    "translated_text": "鉴于客户是一家在坦桑尼亚正式注册的实体，提供银行及其他相关服务。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b006",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHINAHARBOURENGINEERINGCOMPANYLIMITEDanorganization incorporated inTanzania under theCompaniesAct(RegistrationNo.99870),TIN:121-046164withitsheadofficelocatedatLugodaStreet-Gerezani,P.O.Box32550,DaresSalaamTanzania,Tel:+255612612688Email:(Herein after referred to as\"theClient\"which expression shall, where the context so admits,include its successors and per...",
+    "translation_context_after": "WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus. / ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement."
+  },
+  {
+    "item_id": "p002-b007",
+    "page_idx": 1,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      99.4744364420573,
+      536.85986328125,
+      524.4630533854166,
+      563.17236328125
+    ],
+    "source_text": "WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus.",
+    "lines": [
+      {
+        "bbox": [
+          99.4744364420573,
+          536.85986328125,
+          524.4630533854166,
+          563.17236328125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus.",
+            "bbox": [
+              99.4744364420573,
+              536.85986328125,
+              524.4630533854166,
+              563.17236328125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus.",
+    "mixed_original_protected_source_text": "WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b007"
+    ],
+    "translation_unit_protected_source_text": "WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "鉴于客户希望就由E-Plus提供的救护车服务作出安排。",
+    "translation_unit_translated_text": "鉴于客户希望就由E-Plus提供的救护车服务作出安排。",
+    "protected_translated_text": "鉴于客户希望就由E-Plus提供的救护车服务作出安排。",
+    "translated_text": "鉴于客户希望就由E-Plus提供的救护车服务作出安排。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b007",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PREAMBLE / WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices.",
+    "translation_context_after": "ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement. / NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows:"
+  },
+  {
+    "item_id": "p002-b008",
+    "page_idx": 1,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      100.74432373046875,
+      573.3578694661459,
+      524.8863525390625,
+      612.8266194661459
+    ],
+    "source_text": "ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement.",
+    "lines": [
+      {
+        "bbox": [
+          100.74432373046875,
+          573.3578694661459,
+          524.8863525390625,
+          612.8266194661459
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement.",
+            "bbox": [
+              100.74432373046875,
+              573.3578694661459,
+              524.8863525390625,
+              612.8266194661459
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement.",
+    "mixed_original_protected_source_text": "ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b008"
+    ],
+    "translation_unit_protected_source_text": "ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "而且，鉴于E-Plus已获得许可并同意根据本协议的条款和条件提供一辆配备有操作员和护理人员的装备齐全的救护车。",
+    "translation_unit_translated_text": "而且，鉴于E-Plus已获得许可并同意根据本协议的条款和条件提供一辆配备有操作员和护理人员的装备齐全的救护车。",
+    "protected_translated_text": "而且，鉴于E-Plus已获得许可并同意根据本协议的条款和条件提供一辆配备有操作员和护理人员的装备齐全的救护车。",
+    "translated_text": "而且，鉴于E-Plus已获得许可并同意根据本协议的条款和条件提供一辆配备有操作员和护理人员的装备齐全的救护车。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b008",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "WHEREAS the Client is, a duly registered entity incorporated inTanzania providing banking andotheralliedservices. / WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus.",
+    "translation_context_after": "NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows: / 1.CommencementandDuration:"
+  },
+  {
+    "item_id": "p002-b009",
+    "page_idx": 1,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      99.89772542317708,
+      622.5876871744791,
+      524.8863525390625,
+      647.20263671875
+    ],
+    "source_text": "NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows:",
+    "lines": [
+      {
+        "bbox": [
+          99.89772542317708,
+          622.5876871744791,
+          524.8863525390625,
+          647.20263671875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows:",
+            "bbox": [
+              99.89772542317708,
+              622.5876871744791,
+              524.8863525390625,
+              647.20263671875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows:",
+    "mixed_original_protected_source_text": "NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b009"
+    ],
+    "translation_unit_protected_source_text": "NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "兹，因此，客户与E-Plus，鉴于本协议此后规定或载述之条款、相互承诺、契约及条件，特此约定如下：",
+    "translation_unit_translated_text": "兹，因此，客户与E-Plus，鉴于本协议此后规定或载述之条款、相互承诺、契约及条件，特此约定如下：",
+    "protected_translated_text": "兹，因此，客户与E-Plus，鉴于本协议此后规定或载述之条款、相互承诺、契约及条件，特此约定如下：",
+    "translated_text": "兹，因此，客户与E-Plus，鉴于本协议此后规定或载述之条款、相互承诺、契约及条件，特此约定如下：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b009",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "WHEREAStheClientisdesirousofmakingarrangementfor ambulanceservicestobe provided by E-Plus. / ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement.",
+    "translation_context_after": "1.CommencementandDuration: / This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG"
+  },
+  {
+    "item_id": "p002-b010",
+    "page_idx": 1,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      118.0994364420573,
+      660.35888671875,
+      284.03125,
+      671.3931477864584
+    ],
+    "source_text": "1.CommencementandDuration:",
+    "lines": [
+      {
+        "bbox": [
+          118.0994364420573,
+          660.35888671875,
+          284.03125,
+          671.3931477864584
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1.CommencementandDuration:",
+            "bbox": [
+              118.0994364420573,
+              660.35888671875,
+              284.03125,
+              671.3931477864584
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1.CommencementandDuration:",
+    "mixed_original_protected_source_text": "1.CommencementandDuration:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b010"
+    ],
+    "translation_unit_protected_source_text": "1.CommencementandDuration:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 生效与期限",
+    "translation_unit_translated_text": "1. 生效与期限",
+    "protected_translated_text": "1. 生效与期限",
+    "translated_text": "1. 生效与期限",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b010",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ANDWHEREASE-Plus is licensed to and have agreed toprovide afullyequipped ambulances with an operator and a Paramedic staff in accordance with the terms and conditions of this Agreement. / NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows:",
+    "translation_context_after": "This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG / P."
+  },
+  {
+    "item_id": "p002-b011",
+    "page_idx": 1,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      134.60795084635416,
+      684.9737955729166,
+      524.4630533854166,
+      709.164306640625
+    ],
+    "source_text": "This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG",
+    "lines": [
+      {
+        "bbox": [
+          134.60795084635416,
+          684.9737955729166,
+          524.4630533854166,
+          709.164306640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG",
+            "bbox": [
+              134.60795084635416,
+              684.9737955729166,
+              524.4630533854166,
+              709.164306640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 12,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG",
+    "mixed_original_protected_source_text": "This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b011"
+    ],
+    "translation_unit_protected_source_text": "This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "本协议自2026年4月1日起生效，至2026年9月30日止。若客户有意续签本协议，客户应通知RENG",
+    "translation_unit_translated_text": "本协议自2026年4月1日起生效，至2026年9月30日止。若客户有意续签本协议，客户应通知RENG",
+    "protected_translated_text": "本协议自2026年4月1日起生效，至2026年9月30日止。若客户有意续签本协议，客户应通知RENG",
+    "translated_text": "本协议自2026年4月1日起生效，至2026年9月30日止。若客户有意续签本协议，客户应通知RENG",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p002-b012",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b011",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p002-b012",
+    "translation_context_before": "NOW,THEREFORE,theClient andEPlus,orandinconsiderationoftheprovisions,mutual promises, covenants, and conditions herein after set forth or recited, agree as follows: / 1.CommencementandDuration:",
+    "translation_context_after": "P. / TA1"
+  },
+  {
+    "item_id": "p002-b012",
+    "page_idx": 1,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      582.8778483072916,
+      128.16733805338538,
+      595.5767008463541,
+      141.74798583984375
+    ],
+    "source_text": "P.",
+    "lines": [
+      {
+        "bbox": [
+          582.8778483072916,
+          128.16733805338538,
+          595.5767008463541,
+          141.74798583984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "P.",
+            "bbox": [
+              582.8778483072916,
+              128.16733805338538,
+              595.5767008463541,
+              141.74798583984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "P.",
+    "mixed_original_protected_source_text": "P.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b012"
+    ],
+    "translation_unit_protected_source_text": "P.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p002-b011",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p002-b012",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p002-b011",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1.CommencementandDuration: / This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG",
+    "translation_context_after": "TA1 / DA"
+  },
+  {
+    "item_id": "p002-b013",
+    "page_idx": 1,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      582.4545491536459,
+      151.50907389322913,
+      591.34375,
+      176.54838053385413
+    ],
+    "source_text": "TA1",
+    "lines": [
+      {
+        "bbox": [
+          582.4545491536459,
+          151.50907389322913,
+          591.34375,
+          176.54838053385413
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TA1",
+            "bbox": [
+              582.4545491536459,
+              151.50907389322913,
+              591.34375,
+              176.54838053385413
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TA1",
+    "mixed_original_protected_source_text": "TA1",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b013"
+    ],
+    "translation_unit_protected_source_text": "TA1",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p002-b013",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "This Agreement shall commence on 1st April 2026 and continue until 30th September 2026.Intheeventthattheclientintendstorenewtheagreement,theClientshallnotify RENG / P.",
+    "translation_context_after": "DA / E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein."
+  },
+  {
+    "item_id": "p002-b014",
+    "page_idx": 1,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      576.9517008463541,
+      141.32358805338538,
+      595.5767008463541,
+      153.63105265299475
+    ],
+    "source_text": "DA",
+    "lines": [
+      {
+        "bbox": [
+          576.9517008463541,
+          141.32358805338538,
+          595.5767008463541,
+          153.63105265299475
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "DA",
+            "bbox": [
+              576.9517008463541,
+              141.32358805338538,
+              595.5767008463541,
+              153.63105265299475
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 457.9,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "DA",
+    "mixed_original_protected_source_text": "DA",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b014"
+    ],
+    "translation_unit_protected_source_text": "DA",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p003-b000",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p002-b014",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p003-b000",
+    "translation_context_before": "P. / TA1",
+    "translation_context_after": "E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein. / 2.Standards:"
+  }
+]

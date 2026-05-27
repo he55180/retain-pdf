@@ -1,0 +1,57 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "DMGP": {
+      "hits": 1,
+      "key": "DMGP",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b002"
+      ],
+      "value": "DMGP"
+    },
+    "DP World": {
+      "hits": 1,
+      "key": "DP World",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "DP World"
+    },
+    "RE": {
+      "hits": 9,
+      "key": "RE",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b037",
+        "p003-b032",
+        "p003-b010",
+        "p002-b013",
+        "p002-b011"
+      ],
+      "value": "但驻地工程师"
+    },
+    "TPA": {
+      "hits": 3,
+      "key": "TPA",
+      "prompt_eligible": true,
+      "sources": [
+        "p003-b014",
+        "p002-b033",
+        "p002-b011"
+      ],
+      "value": "TPA"
+    },
+    "World": {
+      "hits": 1,
+      "key": "World",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "World"
+    }
+  },
+  "version": 1
+}

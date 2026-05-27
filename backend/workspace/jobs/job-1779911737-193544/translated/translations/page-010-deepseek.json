@@ -1,0 +1,2950 @@
+[
+  {
+    "item_id": "p010-b000",
+    "page_idx": 9,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      114.71307373046875,
+      213.04636637369788,
+      245.93465169270834,
+      226.62701416015625
+    ],
+    "source_text": "1.General ScopeofWork",
+    "lines": [
+      {
+        "bbox": [
+          114.71307373046875,
+          213.04636637369788,
+          245.93465169270834,
+          226.62701416015625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1.General ScopeofWork",
+            "bbox": [
+              114.71307373046875,
+              213.04636637369788,
+              245.93465169270834,
+              226.62701416015625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1.General ScopeofWork",
+    "mixed_original_protected_source_text": "1.General ScopeofWork",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b000"
+    ],
+    "translation_unit_protected_source_text": "1.General ScopeofWork",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 总体工作范围",
+    "translation_unit_translated_text": "1. 总体工作范围",
+    "protected_translated_text": "1. 总体工作范围",
+    "translated_text": "1. 总体工作范围",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p009-b029",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b000",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p009-b029",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "30/03/2026 / M",
+    "translation_context_after": "Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam. / Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers."
+  },
+  {
+    "item_id": "p010-b001",
+    "page_idx": 9,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      162.54545084635416,
+      237.66129557291663,
+      522.7698974609375,
+      263.125
+    ],
+    "source_text": "Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam.",
+    "lines": [
+      {
+        "bbox": [
+          162.54545084635416,
+          237.66129557291663,
+          522.7698974609375,
+          263.125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam.",
+            "bbox": [
+              162.54545084635416,
+              237.66129557291663,
+              522.7698974609375,
+              263.125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam.",
+    "mixed_original_protected_source_text": "Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b001"
+    ],
+    "translation_unit_protected_source_text": "Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "适用于患者转运的救护车适当配置于达累斯萨拉姆市内。",
+    "translation_unit_translated_text": "适用于患者转运的救护车适当配置于达累斯萨拉姆市内。",
+    "protected_translated_text": "适用于患者转运的救护车适当配置于达累斯萨拉姆市内。",
+    "translated_text": "适用于患者转运的救护车适当配置于达累斯萨拉姆市内。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b001",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "M / 1.General ScopeofWork",
+    "translation_context_after": "Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers. / Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs."
+  },
+  {
+    "item_id": "p010-b002",
+    "page_idx": 9,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      162.54545084635416,
+      274.1592814127605,
+      522.3465983072916,
+      300.047383626302
+    ],
+    "source_text": "Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers.",
+    "lines": [
+      {
+        "bbox": [
+          162.54545084635416,
+          274.1592814127605,
+          522.3465983072916,
+          300.047383626302
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers.",
+            "bbox": [
+              162.54545084635416,
+              274.1592814127605,
+              522.3465983072916,
+              300.047383626302
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers.",
+    "mixed_original_protected_source_text": "Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b002"
+    ],
+    "translation_unit_protected_source_text": "Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "每辆车配备足够数量的工作人员，并经过妥善培训，能够处理转运过程中的病人。",
+    "translation_unit_translated_text": "每辆车配备足够数量的工作人员，并经过妥善培训，能够处理转运过程中的病人。",
+    "protected_translated_text": "每辆车配备足够数量的工作人员，并经过妥善培训，能够处理转运过程中的病人。",
+    "translated_text": "每辆车配备足够数量的工作人员，并经过妥善培训，能够处理转运过程中的病人。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b002",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1.General ScopeofWork / Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam.",
+    "translation_context_after": "Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs. / Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS)."
+  },
+  {
+    "item_id": "p010-b003",
+    "page_idx": 9,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      162.12216186523438,
+      311.930440266927,
+      522.7698974609375,
+      337.81854248046875
+    ],
+    "source_text": "Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs.",
+    "lines": [
+      {
+        "bbox": [
+          162.12216186523438,
+          311.930440266927,
+          522.7698974609375,
+          337.81854248046875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs.",
+            "bbox": [
+              162.12216186523438,
+              311.930440266927,
+              522.7698974609375,
+              337.81854248046875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs.",
+    "mixed_original_protected_source_text": "Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b003"
+    ],
+    "translation_unit_protected_source_text": "Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "了解感染控制及正确使用个人防护装备，可降低转运患者及工作人员的风险。",
+    "translation_unit_translated_text": "了解感染控制及正确使用个人防护装备，可降低转运患者及工作人员的风险。",
+    "protected_translated_text": "了解感染控制及正确使用个人防护装备，可降低转运患者及工作人员的风险。",
+    "translated_text": "了解感染控制及正确使用个人防护装备，可降低转运患者及工作人员的风险。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b003",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Ambulance vehicles appropriate for patient transfer appropriately positioned withinDaresSalaam. / Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers.",
+    "translation_context_after": "Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS). / Required to provide necessary supplies of items to be stocked during patient transfer."
+  },
+  {
+    "item_id": "p010-b004",
+    "page_idx": 9,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      163.39204915364584,
+      350.1260172526042,
+      522.3465983072916,
+      376.4385172526042
+    ],
+    "source_text": "Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS).",
+    "lines": [
+      {
+        "bbox": [
+          163.39204915364584,
+          350.1260172526042,
+          522.3465983072916,
+          376.4385172526042
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS).",
+            "bbox": [
+              163.39204915364584,
+              350.1260172526042,
+              522.3465983072916,
+              376.4385172526042
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS).",
+    "mixed_original_protected_source_text": "Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS).",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b004"
+    ],
+    "translation_unit_protected_source_text": "Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS).",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "在转运患者期间，针对心脏骤停时提供救生服务所需的最低培训要求（ACLS/BLS）。",
+    "translation_unit_translated_text": "在转运患者期间，针对心脏骤停时提供救生服务所需的最低培训要求（ACLS/BLS）。",
+    "protected_translated_text": "在转运患者期间，针对心脏骤停时提供救生服务所需的最低培训要求（ACLS/BLS）。",
+    "translated_text": "在转运患者期间，针对心脏骤停时提供救生服务所需的最低培训要求（ACLS/BLS）。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b004",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Adequatenumberofstaffineachvehiclewithpropertrainingofhandlingpatient in transfers. / Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs.",
+    "translation_context_after": "Required to provide necessary supplies of items to be stocked during patient transfer. / Equipment:"
+  },
+  {
+    "item_id": "p010-b005",
+    "page_idx": 9,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      163.39204915364584,
+      387.0483805338542,
+      522.7698974609375,
+      411.6632893880208
+    ],
+    "source_text": "Required to provide necessary supplies of items to be stocked during patient transfer.",
+    "lines": [
+      {
+        "bbox": [
+          163.39204915364584,
+          387.0483805338542,
+          522.7698974609375,
+          411.6632893880208
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Required to provide necessary supplies of items to be stocked during patient transfer.",
+            "bbox": [
+              163.39204915364584,
+              387.0483805338542,
+              522.7698974609375,
+              411.6632893880208
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Required to provide necessary supplies of items to be stocked during patient transfer.",
+    "mixed_original_protected_source_text": "Required to provide necessary supplies of items to be stocked during patient transfer.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b005"
+    ],
+    "translation_unit_protected_source_text": "Required to provide necessary supplies of items to be stocked during patient transfer.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "需提供患者转运期间所需储备的物品。",
+    "translation_unit_translated_text": "需提供患者转运期间所需储备的物品。",
+    "protected_translated_text": "需提供患者转运期间所需储备的物品。",
+    "translated_text": "需提供患者转运期间所需储备的物品。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b005",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Knowledge of infection control and proper use of personal protective equipment'storeducerisktobothpatientin transit andstaffs. / Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS).",
+    "translation_context_after": "Equipment: / Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment"
+  },
+  {
+    "item_id": "p010-b006",
+    "page_idx": 9,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      115.13636271158855,
+      425.2439371744792,
+      186.67329915364584,
+      439.2489827473958
+    ],
+    "source_text": "Equipment:",
+    "lines": [
+      {
+        "bbox": [
+          115.13636271158855,
+          425.2439371744792,
+          186.67329915364584,
+          439.2489827473958
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Equipment:",
+            "bbox": [
+              115.13636271158855,
+              425.2439371744792,
+              186.67329915364584,
+              439.2489827473958
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Equipment:",
+    "mixed_original_protected_source_text": "Equipment:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b006"
+    ],
+    "translation_unit_protected_source_text": "Equipment:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "设备：",
+    "translation_unit_translated_text": "设备：",
+    "protected_translated_text": "设备：",
+    "translated_text": "设备：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b006",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Minimal trainingforlife saving services during cardiac arrest when transferring a patient (ACLS/BLS). / Required to provide necessary supplies of items to be stocked during patient transfer.",
+    "translation_context_after": "Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment / Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks"
+  },
+  {
+    "item_id": "p010-b007",
+    "page_idx": 9,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.95170084635416,
+      450.2832845052083,
+      522.3465983072916,
+      488.9032389322917
+    ],
+    "source_text": "Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment",
+    "lines": [
+      {
+        "bbox": [
+          129.95170084635416,
+          450.2832845052083,
+          522.3465983072916,
+          488.9032389322917
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment",
+            "bbox": [
+              129.95170084635416,
+              450.2832845052083,
+              522.3465983072916,
+              488.9032389322917
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment",
+    "mixed_original_protected_source_text": "Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b007"
+    ],
+    "translation_unit_protected_source_text": "Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "不同规格的基础和高级气道控制设备，包括但不限于口咽通气道、鼻咽通气道、气管插管（ETT）和喉罩（LMA）、喉镜手柄及喉镜片，以及其他插管装置。",
+    "translation_unit_translated_text": "不同规格的基础和高级气道控制设备，包括但不限于口咽通气道、鼻咽通气道、气管插管（ETT）和喉罩（LMA）、喉镜手柄及喉镜片，以及其他插管装置。",
+    "protected_translated_text": "不同规格的基础和高级气道控制设备，包括但不限于口咽通气道、鼻咽通气道、气管插管（ETT）和喉罩（LMA）、喉镜手柄及喉镜片，以及其他插管装置。",
+    "translated_text": "不同规格的基础和高级气道控制设备，包括但不限于口咽通气道、鼻咽通气道、气管插管（ETT）和喉罩（LMA）、喉镜手柄及喉镜片，以及其他插管装置。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b007",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Required to provide necessary supplies of items to be stocked during patient transfer. / Equipment:",
+    "translation_context_after": "Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks / Suction devices and catheters(flexible/rigid)"
+  },
+  {
+    "item_id": "p010-b008",
+    "page_idx": 9,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      130.375,
+      500.7862955729167,
+      521.5,
+      524.976806640625
+    ],
+    "source_text": "Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks",
+    "lines": [
+      {
+        "bbox": [
+          130.375,
+          500.7862955729167,
+          521.5,
+          524.976806640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks",
+            "bbox": [
+              130.375,
+              500.7862955729167,
+              521.5,
+              524.976806640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks",
+    "mixed_original_protected_source_text": "Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b008"
+    ],
+    "translation_unit_protected_source_text": "Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "供氧装置，包括尺寸合适的鼻塞、面罩、非再呼吸面罩",
+    "translation_unit_translated_text": "供氧装置，包括尺寸合适的鼻塞、面罩、非再呼吸面罩",
+    "protected_translated_text": "供氧装置，包括尺寸合适的鼻塞、面罩、非再呼吸面罩",
+    "translated_text": "供氧装置，包括尺寸合适的鼻塞、面罩、非再呼吸面罩",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b008",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Equipment: / Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment",
+    "translation_context_after": "Suction devices and catheters(flexible/rigid) / Differentsizesof BVMdeviceswithreservoirbags"
+  },
+  {
+    "item_id": "p010-b009",
+    "page_idx": 9,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.95170084635416,
+      488.054443359375,
+      333.55682373046875,
+      501.6350911458333
+    ],
+    "source_text": "Suction devices and catheters(flexible/rigid)",
+    "lines": [
+      {
+        "bbox": [
+          129.95170084635416,
+          488.054443359375,
+          333.55682373046875,
+          501.6350911458333
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Suction devices and catheters(flexible/rigid)",
+            "bbox": [
+              129.95170084635416,
+              488.054443359375,
+              333.55682373046875,
+              501.6350911458333
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Suction devices and catheters(flexible/rigid)",
+    "mixed_original_protected_source_text": "Suction devices and catheters(flexible/rigid)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b009"
+    ],
+    "translation_unit_protected_source_text": "Suction devices and catheters(flexible/rigid)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "吸引设备和导管（柔性/刚性）",
+    "translation_unit_translated_text": "吸引设备和导管（柔性/刚性）",
+    "protected_translated_text": "吸引设备和导管（柔性/刚性）",
+    "translated_text": "吸引设备和导管（柔性/刚性）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b009",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Differentsizesofbasicand advanced airwaycontroldevicesincludingbutnotlimited to oropharyngeal airways, nasopharyngeal airways, ETT and LMA, laryngoscope handleandbladesplusotherintubationequipment / Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks",
+    "translation_context_after": "Differentsizesof BVMdeviceswithreservoirbags / Various sizedintravenous cannulas,needles,intraosseous (IO)needles"
+  },
+  {
+    "item_id": "p010-b010",
+    "page_idx": 9,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.95170084635416,
+      524.976806640625,
+      363.1875,
+      539.8306477864584
+    ],
+    "source_text": "Differentsizesof BVMdeviceswithreservoirbags",
+    "lines": [
+      {
+        "bbox": [
+          129.95170084635416,
+          524.976806640625,
+          363.1875,
+          539.8306477864584
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Differentsizesof BVMdeviceswithreservoirbags",
+            "bbox": [
+              129.95170084635416,
+              524.976806640625,
+              363.1875,
+              539.8306477864584
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Differentsizesof BVMdeviceswithreservoirbags",
+    "mixed_original_protected_source_text": "Differentsizesof BVMdeviceswithreservoirbags",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b010"
+    ],
+    "translation_unit_protected_source_text": "Differentsizesof BVMdeviceswithreservoirbags",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "不同尺寸的带储气囊的BVM装置",
+    "translation_unit_translated_text": "不同尺寸的带储气囊的BVM装置",
+    "protected_translated_text": "不同尺寸的带储气囊的BVM装置",
+    "translated_text": "不同尺寸的带储气囊的BVM装置",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b010",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Oxygen delivery devices including appropriately sized nasal prongs, face masks, nonrebreathermasks / Suction devices and catheters(flexible/rigid)",
+    "translation_context_after": "Various sizedintravenous cannulas,needles,intraosseous (IO)needles / Pulse oximeterwithpediatricprobes"
+  },
+  {
+    "item_id": "p010-b011",
+    "page_idx": 9,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      130.79829915364584,
+      550.4405110677084,
+      448.2698974609375,
+      564.445556640625
+    ],
+    "source_text": "Various sizedintravenous cannulas,needles,intraosseous (IO)needles",
+    "lines": [
+      {
+        "bbox": [
+          130.79829915364584,
+          550.4405110677084,
+          448.2698974609375,
+          564.445556640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Various sizedintravenous cannulas,needles,intraosseous (IO)needles",
+            "bbox": [
+              130.79829915364584,
+              550.4405110677084,
+              448.2698974609375,
+              564.445556640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Various sizedintravenous cannulas,needles,intraosseous (IO)needles",
+    "mixed_original_protected_source_text": "Various sizedintravenous cannulas,needles,intraosseous (IO)needles",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b011"
+    ],
+    "translation_unit_protected_source_text": "Various sizedintravenous cannulas,needles,intraosseous (IO)needles",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "各种尺寸的静脉套管、穿刺针、骨内（IO）穿刺针",
+    "translation_unit_translated_text": "各种尺寸的静脉套管、穿刺针、骨内（IO）穿刺针",
+    "protected_translated_text": "各种尺寸的静脉套管、穿刺针、骨内（IO）穿刺针",
+    "translated_text": "各种尺寸的静脉套管、穿刺针、骨内（IO）穿刺针",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b011",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Suction devices and catheters(flexible/rigid) / Differentsizesof BVMdeviceswithreservoirbags",
+    "translation_context_after": "Pulse oximeterwithpediatricprobes / Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids"
+  },
+  {
+    "item_id": "p010-b012",
+    "page_idx": 9,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.95170084635416,
+      538.133056640625,
+      296.73012288411456,
+      551.7137044270834
+    ],
+    "source_text": "Pulse oximeterwithpediatricprobes",
+    "lines": [
+      {
+        "bbox": [
+          129.95170084635416,
+          538.133056640625,
+          296.73012288411456,
+          551.7137044270834
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Pulse oximeterwithpediatricprobes",
+            "bbox": [
+              129.95170084635416,
+              538.133056640625,
+              296.73012288411456,
+              551.7137044270834
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Pulse oximeterwithpediatricprobes",
+    "mixed_original_protected_source_text": "Pulse oximeterwithpediatricprobes",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b012"
+    ],
+    "translation_unit_protected_source_text": "Pulse oximeterwithpediatricprobes",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "配备儿童探头的脉搏血氧仪",
+    "translation_unit_translated_text": "配备儿童探头的脉搏血氧仪",
+    "protected_translated_text": "配备儿童探头的脉搏血氧仪",
+    "translated_text": "配备儿童探头的脉搏血氧仪",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b012",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Differentsizesof BVMdeviceswithreservoirbags / Various sizedintravenous cannulas,needles,intraosseous (IO)needles",
+    "translation_context_after": "Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids / Manual defibrillator orAEDwithpediatric capabilities (pads and cables)"
+  },
+  {
+    "item_id": "p010-b013",
+    "page_idx": 9,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.52841186523438,
+      563.17236328125,
+      521.5,
+      587.7873128255209
+    ],
+    "source_text": "Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids",
+    "lines": [
+      {
+        "bbox": [
+          129.52841186523438,
+          563.17236328125,
+          521.5,
+          587.7873128255209
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids",
+            "bbox": [
+              129.52841186523438,
+              563.17236328125,
+              521.5,
+              587.7873128255209
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids",
+    "mixed_original_protected_source_text": "Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b013"
+    ],
+    "translation_unit_protected_source_text": "Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "药物（肾上腺素、阿托品、10%葡萄糖、葡萄糖酸钙、抗惊厥药）和液体",
+    "translation_unit_translated_text": "药物（肾上腺素、阿托品、10%葡萄糖、葡萄糖酸钙、抗惊厥药）和液体",
+    "protected_translated_text": "药物（肾上腺素、阿托品、10%葡萄糖、葡萄糖酸钙、抗惊厥药）和液体",
+    "translated_text": "药物（肾上腺素、阿托品、10%葡萄糖、葡萄糖酸钙、抗惊厥药）和液体",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b013",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Various sizedintravenous cannulas,needles,intraosseous (IO)needles / Pulse oximeterwithpediatricprobes",
+    "translation_context_after": "Manual defibrillator orAEDwithpediatric capabilities (pads and cables) / Transportincubator(forneonates)"
+  },
+  {
+    "item_id": "p010-b014",
+    "page_idx": 9,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.95170084635416,
+      588.6361083984375,
+      458.0056966145833,
+      603.4899088541666
+    ],
+    "source_text": "Manual defibrillator orAEDwithpediatric capabilities (pads and cables)",
+    "lines": [
+      {
+        "bbox": [
+          129.95170084635416,
+          588.6361083984375,
+          458.0056966145833,
+          603.4899088541666
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Manual defibrillator orAEDwithpediatric capabilities (pads and cables)",
+            "bbox": [
+              129.95170084635416,
+              588.6361083984375,
+              458.0056966145833,
+              603.4899088541666
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Manual defibrillator orAEDwithpediatric capabilities (pads and cables)",
+    "mixed_original_protected_source_text": "Manual defibrillator orAEDwithpediatric capabilities (pads and cables)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b014"
+    ],
+    "translation_unit_protected_source_text": "Manual defibrillator orAEDwithpediatric capabilities (pads and cables)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "手动除颤器或具有儿科功能的AED（电极片和导线）",
+    "translation_unit_translated_text": "手动除颤器或具有儿科功能的AED（电极片和导线）",
+    "protected_translated_text": "手动除颤器或具有儿科功能的AED（电极片和导线）",
+    "translated_text": "手动除颤器或具有儿科功能的AED（电极片和导线）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b014",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Pulse oximeterwithpediatricprobes / Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids",
+    "translation_context_after": "Transportincubator(forneonates) / Transport ventilatorwith pediatric tubing's and settings"
+  },
+  {
+    "item_id": "p010-b015",
+    "page_idx": 9,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 15,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      130.79829915364584,
+      616.2217610677084,
+      286.14772542317706,
+      627.2560628255209
+    ],
+    "source_text": "Transportincubator(forneonates)",
+    "lines": [
+      {
+        "bbox": [
+          130.79829915364584,
+          616.2217610677084,
+          286.14772542317706,
+          627.2560628255209
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Transportincubator(forneonates)",
+            "bbox": [
+              130.79829915364584,
+              616.2217610677084,
+              286.14772542317706,
+              627.2560628255209
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 18,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Transportincubator(forneonates)",
+    "mixed_original_protected_source_text": "Transportincubator(forneonates)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b015"
+    ],
+    "translation_unit_protected_source_text": "Transportincubator(forneonates)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "转运暖箱（用于新生儿）",
+    "translation_unit_translated_text": "转运暖箱（用于新生儿）",
+    "protected_translated_text": "转运暖箱（用于新生儿）",
+    "translated_text": "转运暖箱（用于新生儿）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b015",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Medications (adrenaline, atropine, 10% dextrose, calcium gluconate, anticonvulsant) andfluids / Manual defibrillator orAEDwithpediatric capabilities (pads and cables)",
+    "translation_context_after": "Transport ventilatorwith pediatric tubing's and settings / Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment"
+  },
+  {
+    "item_id": "p010-b016",
+    "page_idx": 9,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 16,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.52841186523438,
+      601.3679606119791,
+      381.8125,
+      617.070556640625
+    ],
+    "source_text": "Transport ventilatorwith pediatric tubing's and settings",
+    "lines": [
+      {
+        "bbox": [
+          129.52841186523438,
+          601.3679606119791,
+          381.8125,
+          617.070556640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Transport ventilatorwith pediatric tubing's and settings",
+            "bbox": [
+              129.52841186523438,
+              601.3679606119791,
+              381.8125,
+              617.070556640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Transport ventilatorwith pediatric tubing's and settings",
+    "mixed_original_protected_source_text": "Transport ventilatorwith pediatric tubing's and settings",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b016"
+    ],
+    "translation_unit_protected_source_text": "Transport ventilatorwith pediatric tubing's and settings",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "转运呼吸机，配备儿科管路和设置",
+    "translation_unit_translated_text": "转运呼吸机，配备儿科管路和设置",
+    "protected_translated_text": "转运呼吸机，配备儿科管路和设置",
+    "translated_text": "转运呼吸机，配备儿科管路和设置",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b016",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Manual defibrillator orAEDwithpediatric capabilities (pads and cables) / Transportincubator(forneonates)",
+    "translation_context_after": "Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment / PediatricandneonatalBPcuffs"
+  },
+  {
+    "item_id": "p010-b017",
+    "page_idx": 9,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 17,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.95170084635416,
+      627.6804606119791,
+      520.6534016927084,
+      652.7197672526041
+    ],
+    "source_text": "Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment",
+    "lines": [
+      {
+        "bbox": [
+          129.95170084635416,
+          627.6804606119791,
+          520.6534016927084,
+          652.7197672526041
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment",
+            "bbox": [
+              129.95170084635416,
+              627.6804606119791,
+              520.6534016927084,
+              652.7197672526041
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 19,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment",
+    "mixed_original_protected_source_text": "Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b017"
+    ],
+    "translation_unit_protected_source_text": "Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "软颈托/适当尺寸的颈椎和骨折固定装置/设备",
+    "translation_unit_translated_text": "软颈托/适当尺寸的颈椎和骨折固定装置/设备",
+    "protected_translated_text": "软颈托/适当尺寸的颈椎和骨折固定装置/设备",
+    "translated_text": "软颈托/适当尺寸的颈椎和骨折固定装置/设备",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b017",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Transportincubator(forneonates) / Transport ventilatorwith pediatric tubing's and settings",
+    "translation_context_after": "PediatricandneonatalBPcuffs / Pediatric stethoscope"
+  },
+  {
+    "item_id": "p010-b018",
+    "page_idx": 9,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 18,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      127.83522542317708,
+      665.0272216796875,
+      272.60227457682294,
+      676.9102783203125
+    ],
+    "source_text": "PediatricandneonatalBPcuffs",
+    "lines": [
+      {
+        "bbox": [
+          127.83522542317708,
+          665.0272216796875,
+          272.60227457682294,
+          676.9102783203125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "PediatricandneonatalBPcuffs",
+            "bbox": [
+              127.83522542317708,
+              665.0272216796875,
+              272.60227457682294,
+              676.9102783203125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 21,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "PediatricandneonatalBPcuffs",
+    "mixed_original_protected_source_text": "PediatricandneonatalBPcuffs",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b018"
+    ],
+    "translation_unit_protected_source_text": "PediatricandneonatalBPcuffs",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "儿科和新生儿血压袖带",
+    "translation_unit_translated_text": "儿科和新生儿血压袖带",
+    "protected_translated_text": "儿科和新生儿血压袖带",
+    "translated_text": "儿科和新生儿血压袖带",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b018",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Transport ventilatorwith pediatric tubing's and settings / Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment",
+    "translation_context_after": "Pediatric stethoscope / ANNEXURE1"
+  },
+  {
+    "item_id": "p010-b019",
+    "page_idx": 9,
+    "block_idx": 19,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 19,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      128.68182373046875,
+      651.8709716796875,
+      227.30965169270834,
+      665.4516194661459
+    ],
+    "source_text": "Pediatric stethoscope",
+    "lines": [
+      {
+        "bbox": [
+          128.68182373046875,
+          651.8709716796875,
+          227.30965169270834,
+          665.4516194661459
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Pediatric stethoscope",
+            "bbox": [
+              128.68182373046875,
+              651.8709716796875,
+              227.30965169270834,
+              665.4516194661459
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 20,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Pediatric stethoscope",
+    "mixed_original_protected_source_text": "Pediatric stethoscope",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b019",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b019"
+    ],
+    "translation_unit_protected_source_text": "Pediatric stethoscope",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "儿科听诊器",
+    "translation_unit_translated_text": "儿科听诊器",
+    "protected_translated_text": "儿科听诊器",
+    "translated_text": "儿科听诊器",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b019",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Softcollars/appropriatelysizedcervicalandfractureimmobilizationdevices/ equipment / PediatricandneonatalBPcuffs",
+    "translation_context_after": "ANNEXURE1 / SCOPEOFWORK"
+  },
+  {
+    "item_id": "p010-b020",
+    "page_idx": 9,
+    "block_idx": 20,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 20,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      274.2954508463542,
+      162.5433451334635,
+      345.8323974609375,
+      174.00201416015625
+    ],
+    "source_text": "ANNEXURE1",
+    "lines": [
+      {
+        "bbox": [
+          274.2954508463542,
+          162.5433451334635,
+          345.8323974609375,
+          174.00201416015625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ANNEXURE1",
+            "bbox": [
+              274.2954508463542,
+              162.5433451334635,
+              345.8323974609375,
+              174.00201416015625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ANNEXURE1",
+    "mixed_original_protected_source_text": "ANNEXURE1",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b020",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b020"
+    ],
+    "translation_unit_protected_source_text": "ANNEXURE1",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "附件1",
+    "translation_unit_translated_text": "附件1",
+    "protected_translated_text": "附件1",
+    "translated_text": "附件1",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b020",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PediatricandneonatalBPcuffs / Pediatric stethoscope",
+    "translation_context_after": "SCOPEOFWORK / ANNEXURE2"
+  },
+  {
+    "item_id": "p010-b021",
+    "page_idx": 9,
+    "block_idx": 21,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 21,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      262.0198974609375,
+      188.85585530598962,
+      358.53125,
+      199.89011637369788
+    ],
+    "source_text": "SCOPEOFWORK",
+    "lines": [
+      {
+        "bbox": [
+          262.0198974609375,
+          188.85585530598962,
+          358.53125,
+          199.89011637369788
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "SCOPEOFWORK",
+            "bbox": [
+              262.0198974609375,
+              188.85585530598962,
+              358.53125,
+              199.89011637369788
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 22,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "SCOPEOFWORK",
+    "mixed_original_protected_source_text": "SCOPEOFWORK",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p010-b021",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p010-b021"
+    ],
+    "translation_unit_protected_source_text": "SCOPEOFWORK",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "工作范围",
+    "translation_unit_translated_text": "工作范围",
+    "protected_translated_text": "工作范围",
+    "translated_text": "工作范围",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p010-b021",
+      "page_idx": 9,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Pediatric stethoscope / ANNEXURE1",
+    "translation_context_after": "ANNEXURE2 / LISTOFAMBULANCEEQUIPMENT"
+  }
+]

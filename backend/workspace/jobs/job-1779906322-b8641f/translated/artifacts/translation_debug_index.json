@@ -1,0 +1,56 @@
+{
+  "schema": "translation_debug_index_v1",
+  "schema_version": 1,
+  "items": [
+    {
+      "item_id": "p001-b000",
+      "page_idx": 0,
+      "block_idx": -1,
+      "block_type": "text",
+      "block_kind": "text",
+      "layout_role": "paragraph",
+      "semantic_role": "body",
+      "structure_role": "body",
+      "math_mode": "direct_typst",
+      "continuation_group": "",
+      "classification_label": "",
+      "should_translate": true,
+      "skip_reason": "",
+      "final_status": "translated",
+      "source_preview": "Page 1 - This is a test document.",
+      "translated_preview": "第1页 - 这是一份测试文档。",
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "error_types": []
+    },
+    {
+      "item_id": "p002-b000",
+      "page_idx": 1,
+      "block_idx": -1,
+      "block_type": "text",
+      "block_kind": "text",
+      "layout_role": "paragraph",
+      "semantic_role": "body",
+      "structure_role": "body",
+      "math_mode": "direct_typst",
+      "continuation_group": "",
+      "classification_label": "",
+      "should_translate": true,
+      "skip_reason": "",
+      "final_status": "translated",
+      "source_preview": "Page 2 - This is the second page.",
+      "translated_preview": "第2页 - 这是第二页。",
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "error_types": []
+    }
+  ]
+}

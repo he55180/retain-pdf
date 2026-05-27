@@ -1,0 +1,1878 @@
+[
+  {
+    "item_id": "p003-b000",
+    "page_idx": 2,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      131.22158813476562,
+      115.43548583984375,
+      522.7698974609375,
+      141.32358805338538
+    ],
+    "source_text": "E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein.",
+    "lines": [
+      {
+        "bbox": [
+          131.22158813476562,
+          115.43548583984375,
+          522.7698974609375,
+          141.32358805338538
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein.",
+            "bbox": [
+              131.22158813476562,
+              115.43548583984375,
+              522.7698974609375,
+              141.32358805338538
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein.",
+    "mixed_original_protected_source_text": "E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b000"
+    ],
+    "translation_unit_protected_source_text": "E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-plus 在合同期满前至少一（1）个月。本协议仍应可按照本文所载规定予以终止。",
+    "translation_unit_translated_text": "E-plus 在合同期满前至少一（1）个月。本协议仍应可按照本文所载规定予以终止。",
+    "protected_translated_text": "E-plus 在合同期满前至少一（1）个月。本协议仍应可按照本文所载规定予以终止。",
+    "translated_text": "E-plus 在合同期满前至少一（1）个月。本协议仍应可按照本文所载规定予以终止。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p002-b014",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b000",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p002-b014",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TA1 / DA",
+    "translation_context_after": "2.Standards: / E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days..."
+  },
+  {
+    "item_id": "p003-b001",
+    "page_idx": 2,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      114.28977457682292,
+      218.13911946614587,
+      186.67329915364584,
+      230.8709716796875
+    ],
+    "source_text": "2.Standards:",
+    "lines": [
+      {
+        "bbox": [
+          114.28977457682292,
+          218.13911946614587,
+          186.67329915364584,
+          230.8709716796875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "2.Standards:",
+            "bbox": [
+              114.28977457682292,
+              218.13911946614587,
+              186.67329915364584,
+              230.8709716796875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 7,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "2.Standards:",
+    "mixed_original_protected_source_text": "2.Standards:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b001"
+    ],
+    "translation_unit_protected_source_text": "2.Standards:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2. 标准：",
+    "translation_unit_translated_text": "2. 标准：",
+    "protected_translated_text": "2. 标准：",
+    "translated_text": "2. 标准：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b001",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "DA / E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein.",
+    "translation_context_after": "E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days a week(24/7),ir..."
+  },
+  {
+    "item_id": "p003-b002",
+    "page_idx": 2,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      130.375,
+      243.17842610677087,
+      521.9232991536459,
+      331.45261637369794
+    ],
+    "source_text": "E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days a week(24/7),irrespective ofweekends andpublic holidays.Inview of theimportant natureof the service,it is expressly agreed that the ambulanceserviceswillbe availablewithoutfail 24hours a day7days aweek.",
+    "lines": [
+      {
+        "bbox": [
+          130.375,
+          243.17842610677087,
+          521.9232991536459,
+          331.45261637369794
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days a week(24/7),irrespective ofweekends andpublic holidays.Inview of theimportant natureof the service,it is expressly agreed that the ambulanceserviceswillbe availablewithoutfail 24hours a day7days aweek.",
+            "bbox": [
+              130.375,
+              243.17842610677087,
+              521.9232991536459,
+              331.45261637369794
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days a week(24/7),irrespective ofweekends andpublic holidays.Inview of theimportant natureof the service,it is expressly agreed that the ambulanceserviceswillbe availablewithoutfail 24hours a day7days aweek.",
+    "mixed_original_protected_source_text": "E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days a week(24/7),irrespective ofweekends andpublic holidays.Inview of theimportant natureof the service,it is expressly agreed that the ambulanceserviceswillbe availablewithoutfail 24hours a day7days aweek.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "llm_reconstructed_garbled",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b002"
+    ],
+    "translation_unit_protected_source_text": "E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days a week(24/7),irrespective ofweekends andpublic holidays.Inview of theimportant natureof the service,it is expressly agreed that the ambulanceserviceswillbe availablewithoutfail 24hours a day7days aweek.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-Plus承诺将按照经批准的国民健康与安全标准、陆路运输监管局（LATRA）以及E-Plus要求的其他国际标准，向客户提供配备齐全的救护车服务。救护车服务应每周7天、每天24小时（24/7）提供，不分周末和公共假日。鉴于该服务的重要性，双方明确约定，救护车服务将不间断地每天24小时、每周7天可用。",
+    "translation_unit_translated_text": "E-Plus承诺将按照经批准的国民健康与安全标准、陆路运输监管局（LATRA）以及E-Plus要求的其他国际标准，向客户提供配备齐全的救护车服务。救护车服务应每周7天、每天24小时（24/7）提供，不分周末和公共假日。鉴于该服务的重要性，双方明确约定，救护车服务将不间断地每天24小时、每周7天可用。",
+    "protected_translated_text": "E-Plus承诺将按照经批准的国民健康与安全标准、陆路运输监管局（LATRA）以及E-Plus要求的其他国际标准，向客户提供配备齐全的救护车服务。救护车服务应每周7天、每天24小时（24/7）提供，不分周末和公共假日。鉴于该服务的重要性，双方明确约定，救护车服务将不间断地每天24小时、每周7天可用。",
+    "translated_text": "E-Plus承诺将按照经批准的国民健康与安全标准、陆路运输监管局（LATRA）以及E-Plus要求的其他国际标准，向客户提供配备齐全的救护车服务。救护车服务应每周7天、每天24小时（24/7）提供，不分周末和公共假日。鉴于该服务的重要性，双方明确约定，救护车服务将不间断地每天24小时、每周7天可用。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b002",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-plus at least one (1) month prior to the expiry of the contract period.This Agreement shall remain subject to termination in accordancewith the provisions set out herein. / 2.Standards:",
+    "translation_context_after": "3.The Client's obligations: / a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further detail..."
+  },
+  {
+    "item_id": "p003-b003",
+    "page_idx": 2,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      114.71307373046875,
+      345.4576822916667,
+      249.3210245768229,
+      356.9163411458333
+    ],
+    "source_text": "3.The Client's obligations:",
+    "lines": [
+      {
+        "bbox": [
+          114.71307373046875,
+          345.4576822916667,
+          249.3210245768229,
+          356.9163411458333
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "3.The Client's obligations:",
+            "bbox": [
+              114.71307373046875,
+              345.4576822916667,
+              249.3210245768229,
+              356.9163411458333
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 7,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "3.The Client's obligations:",
+    "mixed_original_protected_source_text": "3.The Client's obligations:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b003"
+    ],
+    "translation_unit_protected_source_text": "3.The Client's obligations:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "3. 客户的义务：",
+    "translation_unit_translated_text": "3. 客户的义务：",
+    "protected_translated_text": "3. 客户的义务：",
+    "translated_text": "3. 客户的义务：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b003",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "2.Standards: / E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days...",
+    "translation_context_after": "a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further details on the emergency, number of..."
+  },
+  {
+    "item_id": "p003-b004",
+    "page_idx": 2,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      147.30682373046875,
+      369.2237955729167,
+      522.3465983072916,
+      444.3417561848958
+    ],
+    "source_text": "a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further details on the emergency, number of casualties/patients affected.",
+    "lines": [
+      {
+        "bbox": [
+          147.30682373046875,
+          369.2237955729167,
+          522.3465983072916,
+          444.3417561848958
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further details on the emergency, number of casualties/patients affected.",
+            "bbox": [
+              147.30682373046875,
+              369.2237955729167,
+              522.3465983072916,
+              444.3417561848958
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 7,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further details on the emergency, number of casualties/patients affected.",
+    "mixed_original_protected_source_text": "a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further details on the emergency, number of casualties/patients affected.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b004"
+    ],
+    "translation_unit_protected_source_text": "a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further details on the emergency, number of casualties/patients affected.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "a. 应患者随时询问，客户须联系E-Plus并要求提供救护车服务。呼叫方应表明自己为客户代表，并提供紧急情况的详细说明，包括但不限于：紧急性质、紧急地点、现场可提供更多紧急情况信息的人员联系方式、受影响伤员/患者人数。",
+    "translation_unit_translated_text": "a. 应患者随时询问，客户须联系E-Plus并要求提供救护车服务。呼叫方应表明自己为客户代表，并提供紧急情况的详细说明，包括但不限于：紧急性质、紧急地点、现场可提供更多紧急情况信息的人员联系方式、受影响伤员/患者人数。",
+    "protected_translated_text": "a. 应患者随时询问，客户须联系E-Plus并要求提供救护车服务。呼叫方应表明自己为客户代表，并提供紧急情况的详细说明，包括但不限于：紧急性质、紧急地点、现场可提供更多紧急情况信息的人员联系方式、受影响伤员/患者人数。",
+    "translated_text": "a. 应患者随时询问，客户须联系E-Plus并要求提供救护车服务。呼叫方应表明自己为客户代表，并提供紧急情况的详细说明，包括但不限于：紧急性质、紧急地点、现场可提供更多紧急情况信息的人员联系方式、受影响伤员/患者人数。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b004",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-Plusundertakesthatit shall conform tomakeavailablefullyequippedAmbulances with approved National Health and Safety standards,Land Transport Regulatory Authority (LATRA) and any otherinternational standards as required and advisedby EPlus to deliver ambulance services to The Client.The ambulance services shall be rendered 24hours a day7days a week(24/7),ir...",
+    "translation_context_after": "The Client shall share awrittenGuaranteeof Payment with E-Plus throughemail （dispatch@eplus.co.tz andinfo@eplus.co.tz)stating thatTheClient agrees to beinvoicedfor the ambulanceservice aspertherates specified inAnnexure3. / c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretai..."
+  },
+  {
+    "item_id": "p003-b005",
+    "page_idx": 2,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      149.0,
+      457.4980061848958,
+      521.9232991536459,
+      495.2691650390625
+    ],
+    "source_text": "The Client shall share awrittenGuaranteeof Payment with E-Plus throughemail （dispatch@eplus.co.tz andinfo@eplus.co.tz)stating thatTheClient agrees to beinvoicedfor the ambulanceservice aspertherates specified inAnnexure3.",
+    "lines": [
+      {
+        "bbox": [
+          149.0,
+          457.4980061848958,
+          521.9232991536459,
+          495.2691650390625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The Client shall share awrittenGuaranteeof Payment with E-Plus throughemail （dispatch@eplus.co.tz andinfo@eplus.co.tz)stating thatTheClient agrees to beinvoicedfor the ambulanceservice aspertherates specified inAnnexure3.",
+            "bbox": [
+              149.0,
+              457.4980061848958,
+              521.9232991536459,
+              495.2691650390625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 7,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The Client shall share awrittenGuaranteeof Payment with E-Plus throughemail （dispatch@eplus.co.tz andinfo@eplus.co.tz)stating thatTheClient agrees to beinvoicedfor the ambulanceservice aspertherates specified inAnnexure3.",
+    "mixed_original_protected_source_text": "The Client shall share awrittenGuaranteeof Payment with E-Plus throughemail （dispatch@eplus.co.tz andinfo@eplus.co.tz)stating thatTheClient agrees to beinvoicedfor the ambulanceservice aspertherates specified inAnnexure3.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b005"
+    ],
+    "translation_unit_protected_source_text": "The Client shall share awrittenGuaranteeof Payment with E-Plus throughemail （dispatch@eplus.co.tz andinfo@eplus.co.tz)stating thatTheClient agrees to beinvoicedfor the ambulanceservice aspertherates specified inAnnexure3.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "客户应通过电子邮件（dispatch@eplus.co.tz 和 info@eplus.co.tz)向 E-Plus 提交一份书面付款保证，声明客户同意按照附件3中规定的费率就救护车服务接受开票。",
+    "translation_unit_translated_text": "客户应通过电子邮件（dispatch@eplus.co.tz 和 info@eplus.co.tz)向 E-Plus 提交一份书面付款保证，声明客户同意按照附件3中规定的费率就救护车服务接受开票。",
+    "protected_translated_text": "客户应通过电子邮件（dispatch@eplus.co.tz 和 info@eplus.co.tz)向 E-Plus 提交一份书面付款保证，声明客户同意按照附件3中规定的费率就救护车服务接受开票。",
+    "translated_text": "客户应通过电子邮件（dispatch@eplus.co.tz 和 info@eplus.co.tz)向 E-Plus 提交一份书面付款保证，声明客户同意按照附件3中规定的费率就救护车服务接受开票。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b005",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "3.The Client's obligations: / a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further detail...",
+    "translation_context_after": "c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretainerfeeisexclusive of ambulance service charges,which shallbe appliedin accordance with therates set out in theAnnexure3hereto. / 4.Invoicing and Payment"
+  },
+  {
+    "item_id": "p003-b006",
+    "page_idx": 2,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      147.30682373046875,
+      505.4546305338542,
+      523.1931966145834,
+      557.6552327473959
+    ],
+    "source_text": "c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretainerfeeisexclusive of ambulance service charges,which shallbe appliedin accordance with therates set out in theAnnexure3hereto.",
+    "lines": [
+      {
+        "bbox": [
+          147.30682373046875,
+          505.4546305338542,
+          523.1931966145834,
+          557.6552327473959
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretainerfeeisexclusive of ambulance service charges,which shallbe appliedin accordance with therates set out in theAnnexure3hereto.",
+            "bbox": [
+              147.30682373046875,
+              505.4546305338542,
+              523.1931966145834,
+              557.6552327473959
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretainerfeeisexclusive of ambulance service charges,which shallbe appliedin accordance with therates set out in theAnnexure3hereto.",
+    "mixed_original_protected_source_text": "c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretainerfeeisexclusive of ambulance service charges,which shallbe appliedin accordance with therates set out in theAnnexure3hereto.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b006"
+    ],
+    "translation_unit_protected_source_text": "c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretainerfeeisexclusive of ambulance service charges,which shallbe appliedin accordance with therates set out in theAnnexure3hereto.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "c. 客户应支付不可退还的预聘费，金额为2,700,000坦桑尼亚先令，覆盖合同期内的六（6）个月。该预聘费不包括救护车服务费用，救护车服务费用将按照附件3中所规定的费率另行收取。",
+    "translation_unit_translated_text": "c. 客户应支付不可退还的预聘费，金额为2,700,000坦桑尼亚先令，覆盖合同期内的六（6）个月。该预聘费不包括救护车服务费用，救护车服务费用将按照附件3中所规定的费率另行收取。",
+    "protected_translated_text": "c. 客户应支付不可退还的预聘费，金额为2,700,000坦桑尼亚先令，覆盖合同期内的六（6）个月。该预聘费不包括救护车服务费用，救护车服务费用将按照附件3中所规定的费率另行收取。",
+    "translated_text": "c. 客户应支付不可退还的预聘费，金额为2,700,000坦桑尼亚先令，覆盖合同期内的六（6）个月。该预聘费不包括救护车服务费用，救护车服务费用将按照附件3中所规定的费率另行收取。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b006",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "a.When and as enquired by the patients,the Client shall contact E-Plus and request forambulance services.Thecallershall identifythemselves asrepresentatives of The Client and give details of the emergency including, but not limited to; nature ofemergency,locationofemergency,contactofpersonontheground who can give further details on the emergency, number of...",
+    "translation_context_after": "4.Invoicing and Payment / a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed..."
+  },
+  {
+    "item_id": "p003-b007",
+    "page_idx": 2,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      114.28977457682292,
+      569.9626871744791,
+      244.2414754231771,
+      584.8165283203125
+    ],
+    "source_text": "4.Invoicing and Payment",
+    "lines": [
+      {
+        "bbox": [
+          114.28977457682292,
+          569.9626871744791,
+          244.2414754231771,
+          584.8165283203125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "4.Invoicing and Payment",
+            "bbox": [
+              114.28977457682292,
+              569.9626871744791,
+              244.2414754231771,
+              584.8165283203125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 7,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "4.Invoicing and Payment",
+    "mixed_original_protected_source_text": "4.Invoicing and Payment",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b007"
+    ],
+    "translation_unit_protected_source_text": "4.Invoicing and Payment",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "4. 发票与付款",
+    "translation_unit_translated_text": "4. 发票与付款",
+    "protected_translated_text": "4. 发票与付款",
+    "translated_text": "4. 发票与付款",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b007",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The Client shall share awrittenGuaranteeof Payment with E-Plus throughemail （dispatch@eplus.co.tz andinfo@eplus.co.tz)stating thatTheClient agrees to beinvoicedfor the ambulanceservice aspertherates specified inAnnexure3. / c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretai...",
+    "translation_context_after": "a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed original invoice and stat..."
+  },
+  {
+    "item_id": "p003-b008",
+    "page_idx": 2,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.8835245768229,
+      596.6995849609375,
+      518.5369466145834,
+      685.398193359375
+    ],
+    "source_text": "a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed original invoice and statement of account and upon the satisfactory delivery of the Services to the Client's satisfaction.",
+    "lines": [
+      {
+        "bbox": [
+          146.8835245768229,
+          596.6995849609375,
+          518.5369466145834,
+          685.398193359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed original invoice and statement of account and upon the satisfactory delivery of the Services to the Client's satisfaction.",
+            "bbox": [
+              146.8835245768229,
+              596.6995849609375,
+              518.5369466145834,
+              685.398193359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 7,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed original invoice and statement of account and upon the satisfactory delivery of the Services to the Client's satisfaction.",
+    "mixed_original_protected_source_text": "a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed original invoice and statement of account and upon the satisfactory delivery of the Services to the Client's satisfaction.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b008"
+    ],
+    "translation_unit_protected_source_text": "a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed original invoice and statement of account and upon the satisfactory delivery of the Services to the Client's satisfaction.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "a. E-Plus 应根据本协议附件3所载的约定费率计算并提供发票，该等费率可随现行市场价格以及双方届时约定的调整而增减。（在合同期限内，客户应在收到完整、正确且无争议的原始发票及对账单后三十（30）天内，在服务已令人满意地交付并使客户满意的情况下，后付该等款项。）",
+    "translation_unit_translated_text": "a. E-Plus 应根据本协议附件3所载的约定费率计算并提供发票，该等费率可随现行市场价格以及双方届时约定的调整而增减。（在合同期限内，客户应在收到完整、正确且无争议的原始发票及对账单后三十（30）天内，在服务已令人满意地交付并使客户满意的情况下，后付该等款项。）",
+    "protected_translated_text": "a. E-Plus 应根据本协议附件3所载的约定费率计算并提供发票，该等费率可随现行市场价格以及双方届时约定的调整而增减。（在合同期限内，客户应在收到完整、正确且无争议的原始发票及对账单后三十（30）天内，在服务已令人满意地交付并使客户满意的情况下，后付该等款项。）",
+    "translated_text": "a. E-Plus 应根据本协议附件3所载的约定费率计算并提供发票，该等费率可随现行市场价格以及双方届时约定的调整而增减。（在合同期限内，客户应在收到完整、正确且无争议的原始发票及对账单后三十（30）天内，在服务已令人满意地交付并使客户满意的情况下，后付该等款项。）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b008",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "c.The Client shall pay a non - refundable retainer fee of TZS 2,700,000 covering a periodof six(6) months of thecontract term.Thisretainerfeeisexclusive of ambulance service charges,which shallbe appliedin accordance with therates set out in theAnnexure3hereto. / 4.Invoicing and Payment",
+    "translation_context_after": "b.TheAmbulanceServices are exemptedfrom tax.Should therebea change of lawtothiseffect,theratessetoutinAnnexure3ofthisAgreementshallbe / SINE"
+  },
+  {
+    "item_id": "p003-b009",
+    "page_idx": 2,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.8835245768229,
+      695.5836588541666,
+      514.727294921875,
+      721.4717610677084
+    ],
+    "source_text": "b.TheAmbulanceServices are exemptedfrom tax.Should therebea change of lawtothiseffect,theratessetoutinAnnexure3ofthisAgreementshallbe",
+    "lines": [
+      {
+        "bbox": [
+          146.8835245768229,
+          695.5836588541666,
+          514.727294921875,
+          721.4717610677084
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "b.TheAmbulanceServices are exemptedfrom tax.Should therebea change of lawtothiseffect,theratessetoutinAnnexure3ofthisAgreementshallbe",
+            "bbox": [
+              146.8835245768229,
+              695.5836588541666,
+              514.727294921875,
+              721.4717610677084
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 7,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "b.TheAmbulanceServices are exemptedfrom tax.Should therebea change of lawtothiseffect,theratessetoutinAnnexure3ofthisAgreementshallbe",
+    "mixed_original_protected_source_text": "b.TheAmbulanceServices are exemptedfrom tax.Should therebea change of lawtothiseffect,theratessetoutinAnnexure3ofthisAgreementshallbe",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b009"
+    ],
+    "translation_unit_protected_source_text": "b.TheAmbulanceServices are exemptedfrom tax.Should therebea change of lawtothiseffect,theratessetoutinAnnexure3ofthisAgreementshallbe",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "b. 救护车服务免于纳税。若法律就此发生变更，本协议附件3中规定的费率应",
+    "translation_unit_translated_text": "b. 救护车服务免于纳税。若法律就此发生变更，本协议附件3中规定的费率应",
+    "protected_translated_text": "b. 救护车服务免于纳税。若法律就此发生变更，本协议附件3中规定的费率应",
+    "translated_text": "b. 救护车服务免于纳税。若法律就此发生变更，本协议附件3中规定的费率应",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b009",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "4.Invoicing and Payment / a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed...",
+    "translation_context_after": "SINE / O.F"
+  },
+  {
+    "item_id": "p003-b010",
+    "page_idx": 2,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      571.4488525390625,
+      44.561492919921875,
+      595.5767008463541,
+      53.473790486653684
+    ],
+    "source_text": "SINE",
+    "lines": [
+      {
+        "bbox": [
+          571.4488525390625,
+          44.561492919921875,
+          595.5767008463541,
+          53.473790486653684
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "SINE",
+            "bbox": [
+              571.4488525390625,
+              44.561492919921875,
+              595.5767008463541,
+              53.473790486653684
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 4,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "SINE",
+    "mixed_original_protected_source_text": "SINE",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b010"
+    ],
+    "translation_unit_protected_source_text": "SINE",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b010",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "a.E-Plusshallprovideinvoices,calculated andbasedontheagreedratessetout inAnnexure3hereto,whichmaybeincreasedordecreasedinlinewiththe prevailing market rates and as shall be agreed between the two parties. (For the durationoftheTermandpayablebytheClientinarrearswithinThirty(30) days of receipt of the complete and correct, undisputed original invoice and stat...",
+    "translation_context_after": "O.F / RE"
+  },
+  {
+    "item_id": "p003-b011",
+    "page_idx": 2,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      574.4119466145834,
+      125.6209716796875,
+      595.5767008463541,
+      138.35282389322913
+    ],
+    "source_text": "O.F",
+    "lines": [
+      {
+        "bbox": [
+          574.4119466145834,
+          125.6209716796875,
+          595.5767008463541,
+          138.35282389322913
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "O.F",
+            "bbox": [
+              574.4119466145834,
+              125.6209716796875,
+              595.5767008463541,
+              138.35282389322913
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 4,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "O.F",
+    "mixed_original_protected_source_text": "O.F",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b011"
+    ],
+    "translation_unit_protected_source_text": "O.F",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b011",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "b.TheAmbulanceServices are exemptedfrom tax.Should therebea change of lawtothiseffect,theratessetoutinAnnexure3ofthisAgreementshallbe / SINE",
+    "translation_context_after": "RE / VZA"
+  },
+  {
+    "item_id": "p003-b012",
+    "page_idx": 2,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      573.9886474609375,
+      138.7772216796875,
+      595.5767008463541,
+      153.2066548665365
+    ],
+    "source_text": "RE",
+    "lines": [
+      {
+        "bbox": [
+          573.9886474609375,
+          138.7772216796875,
+          595.5767008463541,
+          153.2066548665365
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "RE",
+            "bbox": [
+              573.9886474609375,
+              138.7772216796875,
+              595.5767008463541,
+              153.2066548665365
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 4,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "RE",
+    "mixed_original_protected_source_text": "RE",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b012"
+    ],
+    "translation_unit_protected_source_text": "RE",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b012",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "SINE / O.F",
+    "translation_context_after": "VZA / revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm."
+  },
+  {
+    "item_id": "p003-b013",
+    "page_idx": 2,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      577.375,
+      161.27016194661462,
+      593.883544921875,
+      182.914306640625
+    ],
+    "source_text": "VZA",
+    "lines": [
+      {
+        "bbox": [
+          577.375,
+          161.27016194661462,
+          593.883544921875,
+          182.914306640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "VZA",
+            "bbox": [
+              577.375,
+              161.27016194661462,
+              593.883544921875,
+              182.914306640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 459.49,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 4,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "VZA",
+    "mixed_original_protected_source_text": "VZA",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b013"
+    ],
+    "translation_unit_protected_source_text": "VZA",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm.",
+    "continuation_decision": "joined",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b013",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "O.F / RE",
+    "translation_context_after": "revisedasagreedbetweenbothpartiestoincludeallapplicabletaxes,duties andleviesoftheServicesforthedurationoftheTerm. / c.Allinvoices shall include theServiceProvider'sTaxpayerRegistration/TIN Numberandfulladdress"
+  }
+]

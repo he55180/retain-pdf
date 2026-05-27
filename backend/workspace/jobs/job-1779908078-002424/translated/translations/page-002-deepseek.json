@@ -1,0 +1,1768 @@
+[
+  {
+    "item_id": "p002-b001",
+    "page_idx": 1,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      228.05,
+      159.28112,
+      371.02887999999996,
+      173.5068
+    ],
+    "source_text": "TABLE OF CONTENTS",
+    "lines": [
+      {
+        "bbox": [
+          228.05,
+          159.28112,
+          371.02887999999996,
+          173.5068
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TABLE OF CONTENTS",
+            "bbox": [
+              228.05,
+              159.28112,
+              371.02887999999996,
+              173.5068
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TABLE OF CONTENTS",
+    "mixed_original_protected_source_text": "TABLE OF CONTENTS",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b001"
+    ],
+    "translation_unit_protected_source_text": "TABLE OF CONTENTS",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "目录",
+    "translation_unit_translated_text": "目录",
+    "protected_translated_text": "目录",
+    "translated_text": "目录",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p003-b001",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b001",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p003-b001",
+    "translation_context_before": "PROPOSAL FOR HIV/AIDS AND COVID-19 AWARENESS PROGRAMME FOR DESIGN AND BUILD FOR MODERNIZATION OF THE MALINDI WHARF AREA AT DAR ES SALAAM PORT.",
+    "translation_context_after": "0.0 EXECUTIVE SUMMARY / 1.0 INTRODUCTION"
+  },
+  {
+    "item_id": "p002-b003",
+    "page_idx": 1,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      178.24399999999991,
+      522.912,
+      188.93999999999994
+    ],
+    "source_text": "0.0 EXECUTIVE SUMMARY",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          178.24399999999991,
+          522.912,
+          188.93999999999994
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "0.0 EXECUTIVE SUMMARY...................................................................................................................2",
+            "bbox": [
+              72.024,
+              178.24399999999991,
+              522.912,
+              188.93999999999994
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ................................................................................................................... 2",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "0.0 EXECUTIVE SUMMARY",
+    "mixed_original_protected_source_text": "0.0 EXECUTIVE SUMMARY",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b003"
+    ],
+    "translation_unit_protected_source_text": "0.0 EXECUTIVE SUMMARY",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "0.0 执行摘要 ................................................................................................................... 2",
+    "translation_unit_translated_text": "0.0 执行摘要 ................................................................................................................... 2",
+    "protected_translated_text": "0.0 执行摘要 ................................................................................................................... 2",
+    "translated_text": "0.0 执行摘要 ................................................................................................................... 2",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b003",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PROPOSAL FOR HIV/AIDS AND COVID-19 AWARENESS PROGRAMME FOR DESIGN AND BUILD FOR MODERNIZATION OF THE MALINDI WHARF AREA AT DAR ES SALAAM PORT. / TABLE OF CONTENTS",
+    "translation_context_after": "1.0 INTRODUCTION / 1.1 TRAINING OBJECTIVES"
+  },
+  {
+    "item_id": "p002-b004",
+    "page_idx": 1,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      203.80399999999997,
+      522.912,
+      214.5
+    ],
+    "source_text": "1.0 INTRODUCTION",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          203.80399999999997,
+          522.912,
+          214.5
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1.0 INTRODUCTION...............................................................................................................................3",
+            "bbox": [
+              72.024,
+              203.80399999999997,
+              522.912,
+              214.5
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ............................................................................................................................... 3",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1.0 INTRODUCTION",
+    "mixed_original_protected_source_text": "1.0 INTRODUCTION",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b004"
+    ],
+    "translation_unit_protected_source_text": "1.0 INTRODUCTION",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1.0 引言 ............................................................................................................................... 3",
+    "translation_unit_translated_text": "1.0 引言 ............................................................................................................................... 3",
+    "protected_translated_text": "1.0 引言 ............................................................................................................................... 3",
+    "translated_text": "1.0 引言 ............................................................................................................................... 3",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b004",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TABLE OF CONTENTS / 0.0 EXECUTIVE SUMMARY",
+    "translation_context_after": "1.1 TRAINING OBJECTIVES / 1.2 TARGET PARTICIPANTS"
+  },
+  {
+    "item_id": "p002-b005",
+    "page_idx": 1,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      83.064,
+      229.48399999999992,
+      522.912,
+      240.17999999999995
+    ],
+    "source_text": "1.1 TRAINING OBJECTIVES",
+    "lines": [
+      {
+        "bbox": [
+          83.064,
+          229.48399999999992,
+          522.912,
+          240.17999999999995
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1.1 TRAINING OBJECTIVES ..............................................................................................................3",
+            "bbox": [
+              83.064,
+              229.48399999999992,
+              522.912,
+              240.17999999999995
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " .............................................................................................................. 3",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1.1 TRAINING OBJECTIVES",
+    "mixed_original_protected_source_text": "1.1 TRAINING OBJECTIVES",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b005"
+    ],
+    "translation_unit_protected_source_text": "1.1 TRAINING OBJECTIVES",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1.1 培训目标 .............................................................................................................. 3",
+    "translation_unit_translated_text": "1.1 培训目标 .............................................................................................................. 3",
+    "protected_translated_text": "1.1 培训目标 .............................................................................................................. 3",
+    "translated_text": "1.1 培训目标 .............................................................................................................. 3",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b005",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "0.0 EXECUTIVE SUMMARY / 1.0 INTRODUCTION",
+    "translation_context_after": "1.2 TARGET PARTICIPANTS / 2.0 TRAINING METHODOLOGY"
+  },
+  {
+    "item_id": "p002-b006",
+    "page_idx": 1,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      83.064,
+      255.164,
+      522.912,
+      265.86
+    ],
+    "source_text": "1.2 TARGET PARTICIPANTS",
+    "lines": [
+      {
+        "bbox": [
+          83.064,
+          255.164,
+          522.912,
+          265.86
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1.2 TARGET PARTICIPANTS.............................................................................................................4",
+            "bbox": [
+              83.064,
+              255.164,
+              522.912,
+              265.86
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ............................................................................................................. 4",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1.2 TARGET PARTICIPANTS",
+    "mixed_original_protected_source_text": "1.2 TARGET PARTICIPANTS",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b006"
+    ],
+    "translation_unit_protected_source_text": "1.2 TARGET PARTICIPANTS",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1.2 目标参与者 ............................................................................................................. 4",
+    "translation_unit_translated_text": "1.2 目标参与者 ............................................................................................................. 4",
+    "protected_translated_text": "1.2 目标参与者 ............................................................................................................. 4",
+    "translated_text": "1.2 目标参与者 ............................................................................................................. 4",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b006",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1.0 INTRODUCTION / 1.1 TRAINING OBJECTIVES",
+    "translation_context_after": "2.0 TRAINING METHODOLOGY / 3.0 SIX-MONTH TRAINING PLAN"
+  },
+  {
+    "item_id": "p002-b007",
+    "page_idx": 1,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      280.874,
+      522.912,
+      291.57000000000005
+    ],
+    "source_text": "2.0 TRAINING METHODOLOGY",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          280.874,
+          522.912,
+          291.57000000000005
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "2.0 TRAINING METHODOLOGY............................................................................................................4",
+            "bbox": [
+              72.024,
+              280.874,
+              522.912,
+              291.57000000000005
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ............................................................................................................ 4",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "2.0 TRAINING METHODOLOGY",
+    "mixed_original_protected_source_text": "2.0 TRAINING METHODOLOGY",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b007"
+    ],
+    "translation_unit_protected_source_text": "2.0 TRAINING METHODOLOGY",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2.0 培训方法 ............................................................................................................ 4",
+    "translation_unit_translated_text": "2.0 培训方法 ............................................................................................................ 4",
+    "protected_translated_text": "2.0 培训方法 ............................................................................................................ 4",
+    "translated_text": "2.0 培训方法 ............................................................................................................ 4",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b007",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1.1 TRAINING OBJECTIVES / 1.2 TARGET PARTICIPANTS",
+    "translation_context_after": "3.0 SIX-MONTH TRAINING PLAN / 4.0 EXPECTED PROVISIONS FOR THE PROGRAM"
+  },
+  {
+    "item_id": "p002-b008",
+    "page_idx": 1,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      306.554,
+      522.912,
+      317.25
+    ],
+    "source_text": "3.0 SIX-MONTH TRAINING PLAN",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          306.554,
+          522.912,
+          317.25
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "3.0 SIX-MONTH TRAINING PLAN..........................................................................................................4",
+            "bbox": [
+              72.024,
+              306.554,
+              522.912,
+              317.25
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " .......................................................................................................... 4",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "3.0 SIX-MONTH TRAINING PLAN",
+    "mixed_original_protected_source_text": "3.0 SIX-MONTH TRAINING PLAN",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b008"
+    ],
+    "translation_unit_protected_source_text": "3.0 SIX-MONTH TRAINING PLAN",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "3.0 六个月培训计划 .......................................................................................................... 4",
+    "translation_unit_translated_text": "3.0 六个月培训计划 .......................................................................................................... 4",
+    "protected_translated_text": "3.0 六个月培训计划 .......................................................................................................... 4",
+    "translated_text": "3.0 六个月培训计划 .......................................................................................................... 4",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b008",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1.2 TARGET PARTICIPANTS / 2.0 TRAINING METHODOLOGY",
+    "translation_context_after": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM / 5.0 EXPECTED ACHIVEMENTS"
+  },
+  {
+    "item_id": "p002-b009",
+    "page_idx": 1,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      332.114,
+      522.912,
+      342.80999999999995
+    ],
+    "source_text": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          332.114,
+          522.912,
+          342.80999999999995
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM............................................................................5",
+            "bbox": [
+              72.024,
+              332.114,
+              522.912,
+              342.80999999999995
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ............................................................................ 5",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM",
+    "mixed_original_protected_source_text": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b009"
+    ],
+    "translation_unit_protected_source_text": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "4.0 项目预期规定 ............................................................................ 5",
+    "translation_unit_translated_text": "4.0 项目预期规定 ............................................................................ 5",
+    "protected_translated_text": "4.0 项目预期规定 ............................................................................ 5",
+    "translated_text": "4.0 项目预期规定 ............................................................................ 5",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b009",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "2.0 TRAINING METHODOLOGY / 3.0 SIX-MONTH TRAINING PLAN",
+    "translation_context_after": "5.0 EXPECTED ACHIVEMENTS / 6.0 TRAINING COST"
+  },
+  {
+    "item_id": "p002-b010",
+    "page_idx": 1,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      357.794,
+      522.912,
+      368.48999999999995
+    ],
+    "source_text": "5.0 EXPECTED ACHIVEMENTS",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          357.794,
+          522.912,
+          368.48999999999995
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "5.0 EXPECTED ACHIVEMENTS.............................................................................................................5",
+            "bbox": [
+              72.024,
+              357.794,
+              522.912,
+              368.48999999999995
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ............................................................................................................. 5",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "5.0 EXPECTED ACHIVEMENTS",
+    "mixed_original_protected_source_text": "5.0 EXPECTED ACHIVEMENTS",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b010"
+    ],
+    "translation_unit_protected_source_text": "5.0 EXPECTED ACHIVEMENTS",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "5.0 预期成果 ............................................................................................................. 5",
+    "translation_unit_translated_text": "5.0 预期成果 ............................................................................................................. 5",
+    "protected_translated_text": "5.0 预期成果 ............................................................................................................. 5",
+    "translated_text": "5.0 预期成果 ............................................................................................................. 5",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b010",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "3.0 SIX-MONTH TRAINING PLAN / 4.0 EXPECTED PROVISIONS FOR THE PROGRAM",
+    "translation_context_after": "6.0 TRAINING COST / 7.0 CONCLUSION"
+  },
+  {
+    "item_id": "p002-b011",
+    "page_idx": 1,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      383.474,
+      522.912,
+      394.16999999999996
+    ],
+    "source_text": "6.0 TRAINING COST",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          383.474,
+          522.912,
+          394.16999999999996
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "6.0 TRAINING COST...............................................................................................................................6",
+            "bbox": [
+              72.024,
+              383.474,
+              522.912,
+              394.16999999999996
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ............................................................................................................................... 6",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "6.0 TRAINING COST",
+    "mixed_original_protected_source_text": "6.0 TRAINING COST",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b011"
+    ],
+    "translation_unit_protected_source_text": "6.0 TRAINING COST",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "6.0 培训成本 ............................................................................................................................... 6",
+    "translation_unit_translated_text": "6.0 培训成本 ............................................................................................................................... 6",
+    "protected_translated_text": "6.0 培训成本 ............................................................................................................................... 6",
+    "translated_text": "6.0 培训成本 ............................................................................................................................... 6",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b011",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM / 5.0 EXPECTED ACHIVEMENTS",
+    "translation_context_after": "7.0 CONCLUSION / 8.0 APPENDICES"
+  },
+  {
+    "item_id": "p002-b012",
+    "page_idx": 1,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      409.154,
+      522.912,
+      419.84999999999997
+    ],
+    "source_text": "7.0 CONCLUSION",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          409.154,
+          522.912,
+          419.84999999999997
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "7.0 CONCLUSION...................................................................................................................................6",
+            "bbox": [
+              72.024,
+              409.154,
+              522.912,
+              419.84999999999997
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ................................................................................................................................... 6",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "7.0 CONCLUSION",
+    "mixed_original_protected_source_text": "7.0 CONCLUSION",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b012"
+    ],
+    "translation_unit_protected_source_text": "7.0 CONCLUSION",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "7.0 结论 ................................................................................................................................... 6",
+    "translation_unit_translated_text": "7.0 结论 ................................................................................................................................... 6",
+    "protected_translated_text": "7.0 结论 ................................................................................................................................... 6",
+    "translated_text": "7.0 结论 ................................................................................................................................... 6",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b012",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "5.0 EXPECTED ACHIVEMENTS / 6.0 TRAINING COST",
+    "translation_context_after": "8.0 APPENDICES / APPENDIX I: CONTACTS INFORMATION"
+  },
+  {
+    "item_id": "p002-b013",
+    "page_idx": 1,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      434.71399999999994,
+      522.912,
+      445.4099999999999
+    ],
+    "source_text": "8.0 APPENDICES",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          434.71399999999994,
+          522.912,
+          445.4099999999999
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "8.0 APPENDICES....................................................................................................................................6",
+            "bbox": [
+              72.024,
+              434.71399999999994,
+              522.912,
+              445.4099999999999
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " .................................................................................................................................... 6",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "8.0 APPENDICES",
+    "mixed_original_protected_source_text": "8.0 APPENDICES",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b013"
+    ],
+    "translation_unit_protected_source_text": "8.0 APPENDICES",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "8.0 附录 .................................................................................................................................... 6",
+    "translation_unit_translated_text": "8.0 附录 .................................................................................................................................... 6",
+    "protected_translated_text": "8.0 附录 .................................................................................................................................... 6",
+    "translated_text": "8.0 附录 .................................................................................................................................... 6",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b013",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "6.0 TRAINING COST / 7.0 CONCLUSION",
+    "translation_context_after": "APPENDIX I: CONTACTS INFORMATION / 0.0 EXECUTIVE SUMMARY"
+  },
+  {
+    "item_id": "p002-b014",
+    "page_idx": 1,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      83.064,
+      460.39399999999995,
+      522.912,
+      471.0899999999999
+    ],
+    "source_text": "APPENDIX I: CONTACTS INFORMATION",
+    "lines": [
+      {
+        "bbox": [
+          83.064,
+          460.39399999999995,
+          522.912,
+          471.0899999999999
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "APPENDIX I: CONTACTS INFORMATION.........................................................................................6",
+            "bbox": [
+              83.064,
+              460.39399999999995,
+              522.912,
+              471.0899999999999
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "toc_suffix": " ......................................................................................... 6",
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 13,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "APPENDIX I: CONTACTS INFORMATION",
+    "mixed_original_protected_source_text": "APPENDIX I: CONTACTS INFORMATION",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b014"
+    ],
+    "translation_unit_protected_source_text": "APPENDIX I: CONTACTS INFORMATION",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "附录I：联系信息 ......................................................................................... 6",
+    "translation_unit_translated_text": "附录I：联系信息 ......................................................................................... 6",
+    "protected_translated_text": "附录I：联系信息 ......................................................................................... 6",
+    "translated_text": "附录I：联系信息 ......................................................................................... 6",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b014",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "7.0 CONCLUSION / 8.0 APPENDICES",
+    "translation_context_after": "0.0 EXECUTIVE SUMMARY / The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East A..."
+  }
+]

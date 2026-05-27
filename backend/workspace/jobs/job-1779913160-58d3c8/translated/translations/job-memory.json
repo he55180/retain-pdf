@@ -1,0 +1,53 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "DMGP": {
+      "hits": 2,
+      "key": "DMGP",
+      "prompt_eligible": false,
+      "sources": [
+        "p002-b002"
+      ],
+      "value": "达累斯萨拉姆海运门户项目"
+    },
+    "DP World": {
+      "hits": 3,
+      "key": "DP World",
+      "prompt_eligible": false,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "业主承诺将持续与迪拜世界港口公司"
+    },
+    "RE": {
+      "hits": 4,
+      "key": "RE",
+      "prompt_eligible": true,
+      "sources": [
+        "p003-b032"
+      ],
+      "value": "但驻地工程师"
+    },
+    "TPA": {
+      "hits": 5,
+      "key": "TPA",
+      "prompt_eligible": false,
+      "sources": [
+        "p002-b033",
+        "p003-b014",
+        "p002-b011"
+      ],
+      "value": "各方同意由坦桑尼亚港口管理局"
+    },
+    "World": {
+      "hits": 1,
+      "key": "World",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "World"
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,672 @@
+[
+  {
+    "item_id": "p003-b001",
+    "page_idx": 2,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      109.48111999999992,
+      246.92888,
+      123.70679999999993
+    ],
+    "source_text": "0.0 EXECUTIVE SUMMARY",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          109.48111999999992,
+          246.92888,
+          123.70679999999993
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "0.0 EXECUTIVE SUMMARY",
+            "bbox": [
+              72.024,
+              109.48111999999992,
+              246.92888,
+              123.70679999999993
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "0.0 EXECUTIVE SUMMARY",
+    "mixed_original_protected_source_text": "0.0 EXECUTIVE SUMMARY",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b001"
+    ],
+    "translation_unit_protected_source_text": "0.0 EXECUTIVE SUMMARY",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "0.0 执行摘要",
+    "translation_unit_translated_text": "0.0 执行摘要",
+    "protected_translated_text": "0.0 执行摘要",
+    "translated_text": "0.0 执行摘要",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p002-b001",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b001",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p002-b001",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "8.0 APPENDICES / APPENDIX I: CONTACTS INFORMATION",
+    "translation_context_after": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The pro..."
+  },
+  {
+    "item_id": "p003-b002",
+    "page_idx": 2,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      142.48399999999992,
+      525.9999999999998,
+      221.93999999999994
+    ],
+    "source_text": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The project includes construction of a multipurpose berth and supporting infrastructure such as access roads, operational yards, utilities, and improved port systems, under a Design and Build contract led by China Harbour Engineering Company Ltd.",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          142.48399999999992,
+          525.9999999999998,
+          221.93999999999994
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The project includes construction of a multipurpose berth and supporting infrastructure such as access roads, operational yards, utilities, and improved port systems, under a Design and Build contract led by China Harbour Engineering Company Ltd.",
+            "bbox": [
+              72.024,
+              142.48399999999992,
+              525.9999999999998,
+              221.93999999999994
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The project includes construction of a multipurpose berth and supporting infrastructure such as access roads, operational yards, utilities, and improved port systems, under a Design and Build contract led by China Harbour Engineering Company Ltd.",
+    "mixed_original_protected_source_text": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The project includes construction of a multipurpose berth and supporting infrastructure such as access roads, operational yards, utilities, and improved port systems, under a Design and Build contract led by China Harbour Engineering Company Ltd.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b002"
+    ],
+    "translation_unit_protected_source_text": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The project includes construction of a multipurpose berth and supporting infrastructure such as access roads, operational yards, utilities, and improved port systems, under a Design and Build contract led by China Harbour Engineering Company Ltd.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "坦桑尼亚政府通过坦桑尼亚港务局（TPA），正在升级达累斯萨拉姆港的马林迪码头（Malindi Wharf），以提升货物装卸能力和运营效率。作为该国主要海港以及多个内陆国家的关键区域贸易门户，该港在东非经济中发挥着重要作用。项目包括建设一个多用途泊位及相关支持性基础设施，如进场道路、作业场地、公用设施及改进的港口系统，采用设计施工总承包合同模式，由中国港湾工程有限责任公司承建。",
+    "translation_unit_translated_text": "坦桑尼亚政府通过坦桑尼亚港务局（TPA），正在升级达累斯萨拉姆港的马林迪码头（Malindi Wharf），以提升货物装卸能力和运营效率。作为该国主要海港以及多个内陆国家的关键区域贸易门户，该港在东非经济中发挥着重要作用。项目包括建设一个多用途泊位及相关支持性基础设施，如进场道路、作业场地、公用设施及改进的港口系统，采用设计施工总承包合同模式，由中国港湾工程有限责任公司承建。",
+    "protected_translated_text": "坦桑尼亚政府通过坦桑尼亚港务局（TPA），正在升级达累斯萨拉姆港的马林迪码头（Malindi Wharf），以提升货物装卸能力和运营效率。作为该国主要海港以及多个内陆国家的关键区域贸易门户，该港在东非经济中发挥着重要作用。项目包括建设一个多用途泊位及相关支持性基础设施，如进场道路、作业场地、公用设施及改进的港口系统，采用设计施工总承包合同模式，由中国港湾工程有限责任公司承建。",
+    "translated_text": "坦桑尼亚政府通过坦桑尼亚港务局（TPA），正在升级达累斯萨拉姆港的马林迪码头（Malindi Wharf），以提升货物装卸能力和运营效率。作为该国主要海港以及多个内陆国家的关键区域贸易门户，该港在东非经济中发挥着重要作用。项目包括建设一个多用途泊位及相关支持性基础设施，如进场道路、作业场地、公用设施及改进的港口系统，采用设计施工总承包合同模式，由中国港湾工程有限责任公司承建。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b002",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "APPENDIX I: CONTACTS INFORMATION / 0.0 EXECUTIVE SUMMARY",
+    "translation_context_after": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace interventions are essential to protect workers, surrounding communities, and overall productivity. / In response to these challenges, Vision Ca..."
+  },
+  {
+    "item_id": "p003-b003",
+    "page_idx": 2,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      239.08399999999995,
+      526.1639999999999,
+      291.09000000000003
+    ],
+    "source_text": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace interventions are essential to protect workers, surrounding communities, and overall productivity.",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          239.08399999999995,
+          526.1639999999999,
+          291.09000000000003
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace interventions are essential to protect workers, surrounding communities, and overall productivity.",
+            "bbox": [
+              72.024,
+              239.08399999999995,
+              526.1639999999999,
+              291.09000000000003
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace interventions are essential to protect workers, surrounding communities, and overall productivity.",
+    "mixed_original_protected_source_text": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace interventions are essential to protect workers, surrounding communities, and overall productivity.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b003"
+    ],
+    "translation_unit_protected_source_text": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace interventions are essential to protect workers, surrounding communities, and overall productivity.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "大型建设项目会带来公共卫生风险，尤其是由于劳动力流动和卫生服务可及性有限，导致艾滋病和新冠肺炎的传播。鉴于坦桑尼亚的艾滋病负担，有针对性的工作场所干预措施对于保护工人、周边社区以及整体生产力至关重要。",
+    "translation_unit_translated_text": "大型建设项目会带来公共卫生风险，尤其是由于劳动力流动和卫生服务可及性有限，导致艾滋病和新冠肺炎的传播。鉴于坦桑尼亚的艾滋病负担，有针对性的工作场所干预措施对于保护工人、周边社区以及整体生产力至关重要。",
+    "protected_translated_text": "大型建设项目会带来公共卫生风险，尤其是由于劳动力流动和卫生服务可及性有限，导致艾滋病和新冠肺炎的传播。鉴于坦桑尼亚的艾滋病负担，有针对性的工作场所干预措施对于保护工人、周边社区以及整体生产力至关重要。",
+    "translated_text": "大型建设项目会带来公共卫生风险，尤其是由于劳动力流动和卫生服务可及性有限，导致艾滋病和新冠肺炎的传播。鉴于坦桑尼亚的艾滋病负担，有针对性的工作场所干预措施对于保护工人、周边社区以及整体生产力至关重要。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b003",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "0.0 EXECUTIVE SUMMARY / The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East A...",
+    "translation_context_after": "In response to these challenges, Vision Care Clinic proposes to implement a comprehensive HIV/AIDS and COVID-19 awareness and prevention programme tailored specifically for personnel engaged in the Malindi Wharf modernization project. The programme will focus on enhancing awareness, promoting safe practices, facilitating access to testing and counselling se..."
+  },
+  {
+    "item_id": "p003-b004",
+    "page_idx": 2,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      308.1139999999999,
+      525.6079999999996,
+      382.16999999999996
+    ],
+    "source_text": "In response to these challenges, Vision Care Clinic proposes to implement a comprehensive HIV/AIDS and COVID-19 awareness and prevention programme tailored specifically for personnel engaged in the Malindi Wharf modernization project. The programme will focus on enhancing awareness, promoting safe practices, facilitating access to testing and counselling services, and strengthening linkages to treatment and care.",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          308.1139999999999,
+          525.6079999999996,
+          382.16999999999996
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "In response to these challenges, Vision Care Clinic proposes to implement a comprehensive HIV/AIDS and COVID-19 awareness and prevention programme tailored specifically for personnel engaged in the Malindi Wharf modernization project. The programme will focus on enhancing awareness, promoting safe practices, facilitating access to testing and counselling services, and strengthening linkages to treatment and care.",
+            "bbox": [
+              72.024,
+              308.1139999999999,
+              525.6079999999996,
+              382.16999999999996
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "In response to these challenges, Vision Care Clinic proposes to implement a comprehensive HIV/AIDS and COVID-19 awareness and prevention programme tailored specifically for personnel engaged in the Malindi Wharf modernization project. The programme will focus on enhancing awareness, promoting safe practices, facilitating access to testing and counselling services, and strengthening linkages to treatment and care.",
+    "mixed_original_protected_source_text": "In response to these challenges, Vision Care Clinic proposes to implement a comprehensive HIV/AIDS and COVID-19 awareness and prevention programme tailored specifically for personnel engaged in the Malindi Wharf modernization project. The programme will focus on enhancing awareness, promoting safe practices, facilitating access to testing and counselling services, and strengthening linkages to treatment and care.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b004"
+    ],
+    "translation_unit_protected_source_text": "In response to these challenges, Vision Care Clinic proposes to implement a comprehensive HIV/AIDS and COVID-19 awareness and prevention programme tailored specifically for personnel engaged in the Malindi Wharf modernization project. The programme will focus on enhancing awareness, promoting safe practices, facilitating access to testing and counselling services, and strengthening linkages to treatment and care.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "针对这些挑战，Vision Care Clinic 计划为参与 Malindi Wharf 现代化项目的员工实施一项全面的艾滋病与新冠肺炎认知及预防计划。该计划将着重提升认知、推广安全行为、促进检测与咨询服务获取，并加强与治疗和关怀服务的衔接。",
+    "translation_unit_translated_text": "针对这些挑战，Vision Care Clinic 计划为参与 Malindi Wharf 现代化项目的员工实施一项全面的艾滋病与新冠肺炎认知及预防计划。该计划将着重提升认知、推广安全行为、促进检测与咨询服务获取，并加强与治疗和关怀服务的衔接。",
+    "protected_translated_text": "针对这些挑战，Vision Care Clinic 计划为参与 Malindi Wharf 现代化项目的员工实施一项全面的艾滋病与新冠肺炎认知及预防计划。该计划将着重提升认知、推广安全行为、促进检测与咨询服务获取，并加强与治疗和关怀服务的衔接。",
+    "translated_text": "针对这些挑战，Vision Care Clinic 计划为参与 Malindi Wharf 现代化项目的员工实施一项全面的艾滋病与新冠肺炎认知及预防计划。该计划将着重提升认知、推广安全行为、促进检测与咨询服务获取，并加强与治疗和关怀服务的衔接。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b004",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The pro...",
+    "translation_context_after": "The programme also fulfills legal and contractual requirements under national laws and international standards, while ensuring strict confidentiality of health information in line with the HIV and AIDS (Prevention and Control) Act."
+  },
+  {
+    "item_id": "p003-b005",
+    "page_idx": 2,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      72.024,
+      401.354,
+      525.5399999999995,
+      439.5299999999999
+    ],
+    "source_text": "The programme also fulfills legal and contractual requirements under national laws and international standards, while ensuring strict confidentiality of health information in line with the HIV and AIDS (Prevention and Control) Act.",
+    "lines": [
+      {
+        "bbox": [
+          72.024,
+          401.354,
+          525.5399999999995,
+          439.5299999999999
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The programme also fulfills legal and contractual requirements under national laws and international standards, while ensuring strict confidentiality of health information in line with the HIV and AIDS (Prevention and Control) Act.",
+            "bbox": [
+              72.024,
+              401.354,
+              525.5399999999995,
+              439.5299999999999
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The programme also fulfills legal and contractual requirements under national laws and international standards, while ensuring strict confidentiality of health information in line with the HIV and AIDS (Prevention and Control) Act.",
+    "mixed_original_protected_source_text": "The programme also fulfills legal and contractual requirements under national laws and international standards, while ensuring strict confidentiality of health information in line with the HIV and AIDS (Prevention and Control) Act.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b005"
+    ],
+    "translation_unit_protected_source_text": "The programme also fulfills legal and contractual requirements under national laws and international standards, while ensuring strict confidentiality of health information in line with the HIV and AIDS (Prevention and Control) Act.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "该计划还满足国家法律和国际标准下的法律与合同要求，同时按照《艾滋病（预防与控制）法案》确保健康信息的严格保密。",
+    "translation_unit_translated_text": "该计划还满足国家法律和国际标准下的法律与合同要求，同时按照《艾滋病（预防与控制）法案》确保健康信息的严格保密。",
+    "protected_translated_text": "该计划还满足国家法律和国际标准下的法律与合同要求，同时按照《艾滋病（预防与控制）法案》确保健康信息的严格保密。",
+    "translated_text": "该计划还满足国家法律和国际标准下的法律与合同要求，同时按照《艾滋病（预防与控制）法案》确保健康信息的严格保密。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b005",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace interventions are essential to protect workers, surrounding communities, and overall productivity. / In response to these challenges, Vision Ca...",
+    "translation_context_after": ""
+  }
+]

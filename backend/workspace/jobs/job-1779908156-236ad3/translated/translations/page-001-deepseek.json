@@ -1,0 +1,6179 @@
+[
+  {
+    "item_id": "p001-b002",
+    "page_idx": 0,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      161.75999475,
+      89.09967746375003,
+      443.90474864624355,
+      99.6804947802749
+    ],
+    "source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "lines": [
+      {
+        "bbox": [
+          161.75999475,
+          89.09967746375003,
+          443.90474864624355,
+          99.6804947802749
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Dar es Salaam Maritime Gateway Project (DMGP)",
+            "bbox": [
+              161.75999475,
+              89.09967746375003,
+              443.90474864624355,
+              99.6804947802749
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "mixed_original_protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b002"
+    ],
+    "translation_unit_protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "达累斯萨拉姆海上门户项目(DMGP)",
+    "translation_unit_translated_text": "达累斯萨拉姆海上门户项目(DMGP)",
+    "protected_translated_text": "达累斯萨拉姆海上门户项目(DMGP)",
+    "translated_text": "达累斯萨拉姆海上门户项目(DMGP)",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b002",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "",
+    "translation_context_after": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT"
+  },
+  {
+    "item_id": "p001-b003",
+    "page_idx": 0,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      205.44000975,
+      102.61503455000002,
+      399.92107289966043,
+      112.36303213585643
+    ],
+    "source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "lines": [
+      {
+        "bbox": [
+          205.44000975,
+          102.61503455000002,
+          399.92107289966043,
+          112.36303213585643
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contract No: TZ-TPA-/424013-CW-DIR",
+            "bbox": [
+              205.44000975,
+              102.61503455000002,
+              399.92107289966043,
+              112.36303213585643
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "mixed_original_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b003"
+    ],
+    "translation_unit_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b003",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "translation_context_after": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / Minutes of Weekly Meeting No.15"
+  },
+  {
+    "item_id": "p001-b004",
+    "page_idx": 0,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.76,
+      115.22607725,
+      530.7160081834604,
+      124.96046031408844
+    ],
+    "source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "lines": [
+      {
+        "bbox": [
+          74.76,
+          115.22607725,
+          530.7160081834604,
+          124.96046031408844
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "bbox": [
+              74.76,
+              115.22607725,
+              530.7160081834604,
+              124.96046031408844
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "mixed_original_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b004"
+    ],
+    "translation_unit_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "达累斯萨拉姆港RORO和1-7号泊位混凝土损伤修复",
+    "translation_unit_translated_text": "达累斯萨拉姆港RORO和1-7号泊位混凝土损伤修复",
+    "protected_translated_text": "达累斯萨拉姆港RORO和1-7号泊位混凝土损伤修复",
+    "translated_text": "达累斯萨拉姆港RORO和1-7号泊位混凝土损伤修复",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b004",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Dar es Salaam Maritime Gateway Project (DMGP) / Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_context_after": "Minutes of Weekly Meeting No.15 / Reference:"
+  },
+  {
+    "item_id": "p001-b005",
+    "page_idx": 0,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      217.91999850000002,
+      149.42607050000004,
+      394.66992643158875,
+      159.16045356408836
+    ],
+    "source_text": "Minutes of Weekly Meeting No.15",
+    "lines": [
+      {
+        "bbox": [
+          217.91999850000002,
+          149.42607050000004,
+          394.66992643158875,
+          159.16045356408836
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Minutes of Weekly Meeting No.15",
+            "bbox": [
+              217.91999850000002,
+              149.42607050000004,
+              394.66992643158875,
+              159.16045356408836
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Minutes of Weekly Meeting No.15",
+    "mixed_original_protected_source_text": "Minutes of Weekly Meeting No.15",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b005"
+    ],
+    "translation_unit_protected_source_text": "Minutes of Weekly Meeting No.15",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "第15次周会议纪要",
+    "translation_unit_translated_text": "第15次周会议纪要",
+    "protected_translated_text": "第15次周会议纪要",
+    "translated_text": "第15次周会议纪要",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b005",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_context_after": "Reference: / MoM- Weekly 15-2026/5/14"
+  },
+  {
+    "item_id": "p001-b006",
+    "page_idx": 0,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      176.78607799999997,
+      122.03911064397101,
+      186.5204610640884
+    ],
+    "source_text": "Reference:",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          176.78607799999997,
+          122.03911064397101,
+          186.5204610640884
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Reference:",
+            "bbox": [
+              62.04000075,
+              176.78607799999997,
+              122.03911064397101,
+              186.5204610640884
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Reference:",
+    "mixed_original_protected_source_text": "Reference:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b006"
+    ],
+    "translation_unit_protected_source_text": "Reference:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "参考：",
+    "translation_unit_translated_text": "参考：",
+    "protected_translated_text": "参考：",
+    "translated_text": "参考：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b006",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / Minutes of Weekly Meeting No.15",
+    "translation_context_after": "MoM- Weekly 15-2026/5/14 / Date/Start Time:"
+  },
+  {
+    "item_id": "p001-b007",
+    "page_idx": 0,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      409.89676349397104,
+      176.78607799999997,
+      550.4981918999999,
+      186.5204610640884
+    ],
+    "source_text": "MoM- Weekly 15-2026/5/14",
+    "lines": [
+      {
+        "bbox": [
+          409.89676349397104,
+          176.78607799999997,
+          550.4981918999999,
+          186.5204610640884
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "MoM- Weekly 15-2026/5/14",
+            "bbox": [
+              409.89676349397104,
+              176.78607799999997,
+              550.4981918999999,
+              186.5204610640884
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "MoM- Weekly 15-2026/5/14",
+    "mixed_original_protected_source_text": "MoM- Weekly 15-2026/5/14",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b007"
+    ],
+    "translation_unit_protected_source_text": "MoM- Weekly 15-2026/5/14",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "MoM-第15周 2026/5/14",
+    "translation_unit_translated_text": "MoM-第15周 2026/5/14",
+    "protected_translated_text": "MoM-第15周 2026/5/14",
+    "translated_text": "MoM-第15周 2026/5/14",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b007",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Minutes of Weekly Meeting No.15 / Reference:",
+    "translation_context_after": "Date/Start Time: / Thursday, 14 th May 2026 / 14:35hrs"
+  },
+  {
+    "item_id": "p001-b009",
+    "page_idx": 0,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      212.0660734999999,
+      146.4568771483194,
+      221.80045656408834
+    ],
+    "source_text": "Date/Start Time:",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          212.0660734999999,
+          146.4568771483194,
+          221.80045656408834
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Date/Start Time:",
+            "bbox": [
+              62.04000075,
+              212.0660734999999,
+              146.4568771483194,
+              221.80045656408834
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "1897045e-f176-4e19-b659-7c23b7065019",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Date/Start Time:",
+    "mixed_original_protected_source_text": "Date/Start Time:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b009"
+    ],
+    "translation_unit_protected_source_text": "Date/Start Time:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "日期/开始时间：",
+    "translation_unit_translated_text": "日期/开始时间：",
+    "protected_translated_text": "日期/开始时间：",
+    "translated_text": "日期/开始时间：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b009",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Reference: / MoM- Weekly 15-2026/5/14",
+    "translation_context_after": "Thursday, 14 th May 2026 / 14:35hrs / Venue:"
+  },
+  {
+    "item_id": "p001-b010",
+    "page_idx": 0,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      253.44000975,
+      211.01644267999995,
+      426.9495982145046,
+      221.80303063585632
+    ],
+    "source_text": "Thursday, 14 th May 2026 / 14:35hrs",
+    "lines": [
+      {
+        "bbox": [
+          253.44000975,
+          211.01644267999995,
+          426.9495982145046,
+          221.80303063585632
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Thursday, 14 th May 2026 / 14:35hrs",
+            "bbox": [
+              253.44000975,
+              211.01644267999995,
+              426.9495982145046,
+              221.80303063585632
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "1897045e-f176-4e19-b659-7c23b7065019",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Thursday, 14 th May 2026 / 14:35hrs",
+    "mixed_original_protected_source_text": "Thursday, 14 th May 2026 / 14:35hrs",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b010"
+    ],
+    "translation_unit_protected_source_text": "Thursday, 14 th May 2026 / 14:35hrs",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2026年5月14日，星期四 / 14:35时",
+    "translation_unit_translated_text": "2026年5月14日，星期四 / 14:35时",
+    "protected_translated_text": "2026年5月14日，星期四 / 14:35时",
+    "translated_text": "2026年5月14日，星期四 / 14:35时",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b010",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "MoM- Weekly 15-2026/5/14 / Date/Start Time:",
+    "translation_context_after": "Venue: / Contractor's Conference Room at Site Camp Offices Dar es Salaam"
+  },
+  {
+    "item_id": "p001-b011",
+    "page_idx": 0,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      229.22607725,
+      98.70348075769442,
+      238.96046031408844
+    ],
+    "source_text": "Venue:",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          229.22607725,
+          98.70348075769442,
+          238.96046031408844
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Venue:",
+            "bbox": [
+              62.04000075,
+              229.22607725,
+              98.70348075769442,
+              238.96046031408844
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "1897045e-f176-4e19-b659-7c23b7065019",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Venue:",
+    "mixed_original_protected_source_text": "Venue:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b011"
+    ],
+    "translation_unit_protected_source_text": "Venue:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "地点：",
+    "translation_unit_translated_text": "地点：",
+    "protected_translated_text": "地点：",
+    "translated_text": "地点：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b011",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Date/Start Time: / Thursday, 14 th May 2026 / 14:35hrs",
+    "translation_context_after": "Contractor's Conference Room at Site Camp Offices Dar es Salaam / Attendees:"
+  },
+  {
+    "item_id": "p001-b012",
+    "page_idx": 0,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      253.44000975,
+      229.2150368,
+      509.0240552755604,
+      253.60302613585634
+    ],
+    "source_text": "Contractor's Conference Room at Site Camp Offices Dar es Salaam",
+    "lines": [
+      {
+        "bbox": [
+          253.44000975,
+          229.2150368,
+          509.0240552755604,
+          253.60302613585634
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contractor's Conference Room at Site Camp Offices Dar es Salaam",
+            "bbox": [
+              253.44000975,
+              229.2150368,
+              509.0240552755604,
+              253.60302613585634
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "1897045e-f176-4e19-b659-7c23b7065019",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contractor's Conference Room at Site Camp Offices Dar es Salaam",
+    "mixed_original_protected_source_text": "Contractor's Conference Room at Site Camp Offices Dar es Salaam",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b012"
+    ],
+    "translation_unit_protected_source_text": "Contractor's Conference Room at Site Camp Offices Dar es Salaam",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "承包商现场营地办公室会议室，达累斯萨拉姆",
+    "translation_unit_translated_text": "承包商现场营地办公室会议室，达累斯萨拉姆",
+    "protected_translated_text": "承包商现场营地办公室会议室，达累斯萨拉姆",
+    "translated_text": "承包商现场营地办公室会议室，达累斯萨拉姆",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b012",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Thursday, 14 th May 2026 / 14:35hrs / Venue:",
+    "translation_context_after": "Attendees: / See list annexed"
+  },
+  {
+    "item_id": "p001-b013",
+    "page_idx": 0,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      261.02607275,
+      118.97542890400918,
+      270.76045581408835
+    ],
+    "source_text": "Attendees:",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          261.02607275,
+          118.97542890400918,
+          270.76045581408835
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Attendees:",
+            "bbox": [
+              62.04000075,
+              261.02607275,
+              118.97542890400918,
+              270.76045581408835
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "1897045e-f176-4e19-b659-7c23b7065019",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Attendees:",
+    "mixed_original_protected_source_text": "Attendees:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b013"
+    ],
+    "translation_unit_protected_source_text": "Attendees:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "与会人员：",
+    "translation_unit_translated_text": "与会人员：",
+    "protected_translated_text": "与会人员：",
+    "translated_text": "与会人员：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b013",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Venue: / Contractor's Conference Room at Site Camp Offices Dar es Salaam",
+    "translation_context_after": "See list annexed / Distribution List"
+  },
+  {
+    "item_id": "p001-b014",
+    "page_idx": 0,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      253.44000975,
+      261.01503230000003,
+      334.95070332788856,
+      270.7630298858563
+    ],
+    "source_text": "See list annexed",
+    "lines": [
+      {
+        "bbox": [
+          253.44000975,
+          261.01503230000003,
+          334.95070332788856,
+          270.7630298858563
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "See list annexed",
+            "bbox": [
+              253.44000975,
+              261.01503230000003,
+              334.95070332788856,
+              270.7630298858563
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "1897045e-f176-4e19-b659-7c23b7065019",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "See list annexed",
+    "mixed_original_protected_source_text": "See list annexed",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b014"
+    ],
+    "translation_unit_protected_source_text": "See list annexed",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "参见所附清单",
+    "translation_unit_translated_text": "参见所附清单",
+    "protected_translated_text": "参见所附清单",
+    "translated_text": "参见所附清单",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b014",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contractor's Conference Room at Site Camp Offices Dar es Salaam / Attendees:",
+    "translation_context_after": "Distribution List / Name"
+  },
+  {
+    "item_id": "p001-b016",
+    "page_idx": 0,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      296.30607875,
+      146.44609544230556,
+      306.0404618140884
+    ],
+    "source_text": "Distribution List",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          296.30607875,
+          146.44609544230556,
+          306.0404618140884
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Distribution List",
+            "bbox": [
+              62.04000075,
+              296.30607875,
+              146.44609544230556,
+              306.0404618140884
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Distribution List",
+    "mixed_original_protected_source_text": "Distribution List",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b016"
+    ],
+    "translation_unit_protected_source_text": "Distribution List",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "分发名单",
+    "translation_unit_translated_text": "分发名单",
+    "protected_translated_text": "分发名单",
+    "translated_text": "分发名单",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b016",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Attendees: / See list annexed",
+    "translation_context_after": "Name / E-mail"
+  },
+  {
+    "item_id": "p001-b017",
+    "page_idx": 0,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      289.64081819030093,
+      296.30607875,
+      319.64134348795716,
+      306.0404618140884
+    ],
+    "source_text": "Name",
+    "lines": [
+      {
+        "bbox": [
+          289.64081819030093,
+          296.30607875,
+          319.64134348795716,
+          306.0404618140884
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Name",
+            "bbox": [
+              289.64081819030093,
+              296.30607875,
+              319.64134348795716,
+              306.0404618140884
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Name",
+    "mixed_original_protected_source_text": "Name",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b017"
+    ],
+    "translation_unit_protected_source_text": "Name",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "姓名",
+    "translation_unit_translated_text": "姓名",
+    "protected_translated_text": "姓名",
+    "translated_text": "姓名",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b017",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "See list annexed / Distribution List",
+    "translation_context_after": "E-mail / Director General - TPA"
+  },
+  {
+    "item_id": "p001-b018",
+    "page_idx": 0,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      440.646357434272,
+      296.30607875,
+      473.682833974897,
+      306.0404618140884
+    ],
+    "source_text": "E-mail",
+    "lines": [
+      {
+        "bbox": [
+          440.646357434272,
+          296.30607875,
+          473.682833974897,
+          306.0404618140884
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-mail",
+            "bbox": [
+              440.646357434272,
+              296.30607875,
+              473.682833974897,
+              306.0404618140884
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-mail",
+    "mixed_original_protected_source_text": "E-mail",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b018"
+    ],
+    "translation_unit_protected_source_text": "E-mail",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "电子邮件",
+    "translation_unit_translated_text": "电子邮件",
+    "protected_translated_text": "电子邮件",
+    "translated_text": "电子邮件",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b018",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Distribution List / Name",
+    "translation_context_after": "Director General - TPA / Plasduce Mbossa"
+  },
+  {
+    "item_id": "p001-b019",
+    "page_idx": 0,
+    "block_idx": 19,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      313.45504205,
+      176.39495488962257,
+      323.2030396358564
+    ],
+    "source_text": "Director General - TPA",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          313.45504205,
+          176.39495488962257,
+          323.2030396358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Director General - TPA",
+            "bbox": [
+              62.04000075,
+              313.45504205,
+              176.39495488962257,
+              323.2030396358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Director General - TPA",
+    "mixed_original_protected_source_text": "Director General - TPA",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b019",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b019"
+    ],
+    "translation_unit_protected_source_text": "Director General - TPA",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "局长 - TPA",
+    "translation_unit_translated_text": "局长 - TPA",
+    "protected_translated_text": "局长 - TPA",
+    "translated_text": "局长 - TPA",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b019",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Name / E-mail",
+    "translation_context_after": "Plasduce Mbossa / dg@ports.go.tz"
+  },
+  {
+    "item_id": "p001-b020",
+    "page_idx": 0,
+    "block_idx": 20,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      253.46825009162717,
+      313.45504205,
+      340.47372387688614,
+      323.2030396358564
+    ],
+    "source_text": "Plasduce Mbossa",
+    "lines": [
+      {
+        "bbox": [
+          253.46825009162717,
+          313.45504205,
+          340.47372387688614,
+          323.2030396358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Plasduce Mbossa",
+            "bbox": [
+              253.46825009162717,
+              313.45504205,
+              340.47372387688614,
+              323.2030396358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Plasduce Mbossa",
+    "mixed_original_protected_source_text": "Plasduce Mbossa",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b020",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b020"
+    ],
+    "translation_unit_protected_source_text": "Plasduce Mbossa",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b020",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-mail / Director General - TPA",
+    "translation_context_after": "dg@ports.go.tz / Project Engineer (PE) - TPA"
+  },
+  {
+    "item_id": "p001-b021",
+    "page_idx": 0,
+    "block_idx": 21,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      366.79415667688613,
+      313.45504205,
+      441.76183105545334,
+      323.2030396358564
+    ],
+    "source_text": "dg@ports.go.tz",
+    "lines": [
+      {
+        "bbox": [
+          366.79415667688613,
+          313.45504205,
+          441.76183105545334,
+          323.2030396358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "dg@ports.go.tz",
+            "bbox": [
+              366.79415667688613,
+              313.45504205,
+              441.76183105545334,
+              323.2030396358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "dg@ports.go.tz",
+    "mixed_original_protected_source_text": "dg@ports.go.tz",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b021",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b021"
+    ],
+    "translation_unit_protected_source_text": "dg@ports.go.tz",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b021",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "fast_path_keep_origin"
+      ],
+      "output_mode_path": [],
+      "fallback_to": "keep_origin",
+      "degradation_reason": "hard_metadata_fragment",
+      "final_status": "kept_origin"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Director General - TPA / Plasduce Mbossa",
+    "translation_context_after": "Project Engineer (PE) - TPA / Twaha Msita"
+  },
+  {
+    "item_id": "p001-b022",
+    "page_idx": 0,
+    "block_idx": 22,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      330.61502255,
+      201.95704679128804,
+      340.36302013585635
+    ],
+    "source_text": "Project Engineer (PE) - TPA",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          330.61502255,
+          201.95704679128804,
+          340.36302013585635
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Project Engineer (PE) - TPA",
+            "bbox": [
+              62.04000075,
+              330.61502255,
+              201.95704679128804,
+              340.36302013585635
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 18,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Project Engineer (PE) - TPA",
+    "mixed_original_protected_source_text": "Project Engineer (PE) - TPA",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b022",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b022"
+    ],
+    "translation_unit_protected_source_text": "Project Engineer (PE) - TPA",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "项目工程师 (PE) - TPA",
+    "translation_unit_translated_text": "项目工程师 (PE) - TPA",
+    "protected_translated_text": "项目工程师 (PE) - TPA",
+    "translated_text": "项目工程师 (PE) - TPA",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b022",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Plasduce Mbossa / dg@ports.go.tz",
+    "translation_context_after": "Twaha Msita / twaha.msita@ports.go.tz"
+  },
+  {
+    "item_id": "p001-b023",
+    "page_idx": 0,
+    "block_idx": 23,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      253.44000975,
+      330.61502255,
+      315.9619918520044,
+      340.36302013585635
+    ],
+    "source_text": "Twaha Msita",
+    "lines": [
+      {
+        "bbox": [
+          253.44000975,
+          330.61502255,
+          315.9619918520044,
+          340.36302013585635
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Twaha Msita",
+            "bbox": [
+              253.44000975,
+              330.61502255,
+              315.9619918520044,
+              340.36302013585635
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 19,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Twaha Msita",
+    "mixed_original_protected_source_text": "Twaha Msita",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b023",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b023"
+    ],
+    "translation_unit_protected_source_text": "Twaha Msita",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b023",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "dg@ports.go.tz / Project Engineer (PE) - TPA",
+    "translation_context_after": "twaha.msita@ports.go.tz / Engineer (En) - INROS LACKNER"
+  },
+  {
+    "item_id": "p001-b024",
+    "page_idx": 0,
+    "block_idx": 24,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      366.7922236520044,
+      330.61502255,
+      488.10197127454285,
+      340.36302013585635
+    ],
+    "source_text": "twaha.msita@ports.go.tz",
+    "lines": [
+      {
+        "bbox": [
+          366.7922236520044,
+          330.61502255,
+          488.10197127454285,
+          340.36302013585635
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "twaha.msita@ports.go.tz",
+            "bbox": [
+              366.7922236520044,
+              330.61502255,
+              488.10197127454285,
+              340.36302013585635
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 20,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "twaha.msita@ports.go.tz",
+    "mixed_original_protected_source_text": "twaha.msita@ports.go.tz",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b024",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b024"
+    ],
+    "translation_unit_protected_source_text": "twaha.msita@ports.go.tz",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b024",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "fast_path_keep_origin"
+      ],
+      "output_mode_path": [],
+      "fallback_to": "keep_origin",
+      "degradation_reason": "hard_metadata_fragment",
+      "final_status": "kept_origin"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Project Engineer (PE) - TPA / Twaha Msita",
+    "translation_context_after": "Engineer (En) - INROS LACKNER / Klaus Richter"
+  },
+  {
+    "item_id": "p001-b025",
+    "page_idx": 0,
+    "block_idx": 25,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      347.7750263,
+      231.9058199795693,
+      357.52302388585633
+    ],
+    "source_text": "Engineer (En) - INROS LACKNER",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          347.7750263,
+          231.9058199795693,
+          357.52302388585633
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Engineer (En) - INROS LACKNER",
+            "bbox": [
+              62.04000075,
+              347.7750263,
+              231.9058199795693,
+              357.52302388585633
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 21,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Engineer (En) - INROS LACKNER",
+    "mixed_original_protected_source_text": "Engineer (En) - INROS LACKNER",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b025",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b025"
+    ],
+    "translation_unit_protected_source_text": "Engineer (En) - INROS LACKNER",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "工程师 (En) - INROS LACKNER",
+    "translation_unit_translated_text": "工程师 (En) - INROS LACKNER",
+    "protected_translated_text": "工程师 (En) - INROS LACKNER",
+    "translated_text": "工程师 (En) - INROS LACKNER",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b025",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Twaha Msita / twaha.msita@ports.go.tz",
+    "translation_context_after": "Klaus Richter / daressalaam.port@inros-lackner.de"
+  },
+  {
+    "item_id": "p001-b026",
+    "page_idx": 0,
+    "block_idx": 26,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      253.41261657956926,
+      347.7750263,
+      318.86385433123456,
+      357.52302388585633
+    ],
+    "source_text": "Klaus Richter",
+    "lines": [
+      {
+        "bbox": [
+          253.41261657956926,
+          347.7750263,
+          318.86385433123456,
+          357.52302388585633
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Klaus Richter",
+            "bbox": [
+              253.41261657956926,
+              347.7750263,
+              318.86385433123456,
+              357.52302388585633
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 22,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Klaus Richter",
+    "mixed_original_protected_source_text": "Klaus Richter",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b026",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b026"
+    ],
+    "translation_unit_protected_source_text": "Klaus Richter",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b026",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "twaha.msita@ports.go.tz / Engineer (En) - INROS LACKNER",
+    "translation_context_after": "daressalaam.port@inros-lackner.de / Contractor's Representative - CHEC"
+  },
+  {
+    "item_id": "p001-b027",
+    "page_idx": 0,
+    "block_idx": 27,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      366.88989807922997,
+      347.7750263,
+      541.2917465604808,
+      357.52302388585633
+    ],
+    "source_text": "daressalaam.port@inros-lackner.de",
+    "lines": [
+      {
+        "bbox": [
+          366.88989807922997,
+          347.7750263,
+          541.2917465604808,
+          357.52302388585633
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "daressalaam.port@inros-lackner.de",
+            "bbox": [
+              366.88989807922997,
+              347.7750263,
+              541.2917465604808,
+              357.52302388585633
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 23,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "daressalaam.port@inros-lackner.de",
+    "mixed_original_protected_source_text": "daressalaam.port@inros-lackner.de",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b027",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b027"
+    ],
+    "translation_unit_protected_source_text": "daressalaam.port@inros-lackner.de",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b027",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "fast_path_keep_origin"
+      ],
+      "output_mode_path": [],
+      "fallback_to": "keep_origin",
+      "degradation_reason": "hard_metadata_fragment",
+      "final_status": "kept_origin"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Engineer (En) - INROS LACKNER / Klaus Richter",
+    "translation_context_after": "Contractor's Representative - CHEC / Bian Liang"
+  },
+  {
+    "item_id": "p001-b028",
+    "page_idx": 0,
+    "block_idx": 28,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.04000075,
+      364.93503005,
+      241.82217103994657,
+      374.6830276358564
+    ],
+    "source_text": "Contractor's Representative - CHEC",
+    "lines": [
+      {
+        "bbox": [
+          62.04000075,
+          364.93503005,
+          241.82217103994657,
+          374.6830276358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contractor's Representative - CHEC",
+            "bbox": [
+              62.04000075,
+              364.93503005,
+              241.82217103994657,
+              374.6830276358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 24,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contractor's Representative - CHEC",
+    "mixed_original_protected_source_text": "Contractor's Representative - CHEC",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b028",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b028"
+    ],
+    "translation_unit_protected_source_text": "Contractor's Representative - CHEC",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "承包商代表 - CHEC",
+    "translation_unit_translated_text": "承包商代表 - CHEC",
+    "protected_translated_text": "承包商代表 - CHEC",
+    "translated_text": "承包商代表 - CHEC",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b028",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Klaus Richter / daressalaam.port@inros-lackner.de",
+    "translation_context_after": "Bian Liang / tzdmgp@chec.bj.cn"
+  },
+  {
+    "item_id": "p001-b029",
+    "page_idx": 0,
+    "block_idx": 29,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      253.44000975,
+      364.93503005,
+      305.40326774229027,
+      374.6830276358564
+    ],
+    "source_text": "Bian Liang",
+    "lines": [
+      {
+        "bbox": [
+          253.44000975,
+          364.93503005,
+          305.40326774229027,
+          374.6830276358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Bian Liang",
+            "bbox": [
+              253.44000975,
+              364.93503005,
+              305.40326774229027,
+              374.6830276358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 25,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Bian Liang",
+    "mixed_original_protected_source_text": "Bian Liang",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b029",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b029"
+    ],
+    "translation_unit_protected_source_text": "Bian Liang",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b029",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "daressalaam.port@inros-lackner.de / Contractor's Representative - CHEC",
+    "translation_context_after": "tzdmgp@chec.bj.cn / 0. Agenda of the Meeting"
+  },
+  {
+    "item_id": "p001-b030",
+    "page_idx": 0,
+    "block_idx": 30,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      366.78985168860504,
+      364.93503005,
+      463.7248301815742,
+      374.6830276358564
+    ],
+    "source_text": "tzdmgp@chec.bj.cn",
+    "lines": [
+      {
+        "bbox": [
+          366.78985168860504,
+          364.93503005,
+          463.7248301815742,
+          374.6830276358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "tzdmgp@chec.bj.cn",
+            "bbox": [
+              366.78985168860504,
+              364.93503005,
+              463.7248301815742,
+              374.6830276358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "64b3be1d-1bce-405d-aad0-9b4f767ac939",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 26,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "tzdmgp@chec.bj.cn",
+    "mixed_original_protected_source_text": "tzdmgp@chec.bj.cn",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b030",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b030"
+    ],
+    "translation_unit_protected_source_text": "tzdmgp@chec.bj.cn",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b030",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "fast_path_keep_origin"
+      ],
+      "output_mode_path": [],
+      "fallback_to": "keep_origin",
+      "degradation_reason": "hard_metadata_fragment",
+      "final_status": "kept_origin"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contractor's Representative - CHEC / Bian Liang",
+    "translation_context_after": "0. Agenda of the Meeting / Opening the Meeting"
+  },
+  {
+    "item_id": "p001-b031",
+    "page_idx": 0,
+    "block_idx": 31,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      56.639997750000006,
+      393.1460525,
+      205.96411096037718,
+      402.88043556408843
+    ],
+    "source_text": "0. Agenda of the Meeting",
+    "lines": [
+      {
+        "bbox": [
+          56.639997750000006,
+          393.1460525,
+          205.96411096037718,
+          402.88043556408843
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "0. Agenda of the Meeting",
+            "bbox": [
+              56.639997750000006,
+              393.1460525,
+              205.96411096037718,
+              402.88043556408843
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 27,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "0. Agenda of the Meeting",
+    "mixed_original_protected_source_text": "0. Agenda of the Meeting",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b031",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b031"
+    ],
+    "translation_unit_protected_source_text": "0. Agenda of the Meeting",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "0. 会议议程",
+    "translation_unit_translated_text": "0. 会议议程",
+    "protected_translated_text": "0. 会议议程",
+    "translated_text": "0. 会议议程",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b031",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Bian Liang / tzdmgp@chec.bj.cn",
+    "translation_context_after": "Opening the Meeting / Readiness of the Contractor to Start Work"
+  },
+  {
+    "item_id": "p001-b032",
+    "page_idx": 0,
+    "block_idx": 32,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      79.3200015,
+      418.57504504999997,
+      202.40932588191293,
+      428.3230426358564
+    ],
+    "source_text": "Opening the Meeting",
+    "lines": [
+      {
+        "bbox": [
+          79.3200015,
+          418.57504504999997,
+          202.40932588191293,
+          428.3230426358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Opening the Meeting",
+            "bbox": [
+              79.3200015,
+              418.57504504999997,
+              202.40932588191293,
+              428.3230426358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 28,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Opening the Meeting",
+    "mixed_original_protected_source_text": "Opening the Meeting",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b032",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b032"
+    ],
+    "translation_unit_protected_source_text": "Opening the Meeting",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "会议开幕",
+    "translation_unit_translated_text": "会议开幕",
+    "protected_translated_text": "会议开幕",
+    "translated_text": "会议开幕",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b032",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "tzdmgp@chec.bj.cn / 0. Agenda of the Meeting",
+    "translation_context_after": "Readiness of the Contractor to Start Work / Contractual Matter"
+  },
+  {
+    "item_id": "p001-b033",
+    "page_idx": 0,
+    "block_idx": 33,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      79.3200015,
+      432.25503755,
+      304.52572555446596,
+      442.0030351358564
+    ],
+    "source_text": "Readiness of the Contractor to Start Work",
+    "lines": [
+      {
+        "bbox": [
+          79.3200015,
+          432.25503755,
+          304.52572555446596,
+          442.0030351358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Readiness of the Contractor to Start Work",
+            "bbox": [
+              79.3200015,
+              432.25503755,
+              304.52572555446596,
+              442.0030351358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 29,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Readiness of the Contractor to Start Work",
+    "mixed_original_protected_source_text": "Readiness of the Contractor to Start Work",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b033",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b033"
+    ],
+    "translation_unit_protected_source_text": "Readiness of the Contractor to Start Work",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "承包商开工准备情况",
+    "translation_unit_translated_text": "承包商开工准备情况",
+    "protected_translated_text": "承包商开工准备情况",
+    "translated_text": "承包商开工准备情况",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b033",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "0. Agenda of the Meeting / Opening the Meeting",
+    "translation_context_after": "Contractual Matter / Method Statement for the work"
+  },
+  {
+    "item_id": "p001-b034",
+    "page_idx": 0,
+    "block_idx": 34,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      79.3200015,
+      445.6950248,
+      190.8138344923054,
+      455.44302238585635
+    ],
+    "source_text": "Contractual Matter",
+    "lines": [
+      {
+        "bbox": [
+          79.3200015,
+          445.6950248,
+          190.8138344923054,
+          455.44302238585635
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contractual Matter",
+            "bbox": [
+              79.3200015,
+              445.6950248,
+              190.8138344923054,
+              455.44302238585635
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 30,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contractual Matter",
+    "mixed_original_protected_source_text": "Contractual Matter",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b034",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b034"
+    ],
+    "translation_unit_protected_source_text": "Contractual Matter",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "合同事项",
+    "translation_unit_translated_text": "合同事项",
+    "protected_translated_text": "合同事项",
+    "translated_text": "合同事项",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b034",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Opening the Meeting / Readiness of the Contractor to Start Work",
+    "translation_context_after": "Method Statement for the work / Labourers, Materials and Equipment's"
+  },
+  {
+    "item_id": "p001-b035",
+    "page_idx": 0,
+    "block_idx": 35,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.60000225,
+      458.4150413,
+      273.9323468651827,
+      468.1630388858564
+    ],
+    "source_text": "Method Statement for the work",
+    "lines": [
+      {
+        "bbox": [
+          102.60000225,
+          458.4150413,
+          273.9323468651827,
+          468.1630388858564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Method Statement for the work",
+            "bbox": [
+              102.60000225,
+              458.4150413,
+              273.9323468651827,
+              468.1630388858564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 31,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Method Statement for the work",
+    "mixed_original_protected_source_text": "Method Statement for the work",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b035",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b035"
+    ],
+    "translation_unit_protected_source_text": "Method Statement for the work",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "工作方法说明",
+    "translation_unit_translated_text": "工作方法说明",
+    "protected_translated_text": "工作方法说明",
+    "translated_text": "工作方法说明",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b035",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Readiness of the Contractor to Start Work / Contractual Matter",
+    "translation_context_after": "Labourers, Materials and Equipment's / PM Facilities"
+  },
+  {
+    "item_id": "p001-b036",
+    "page_idx": 0,
+    "block_idx": 36,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 15,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.60000225,
+      471.0150323,
+      308.8231877658304,
+      480.7630298858563
+    ],
+    "source_text": "Labourers, Materials and Equipment's",
+    "lines": [
+      {
+        "bbox": [
+          102.60000225,
+          471.0150323,
+          308.8231877658304,
+          480.7630298858563
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Labourers, Materials and Equipment's",
+            "bbox": [
+              102.60000225,
+              471.0150323,
+              308.8231877658304,
+              480.7630298858563
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 32,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Labourers, Materials and Equipment's",
+    "mixed_original_protected_source_text": "Labourers, Materials and Equipment's",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b036",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b036"
+    ],
+    "translation_unit_protected_source_text": "Labourers, Materials and Equipment's",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "劳动力、材料和设备",
+    "translation_unit_translated_text": "劳动力、材料和设备",
+    "protected_translated_text": "劳动力、材料和设备",
+    "translated_text": "劳动力、材料和设备",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b036",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contractual Matter / Method Statement for the work",
+    "translation_context_after": "PM Facilities / Daily, Weekly and Monthly Report"
+  },
+  {
+    "item_id": "p001-b037",
+    "page_idx": 0,
+    "block_idx": 37,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 16,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.60000225,
+      483.7350488000001,
+      185.92227839999993,
+      493.4830463858564
+    ],
+    "source_text": "PM Facilities",
+    "lines": [
+      {
+        "bbox": [
+          102.60000225,
+          483.7350488000001,
+          185.92227839999993,
+          493.4830463858564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "PM Facilities",
+            "bbox": [
+              102.60000225,
+              483.7350488000001,
+              185.92227839999993,
+              493.4830463858564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 33,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "PM Facilities",
+    "mixed_original_protected_source_text": "PM Facilities",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b037",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b037"
+    ],
+    "translation_unit_protected_source_text": "PM Facilities",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "项目管理设施",
+    "translation_unit_translated_text": "项目管理设施",
+    "protected_translated_text": "项目管理设施",
+    "translated_text": "项目管理设施",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b037",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Method Statement for the work / Labourers, Materials and Equipment's",
+    "translation_context_after": "Daily, Weekly and Monthly Report / 4. AOB"
+  },
+  {
+    "item_id": "p001-b038",
+    "page_idx": 0,
+    "block_idx": 38,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 17,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.60000225,
+      496.33503905000003,
+      289.2492461919509,
+      506.0830366358564
+    ],
+    "source_text": "Daily, Weekly and Monthly Report",
+    "lines": [
+      {
+        "bbox": [
+          102.60000225,
+          496.33503905000003,
+          289.2492461919509,
+          506.0830366358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Daily, Weekly and Monthly Report",
+            "bbox": [
+              102.60000225,
+              496.33503905000003,
+              289.2492461919509,
+              506.0830366358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 34,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Daily, Weekly and Monthly Report",
+    "mixed_original_protected_source_text": "Daily, Weekly and Monthly Report",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b038",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b038"
+    ],
+    "translation_unit_protected_source_text": "Daily, Weekly and Monthly Report",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "日报、周报和月报",
+    "translation_unit_translated_text": "日报、周报和月报",
+    "protected_translated_text": "日报、周报和月报",
+    "translated_text": "日报、周报和月报",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b038",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Labourers, Materials and Equipment's / PM Facilities",
+    "translation_context_after": "4. AOB / New Defects"
+  },
+  {
+    "item_id": "p001-b039",
+    "page_idx": 0,
+    "block_idx": 39,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 18,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      79.3200015,
+      508.93503005,
+      123.55355864999999,
+      518.6830276358564
+    ],
+    "source_text": "4. AOB",
+    "lines": [
+      {
+        "bbox": [
+          79.3200015,
+          508.93503005,
+          123.55355864999999,
+          518.6830276358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "4. AOB",
+            "bbox": [
+              79.3200015,
+              508.93503005,
+              123.55355864999999,
+              518.6830276358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 35,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "4. AOB",
+    "mixed_original_protected_source_text": "4. AOB",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b039",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b039"
+    ],
+    "translation_unit_protected_source_text": "4. AOB",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "4. 其他事项",
+    "translation_unit_translated_text": "4. 其他事项",
+    "protected_translated_text": "4. 其他事项",
+    "translated_text": "4. 其他事项",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b039",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PM Facilities / Daily, Weekly and Monthly Report",
+    "translation_context_after": "New Defects / Dumping Area"
+  },
+  {
+    "item_id": "p001-b040",
+    "page_idx": 0,
+    "block_idx": 40,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 19,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.47999924999999,
+      521.65504655,
+      185.98060454631462,
+      531.4030441358564
+    ],
+    "source_text": "New Defects",
+    "lines": [
+      {
+        "bbox": [
+          102.47999924999999,
+          521.65504655,
+          185.98060454631462,
+          531.4030441358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "New Defects",
+            "bbox": [
+              102.47999924999999,
+              521.65504655,
+              185.98060454631462,
+              531.4030441358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 36,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "New Defects",
+    "mixed_original_protected_source_text": "New Defects",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b040",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b040"
+    ],
+    "translation_unit_protected_source_text": "New Defects",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "新缺陷",
+    "translation_unit_translated_text": "新缺陷",
+    "protected_translated_text": "新缺陷",
+    "translated_text": "新缺陷",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b040",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Daily, Weekly and Monthly Report / 4. AOB",
+    "translation_context_after": "Dumping Area / First Aid Facilities"
+  },
+  {
+    "item_id": "p001-b041",
+    "page_idx": 0,
+    "block_idx": 41,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 20,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.47999924999999,
+      534.25503755,
+      193.89652094831928,
+      544.0030351358564
+    ],
+    "source_text": "Dumping Area",
+    "lines": [
+      {
+        "bbox": [
+          102.47999924999999,
+          534.25503755,
+          193.89652094831928,
+          544.0030351358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Dumping Area",
+            "bbox": [
+              102.47999924999999,
+              534.25503755,
+              193.89652094831928,
+              544.0030351358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 37,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Dumping Area",
+    "mixed_original_protected_source_text": "Dumping Area",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b041",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b041"
+    ],
+    "translation_unit_protected_source_text": "Dumping Area",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "倾倒区",
+    "translation_unit_translated_text": "倾倒区",
+    "protected_translated_text": "倾倒区",
+    "translated_text": "倾倒区",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b041",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "4. AOB / New Defects",
+    "translation_context_after": "First Aid Facilities / Maintenance and Office Space"
+  },
+  {
+    "item_id": "p001-b042",
+    "page_idx": 0,
+    "block_idx": 42,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 21,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.47999924999999,
+      546.9750540499999,
+      209.72533486272084,
+      556.7230516358563
+    ],
+    "source_text": "First Aid Facilities",
+    "lines": [
+      {
+        "bbox": [
+          102.47999924999999,
+          546.9750540499999,
+          209.72533486272084,
+          556.7230516358563
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "First Aid Facilities",
+            "bbox": [
+              102.47999924999999,
+              546.9750540499999,
+              209.72533486272084,
+              556.7230516358563
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 38,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "First Aid Facilities",
+    "mixed_original_protected_source_text": "First Aid Facilities",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b042",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b042"
+    ],
+    "translation_unit_protected_source_text": "First Aid Facilities",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "急救设施",
+    "translation_unit_translated_text": "急救设施",
+    "protected_translated_text": "急救设施",
+    "translated_text": "急救设施",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b042",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "New Defects / Dumping Area",
+    "translation_context_after": "Maintenance and Office Space / Area for Precast Elements and Storage"
+  },
+  {
+    "item_id": "p001-b043",
+    "page_idx": 0,
+    "block_idx": 43,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 22,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.47999924999999,
+      559.57504505,
+      274.010726973201,
+      569.3230426358564
+    ],
+    "source_text": "Maintenance and Office Space",
+    "lines": [
+      {
+        "bbox": [
+          102.47999924999999,
+          559.57504505,
+          274.010726973201,
+          569.3230426358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Maintenance and Office Space",
+            "bbox": [
+              102.47999924999999,
+              559.57504505,
+              274.010726973201,
+              569.3230426358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 39,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Maintenance and Office Space",
+    "mixed_original_protected_source_text": "Maintenance and Office Space",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b043",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b043"
+    ],
+    "translation_unit_protected_source_text": "Maintenance and Office Space",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "维护与办公空间",
+    "translation_unit_translated_text": "维护与办公空间",
+    "protected_translated_text": "维护与办公空间",
+    "translated_text": "维护与办公空间",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b043",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Dumping Area / First Aid Facilities",
+    "translation_context_after": "Area for Precast Elements and Storage / Illuminating Light in Container Yard Port"
+  },
+  {
+    "item_id": "p001-b044",
+    "page_idx": 0,
+    "block_idx": 44,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 23,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.47999924999999,
+      572.2950158,
+      314.958505316863,
+      582.0430133858564
+    ],
+    "source_text": "Area for Precast Elements and Storage",
+    "lines": [
+      {
+        "bbox": [
+          102.47999924999999,
+          572.2950158,
+          314.958505316863,
+          582.0430133858564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Area for Precast Elements and Storage",
+            "bbox": [
+              102.47999924999999,
+              572.2950158,
+              314.958505316863,
+              582.0430133858564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 40,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Area for Precast Elements and Storage",
+    "mixed_original_protected_source_text": "Area for Precast Elements and Storage",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b044",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b044"
+    ],
+    "translation_unit_protected_source_text": "Area for Precast Elements and Storage",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "预制构件及存储区",
+    "translation_unit_translated_text": "预制构件及存储区",
+    "protected_translated_text": "预制构件及存储区",
+    "translated_text": "预制构件及存储区",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b044",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "First Aid Facilities / Maintenance and Office Space",
+    "translation_context_after": "Illuminating Light in Container Yard Port / Contractor's Invoicing"
+  },
+  {
+    "item_id": "p001-b045",
+    "page_idx": 0,
+    "block_idx": 45,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 24,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.47999924999999,
+      584.8950518,
+      318.03969657017876,
+      594.6430493858564
+    ],
+    "source_text": "Illuminating Light in Container Yard Port",
+    "lines": [
+      {
+        "bbox": [
+          102.47999924999999,
+          584.8950518,
+          318.03969657017876,
+          594.6430493858564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Illuminating Light in Container Yard Port",
+            "bbox": [
+              102.47999924999999,
+              584.8950518,
+              318.03969657017876,
+              594.6430493858564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 41,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Illuminating Light in Container Yard Port",
+    "mixed_original_protected_source_text": "Illuminating Light in Container Yard Port",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b045",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b045"
+    ],
+    "translation_unit_protected_source_text": "Illuminating Light in Container Yard Port",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "港口集装箱堆场照明",
+    "translation_unit_translated_text": "港口集装箱堆场照明",
+    "protected_translated_text": "港口集装箱堆场照明",
+    "translated_text": "港口集装箱堆场照明",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b045",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Maintenance and Office Space / Area for Precast Elements and Storage",
+    "translation_context_after": "Contractor's Invoicing / Closure of the Meeting"
+  },
+  {
+    "item_id": "p001-b046",
+    "page_idx": 0,
+    "block_idx": 46,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 25,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      102.47999924999999,
+      597.4950428,
+      229.28612277822762,
+      607.2430403858564
+    ],
+    "source_text": "Contractor's Invoicing",
+    "lines": [
+      {
+        "bbox": [
+          102.47999924999999,
+          597.4950428,
+          229.28612277822762,
+          607.2430403858564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contractor's Invoicing",
+            "bbox": [
+              102.47999924999999,
+              597.4950428,
+              229.28612277822762,
+              607.2430403858564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 42,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contractor's Invoicing",
+    "mixed_original_protected_source_text": "Contractor's Invoicing",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b046",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b046"
+    ],
+    "translation_unit_protected_source_text": "Contractor's Invoicing",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "承包商开票",
+    "translation_unit_translated_text": "承包商开票",
+    "protected_translated_text": "承包商开票",
+    "translated_text": "承包商开票",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b046",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Area for Precast Elements and Storage / Illuminating Light in Container Yard Port",
+    "translation_context_after": "Closure of the Meeting / 1. Opening the Meeting"
+  },
+  {
+    "item_id": "p001-b047",
+    "page_idx": 0,
+    "block_idx": 47,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 26,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      79.3200015,
+      610.2150135500001,
+      210.9436799799083,
+      619.9630111358564
+    ],
+    "source_text": "Closure of the Meeting",
+    "lines": [
+      {
+        "bbox": [
+          79.3200015,
+          610.2150135500001,
+          210.9436799799083,
+          619.9630111358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Closure of the Meeting",
+            "bbox": [
+              79.3200015,
+              610.2150135500001,
+              210.9436799799083,
+              619.9630111358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 43,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Closure of the Meeting",
+    "mixed_original_protected_source_text": "Closure of the Meeting",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b047",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b047"
+    ],
+    "translation_unit_protected_source_text": "Closure of the Meeting",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "会议闭幕",
+    "translation_unit_translated_text": "会议闭幕",
+    "protected_translated_text": "会议闭幕",
+    "translated_text": "会议闭幕",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b047",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Illuminating Light in Container Yard Port / Contractor's Invoicing",
+    "translation_context_after": "1. Opening the Meeting / The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer."
+  },
+  {
+    "item_id": "p001-b048",
+    "page_idx": 0,
+    "block_idx": 48,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 27,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      56.639997750000006,
+      647.5460615000001,
+      196.8391359003391,
+      657.2804445640884
+    ],
+    "source_text": "1. Opening the Meeting",
+    "lines": [
+      {
+        "bbox": [
+          56.639997750000006,
+          647.5460615000001,
+          196.8391359003391,
+          657.2804445640884
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1. Opening the Meeting",
+            "bbox": [
+              56.639997750000006,
+              647.5460615000001,
+              196.8391359003391,
+              657.2804445640884
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 44,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1. Opening the Meeting",
+    "mixed_original_protected_source_text": "1. Opening the Meeting",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b048",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b048"
+    ],
+    "translation_unit_protected_source_text": "1. Opening the Meeting",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 会议开幕",
+    "translation_unit_translated_text": "1. 会议开幕",
+    "protected_translated_text": "1. 会议开幕",
+    "translated_text": "1. 会议开幕",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b048",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contractor's Invoicing / Closure of the Meeting",
+    "translation_context_after": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer. / Dar es Salaam Maritime Gateway Project (DMGP)"
+  },
+  {
+    "item_id": "p001-b049",
+    "page_idx": 0,
+    "block_idx": 49,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 28,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      84.95999925000001,
+      666.13501205,
+      541.6036636171423,
+      688.4830463858564
+    ],
+    "source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "lines": [
+      {
+        "bbox": [
+          84.95999925000001,
+          666.13501205,
+          541.6036636171423,
+          688.4830463858564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+            "bbox": [
+              84.95999925000001,
+              666.13501205,
+              541.6036636171423,
+              688.4830463858564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 45,
+    "layout_zone_size": 46,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "mixed_original_protected_source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b049",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b049"
+    ],
+    "translation_unit_protected_source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "驻地工程师 - RE（IL - Eng. José Rodrigues）致欢迎辞宣布会议开始。会议由驻地工程师代表工程师主持。",
+    "translation_unit_translated_text": "驻地工程师 - RE（IL - Eng. José Rodrigues）致欢迎辞宣布会议开始。会议由驻地工程师代表工程师主持。",
+    "protected_translated_text": "驻地工程师 - RE（IL - Eng. José Rodrigues）致欢迎辞宣布会议开始。会议由驻地工程师代表工程师主持。",
+    "translated_text": "驻地工程师 - RE（IL - Eng. José Rodrigues）致欢迎辞宣布会议开始。会议由驻地工程师代表工程师主持。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b049",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Closure of the Meeting / 1. Opening the Meeting",
+    "translation_context_after": "Dar es Salaam Maritime Gateway Project (DMGP) / Contract No: TZ-TPA-/424013-CW-DIR"
+  }
+]

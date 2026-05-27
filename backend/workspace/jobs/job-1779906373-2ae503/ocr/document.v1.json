@@ -1,0 +1,139 @@
+{
+  "schema": "normalized_document_v1",
+  "schema_version": "1.1",
+  "document_id": "56b7c01c-4fa5-421f-8dc0-801a4870c130",
+  "source": {},
+  "page_count": 2,
+  "pages": [
+    {
+      "page_index": 0,
+      "page": 1,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "d5fa8123-7797-4069-8fb3-58883aec7a3b",
+          "page_index": 0,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              100.0,
+              83.27380000000005,
+              275.41600000000017,
+              94.37380000000007
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Page 1 - This is a test document."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              100.0,
+              83.27380000000005,
+              275.41600000000017,
+              94.37380000000007
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\simple.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    },
+    {
+      "page_index": 1,
+      "page": 2,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "db73c3fa-98eb-4e65-99af-0828febed392",
+          "page_index": 1,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              100.0,
+              83.27380000000005,
+              278.7640000000001,
+              94.37380000000007
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Page 2 - This is the second page."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              100.0,
+              83.27380000000005,
+              278.7640000000001,
+              94.37380000000007
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\simple.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": {},
+  "derived": {
+    "provider_signals": {
+      "provider": "docling",
+      "do_ocr": true,
+      "do_table_structure": true
+    },
+    "stats": {
+      "pages": 2,
+      "blocks": 2,
+      "elapsed_seconds": 6.69
+    }
+  },
+  "markers": {}
+}

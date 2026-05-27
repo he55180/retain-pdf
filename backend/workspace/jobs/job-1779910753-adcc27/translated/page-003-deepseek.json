@@ -1,0 +1,157 @@
+[
+  {
+    "item_id": "p003-b004",
+    "page_idx": 2,
+    "block_idx": 4,
+    "block_type": "table",
+    "block_kind": "table",
+    "layout_role": "unknown",
+    "semantic_role": "unknown",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "table",
+    "normalized_sub_type": "table_html",
+    "bbox": [
+      54.484,
+      147.986,
+      553.333,
+      764.927
+    ],
+    "source_text": "<table><tr><td colspan=\"2\">4.0 AOB</td></tr><tr><td colspan=\"2\">4.1 New defects</td></tr><tr><td colspan=\"2\">Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td></tr><tr><td colspan=\"2\">4.2 Dumping Area</td></tr><tr><td>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 First Aid Facilities</td></tr><tr><td>The third first aid room container already inspected jointly by the Contractor and Engineer on 10 $ ^{th} $ April at Supplier&#x27;s place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receives funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 Maintenance and Office Space</td></tr><tr><td>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 Area for Precast Elements and Storage</td></tr><tr><td>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided to source precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 $ ^{st} $ May 2026.</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 Illuminating Light in Container Yard Port</td></tr><tr><td>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 Contractor&#x27;s Invoicing</td></tr><tr><td>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td>CHEC</td></tr></table>",
+    "lines": [
+      {
+        "bbox": [
+          54.484,
+          147.986,
+          553.333,
+          764.927
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "<table><tr><td colspan=\"2\">4.0 AOB</td></tr><tr><td colspan=\"2\">4.1 New defects</td></tr><tr><td colspan=\"2\">Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td></tr><tr><td colspan=\"2\">4.2 Dumping Area</td></tr><tr><td>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 First Aid Facilities</td></tr><tr><td>The third first aid room container already inspected jointly by the Contractor and Engineer on 10 $ ^{th} $ April at Supplier&#x27;s place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receives funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 Maintenance and Office Space</td></tr><tr><td>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 Area for Precast Elements and Storage</td></tr><tr><td>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided to source precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 $ ^{st} $ May 2026.</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 Illuminating Light in Container Yard Port</td></tr><tr><td>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 Contractor&#x27;s Invoicing</td></tr><tr><td>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td>CHEC</td></tr></table>",
+            "bbox": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "provider_cross_column_merge_suspected": false,
+      "provider_reading_order_unreliable": false,
+      "provider_structure_unreliable": false,
+      "provider_text_missing_but_bbox_present": false,
+      "provider_peer_block_absorbed_text": false,
+      "provider_column_layout_mode": "single",
+      "provider_column_index_guess": "full",
+      "provider_suspected_peer_block_id": "",
+      "cross_column_merge_suspected": false,
+      "reading_order_unreliable": false,
+      "structure_unreliable": false,
+      "text_missing_but_bbox_present": false,
+      "peer_block_absorbed_text": false,
+      "body_repair_applied": false,
+      "body_repair_role": "",
+      "body_repair_strategy": "",
+      "body_repair_peer_block_id": "",
+      "continuation_suppressed": false,
+      "continuation_suppressed_reason": "",
+      "column_layout_mode": "single",
+      "column_index_guess": "full",
+      "continuation_hint": {
+        "source": "provider",
+        "group_id": "provider-paddle-global-41",
+        "role": "single",
+        "scope": "intra_page",
+        "reading_order": -1,
+        "confidence": 0.98
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "provider",
+    "ocr_continuation_group_id": "provider-paddle-global-41",
+    "ocr_continuation_role": "single",
+    "ocr_continuation_scope": "intra_page",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.98,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "single",
+    "provider_column_index_guess": "full",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "non_flow",
+    "layout_zone_rank": -1,
+    "layout_zone_size": 0,
+    "layout_boundary_role": "",
+    "math_mode": "direct_typst",
+    "protected_source_text": "<table><tr><td colspan=\"2\">4.0 AOB</td></tr><tr><td colspan=\"2\">4.1 New defects</td></tr><tr><td colspan=\"2\">Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td></tr><tr><td colspan=\"2\">4.2 Dumping Area</td></tr><tr><td>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 First Aid Facilities</td></tr><tr><td>The third first aid room container already inspected jointly by the Contractor and Engineer on 10 $ ^{th} $ April at Supplier&#x27;s place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receives funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 Maintenance and Office Space</td></tr><tr><td>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 Area for Precast Elements and Storage</td></tr><tr><td>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided to source precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 $ ^{st} $ May 2026.</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 Illuminating Light in Container Yard Port</td></tr><tr><td>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 Contractor&#x27;s Invoicing</td></tr><tr><td>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td>CHEC</td></tr></table>",
+    "mixed_original_protected_source_text": "<table><tr><td colspan=\"2\">4.0 AOB</td></tr><tr><td colspan=\"2\">4.1 New defects</td></tr><tr><td colspan=\"2\">Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td></tr><tr><td colspan=\"2\">4.2 Dumping Area</td></tr><tr><td>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 First Aid Facilities</td></tr><tr><td>The third first aid room container already inspected jointly by the Contractor and Engineer on 10 $ ^{th} $ April at Supplier&#x27;s place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receives funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 Maintenance and Office Space</td></tr><tr><td>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 Area for Precast Elements and Storage</td></tr><tr><td>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided to source precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 $ ^{st} $ May 2026.</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 Illuminating Light in Container Yard Port</td></tr><tr><td>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 Contractor&#x27;s Invoicing</td></tr><tr><td>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td>CHEC</td></tr></table>",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b004"
+    ],
+    "translation_unit_protected_source_text": "<table><tr><td colspan=\"2\">4.0 AOB</td></tr><tr><td colspan=\"2\">4.1 New defects</td></tr><tr><td colspan=\"2\">Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td></tr><tr><td colspan=\"2\">4.2 Dumping Area</td></tr><tr><td>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 First Aid Facilities</td></tr><tr><td>The third first aid room container already inspected jointly by the Contractor and Engineer on 10 $ ^{th} $ April at Supplier&#x27;s place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receives funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 Maintenance and Office Space</td></tr><tr><td>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 Area for Precast Elements and Storage</td></tr><tr><td>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided to source precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 $ ^{st} $ May 2026.</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 Illuminating Light in Container Yard Port</td></tr><tr><td>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 Contractor&#x27;s Invoicing</td></tr><tr><td>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td>CHEC</td></tr></table>",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "<table><tr><td colspan=\"2\">4.0 其他事项</td></tr><tr><td colspan=\"2\">4.1 新缺陷</td></tr><tr><td colspan=\"2\">关于新缺陷，驻地工程师向会议通报，业主尚未就拟与各方联合检查以确定合同已识别裂缝之外的新裂缝一事提供最新进展。</td></tr><tr><td colspan=\"2\">4.2 弃土区</td></tr><tr><td>关于弃土区，承包商仍在等待坦桑尼亚港务局的正式函件。</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 急救设施</td></tr><tr><td>第三个急救室集装箱已于4月10日在供应商处由承包商和工程师联合检查，确认其满足需求。承包商向会议通报，一旦收到来自中国的资金用于支付制造费用，该集装箱将运至现场，并于2026年5月底前完成交付。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 维护与办公空间</td></tr><tr><td>驻地工程师向会议通报，观察到周边环境有显著改善，即使在近期降雨期间也未闻到异味。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 预制构件及存储区域</td></tr><tr><td>关于港区内预制构件所需空间，承包商向会议通报，其已决定从港区外采购预制构件，因此不再像先前讨论那样迫切需要港区内空间。驻地工程师再次指示承包商以书面形式确认不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 集装箱堆场照明</td></tr><tr><td>承包商提交了建议采用410瓦照明的方案，但驻地工程师告知设计要求为1000瓦。驻地工程师表示已收到承包商关于港区照明建议的支持文件，将予以审查并相应回复承包商。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 承包商发票开具</td></tr><tr><td>驻地工程师建议承包商核实当前已支出金额是否低于或高于合同规定的开具发票所需最低金额（2%）。</td><td>CHEC</td></tr></table>",
+    "translation_unit_translated_text": "<table><tr><td colspan=\"2\">4.0 其他事项</td></tr><tr><td colspan=\"2\">4.1 新缺陷</td></tr><tr><td colspan=\"2\">关于新缺陷，驻地工程师向会议通报，业主尚未就拟与各方联合检查以确定合同已识别裂缝之外的新裂缝一事提供最新进展。</td></tr><tr><td colspan=\"2\">4.2 弃土区</td></tr><tr><td>关于弃土区，承包商仍在等待坦桑尼亚港务局的正式函件。</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 急救设施</td></tr><tr><td>第三个急救室集装箱已于4月10日在供应商处由承包商和工程师联合检查，确认其满足需求。承包商向会议通报，一旦收到来自中国的资金用于支付制造费用，该集装箱将运至现场，并于2026年5月底前完成交付。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 维护与办公空间</td></tr><tr><td>驻地工程师向会议通报，观察到周边环境有显著改善，即使在近期降雨期间也未闻到异味。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 预制构件及存储区域</td></tr><tr><td>关于港区内预制构件所需空间，承包商向会议通报，其已决定从港区外采购预制构件，因此不再像先前讨论那样迫切需要港区内空间。驻地工程师再次指示承包商以书面形式确认不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 集装箱堆场照明</td></tr><tr><td>承包商提交了建议采用410瓦照明的方案，但驻地工程师告知设计要求为1000瓦。驻地工程师表示已收到承包商关于港区照明建议的支持文件，将予以审查并相应回复承包商。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 承包商发票开具</td></tr><tr><td>驻地工程师建议承包商核实当前已支出金额是否低于或高于合同规定的开具发票所需最低金额（2%）。</td><td>CHEC</td></tr></table>",
+    "protected_translated_text": "<table><tr><td colspan=\"2\">4.0 其他事项</td></tr><tr><td colspan=\"2\">4.1 新缺陷</td></tr><tr><td colspan=\"2\">关于新缺陷，驻地工程师向会议通报，业主尚未就拟与各方联合检查以确定合同已识别裂缝之外的新裂缝一事提供最新进展。</td></tr><tr><td colspan=\"2\">4.2 弃土区</td></tr><tr><td>关于弃土区，承包商仍在等待坦桑尼亚港务局的正式函件。</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 急救设施</td></tr><tr><td>第三个急救室集装箱已于4月10日在供应商处由承包商和工程师联合检查，确认其满足需求。承包商向会议通报，一旦收到来自中国的资金用于支付制造费用，该集装箱将运至现场，并于2026年5月底前完成交付。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 维护与办公空间</td></tr><tr><td>驻地工程师向会议通报，观察到周边环境有显著改善，即使在近期降雨期间也未闻到异味。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 预制构件及存储区域</td></tr><tr><td>关于港区内预制构件所需空间，承包商向会议通报，其已决定从港区外采购预制构件，因此不再像先前讨论那样迫切需要港区内空间。驻地工程师再次指示承包商以书面形式确认不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 集装箱堆场照明</td></tr><tr><td>承包商提交了建议采用410瓦照明的方案，但驻地工程师告知设计要求为1000瓦。驻地工程师表示已收到承包商关于港区照明建议的支持文件，将予以审查并相应回复承包商。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 承包商发票开具</td></tr><tr><td>驻地工程师建议承包商核实当前已支出金额是否低于或高于合同规定的开具发票所需最低金额（2%）。</td><td>CHEC</td></tr></table>",
+    "translated_text": "<table><tr><td colspan=\"2\">4.0 其他事项</td></tr><tr><td colspan=\"2\">4.1 新缺陷</td></tr><tr><td colspan=\"2\">关于新缺陷，驻地工程师向会议通报，业主尚未就拟与各方联合检查以确定合同已识别裂缝之外的新裂缝一事提供最新进展。</td></tr><tr><td colspan=\"2\">4.2 弃土区</td></tr><tr><td>关于弃土区，承包商仍在等待坦桑尼亚港务局的正式函件。</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 急救设施</td></tr><tr><td>第三个急救室集装箱已于4月10日在供应商处由承包商和工程师联合检查，确认其满足需求。承包商向会议通报，一旦收到来自中国的资金用于支付制造费用，该集装箱将运至现场，并于2026年5月底前完成交付。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 维护与办公空间</td></tr><tr><td>驻地工程师向会议通报，观察到周边环境有显著改善，即使在近期降雨期间也未闻到异味。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 预制构件及存储区域</td></tr><tr><td>关于港区内预制构件所需空间，承包商向会议通报，其已决定从港区外采购预制构件，因此不再像先前讨论那样迫切需要港区内空间。驻地工程师再次指示承包商以书面形式确认不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 集装箱堆场照明</td></tr><tr><td>承包商提交了建议采用410瓦照明的方案，但驻地工程师告知设计要求为1000瓦。驻地工程师表示已收到承包商关于港区照明建议的支持文件，将予以审查并相应回复承包商。</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 承包商发票开具</td></tr><tr><td>驻地工程师建议承包商核实当前已支出金额是否低于或高于合同规定的开具发票所需最低金额（2%）。</td><td>CHEC</td></tr></table>",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b004",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "",
+    "translation_context_after": ""
+  }
+]

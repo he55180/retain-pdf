@@ -1,0 +1,4687 @@
+{
+  "layoutParsingResults": [
+    {
+      "prunedResult": {
+        "page_count": 5,
+        "width": 1191,
+        "height": 1684,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "parsing_res_list": [
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              125,
+              75,
+              474,
+              129
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 0,
+            "global_group_id": 0,
+            "block_polygon_points": [
+              [
+                125.0,
+                75.0
+              ],
+              [
+                474.0,
+                75.0
+              ],
+              [
+                474.0,
+                129.0
+              ],
+              [
+                125.0,
+                129.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              593,
+              58,
+              746,
+              148
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 1,
+            "global_group_id": 1,
+            "block_polygon_points": [
+              [
+                593.0,
+                58.0
+              ],
+              [
+                746.0,
+                58.0
+              ],
+              [
+                746.0,
+                148.0
+              ],
+              [
+                593.0,
+                148.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              969,
+              66,
+              1108,
+              139
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "global_block_id": 2,
+            "global_group_id": 2,
+            "block_polygon_points": [
+              [
+                969.0,
+                66.0
+              ],
+              [
+                1108.0,
+                66.0
+              ],
+              [
+                1108.0,
+                139.0
+              ],
+              [
+                969.0,
+                139.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header",
+            "block_content": "Dar es Salaam Maritime Gateway Project (DMGP)\nContract No: TZ-TPA-/424013-CW-DIR\nREPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "block_bbox": [
+              145,
+              172,
+              1060,
+              253
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "global_block_id": 3,
+            "global_group_id": 3,
+            "block_polygon_points": [
+              [
+                145.0,
+                172.0
+              ],
+              [
+                1060.0,
+                172.0
+              ],
+              [
+                1060.0,
+                253.0
+              ],
+              [
+                145.0,
+                253.0
+              ]
+            ]
+          },
+          {
+            "block_label": "paragraph_title",
+            "block_content": "Minutes of Weekly Meeting No.15",
+            "block_bbox": [
+              432,
+              294,
+              788,
+              322
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4,
+            "global_block_id": 4,
+            "global_group_id": 4,
+            "block_polygon_points": [
+              [
+                432.0,
+                294.0
+              ],
+              [
+                788.0,
+                294.0
+              ],
+              [
+                788.0,
+                322.0
+              ],
+              [
+                432.0,
+                322.0
+              ]
+            ]
+          },
+          {
+            "block_label": "paragraph_title",
+            "block_content": "Reference:",
+            "block_bbox": [
+              120,
+              349,
+              241,
+              374
+            ],
+            "block_id": 5,
+            "block_order": 2,
+            "group_id": 5,
+            "global_block_id": 5,
+            "global_group_id": 5,
+            "block_polygon_points": [
+              [
+                120.0,
+                349.0
+              ],
+              [
+                241.0,
+                349.0
+              ],
+              [
+                241.0,
+                374.0
+              ],
+              [
+                120.0,
+                374.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "MoM- Weekly 15-2026/5/14",
+            "block_bbox": [
+              817,
+              348,
+              1100,
+              374
+            ],
+            "block_id": 6,
+            "block_order": 3,
+            "group_id": 6,
+            "global_block_id": 6,
+            "global_group_id": 6,
+            "block_polygon_points": [
+              [
+                817.0,
+                348.0
+              ],
+              [
+                1100.0,
+                348.0
+              ],
+              [
+                1100.0,
+                374.0
+              ],
+              [
+                817.0,
+                374.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Date/Start Time:</td><td>Thursday, 14 $ ^{th} $ May 2026 / 14:35hrs</td></tr><tr><td rowspan=\"2\">Venue:</td><td>Contractor&#x27;s Conference Room at Site Camp Offices</td></tr><tr><td>Dar es Salaam</td></tr><tr><td>Attendees:</td><td>See list annexed</td></tr></table>",
+            "block_bbox": [
+              112,
+              413,
+              1107,
+              546
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "global_block_id": 7,
+            "global_group_id": 7,
+            "block_polygon_points": [
+              [
+                112.0,
+                413.0
+              ],
+              [
+                1107.0,
+                413.0
+              ],
+              [
+                1107.0,
+                546.0
+              ],
+              [
+                112.0,
+                546.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Distribution List</td><td>Name</td><td>E-mail</td></tr><tr><td>Director General – TPA</td><td>Plasduce Mbossa</td><td>dg@ports.go.tz</td></tr><tr><td>Project Engineer (PE) – TPA</td><td>Twaha Msita</td><td>twaha.msita@ports.go.tz</td></tr><tr><td>Engineer (En) – INROS LACKNER</td><td>Klaus Richter</td><td>daressalaam.port@inros-lackner.de</td></tr><tr><td>Contractor’s Representative – CHEC</td><td>Bian Liang</td><td>tzdmgp@chec.bj.cn</td></tr></table>",
+            "block_bbox": [
+              113,
+              582,
+              1106,
+              755
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8,
+            "global_block_id": 8,
+            "global_group_id": 8,
+            "block_polygon_points": [
+              [
+                113.0,
+                582.0
+              ],
+              [
+                1106.0,
+                582.0
+              ],
+              [
+                1106.0,
+                755.0
+              ],
+              [
+                113.0,
+                755.0
+              ]
+            ]
+          },
+          {
+            "block_label": "paragraph_title",
+            "block_content": "0. Agenda of the Meeting",
+            "block_bbox": [
+              108,
+              781,
+              409,
+              810
+            ],
+            "block_id": 9,
+            "block_order": 4,
+            "group_id": 9,
+            "global_block_id": 9,
+            "global_group_id": 9,
+            "block_polygon_points": [
+              [
+                108.0,
+                781.0
+              ],
+              [
+                409.0,
+                781.0
+              ],
+              [
+                409.0,
+                810.0
+              ],
+              [
+                108.0,
+                810.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "1. Opening the Meeting",
+            "block_bbox": [
+              154,
+              832,
+              404,
+              859
+            ],
+            "block_id": 10,
+            "block_order": 5,
+            "group_id": 10,
+            "global_block_id": 10,
+            "global_group_id": 10,
+            "block_polygon_points": [
+              [
+                154.0,
+                832.0
+              ],
+              [
+                404.0,
+                832.0
+              ],
+              [
+                404.0,
+                859.0
+              ],
+              [
+                154.0,
+                859.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "2. Readiness of the Contractor to Start Work",
+            "block_bbox": [
+              154,
+              860,
+              608,
+              886
+            ],
+            "block_id": 11,
+            "block_order": 6,
+            "group_id": 11,
+            "global_block_id": 11,
+            "global_group_id": 11,
+            "block_polygon_points": [
+              [
+                154.0,
+                860.0
+              ],
+              [
+                608.0,
+                860.0
+              ],
+              [
+                608.0,
+                886.0
+              ],
+              [
+                154.0,
+                886.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "3. Contractual Matter",
+            "block_bbox": [
+              154,
+              888,
+              382,
+              912
+            ],
+            "block_id": 12,
+            "block_order": 7,
+            "group_id": 12,
+            "global_block_id": 12,
+            "global_group_id": 12,
+            "block_polygon_points": [
+              [
+                154.0,
+                888.0
+              ],
+              [
+                382.0,
+                888.0
+              ],
+              [
+                382.0,
+                912.0
+              ],
+              [
+                154.0,
+                912.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "1. Method Statement for the work",
+            "block_bbox": [
+              202,
+              913,
+              546,
+              939
+            ],
+            "block_id": 13,
+            "block_order": 8,
+            "group_id": 13,
+            "global_block_id": 13,
+            "global_group_id": 13,
+            "block_polygon_points": [
+              [
+                202.0,
+                920.0
+              ],
+              [
+                202.0,
+                938.0
+              ],
+              [
+                231.0,
+                938.0
+              ],
+              [
+                232.0,
+                932.0
+              ],
+              [
+                545.0,
+                932.0
+              ],
+              [
+                545.0,
+                913.0
+              ],
+              [
+                499.0,
+                913.0
+              ],
+              [
+                474.0,
+                913.0
+              ],
+              [
+                392.0,
+                913.0
+              ],
+              [
+                379.0,
+                913.0
+              ],
+              [
+                369.0,
+                913.0
+              ],
+              [
+                326.0,
+                913.0
+              ],
+              [
+                262.0,
+                913.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "2. Labourers, Materials and Equipment's",
+            "block_bbox": [
+              200,
+              939,
+              616,
+              963
+            ],
+            "block_id": 14,
+            "block_order": 9,
+            "group_id": 14,
+            "global_block_id": 14,
+            "global_group_id": 14,
+            "block_polygon_points": [
+              [
+                200.0,
+                939.0
+              ],
+              [
+                616.0,
+                939.0
+              ],
+              [
+                616.0,
+                963.0
+              ],
+              [
+                200.0,
+                963.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "3. PM Facilities",
+            "block_bbox": [
+              201,
+              963,
+              370,
+              988
+            ],
+            "block_id": 15,
+            "block_order": 10,
+            "group_id": 15,
+            "global_block_id": 15,
+            "global_group_id": 15,
+            "block_polygon_points": [
+              [
+                201.0,
+                963.0
+              ],
+              [
+                370.0,
+                963.0
+              ],
+              [
+                370.0,
+                988.0
+              ],
+              [
+                201.0,
+                988.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "4. Daily, Weekly and Monthly Report",
+            "block_bbox": [
+              202,
+              989,
+              577,
+              1017
+            ],
+            "block_id": 16,
+            "block_order": 11,
+            "group_id": 16,
+            "global_block_id": 16,
+            "global_group_id": 16,
+            "block_polygon_points": [
+              [
+                202.0,
+                989.0
+              ],
+              [
+                577.0,
+                989.0
+              ],
+              [
+                577.0,
+                1017.0
+              ],
+              [
+                202.0,
+                1017.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "4. АОВ",
+            "block_bbox": [
+              155,
+              1014,
+              245,
+              1037
+            ],
+            "block_id": 17,
+            "block_order": 12,
+            "group_id": 17,
+            "global_block_id": 17,
+            "global_group_id": 17,
+            "block_polygon_points": [
+              [
+                155.0,
+                1014.0
+              ],
+              [
+                155.0,
+                1036.0
+              ],
+              [
+                244.0,
+                1036.0
+              ],
+              [
+                244.0,
+                1022.0
+              ],
+              [
+                184.0,
+                1014.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "1. New Defects",
+            "block_bbox": [
+              203,
+              1039,
+              372,
+              1063
+            ],
+            "block_id": 18,
+            "block_order": 13,
+            "group_id": 18,
+            "global_block_id": 18,
+            "global_group_id": 18,
+            "block_polygon_points": [
+              [
+                203.0,
+                1039.0
+              ],
+              [
+                372.0,
+                1039.0
+              ],
+              [
+                372.0,
+                1063.0
+              ],
+              [
+                203.0,
+                1063.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "2. Dumping Area",
+            "block_bbox": [
+              201,
+              1065,
+              386,
+              1090
+            ],
+            "block_id": 19,
+            "block_order": 14,
+            "group_id": 19,
+            "global_block_id": 19,
+            "global_group_id": 19,
+            "block_polygon_points": [
+              [
+                201.0,
+                1065.0
+              ],
+              [
+                386.0,
+                1065.0
+              ],
+              [
+                386.0,
+                1090.0
+              ],
+              [
+                201.0,
+                1090.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "3. First Aid Facilities",
+            "block_bbox": [
+              201,
+              1091,
+              418,
+              1114
+            ],
+            "block_id": 20,
+            "block_order": 15,
+            "group_id": 20,
+            "global_block_id": 20,
+            "global_group_id": 20,
+            "block_polygon_points": [
+              [
+                201.0,
+                1091.0
+              ],
+              [
+                418.0,
+                1091.0
+              ],
+              [
+                418.0,
+                1114.0
+              ],
+              [
+                201.0,
+                1114.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "4. Maintenance and Office Space",
+            "block_bbox": [
+              199,
+              1114,
+              547,
+              1140
+            ],
+            "block_id": 21,
+            "block_order": 16,
+            "group_id": 21,
+            "global_block_id": 21,
+            "global_group_id": 21,
+            "block_polygon_points": [
+              [
+                199.0,
+                1114.0
+              ],
+              [
+                547.0,
+                1114.0
+              ],
+              [
+                547.0,
+                1140.0
+              ],
+              [
+                199.0,
+                1140.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "5. Area for Precast Elements and Storage",
+            "block_bbox": [
+              200,
+              1141,
+              630,
+              1167
+            ],
+            "block_id": 22,
+            "block_order": 17,
+            "group_id": 22,
+            "global_block_id": 22,
+            "global_group_id": 22,
+            "block_polygon_points": [
+              [
+                200.0,
+                1141.0
+              ],
+              [
+                630.0,
+                1141.0
+              ],
+              [
+                630.0,
+                1167.0
+              ],
+              [
+                200.0,
+                1167.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "6. Illuminating Light in Container Yard Port",
+            "block_bbox": [
+              200,
+              1167,
+              635,
+              1192
+            ],
+            "block_id": 23,
+            "block_order": 18,
+            "group_id": 23,
+            "global_block_id": 23,
+            "global_group_id": 23,
+            "block_polygon_points": [
+              [
+                200.0,
+                1167.0
+              ],
+              [
+                629.0,
+                1167.0
+              ],
+              [
+                629.0,
+                1191.0
+              ],
+              [
+                200.0,
+                1191.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "7. Contractor's Invoicing",
+            "block_bbox": [
+              201,
+              1193,
+              457,
+              1216
+            ],
+            "block_id": 24,
+            "block_order": 19,
+            "group_id": 24,
+            "global_block_id": 24,
+            "global_group_id": 24,
+            "block_polygon_points": [
+              [
+                201.0,
+                1193.0
+              ],
+              [
+                457.0,
+                1193.0
+              ],
+              [
+                457.0,
+                1216.0
+              ],
+              [
+                201.0,
+                1216.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "5. Closure of the Meeting",
+            "block_bbox": [
+              154,
+              1216,
+              421,
+              1244
+            ],
+            "block_id": 25,
+            "block_order": 20,
+            "group_id": 25,
+            "global_block_id": 25,
+            "global_group_id": 25,
+            "block_polygon_points": [
+              [
+                154.0,
+                1216.0
+              ],
+              [
+                421.0,
+                1216.0
+              ],
+              [
+                421.0,
+                1244.0
+              ],
+              [
+                154.0,
+                1244.0
+              ]
+            ]
+          },
+          {
+            "block_label": "paragraph_title",
+            "block_content": "1. Opening the Meeting",
+            "block_bbox": [
+              108,
+              1290,
+              391,
+              1318
+            ],
+            "block_id": 26,
+            "block_order": 21,
+            "group_id": 26,
+            "global_block_id": 26,
+            "global_group_id": 26,
+            "block_polygon_points": [
+              [
+                108.0,
+                1290.0
+              ],
+              [
+                391.0,
+                1290.0
+              ],
+              [
+                391.0,
+                1318.0
+              ],
+              [
+                108.0,
+                1318.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+            "block_bbox": [
+              163,
+              1327,
+              1081,
+              1380
+            ],
+            "block_id": 27,
+            "block_order": 22,
+            "group_id": 27,
+            "global_block_id": 27,
+            "global_group_id": 27,
+            "block_polygon_points": [
+              [
+                163.0,
+                1327.0
+              ],
+              [
+                1081.0,
+                1327.0
+              ],
+              [
+                1081.0,
+                1380.0
+              ],
+              [
+                163.0,
+                1380.0
+              ]
+            ]
+          },
+          {
+            "block_label": "footer",
+            "block_content": "MoM-Weekly Meeting 15-2026/05/14",
+            "block_bbox": [
+              109,
+              1589,
+              411,
+              1611
+            ],
+            "block_id": 28,
+            "block_order": null,
+            "group_id": 28,
+            "global_block_id": 28,
+            "global_group_id": 28,
+            "block_polygon_points": [
+              [
+                109.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1611.0
+              ],
+              [
+                109.0,
+                1611.0
+              ]
+            ]
+          },
+          {
+            "block_label": "number",
+            "block_content": "Page 1 of 5",
+            "block_bbox": [
+              981,
+              1589,
+              1081,
+              1612
+            ],
+            "block_id": 29,
+            "block_order": null,
+            "group_id": 29,
+            "global_block_id": 29,
+            "global_group_id": 29,
+            "block_polygon_points": [
+              [
+                981.0,
+                1589.0
+              ],
+              [
+                1080.0,
+                1589.0
+              ],
+              [
+                1080.0,
+                1611.0
+              ],
+              [
+                981.0,
+                1611.0
+              ]
+            ]
+          }
+        ],
+        "layout_det_res": {
+          "boxes": [
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.8015985488891602,
+              "coordinate": [
+                125,
+                75,
+                474,
+                129
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  125.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  129.0
+                ],
+                [
+                  125.0,
+                  129.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.9183030128479004,
+              "coordinate": [
+                593,
+                58,
+                746,
+                148
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  593.0,
+                  58.0
+                ],
+                [
+                  746.0,
+                  58.0
+                ],
+                [
+                  746.0,
+                  148.0
+                ],
+                [
+                  593.0,
+                  148.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.8853470087051392,
+              "coordinate": [
+                969,
+                66,
+                1108,
+                139
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  969.0,
+                  66.0
+                ],
+                [
+                  1108.0,
+                  66.0
+                ],
+                [
+                  1108.0,
+                  139.0
+                ],
+                [
+                  969.0,
+                  139.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 12,
+              "label": "header",
+              "score": 0.7453635931015015,
+              "coordinate": [
+                145,
+                172,
+                1060,
+                253
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  145.0,
+                  172.0
+                ],
+                [
+                  1060.0,
+                  172.0
+                ],
+                [
+                  1060.0,
+                  253.0
+                ],
+                [
+                  145.0,
+                  253.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 17,
+              "label": "paragraph_title",
+              "score": 0.8176494836807251,
+              "coordinate": [
+                432,
+                294,
+                788,
+                322
+              ],
+              "order": 1,
+              "polygon_points": [
+                [
+                  432.0,
+                  294.0
+                ],
+                [
+                  788.0,
+                  294.0
+                ],
+                [
+                  788.0,
+                  322.0
+                ],
+                [
+                  432.0,
+                  322.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 17,
+              "label": "paragraph_title",
+              "score": 0.7156231999397278,
+              "coordinate": [
+                120,
+                349,
+                241,
+                374
+              ],
+              "order": 2,
+              "polygon_points": [
+                [
+                  120.0,
+                  349.0
+                ],
+                [
+                  241.0,
+                  349.0
+                ],
+                [
+                  241.0,
+                  374.0
+                ],
+                [
+                  120.0,
+                  374.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8082371950149536,
+              "coordinate": [
+                817,
+                348,
+                1100,
+                374
+              ],
+              "order": 3,
+              "polygon_points": [
+                [
+                  817.0,
+                  348.0
+                ],
+                [
+                  1100.0,
+                  348.0
+                ],
+                [
+                  1100.0,
+                  374.0
+                ],
+                [
+                  817.0,
+                  374.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.9532472491264343,
+              "coordinate": [
+                112,
+                413,
+                1107,
+                546
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  112.0,
+                  413.0
+                ],
+                [
+                  1107.0,
+                  413.0
+                ],
+                [
+                  1107.0,
+                  546.0
+                ],
+                [
+                  112.0,
+                  546.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 15,
+              "label": "inline_formula",
+              "score": 0.4813632667064667,
+              "coordinate": [
+                610,
+                419,
+                649,
+                444
+              ],
+              "order": 4,
+              "polygon_points": [
+                [
+                  610.0,
+                  419.0
+                ],
+                [
+                  610.0,
+                  443.0
+                ],
+                [
+                  648.0,
+                  443.0
+                ],
+                [
+                  648.0,
+                  419.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.9666785001754761,
+              "coordinate": [
+                113,
+                582,
+                1106,
+                755
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  113.0,
+                  582.0
+                ],
+                [
+                  1106.0,
+                  582.0
+                ],
+                [
+                  1106.0,
+                  755.0
+                ],
+                [
+                  113.0,
+                  755.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 17,
+              "label": "paragraph_title",
+              "score": 0.8729093074798584,
+              "coordinate": [
+                108,
+                781,
+                409,
+                810
+              ],
+              "order": 5,
+              "polygon_points": [
+                [
+                  108.0,
+                  781.0
+                ],
+                [
+                  409.0,
+                  781.0
+                ],
+                [
+                  409.0,
+                  810.0
+                ],
+                [
+                  108.0,
+                  810.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8205080032348633,
+              "coordinate": [
+                154,
+                832,
+                404,
+                859
+              ],
+              "order": 6,
+              "polygon_points": [
+                [
+                  154.0,
+                  832.0
+                ],
+                [
+                  404.0,
+                  832.0
+                ],
+                [
+                  404.0,
+                  859.0
+                ],
+                [
+                  154.0,
+                  859.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.804429292678833,
+              "coordinate": [
+                154,
+                860,
+                608,
+                886
+              ],
+              "order": 7,
+              "polygon_points": [
+                [
+                  154.0,
+                  860.0
+                ],
+                [
+                  608.0,
+                  860.0
+                ],
+                [
+                  608.0,
+                  886.0
+                ],
+                [
+                  154.0,
+                  886.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8061494827270508,
+              "coordinate": [
+                154,
+                888,
+                382,
+                912
+              ],
+              "order": 8,
+              "polygon_points": [
+                [
+                  154.0,
+                  888.0
+                ],
+                [
+                  382.0,
+                  888.0
+                ],
+                [
+                  382.0,
+                  912.0
+                ],
+                [
+                  154.0,
+                  912.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.7848374843597412,
+              "coordinate": [
+                202,
+                913,
+                546,
+                939
+              ],
+              "order": 9,
+              "polygon_points": [
+                [
+                  202.0,
+                  920.0
+                ],
+                [
+                  202.0,
+                  938.0
+                ],
+                [
+                  231.0,
+                  938.0
+                ],
+                [
+                  232.0,
+                  932.0
+                ],
+                [
+                  545.0,
+                  932.0
+                ],
+                [
+                  545.0,
+                  913.0
+                ],
+                [
+                  499.0,
+                  913.0
+                ],
+                [
+                  474.0,
+                  913.0
+                ],
+                [
+                  392.0,
+                  913.0
+                ],
+                [
+                  379.0,
+                  913.0
+                ],
+                [
+                  369.0,
+                  913.0
+                ],
+                [
+                  326.0,
+                  913.0
+                ],
+                [
+                  262.0,
+                  913.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8030223250389099,
+              "coordinate": [
+                200,
+                939,
+                616,
+                963
+              ],
+              "order": 10,
+              "polygon_points": [
+                [
+                  200.0,
+                  939.0
+                ],
+                [
+                  616.0,
+                  939.0
+                ],
+                [
+                  616.0,
+                  963.0
+                ],
+                [
+                  200.0,
+                  963.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8001022338867188,
+              "coordinate": [
+                201,
+                963,
+                370,
+                988
+              ],
+              "order": 11,
+              "polygon_points": [
+                [
+                  201.0,
+                  963.0
+                ],
+                [
+                  370.0,
+                  963.0
+                ],
+                [
+                  370.0,
+                  988.0
+                ],
+                [
+                  201.0,
+                  988.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.6323977112770081,
+              "coordinate": [
+                202,
+                989,
+                577,
+                1017
+              ],
+              "order": 12,
+              "polygon_points": [
+                [
+                  202.0,
+                  989.0
+                ],
+                [
+                  577.0,
+                  989.0
+                ],
+                [
+                  577.0,
+                  1017.0
+                ],
+                [
+                  202.0,
+                  1017.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.6922172904014587,
+              "coordinate": [
+                155,
+                1014,
+                245,
+                1037
+              ],
+              "order": 13,
+              "polygon_points": [
+                [
+                  155.0,
+                  1014.0
+                ],
+                [
+                  155.0,
+                  1036.0
+                ],
+                [
+                  244.0,
+                  1036.0
+                ],
+                [
+                  244.0,
+                  1022.0
+                ],
+                [
+                  184.0,
+                  1014.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.7979094386100769,
+              "coordinate": [
+                203,
+                1039,
+                372,
+                1063
+              ],
+              "order": 14,
+              "polygon_points": [
+                [
+                  203.0,
+                  1039.0
+                ],
+                [
+                  372.0,
+                  1039.0
+                ],
+                [
+                  372.0,
+                  1063.0
+                ],
+                [
+                  203.0,
+                  1063.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8017609715461731,
+              "coordinate": [
+                201,
+                1065,
+                386,
+                1090
+              ],
+              "order": 15,
+              "polygon_points": [
+                [
+                  201.0,
+                  1065.0
+                ],
+                [
+                  386.0,
+                  1065.0
+                ],
+                [
+                  386.0,
+                  1090.0
+                ],
+                [
+                  201.0,
+                  1090.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8223370909690857,
+              "coordinate": [
+                201,
+                1091,
+                418,
+                1114
+              ],
+              "order": 16,
+              "polygon_points": [
+                [
+                  201.0,
+                  1091.0
+                ],
+                [
+                  418.0,
+                  1091.0
+                ],
+                [
+                  418.0,
+                  1114.0
+                ],
+                [
+                  201.0,
+                  1114.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8091771006584167,
+              "coordinate": [
+                199,
+                1114,
+                547,
+                1140
+              ],
+              "order": 17,
+              "polygon_points": [
+                [
+                  199.0,
+                  1114.0
+                ],
+                [
+                  547.0,
+                  1114.0
+                ],
+                [
+                  547.0,
+                  1140.0
+                ],
+                [
+                  199.0,
+                  1140.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.826941728591919,
+              "coordinate": [
+                200,
+                1141,
+                630,
+                1167
+              ],
+              "order": 18,
+              "polygon_points": [
+                [
+                  200.0,
+                  1141.0
+                ],
+                [
+                  630.0,
+                  1141.0
+                ],
+                [
+                  630.0,
+                  1167.0
+                ],
+                [
+                  200.0,
+                  1167.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8366571068763733,
+              "coordinate": [
+                200,
+                1167,
+                635,
+                1192
+              ],
+              "order": 19,
+              "polygon_points": [
+                [
+                  200.0,
+                  1167.0
+                ],
+                [
+                  629.0,
+                  1167.0
+                ],
+                [
+                  629.0,
+                  1191.0
+                ],
+                [
+                  200.0,
+                  1191.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8030070066452026,
+              "coordinate": [
+                201,
+                1193,
+                457,
+                1216
+              ],
+              "order": 20,
+              "polygon_points": [
+                [
+                  201.0,
+                  1193.0
+                ],
+                [
+                  457.0,
+                  1193.0
+                ],
+                [
+                  457.0,
+                  1216.0
+                ],
+                [
+                  201.0,
+                  1216.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.8011314868927002,
+              "coordinate": [
+                154,
+                1216,
+                421,
+                1244
+              ],
+              "order": 21,
+              "polygon_points": [
+                [
+                  154.0,
+                  1216.0
+                ],
+                [
+                  421.0,
+                  1216.0
+                ],
+                [
+                  421.0,
+                  1244.0
+                ],
+                [
+                  154.0,
+                  1244.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 17,
+              "label": "paragraph_title",
+              "score": 0.8560495972633362,
+              "coordinate": [
+                108,
+                1290,
+                391,
+                1318
+              ],
+              "order": 22,
+              "polygon_points": [
+                [
+                  108.0,
+                  1290.0
+                ],
+                [
+                  391.0,
+                  1290.0
+                ],
+                [
+                  391.0,
+                  1318.0
+                ],
+                [
+                  108.0,
+                  1318.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.9145082831382751,
+              "coordinate": [
+                163,
+                1327,
+                1081,
+                1380
+              ],
+              "order": 23,
+              "polygon_points": [
+                [
+                  163.0,
+                  1327.0
+                ],
+                [
+                  1081.0,
+                  1327.0
+                ],
+                [
+                  1081.0,
+                  1380.0
+                ],
+                [
+                  163.0,
+                  1380.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 8,
+              "label": "footer",
+              "score": 0.8583629727363586,
+              "coordinate": [
+                109,
+                1589,
+                411,
+                1611
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  109.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1611.0
+                ],
+                [
+                  109.0,
+                  1611.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 16,
+              "label": "number",
+              "score": 0.839634120464325,
+              "coordinate": [
+                981,
+                1589,
+                1081,
+                1612
+              ],
+              "order": 24,
+              "polygon_points": [
+                [
+                  981.0,
+                  1589.0
+                ],
+                [
+                  1080.0,
+                  1589.0
+                ],
+                [
+                  1080.0,
+                  1611.0
+                ],
+                [
+                  981.0,
+                  1611.0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "markdown": {
+        "text": "#### Minutes of Weekly Meeting No.15\n\n## Reference:\n\nMoM- Weekly 15-2026/5/14\n\n\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Date/Start Time:</td><td style='text-align: center; word-wrap: break-word;'>Thursday, 14 $ ^{th} $ May 2026 / 14:35hrs</td></tr><tr><td rowspan=\"2\">Venue:</td><td style='text-align: center; word-wrap: break-word;'>Contractor&#x27;s Conference Room at Site Camp Offices</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Dar es Salaam</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Attendees:</td><td style='text-align: center; word-wrap: break-word;'>See list annexed</td></tr></table>\n\n\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Distribution List</td><td style='text-align: center; word-wrap: break-word;'>Name</td><td style='text-align: center; word-wrap: break-word;'>E-mail</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Director General – TPA</td><td style='text-align: center; word-wrap: break-word;'>Plasduce Mbossa</td><td style='text-align: center; word-wrap: break-word;'>dg@ports.go.tz</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Project Engineer (PE) – TPA</td><td style='text-align: center; word-wrap: break-word;'>Twaha Msita</td><td style='text-align: center; word-wrap: break-word;'>twaha.msita@ports.go.tz</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Engineer (En) – INROS LACKNER</td><td style='text-align: center; word-wrap: break-word;'>Klaus Richter</td><td style='text-align: center; word-wrap: break-word;'>daressalaam.port@inros-lackner.de</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Contractor’s Representative – CHEC</td><td style='text-align: center; word-wrap: break-word;'>Bian Liang</td><td style='text-align: center; word-wrap: break-word;'>tzdmgp@chec.bj.cn</td></tr></table>\n\n## 0. Agenda of the Meeting\n\n1. Opening the Meeting\n\n2. Readiness of the Contractor to Start Work\n\n3. Contractual Matter\n\n1. Method Statement for the work\n\n2. Labourers, Materials and Equipment's\n\n3. PM Facilities\n\n4. Daily, Weekly and Monthly Report\n\n4. АОВ\n\n1. New Defects\n\n2. Dumping Area\n\n3. First Aid Facilities\n\n4. Maintenance and Office Space\n\n5. Area for Precast Elements and Storage\n\n6. Illuminating Light in Container Yard Port\n\n7. Contractor's Invoicing\n\n5. Closure of the Meeting\n\n## 1. Opening the Meeting\n\nThe Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+        "images": {
+          "imgs/img_in_header_image_box_125_75_474_129.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_0/imgs/img_in_header_image_box_125_75_474_129.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2F96e3db84100e474110b2d4a1d1760bf6217431e64765a7fac18bb4fdd4659769",
+          "imgs/img_in_header_image_box_593_58_746_148.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_0/imgs/img_in_header_image_box_593_58_746_148.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2Fc060aff7ef7cf84516e099de19c7a9348ad231a6a6fa6c48a1023dfcf093e7e6",
+          "imgs/img_in_header_image_box_969_66_1108_139.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_0/imgs/img_in_header_image_box_969_66_1108_139.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2F74363c17ebd53bf92ae21577b6fb0cae6381c8a6a1563bd314e85f1e1c792410"
+        }
+      }
+    },
+    {
+      "prunedResult": {
+        "page_count": 5,
+        "width": 1191,
+        "height": 1684,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "parsing_res_list": [
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              125,
+              75,
+              474,
+              129
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 30,
+            "global_group_id": 30,
+            "block_polygon_points": [
+              [
+                125.0,
+                75.0
+              ],
+              [
+                474.0,
+                75.0
+              ],
+              [
+                474.0,
+                129.0
+              ],
+              [
+                125.0,
+                129.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              593,
+              57,
+              746,
+              148
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 31,
+            "global_group_id": 31,
+            "block_polygon_points": [
+              [
+                593.0,
+                57.0
+              ],
+              [
+                746.0,
+                57.0
+              ],
+              [
+                746.0,
+                148.0
+              ],
+              [
+                593.0,
+                148.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              969,
+              65,
+              1108,
+              139
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "global_block_id": 32,
+            "global_group_id": 32,
+            "block_polygon_points": [
+              [
+                969.0,
+                65.0
+              ],
+              [
+                1108.0,
+                65.0
+              ],
+              [
+                1108.0,
+                139.0
+              ],
+              [
+                969.0,
+                139.0
+              ]
+            ]
+          },
+          {
+            "block_label": "doc_title",
+            "block_content": "Dar es Salaam Maritime Gateway Project (DMGP)\nContract No: TZ-TPA-/424013-CW-DIR\nREPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "block_bbox": [
+              144,
+              172,
+              1060,
+              253
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3,
+            "global_block_id": 33,
+            "global_group_id": 33,
+            "block_polygon_points": [
+              [
+                144.0,
+                172.0
+              ],
+              [
+                1060.0,
+                172.0
+              ],
+              [
+                1060.0,
+                253.0
+              ],
+              [
+                144.0,
+                253.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Item</td><td>Description</td><td>Action</td></tr><tr><td>2.0</td><td>Readiness of the Contractor to Start Work</td><td></td></tr><tr><td></td><td>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on  $ 12^{th} $ May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works. Regarding the paving blocks the Contractor was instructed to provide representatives samples and verified test results derived from actual production intended for site works. The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test. The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td>INFO</td></tr><tr><td>3.0</td><td>Contractual Matter</td><td></td></tr><tr><td>3.1</td><td>Labourers, Materials and Equipment&#x27;s</td><td></td></tr><tr><td></td><td>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff). Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on  $ 21^{st} $ May, 2026. Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026. Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td>CHEC</td></tr><tr><td>3.3</td><td>PM Facilities</td><td></td></tr><tr><td></td><td>The RE informed the meeting that, there was no update from TPA.</td><td>TPA</td></tr><tr><td>3.4</td><td>Daily, Weekly and Monthly Reports</td><td></td></tr><tr><td></td><td>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td>CHEC</td></tr></table>",
+            "block_bbox": [
+              109,
+              291,
+              1107,
+              1548
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "global_block_id": 34,
+            "global_group_id": 34,
+            "block_polygon_points": [
+              [
+                109.0,
+                291.0
+              ],
+              [
+                1107.0,
+                291.0
+              ],
+              [
+                1107.0,
+                1548.0
+              ],
+              [
+                109.0,
+                1548.0
+              ]
+            ]
+          },
+          {
+            "block_label": "footer",
+            "block_content": "MoM-Weekly Meeting 15-2026/05/14",
+            "block_bbox": [
+              108,
+              1589,
+              411,
+              1612
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "global_block_id": 35,
+            "global_group_id": 35,
+            "block_polygon_points": [
+              [
+                108.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1612.0
+              ],
+              [
+                108.0,
+                1612.0
+              ]
+            ]
+          },
+          {
+            "block_label": "number",
+            "block_content": "Page 2 of 5",
+            "block_bbox": [
+              981,
+              1588,
+              1081,
+              1612
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "global_block_id": 36,
+            "global_group_id": 36,
+            "block_polygon_points": [
+              [
+                981.0,
+                1588.0
+              ],
+              [
+                1080.0,
+                1588.0
+              ],
+              [
+                1080.0,
+                1611.0
+              ],
+              [
+                981.0,
+                1611.0
+              ]
+            ]
+          }
+        ],
+        "layout_det_res": {
+          "boxes": [
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.4928171932697296,
+              "coordinate": [
+                125,
+                75,
+                474,
+                129
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  125.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  129.0
+                ],
+                [
+                  125.0,
+                  129.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.8883905410766602,
+              "coordinate": [
+                593,
+                57,
+                746,
+                148
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  593.0,
+                  57.0
+                ],
+                [
+                  746.0,
+                  57.0
+                ],
+                [
+                  746.0,
+                  148.0
+                ],
+                [
+                  593.0,
+                  148.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.8630883693695068,
+              "coordinate": [
+                969,
+                65,
+                1108,
+                139
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  969.0,
+                  65.0
+                ],
+                [
+                  1108.0,
+                  65.0
+                ],
+                [
+                  1108.0,
+                  139.0
+                ],
+                [
+                  969.0,
+                  139.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 6,
+              "label": "doc_title",
+              "score": 0.33516958355903625,
+              "coordinate": [
+                144,
+                172,
+                1060,
+                253
+              ],
+              "order": 1,
+              "polygon_points": [
+                [
+                  144.0,
+                  172.0
+                ],
+                [
+                  1060.0,
+                  172.0
+                ],
+                [
+                  1060.0,
+                  253.0
+                ],
+                [
+                  144.0,
+                  253.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.9847958087921143,
+              "coordinate": [
+                109,
+                291,
+                1107,
+                1548
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  109.0,
+                  291.0
+                ],
+                [
+                  1107.0,
+                  291.0
+                ],
+                [
+                  1107.0,
+                  1548.0
+                ],
+                [
+                  109.0,
+                  1548.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 15,
+              "label": "inline_formula",
+              "score": 0.3395378291606903,
+              "coordinate": [
+                623,
+                403,
+                661,
+                428
+              ],
+              "order": 2,
+              "polygon_points": [
+                [
+                  623.0,
+                  403.0
+                ],
+                [
+                  623.0,
+                  427.0
+                ],
+                [
+                  660.0,
+                  427.0
+                ],
+                [
+                  660.0,
+                  403.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 8,
+              "label": "footer",
+              "score": 0.8626424670219421,
+              "coordinate": [
+                108,
+                1589,
+                411,
+                1612
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  108.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1612.0
+                ],
+                [
+                  108.0,
+                  1612.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 16,
+              "label": "number",
+              "score": 0.8175726532936096,
+              "coordinate": [
+                981,
+                1588,
+                1081,
+                1612
+              ],
+              "order": 3,
+              "polygon_points": [
+                [
+                  981.0,
+                  1588.0
+                ],
+                [
+                  1080.0,
+                  1588.0
+                ],
+                [
+                  1080.0,
+                  1611.0
+                ],
+                [
+                  981.0,
+                  1611.0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "markdown": {
+        "text": "# Dar es Salaam Maritime Gateway Project (DMGP) Contract No: TZ-TPA-/424013-CW-DIR REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT\n\n\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Item</td><td style='text-align: center; word-wrap: break-word;'>Description</td><td style='text-align: center; word-wrap: break-word;'>Action</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2.0</td><td style='text-align: center; word-wrap: break-word;'>Readiness of the Contractor to Start Work</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on  $ 12^{th} $ May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works. Regarding the paving blocks the Contractor was instructed to provide representatives samples and verified test results derived from actual production intended for site works. The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test. The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td style='text-align: center; word-wrap: break-word;'>INFO</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3.0</td><td style='text-align: center; word-wrap: break-word;'>Contractual Matter</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3.1</td><td style='text-align: center; word-wrap: break-word;'>Labourers, Materials and Equipment&#x27;s</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff). Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on  $ 21^{st} $ May, 2026. Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026. Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3.3</td><td style='text-align: center; word-wrap: break-word;'>PM Facilities</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>The RE informed the meeting that, there was no update from TPA.</td><td style='text-align: center; word-wrap: break-word;'>TPA</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3.4</td><td style='text-align: center; word-wrap: break-word;'>Daily, Weekly and Monthly Reports</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td></tr></table>",
+        "images": {
+          "imgs/img_in_header_image_box_125_75_474_129.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_1/imgs/img_in_header_image_box_125_75_474_129.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2F4da9968a9984cae71edbdd22b8585667855979d7b4cec8e2118c9487fe4d5b3a",
+          "imgs/img_in_header_image_box_593_57_746_148.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_1/imgs/img_in_header_image_box_593_57_746_148.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2Ff2cd67c9fb5b9cf0373150b2f0e8d5c029b94ad54b8a3592d2c72bb1df059330",
+          "imgs/img_in_header_image_box_969_65_1108_139.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_1/imgs/img_in_header_image_box_969_65_1108_139.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2Fac403f14e2e58ad829f0fc6b4305df680ee3e3041412e98ff13ab2ac684b665c"
+        }
+      }
+    },
+    {
+      "prunedResult": {
+        "page_count": 5,
+        "width": 1191,
+        "height": 1684,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "parsing_res_list": [
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              125,
+              75,
+              474,
+              128
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 37,
+            "global_group_id": 37,
+            "block_polygon_points": [
+              [
+                125.0,
+                75.0
+              ],
+              [
+                474.0,
+                75.0
+              ],
+              [
+                474.0,
+                128.0
+              ],
+              [
+                125.0,
+                128.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              593,
+              57,
+              746,
+              148
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 38,
+            "global_group_id": 38,
+            "block_polygon_points": [
+              [
+                593.0,
+                57.0
+              ],
+              [
+                746.0,
+                57.0
+              ],
+              [
+                746.0,
+                148.0
+              ],
+              [
+                593.0,
+                148.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              969,
+              66,
+              1108,
+              139
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "global_block_id": 39,
+            "global_group_id": 39,
+            "block_polygon_points": [
+              [
+                969.0,
+                66.0
+              ],
+              [
+                1108.0,
+                66.0
+              ],
+              [
+                1108.0,
+                139.0
+              ],
+              [
+                969.0,
+                139.0
+              ]
+            ]
+          },
+          {
+            "block_label": "doc_title",
+            "block_content": "Dar es Salaam Maritime Gateway Project (DMGP)\nContract No: TZ-TPA-/424013-CW-DIR\nREPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "block_bbox": [
+              149,
+              173,
+              1060,
+              253
+            ],
+            "block_id": 3,
+            "block_order": 1,
+            "group_id": 3,
+            "global_block_id": 40,
+            "global_group_id": 40,
+            "block_polygon_points": [
+              [
+                149.0,
+                173.0
+              ],
+              [
+                1060.0,
+                173.0
+              ],
+              [
+                1060.0,
+                253.0
+              ],
+              [
+                149.0,
+                253.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td colspan=\"2\">4.0 AOB</td></tr><tr><td colspan=\"2\">4.1 New defects</td></tr><tr><td colspan=\"2\">Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td></tr><tr><td colspan=\"2\">4.2 Dumping Area</td></tr><tr><td>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td>TPA</td></tr><tr><td colspan=\"2\">4.3 First Aid Facilities</td></tr><tr><td>The third first aid room container already inspected jointly by the Contractor and Engineer on 10 $ ^{th} $ April at Supplier&#x27;s place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receives funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.4 Maintenance and Office Space</td></tr><tr><td>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.5 Area for Precast Elements and Storage</td></tr><tr><td>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided to source precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 $ ^{st} $ May 2026.</td><td>INFO</td></tr><tr><td colspan=\"2\">4.6 Illuminating Light in Container Yard Port</td></tr><tr><td>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td>CHEC</td></tr><tr><td colspan=\"2\">4.7 Contractor&#x27;s Invoicing</td></tr><tr><td>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td>CHEC</td></tr></table>",
+            "block_bbox": [
+              109,
+              296,
+              1107,
+              1530
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "global_block_id": 41,
+            "global_group_id": 41,
+            "block_polygon_points": [
+              [
+                109.0,
+                296.0
+              ],
+              [
+                1107.0,
+                296.0
+              ],
+              [
+                1107.0,
+                1530.0
+              ],
+              [
+                109.0,
+                1530.0
+              ]
+            ]
+          },
+          {
+            "block_label": "footer",
+            "block_content": "MoM-Weekly Meeting 15-2026/05/14",
+            "block_bbox": [
+              108,
+              1589,
+              411,
+              1612
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "global_block_id": 42,
+            "global_group_id": 42,
+            "block_polygon_points": [
+              [
+                108.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1612.0
+              ],
+              [
+                108.0,
+                1612.0
+              ]
+            ]
+          },
+          {
+            "block_label": "number",
+            "block_content": "Page 3 of 5",
+            "block_bbox": [
+              981,
+              1588,
+              1081,
+              1612
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "global_block_id": 43,
+            "global_group_id": 43,
+            "block_polygon_points": [
+              [
+                981.0,
+                1588.0
+              ],
+              [
+                1080.0,
+                1588.0
+              ],
+              [
+                1080.0,
+                1611.0
+              ],
+              [
+                981.0,
+                1611.0
+              ]
+            ]
+          }
+        ],
+        "layout_det_res": {
+          "boxes": [
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.6744738817214966,
+              "coordinate": [
+                125,
+                75,
+                474,
+                128
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  125.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  128.0
+                ],
+                [
+                  125.0,
+                  128.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.9059802293777466,
+              "coordinate": [
+                593,
+                57,
+                746,
+                148
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  593.0,
+                  57.0
+                ],
+                [
+                  746.0,
+                  57.0
+                ],
+                [
+                  746.0,
+                  148.0
+                ],
+                [
+                  593.0,
+                  148.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.8806828260421753,
+              "coordinate": [
+                969,
+                66,
+                1108,
+                139
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  969.0,
+                  66.0
+                ],
+                [
+                  1108.0,
+                  66.0
+                ],
+                [
+                  1108.0,
+                  139.0
+                ],
+                [
+                  969.0,
+                  139.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 6,
+              "label": "doc_title",
+              "score": 0.3874116837978363,
+              "coordinate": [
+                149,
+                173,
+                1060,
+                253
+              ],
+              "order": 1,
+              "polygon_points": [
+                [
+                  149.0,
+                  173.0
+                ],
+                [
+                  1060.0,
+                  173.0
+                ],
+                [
+                  1060.0,
+                  253.0
+                ],
+                [
+                  149.0,
+                  253.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.9875583648681641,
+              "coordinate": [
+                109,
+                296,
+                1107,
+                1530
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  109.0,
+                  296.0
+                ],
+                [
+                  1107.0,
+                  296.0
+                ],
+                [
+                  1107.0,
+                  1530.0
+                ],
+                [
+                  109.0,
+                  1530.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 8,
+              "label": "footer",
+              "score": 0.8719286322593689,
+              "coordinate": [
+                108,
+                1589,
+                411,
+                1612
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  108.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1612.0
+                ],
+                [
+                  108.0,
+                  1612.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 16,
+              "label": "number",
+              "score": 0.8289597034454346,
+              "coordinate": [
+                981,
+                1588,
+                1081,
+                1612
+              ],
+              "order": 2,
+              "polygon_points": [
+                [
+                  981.0,
+                  1588.0
+                ],
+                [
+                  1080.0,
+                  1588.0
+                ],
+                [
+                  1080.0,
+                  1611.0
+                ],
+                [
+                  981.0,
+                  1611.0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "markdown": {
+        "text": "# Dar es Salaam Maritime Gateway Project (DMGP) Contract No: TZ-TPA-/424013-CW-DIR REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT\n\n\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td colspan=\"2\">4.0 AOB</td></tr><tr><td colspan=\"2\">4.1 New defects</td></tr><tr><td colspan=\"2\">Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td></tr><tr><td colspan=\"2\">4.2 Dumping Area</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td style='text-align: center; word-wrap: break-word;'>TPA</td></tr><tr><td colspan=\"2\">4.3 First Aid Facilities</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>The third first aid room container already inspected jointly by the Contractor and Engineer on 10 $ ^{th} $ April at Supplier&#x27;s place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receives funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td></tr><tr><td colspan=\"2\">4.4 Maintenance and Office Space</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td></tr><tr><td colspan=\"2\">4.5 Area for Precast Elements and Storage</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided to source precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 $ ^{st} $ May 2026.</td><td style='text-align: center; word-wrap: break-word;'>INFO</td></tr><tr><td colspan=\"2\">4.6 Illuminating Light in Container Yard Port</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td></tr><tr><td colspan=\"2\">4.7 Contractor&#x27;s Invoicing</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td></tr></table>",
+        "images": {
+          "imgs/img_in_header_image_box_125_75_474_128.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_2/imgs/img_in_header_image_box_125_75_474_128.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2F0e0b735e19030852f3b0256b2249f93775461cafb62535414f4a7384a2c53ae3",
+          "imgs/img_in_header_image_box_593_57_746_148.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_2/imgs/img_in_header_image_box_593_57_746_148.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2F3a7da872fa72d6ba70a3f28504525db33a137c8bb75966c566ebf3d37cae55d3",
+          "imgs/img_in_header_image_box_969_66_1108_139.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_2/imgs/img_in_header_image_box_969_66_1108_139.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2Fd9219ecb0e8ff176986eb6e07514f7ba1b81d6968d9ae50c83935dc1aa4c72e9"
+        }
+      }
+    },
+    {
+      "prunedResult": {
+        "page_count": 5,
+        "width": 1191,
+        "height": 1684,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "parsing_res_list": [
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              125,
+              75,
+              474,
+              128
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 44,
+            "global_group_id": 44,
+            "block_polygon_points": [
+              [
+                125.0,
+                75.0
+              ],
+              [
+                474.0,
+                75.0
+              ],
+              [
+                474.0,
+                128.0
+              ],
+              [
+                125.0,
+                128.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              593,
+              58,
+              745,
+              147
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 45,
+            "global_group_id": 45,
+            "block_polygon_points": [
+              [
+                593.0,
+                58.0
+              ],
+              [
+                745.0,
+                58.0
+              ],
+              [
+                745.0,
+                147.0
+              ],
+              [
+                593.0,
+                147.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              969,
+              66,
+              1108,
+              138
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "global_block_id": 46,
+            "global_group_id": 46,
+            "block_polygon_points": [
+              [
+                969.0,
+                66.0
+              ],
+              [
+                1108.0,
+                66.0
+              ],
+              [
+                1108.0,
+                138.0
+              ],
+              [
+                969.0,
+                138.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header",
+            "block_content": "Dar es Salaam Maritime Gateway Project (DMGP)\nContract No: TZ-TPA-/424013-CW-DIR\nREPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "block_bbox": [
+              150,
+              173,
+              1061,
+              253
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "global_block_id": 47,
+            "global_group_id": 47,
+            "block_polygon_points": [
+              [
+                150.0,
+                173.0
+              ],
+              [
+                1061.0,
+                173.0
+              ],
+              [
+                1061.0,
+                253.0
+              ],
+              [
+                150.0,
+                253.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td>5.0</td><td>Closure of the Meeting</td><td></td></tr><tr><td></td><td>There being no other business the meeting was declared closed at 14:56hrs</td><td>ALL</td></tr></table>",
+            "block_bbox": [
+              113,
+              294,
+              1107,
+              398
+            ],
+            "block_id": 4,
+            "block_order": null,
+            "group_id": 4,
+            "global_block_id": 48,
+            "global_group_id": 48,
+            "block_polygon_points": [
+              [
+                113.0,
+                294.0
+              ],
+              [
+                1107.0,
+                294.0
+              ],
+              [
+                1107.0,
+                398.0
+              ],
+              [
+                113.0,
+                398.0
+              ]
+            ]
+          },
+          {
+            "block_label": "vision_footnote",
+            "block_content": "Next Meeting: Thursday, 21 $ ^{th} $ May 2026 at 14:30hrs",
+            "block_bbox": [
+              110,
+              400,
+              617,
+              426
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "global_block_id": 49,
+            "global_group_id": 49,
+            "block_polygon_points": [
+              [
+                110.0,
+                400.0
+              ],
+              [
+                617.0,
+                400.0
+              ],
+              [
+                617.0,
+                426.0
+              ],
+              [
+                110.0,
+                426.0
+              ]
+            ]
+          },
+          {
+            "block_label": "text",
+            "block_content": "Signed By:",
+            "block_bbox": [
+              109,
+              473,
+              223,
+              503
+            ],
+            "block_id": 6,
+            "block_order": 1,
+            "group_id": 6,
+            "global_block_id": 50,
+            "global_group_id": 50,
+            "block_polygon_points": [
+              [
+                109.0,
+                473.0
+              ],
+              [
+                223.0,
+                473.0
+              ],
+              [
+                223.0,
+                503.0
+              ],
+              [
+                109.0,
+                503.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Eng. Cheng YongjianDeputy Contractor&#x27;s RepresentativeFor the CONTRACTOR - CHEC</td><td>☑</td></tr></table>",
+            "block_bbox": [
+              113,
+              524,
+              1105,
+              628
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "global_block_id": 51,
+            "global_group_id": 51,
+            "block_polygon_points": [
+              [
+                113.0,
+                524.0
+              ],
+              [
+                1105.0,
+                524.0
+              ],
+              [
+                1105.0,
+                628.0
+              ],
+              [
+                113.0,
+                628.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td>Eng. José Rodrigues</td><td></td></tr><tr><td>Resident Engineer</td><td></td></tr><tr><td>For the ENGINEER - IL</td><td></td></tr></table>",
+            "block_bbox": [
+              114,
+              670,
+              1106,
+              777
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8,
+            "global_block_id": 52,
+            "global_group_id": 52,
+            "block_polygon_points": [
+              [
+                114.0,
+                670.0
+              ],
+              [
+                1106.0,
+                670.0
+              ],
+              [
+                1106.0,
+                777.0
+              ],
+              [
+                114.0,
+                777.0
+              ]
+            ]
+          },
+          {
+            "block_label": "footer",
+            "block_content": "MoM-Weekly Meeting 15-2026/05/14",
+            "block_bbox": [
+              108,
+              1589,
+              411,
+              1611
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9,
+            "global_block_id": 53,
+            "global_group_id": 53,
+            "block_polygon_points": [
+              [
+                108.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1611.0
+              ],
+              [
+                108.0,
+                1611.0
+              ]
+            ]
+          },
+          {
+            "block_label": "number",
+            "block_content": "Page 4 of 5",
+            "block_bbox": [
+              981,
+              1589,
+              1081,
+              1612
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10,
+            "global_block_id": 54,
+            "global_group_id": 54,
+            "block_polygon_points": [
+              [
+                981.0,
+                1589.0
+              ],
+              [
+                1080.0,
+                1589.0
+              ],
+              [
+                1080.0,
+                1611.0
+              ],
+              [
+                981.0,
+                1611.0
+              ]
+            ]
+          }
+        ],
+        "layout_det_res": {
+          "boxes": [
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.7976261377334595,
+              "coordinate": [
+                125,
+                75,
+                474,
+                128
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  125.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  75.0
+                ],
+                [
+                  474.0,
+                  128.0
+                ],
+                [
+                  125.0,
+                  128.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.9127472043037415,
+              "coordinate": [
+                593,
+                58,
+                745,
+                147
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  593.0,
+                  58.0
+                ],
+                [
+                  745.0,
+                  58.0
+                ],
+                [
+                  745.0,
+                  147.0
+                ],
+                [
+                  593.0,
+                  147.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.888222336769104,
+              "coordinate": [
+                969,
+                66,
+                1108,
+                138
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  969.0,
+                  66.0
+                ],
+                [
+                  1108.0,
+                  66.0
+                ],
+                [
+                  1108.0,
+                  138.0
+                ],
+                [
+                  969.0,
+                  138.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 12,
+              "label": "header",
+              "score": 0.45820334553718567,
+              "coordinate": [
+                150,
+                173,
+                1061,
+                253
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  150.0,
+                  173.0
+                ],
+                [
+                  1061.0,
+                  173.0
+                ],
+                [
+                  1061.0,
+                  253.0
+                ],
+                [
+                  150.0,
+                  253.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.9310927987098694,
+              "coordinate": [
+                113,
+                294,
+                1107,
+                398
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  113.0,
+                  294.0
+                ],
+                [
+                  1107.0,
+                  294.0
+                ],
+                [
+                  1107.0,
+                  398.0
+                ],
+                [
+                  113.0,
+                  398.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 24,
+              "label": "vision_footnote",
+              "score": 0.8155248761177063,
+              "coordinate": [
+                110,
+                400,
+                617,
+                426
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  110.0,
+                  400.0
+                ],
+                [
+                  617.0,
+                  400.0
+                ],
+                [
+                  617.0,
+                  426.0
+                ],
+                [
+                  110.0,
+                  426.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 22,
+              "label": "text",
+              "score": 0.7921650409698486,
+              "coordinate": [
+                109,
+                473,
+                223,
+                503
+              ],
+              "order": 1,
+              "polygon_points": [
+                [
+                  109.0,
+                  473.0
+                ],
+                [
+                  223.0,
+                  473.0
+                ],
+                [
+                  223.0,
+                  503.0
+                ],
+                [
+                  109.0,
+                  503.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.4750698208808899,
+              "coordinate": [
+                113,
+                525,
+                603,
+                628
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  113.0,
+                  525.0
+                ],
+                [
+                  603.0,
+                  525.0
+                ],
+                [
+                  603.0,
+                  628.0
+                ],
+                [
+                  113.0,
+                  628.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.894684910774231,
+              "coordinate": [
+                113,
+                524,
+                1105,
+                628
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  113.0,
+                  524.0
+                ],
+                [
+                  1105.0,
+                  524.0
+                ],
+                [
+                  1105.0,
+                  628.0
+                ],
+                [
+                  113.0,
+                  628.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.3567771911621094,
+              "coordinate": [
+                114,
+                670,
+                1106,
+                777
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  114.0,
+                  670.0
+                ],
+                [
+                  1106.0,
+                  670.0
+                ],
+                [
+                  1106.0,
+                  777.0
+                ],
+                [
+                  114.0,
+                  777.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.3903503119945526,
+              "coordinate": [
+                115,
+                675,
+                366,
+                774
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  115.0,
+                  675.0
+                ],
+                [
+                  366.0,
+                  675.0
+                ],
+                [
+                  366.0,
+                  774.0
+                ],
+                [
+                  115.0,
+                  774.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 8,
+              "label": "footer",
+              "score": 0.8672093749046326,
+              "coordinate": [
+                108,
+                1589,
+                411,
+                1611
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  108.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1611.0
+                ],
+                [
+                  108.0,
+                  1611.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 16,
+              "label": "number",
+              "score": 0.8270691633224487,
+              "coordinate": [
+                981,
+                1589,
+                1081,
+                1612
+              ],
+              "order": 2,
+              "polygon_points": [
+                [
+                  981.0,
+                  1589.0
+                ],
+                [
+                  1080.0,
+                  1589.0
+                ],
+                [
+                  1080.0,
+                  1611.0
+                ],
+                [
+                  981.0,
+                  1611.0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "markdown": {
+        "text": "\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>5.0</td><td style='text-align: center; word-wrap: break-word;'>Closure of the Meeting</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>There being no other business the meeting was declared closed at 14:56hrs</td><td style='text-align: center; word-wrap: break-word;'>ALL</td></tr></table>\n\nNext Meeting: Thursday, 21 $ ^{th} $ May 2026 at 14:30hrs\n\nSigned By:\n\n\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Eng. Cheng YongjianDeputy Contractor&#x27;s RepresentativeFor the CONTRACTOR - CHEC</td><td style='text-align: center; word-wrap: break-word;'>☑</td></tr></table>\n\n\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>Eng. José Rodrigues</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>Resident Engineer</td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>For the ENGINEER - IL</td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>",
+        "images": {
+          "imgs/img_in_header_image_box_125_75_474_128.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_3/imgs/img_in_header_image_box_125_75_474_128.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2F01947bba524c013e2a66c6832090878aaa101823b8cba5165c75fae45d5a5bca",
+          "imgs/img_in_header_image_box_593_58_745_147.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_3/imgs/img_in_header_image_box_593_58_745_147.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A26Z%2F-1%2F%2F9b5de0f65156a0e7ae03c2d194876a5c6ddc669df58834914916e57454efd847",
+          "imgs/img_in_header_image_box_969_66_1108_138.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_3/imgs/img_in_header_image_box_969_66_1108_138.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A27Z%2F-1%2F%2Fa372e1c4a109a20eb7580e0b8e28613022c99d666914e11615e9ec50f39b97e7"
+        }
+      }
+    },
+    {
+      "prunedResult": {
+        "page_count": 5,
+        "width": 1191,
+        "height": 1684,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "parsing_res_list": [
+          {
+            "block_label": "header",
+            "block_content": "IL INROS LACKNER",
+            "block_bbox": [
+              126,
+              74,
+              473,
+              129
+            ],
+            "block_id": 0,
+            "block_order": null,
+            "group_id": 0,
+            "global_block_id": 55,
+            "global_group_id": 55,
+            "block_polygon_points": [
+              [
+                126.0,
+                74.0
+              ],
+              [
+                473.0,
+                74.0
+              ],
+              [
+                473.0,
+                129.0
+              ],
+              [
+                126.0,
+                129.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              593,
+              57,
+              745,
+              148
+            ],
+            "block_id": 1,
+            "block_order": null,
+            "group_id": 1,
+            "global_block_id": 56,
+            "global_group_id": 56,
+            "block_polygon_points": [
+              [
+                593.0,
+                57.0
+              ],
+              [
+                745.0,
+                57.0
+              ],
+              [
+                745.0,
+                148.0
+              ],
+              [
+                593.0,
+                148.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header_image",
+            "block_content": "",
+            "block_bbox": [
+              970,
+              65,
+              1108,
+              139
+            ],
+            "block_id": 2,
+            "block_order": null,
+            "group_id": 2,
+            "global_block_id": 57,
+            "global_group_id": 57,
+            "block_polygon_points": [
+              [
+                970.0,
+                65.0
+              ],
+              [
+                1108.0,
+                65.0
+              ],
+              [
+                1108.0,
+                139.0
+              ],
+              [
+                970.0,
+                139.0
+              ]
+            ]
+          },
+          {
+            "block_label": "header",
+            "block_content": "Dar es Salaam Maritime Gateway Project (DMGP)\nContract No: TZ-TPA-/424013-CW-DIR\nREPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "block_bbox": [
+              145,
+              172,
+              1059,
+              253
+            ],
+            "block_id": 3,
+            "block_order": null,
+            "group_id": 3,
+            "global_block_id": 58,
+            "global_group_id": 58,
+            "block_polygon_points": [
+              [
+                145.0,
+                172.0
+              ],
+              [
+                1059.0,
+                172.0
+              ],
+              [
+                1059.0,
+                253.0
+              ],
+              [
+                145.0,
+                253.0
+              ]
+            ]
+          },
+          {
+            "block_label": "paragraph_title",
+            "block_content": "INROS LACKNER",
+            "block_bbox": [
+              222,
+              1278,
+              257,
+              1522
+            ],
+            "block_id": 4,
+            "block_order": 1,
+            "group_id": 4,
+            "global_block_id": 59,
+            "global_group_id": 59,
+            "block_polygon_points": [
+              [
+                222.0,
+                1277.9998779296875
+              ],
+              [
+                256.0,
+                1277.9998779296875
+              ],
+              [
+                256.0,
+                1512.9998779296875
+              ],
+              [
+                222.0,
+                1512.9998779296875
+              ]
+            ]
+          },
+          {
+            "block_label": "figure_title",
+            "block_content": "Design and Construction of RoRo-Terminal, Deepening and Strengthening of Berths 1-7 and Construction of Terminals\nRepair of Concrete Damages at RoRo and Berths 1-7 at Dar Es Salaam Port Contract No.TZ-TPA-424013-CW-DIR\nSubject: Weekly Meeting No.15",
+            "block_bbox": [
+              263,
+              765,
+              317,
+              1554
+            ],
+            "block_id": 5,
+            "block_order": null,
+            "group_id": 5,
+            "global_block_id": 60,
+            "global_group_id": 60,
+            "block_polygon_points": [
+              [
+                263.0,
+                765.0
+              ],
+              [
+                317.0,
+                765.0
+              ],
+              [
+                317.0,
+                1554.0
+              ],
+              [
+                263.0,
+                1554.0
+              ]
+            ]
+          },
+          {
+            "block_label": "vision_footnote",
+            "block_content": "Time:14:30hrs",
+            "block_bbox": [
+              324,
+              314,
+              340,
+              422
+            ],
+            "block_id": 6,
+            "block_order": null,
+            "group_id": 6,
+            "global_block_id": 61,
+            "global_group_id": 61,
+            "block_polygon_points": [
+              [
+                323.9999694824219,
+                313.9999694824219
+              ],
+              [
+                338.9999694824219,
+                313.9999694824219
+              ],
+              [
+                338.9999694824219,
+                420.9999694824219
+              ],
+              [
+                323.9999694824219,
+                420.9999694824219
+              ]
+            ]
+          },
+          {
+            "block_label": "vision_footnote",
+            "block_content": "Date:14/05/2026",
+            "block_bbox": [
+              323,
+              313,
+              341,
+              623
+            ],
+            "block_id": 7,
+            "block_order": null,
+            "group_id": 7,
+            "global_block_id": 62,
+            "global_group_id": 62,
+            "block_polygon_points": [
+              [
+                323.0,
+                498.0
+              ],
+              [
+                323.0,
+                622.0
+              ],
+              [
+                340.0,
+                622.0
+              ],
+              [
+                340.0,
+                498.0
+              ]
+            ]
+          },
+          {
+            "block_label": "vision_footnote",
+            "block_content": "Venue:Contractor's Conference Room",
+            "block_bbox": [
+              322,
+              1276,
+              338,
+              1558
+            ],
+            "block_id": 8,
+            "block_order": null,
+            "group_id": 8,
+            "global_block_id": 63,
+            "global_group_id": 63,
+            "block_polygon_points": [
+              [
+                322.0,
+                1276.0
+              ],
+              [
+                337.0,
+                1276.0
+              ],
+              [
+                337.0,
+                1557.0
+              ],
+              [
+                322.0,
+                1557.0
+              ]
+            ]
+          },
+          {
+            "block_label": "table",
+            "block_content": "<table><tr><td>No</td><td>Name</td><td>Company</td><td>Mobile</td><td>E-mail</td><td>Position</td><td>Signature</td></tr><tr><td>1</td><td>Josh Rode-Riggs</td><td>IL</td><td>0787-608922</td><td>josh.roeson@example.com</td><td>P.E.</td><td>F.</td></tr><tr><td>2</td><td>Johnstone Muttlemore</td><td>IL</td><td>0713250187</td><td>johnsyberg@example.com</td><td>Ass. R.E.</td><td>J.</td></tr><tr><td>3</td><td>Geraldine J. Khatseri</td><td>IL</td><td>075426325</td><td>gledan@example.com</td><td>D.S.</td><td>D.</td></tr><tr><td>4</td><td>Alexis B. Ruiz</td><td>IL</td><td>0754388423</td><td>nita2923@example.com</td><td>W. inspector</td><td>W.</td></tr><tr><td>5</td><td>Gidish Curney</td><td>IL</td><td>076220098</td><td>g.92.com_g@example.com</td><td>M.l.pector</td><td>M.</td></tr><tr><td>6</td><td>Bahda Gurney</td><td>IL</td><td>0787110604</td><td>mattygianey@yahoo.com</td><td>P.S.</td><td>P.</td></tr><tr><td>7</td><td>Cheng Yang Jian</td><td>CHEC</td><td>0777024687</td><td>yicheng@example.com</td><td>Depty C.R.</td><td>文和健</td></tr><tr><td>8</td><td>JIN SHI WEN</td><td>CHEC</td><td>0656359636</td><td>swijin@example.com</td><td>Civil Engineer</td><td>新政</td></tr><tr><td>9</td><td>Chen Yidong Eina</td><td>CHEC</td><td>0741183600</td><td>yotchen@example.com</td><td>Civil Engineer</td><td>陈江东</td></tr><tr><td>10</td><td>Khadija EL KHEBIR</td><td>CHEC</td><td>0790931306</td><td>kheki.thec@example.com</td><td>Contacts Specialist</td><td>G.</td></tr><tr><td>11</td><td>Wang Chen</td><td>CHEC</td><td>062318998</td><td>12925344999.com</td><td>Site Engineer</td><td>A.</td></tr><tr><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+            "block_bbox": [
+              358,
+              313,
+              968,
+              1560
+            ],
+            "block_id": 9,
+            "block_order": null,
+            "group_id": 9,
+            "global_block_id": 64,
+            "global_group_id": 64,
+            "block_polygon_points": [
+              [
+                358.0,
+                313.0
+              ],
+              [
+                968.0,
+                313.0
+              ],
+              [
+                968.0,
+                1560.0
+              ],
+              [
+                358.0,
+                1560.0
+              ]
+            ]
+          },
+          {
+            "block_label": "footer",
+            "block_content": "MoM-Weekly Meeting 15-2026/05/14",
+            "block_bbox": [
+              109,
+              1589,
+              411,
+              1611
+            ],
+            "block_id": 10,
+            "block_order": null,
+            "group_id": 10,
+            "global_block_id": 65,
+            "global_group_id": 65,
+            "block_polygon_points": [
+              [
+                109.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1589.0
+              ],
+              [
+                411.0,
+                1611.0
+              ],
+              [
+                109.0,
+                1611.0
+              ]
+            ]
+          },
+          {
+            "block_label": "number",
+            "block_content": "Page 5 of 5",
+            "block_bbox": [
+              982,
+              1589,
+              1080,
+              1612
+            ],
+            "block_id": 11,
+            "block_order": null,
+            "group_id": 11,
+            "global_block_id": 66,
+            "global_group_id": 66,
+            "block_polygon_points": [
+              [
+                982.0,
+                1589.0
+              ],
+              [
+                1079.0,
+                1589.0
+              ],
+              [
+                1079.0,
+                1611.0
+              ],
+              [
+                982.0,
+                1611.0
+              ]
+            ]
+          }
+        ],
+        "layout_det_res": {
+          "boxes": [
+            {
+              "cls_id": 12,
+              "label": "header",
+              "score": 0.6506996750831604,
+              "coordinate": [
+                126,
+                74,
+                473,
+                129
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  126.0,
+                  74.0
+                ],
+                [
+                  473.0,
+                  74.0
+                ],
+                [
+                  473.0,
+                  129.0
+                ],
+                [
+                  126.0,
+                  129.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.8878194093704224,
+              "coordinate": [
+                593,
+                57,
+                745,
+                148
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  593.0,
+                  57.0
+                ],
+                [
+                  745.0,
+                  57.0
+                ],
+                [
+                  745.0,
+                  148.0
+                ],
+                [
+                  593.0,
+                  148.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 13,
+              "label": "header_image",
+              "score": 0.8674374222755432,
+              "coordinate": [
+                970,
+                65,
+                1108,
+                139
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  970.0,
+                  65.0
+                ],
+                [
+                  1108.0,
+                  65.0
+                ],
+                [
+                  1108.0,
+                  139.0
+                ],
+                [
+                  970.0,
+                  139.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 12,
+              "label": "header",
+              "score": 0.8025047183036804,
+              "coordinate": [
+                145,
+                172,
+                1059,
+                253
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  145.0,
+                  172.0
+                ],
+                [
+                  1059.0,
+                  172.0
+                ],
+                [
+                  1059.0,
+                  253.0
+                ],
+                [
+                  145.0,
+                  253.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 17,
+              "label": "paragraph_title",
+              "score": 0.41847363114356995,
+              "coordinate": [
+                222,
+                1278,
+                257,
+                1522
+              ],
+              "order": 1,
+              "polygon_points": [
+                [
+                  222.0,
+                  1277.9998779296875
+                ],
+                [
+                  256.0,
+                  1277.9998779296875
+                ],
+                [
+                  256.0,
+                  1512.9998779296875
+                ],
+                [
+                  222.0,
+                  1512.9998779296875
+                ]
+              ]
+            },
+            {
+              "cls_id": 7,
+              "label": "figure_title",
+              "score": 0.6205421686172485,
+              "coordinate": [
+                263,
+                765,
+                317,
+                1554
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  263.0,
+                  765.0
+                ],
+                [
+                  317.0,
+                  765.0
+                ],
+                [
+                  317.0,
+                  1554.0
+                ],
+                [
+                  263.0,
+                  1554.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 24,
+              "label": "vision_footnote",
+              "score": 0.37449777126312256,
+              "coordinate": [
+                324,
+                314,
+                340,
+                422
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  323.9999694824219,
+                  313.9999694824219
+                ],
+                [
+                  338.9999694824219,
+                  313.9999694824219
+                ],
+                [
+                  338.9999694824219,
+                  420.9999694824219
+                ],
+                [
+                  323.9999694824219,
+                  420.9999694824219
+                ]
+              ]
+            },
+            {
+              "cls_id": 24,
+              "label": "vision_footnote",
+              "score": 0.34107598662376404,
+              "coordinate": [
+                323,
+                313,
+                341,
+                623
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  323.0,
+                  498.0
+                ],
+                [
+                  323.0,
+                  622.0
+                ],
+                [
+                  340.0,
+                  622.0
+                ],
+                [
+                  340.0,
+                  498.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 24,
+              "label": "vision_footnote",
+              "score": 0.4999302625656128,
+              "coordinate": [
+                322,
+                1276,
+                338,
+                1558
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  322.0,
+                  1276.0
+                ],
+                [
+                  337.0,
+                  1276.0
+                ],
+                [
+                  337.0,
+                  1557.0
+                ],
+                [
+                  322.0,
+                  1557.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 24,
+              "label": "vision_footnote",
+              "score": 0.4024534523487091,
+              "coordinate": [
+                323,
+                502,
+                340,
+                622
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  323.0,
+                  502.0
+                ],
+                [
+                  339.0,
+                  502.0
+                ],
+                [
+                  339.0,
+                  621.0
+                ],
+                [
+                  323.0,
+                  621.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 21,
+              "label": "table",
+              "score": 0.9731464385986328,
+              "coordinate": [
+                358,
+                313,
+                968,
+                1560
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  358.0,
+                  313.0
+                ],
+                [
+                  968.0,
+                  313.0
+                ],
+                [
+                  968.0,
+                  1560.0
+                ],
+                [
+                  358.0,
+                  1560.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 8,
+              "label": "footer",
+              "score": 0.8284060955047607,
+              "coordinate": [
+                109,
+                1589,
+                411,
+                1611
+              ],
+              "order": null,
+              "polygon_points": [
+                [
+                  109.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1589.0
+                ],
+                [
+                  411.0,
+                  1611.0
+                ],
+                [
+                  109.0,
+                  1611.0
+                ]
+              ]
+            },
+            {
+              "cls_id": 16,
+              "label": "number",
+              "score": 0.7800081968307495,
+              "coordinate": [
+                982,
+                1589,
+                1080,
+                1612
+              ],
+              "order": 2,
+              "polygon_points": [
+                [
+                  982.0,
+                  1589.0
+                ],
+                [
+                  1079.0,
+                  1589.0
+                ],
+                [
+                  1079.0,
+                  1611.0
+                ],
+                [
+                  982.0,
+                  1611.0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "markdown": {
+        "text": "## INROS LACKNER\n\n<div style=\"text-align: center;\">Design and Construction of RoRo-Terminal, Deepening and Strengthening of Berths 1-7 and Construction of Terminals Repair of Concrete Damages at RoRo and Berths 1-7 at Dar Es Salaam Port Contract No.TZ-TPA-424013-CW-DIR Subject: Weekly Meeting No.15</div>\n\n\nTime:14:30hrs\n\nDate:14/05/2026\n\nVenue:Contractor's Conference Room\n\n\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>No</td><td style='text-align: center; word-wrap: break-word;'>Name</td><td style='text-align: center; word-wrap: break-word;'>Company</td><td style='text-align: center; word-wrap: break-word;'>Mobile</td><td style='text-align: center; word-wrap: break-word;'>E-mail</td><td style='text-align: center; word-wrap: break-word;'>Position</td><td style='text-align: center; word-wrap: break-word;'>Signature</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>1</td><td style='text-align: center; word-wrap: break-word;'>Josh Rode-Riggs</td><td style='text-align: center; word-wrap: break-word;'>IL</td><td style='text-align: center; word-wrap: break-word;'>0787-608922</td><td style='text-align: center; word-wrap: break-word;'>josh.roeson@example.com</td><td style='text-align: center; word-wrap: break-word;'>P.E.</td><td style='text-align: center; word-wrap: break-word;'>F.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>2</td><td style='text-align: center; word-wrap: break-word;'>Johnstone Muttlemore</td><td style='text-align: center; word-wrap: break-word;'>IL</td><td style='text-align: center; word-wrap: break-word;'>0713250187</td><td style='text-align: center; word-wrap: break-word;'>johnsyberg@example.com</td><td style='text-align: center; word-wrap: break-word;'>Ass. R.E.</td><td style='text-align: center; word-wrap: break-word;'>J.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>3</td><td style='text-align: center; word-wrap: break-word;'>Geraldine J. Khatseri</td><td style='text-align: center; word-wrap: break-word;'>IL</td><td style='text-align: center; word-wrap: break-word;'>075426325</td><td style='text-align: center; word-wrap: break-word;'>gledan@example.com</td><td style='text-align: center; word-wrap: break-word;'>D.S.</td><td style='text-align: center; word-wrap: break-word;'>D.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>4</td><td style='text-align: center; word-wrap: break-word;'>Alexis B. Ruiz</td><td style='text-align: center; word-wrap: break-word;'>IL</td><td style='text-align: center; word-wrap: break-word;'>0754388423</td><td style='text-align: center; word-wrap: break-word;'>nita2923@example.com</td><td style='text-align: center; word-wrap: break-word;'>W. inspector</td><td style='text-align: center; word-wrap: break-word;'>W.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>5</td><td style='text-align: center; word-wrap: break-word;'>Gidish Curney</td><td style='text-align: center; word-wrap: break-word;'>IL</td><td style='text-align: center; word-wrap: break-word;'>076220098</td><td style='text-align: center; word-wrap: break-word;'>g.92.com_g@example.com</td><td style='text-align: center; word-wrap: break-word;'>M.l.pector</td><td style='text-align: center; word-wrap: break-word;'>M.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>6</td><td style='text-align: center; word-wrap: break-word;'>Bahda Gurney</td><td style='text-align: center; word-wrap: break-word;'>IL</td><td style='text-align: center; word-wrap: break-word;'>0787110604</td><td style='text-align: center; word-wrap: break-word;'>mattygianey@yahoo.com</td><td style='text-align: center; word-wrap: break-word;'>P.S.</td><td style='text-align: center; word-wrap: break-word;'>P.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>7</td><td style='text-align: center; word-wrap: break-word;'>Cheng Yang Jian</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td><td style='text-align: center; word-wrap: break-word;'>0777024687</td><td style='text-align: center; word-wrap: break-word;'>yicheng@example.com</td><td style='text-align: center; word-wrap: break-word;'>Depty C.R.</td><td style='text-align: center; word-wrap: break-word;'>文和健</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>8</td><td style='text-align: center; word-wrap: break-word;'>JIN SHI WEN</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td><td style='text-align: center; word-wrap: break-word;'>0656359636</td><td style='text-align: center; word-wrap: break-word;'>swijin@example.com</td><td style='text-align: center; word-wrap: break-word;'>Civil Engineer</td><td style='text-align: center; word-wrap: break-word;'>新政</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>9</td><td style='text-align: center; word-wrap: break-word;'>Chen Yidong Eina</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td><td style='text-align: center; word-wrap: break-word;'>0741183600</td><td style='text-align: center; word-wrap: break-word;'>yotchen@example.com</td><td style='text-align: center; word-wrap: break-word;'>Civil Engineer</td><td style='text-align: center; word-wrap: break-word;'>陈江东</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>10</td><td style='text-align: center; word-wrap: break-word;'>Khadija EL KHEBIR</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td><td style='text-align: center; word-wrap: break-word;'>0790931306</td><td style='text-align: center; word-wrap: break-word;'>kheki.thec@example.com</td><td style='text-align: center; word-wrap: break-word;'>Contacts Specialist</td><td style='text-align: center; word-wrap: break-word;'>G.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>11</td><td style='text-align: center; word-wrap: break-word;'>Wang Chen</td><td style='text-align: center; word-wrap: break-word;'>CHEC</td><td style='text-align: center; word-wrap: break-word;'>062318998</td><td style='text-align: center; word-wrap: break-word;'>12925344999.com</td><td style='text-align: center; word-wrap: break-word;'>Site Engineer</td><td style='text-align: center; word-wrap: break-word;'>A.</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>12</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>13</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>14</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>15</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>16</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>17</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>18</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>19</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr><tr><td style='text-align: center; word-wrap: break-word;'>20</td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'></td></tr></table>",
+        "images": {
+          "imgs/img_in_header_image_box_593_57_745_148.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_4/imgs/img_in_header_image_box_593_57_745_148.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A27Z%2F-1%2F%2F92593b961e0033a41eb2333df7cd951df67715f43580d62aae0b9d0ce382ef87",
+          "imgs/img_in_header_image_box_970_65_1108_139.jpg": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-15//e6d01449-815b-4af9-b970-310dce4ede72/markdown_4/imgs/img_in_header_image_box_970_65_1108_139.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-18T11%3A49%3A27Z%2F-1%2F%2F58777cccd18a62db2464574b467c2012bd1e901f4af0e255a25abd46469ffd1f"
+        }
+      }
+    }
+  ],
+  "dataInfo": {
+    "numPages": 5,
+    "pages": [
+      {
+        "width": 1191,
+        "height": 1684
+      },
+      {
+        "width": 1191,
+        "height": 1684
+      },
+      {
+        "width": 1191,
+        "height": 1684
+      },
+      {
+        "width": 1191,
+        "height": 1684
+      },
+      {
+        "width": 1191,
+        "height": 1684
+      }
+    ],
+    "type": "pdf"
+  },
+  "_meta": {
+    "source": "paddle_jsonl",
+    "lineCount": 1,
+    "provider": "paddle",
+    "taskId": "53205409299550208",
+    "jsonlUrl": "https://bj.bcebos.com/v1/paddleocr-store-5/job/ca1433135489eb36dce6778d6c5a217b487ac9f8c447b98b3add48e87c349a64/json/771324463d1a8f761aa982701eb04029.json?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-05-27T19%3A39%3A18Z%2F604800%2F%2Fe9a9eed3d89b0f45e371718d9de4768d350abf5f8bd6152a81d6055f11f0b762"
+  }
+}

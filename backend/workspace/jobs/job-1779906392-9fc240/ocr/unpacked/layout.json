@@ -1,0 +1,96 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        98,
+                        80,
+                        275,
+                        95
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                80,
+                                275,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        80,
+                                        275,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "Page 1 - This is a test document."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0,
+            "para_blocks": []
+        },
+        {
+            "preproc_blocks": [],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        98,
+                        80,
+                        279,
+                        95
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                98,
+                                80,
+                                279,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        98,
+                                        80,
+                                        279,
+                                        95
+                                    ],
+                                    "type": "text",
+                                    "content": "Page 2 - This is the second page."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1,
+            "para_blocks": []
+        }
+    ],
+    "_backend": "hybrid",
+    "_ocr_enable": true,
+    "_vlm_ocr_enable": true,
+    "_version_name": "3.1.8"
+}

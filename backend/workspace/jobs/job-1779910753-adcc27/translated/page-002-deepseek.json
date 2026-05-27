@@ -1,0 +1,157 @@
+[
+  {
+    "item_id": "p002-b004",
+    "page_idx": 1,
+    "block_idx": 4,
+    "block_type": "table",
+    "block_kind": "table",
+    "layout_role": "unknown",
+    "semantic_role": "unknown",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "table",
+    "normalized_sub_type": "table_html",
+    "bbox": [
+      54.484,
+      145.486,
+      553.333,
+      773.927
+    ],
+    "source_text": "<table><tr><td>Item</td><td>Description</td><td>Action</td></tr><tr><td>2.0</td><td>Readiness of the Contractor to Start Work</td><td></td></tr><tr><td></td><td>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on $ 12^{th} $ May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works. Regarding the paving blocks the Contractor was instructed to provide representatives samples and verified test results derived from actual production intended for site works. The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test. The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td>INFO</td></tr><tr><td>3.0</td><td>Contractual Matter</td><td></td></tr><tr><td>3.1</td><td>Labourers, Materials and Equipment&#x27;s</td><td></td></tr><tr><td></td><td>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff). Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on $ 21^{st} $ May, 2026. Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026. Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td>CHEC</td></tr><tr><td>3.3</td><td>PM Facilities</td><td></td></tr><tr><td></td><td>The RE informed the meeting that, there was no update from TPA.</td><td>TPA</td></tr><tr><td>3.4</td><td>Daily, Weekly and Monthly Reports</td><td></td></tr><tr><td></td><td>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td>CHEC</td></tr></table>",
+    "lines": [
+      {
+        "bbox": [
+          54.484,
+          145.486,
+          553.333,
+          773.927
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "<table><tr><td>Item</td><td>Description</td><td>Action</td></tr><tr><td>2.0</td><td>Readiness of the Contractor to Start Work</td><td></td></tr><tr><td></td><td>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on $ 12^{th} $ May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works. Regarding the paving blocks the Contractor was instructed to provide representatives samples and verified test results derived from actual production intended for site works. The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test. The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td>INFO</td></tr><tr><td>3.0</td><td>Contractual Matter</td><td></td></tr><tr><td>3.1</td><td>Labourers, Materials and Equipment&#x27;s</td><td></td></tr><tr><td></td><td>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff). Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on $ 21^{st} $ May, 2026. Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026. Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td>CHEC</td></tr><tr><td>3.3</td><td>PM Facilities</td><td></td></tr><tr><td></td><td>The RE informed the meeting that, there was no update from TPA.</td><td>TPA</td></tr><tr><td>3.4</td><td>Daily, Weekly and Monthly Reports</td><td></td></tr><tr><td></td><td>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td>CHEC</td></tr></table>",
+            "bbox": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "provider_cross_column_merge_suspected": false,
+      "provider_reading_order_unreliable": false,
+      "provider_structure_unreliable": false,
+      "provider_text_missing_but_bbox_present": false,
+      "provider_peer_block_absorbed_text": false,
+      "provider_column_layout_mode": "single",
+      "provider_column_index_guess": "full",
+      "provider_suspected_peer_block_id": "",
+      "cross_column_merge_suspected": false,
+      "reading_order_unreliable": false,
+      "structure_unreliable": false,
+      "text_missing_but_bbox_present": false,
+      "peer_block_absorbed_text": false,
+      "body_repair_applied": false,
+      "body_repair_role": "",
+      "body_repair_strategy": "",
+      "body_repair_peer_block_id": "",
+      "continuation_suppressed": false,
+      "continuation_suppressed_reason": "",
+      "column_layout_mode": "single",
+      "column_index_guess": "full",
+      "continuation_hint": {
+        "source": "provider",
+        "group_id": "provider-paddle-global-34",
+        "role": "single",
+        "scope": "intra_page",
+        "reading_order": -1,
+        "confidence": 0.98
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "provider",
+    "ocr_continuation_group_id": "provider-paddle-global-34",
+    "ocr_continuation_role": "single",
+    "ocr_continuation_scope": "intra_page",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.98,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "single",
+    "provider_column_index_guess": "full",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "non_flow",
+    "layout_zone_rank": -1,
+    "layout_zone_size": 0,
+    "layout_boundary_role": "",
+    "math_mode": "direct_typst",
+    "protected_source_text": "<table><tr><td>Item</td><td>Description</td><td>Action</td></tr><tr><td>2.0</td><td>Readiness of the Contractor to Start Work</td><td></td></tr><tr><td></td><td>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on $ 12^{th} $ May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works. Regarding the paving blocks the Contractor was instructed to provide representatives samples and verified test results derived from actual production intended for site works. The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test. The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td>INFO</td></tr><tr><td>3.0</td><td>Contractual Matter</td><td></td></tr><tr><td>3.1</td><td>Labourers, Materials and Equipment&#x27;s</td><td></td></tr><tr><td></td><td>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff). Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on $ 21^{st} $ May, 2026. Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026. Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td>CHEC</td></tr><tr><td>3.3</td><td>PM Facilities</td><td></td></tr><tr><td></td><td>The RE informed the meeting that, there was no update from TPA.</td><td>TPA</td></tr><tr><td>3.4</td><td>Daily, Weekly and Monthly Reports</td><td></td></tr><tr><td></td><td>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td>CHEC</td></tr></table>",
+    "mixed_original_protected_source_text": "<table><tr><td>Item</td><td>Description</td><td>Action</td></tr><tr><td>2.0</td><td>Readiness of the Contractor to Start Work</td><td></td></tr><tr><td></td><td>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on $ 12^{th} $ May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works. Regarding the paving blocks the Contractor was instructed to provide representatives samples and verified test results derived from actual production intended for site works. The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test. The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td>INFO</td></tr><tr><td>3.0</td><td>Contractual Matter</td><td></td></tr><tr><td>3.1</td><td>Labourers, Materials and Equipment&#x27;s</td><td></td></tr><tr><td></td><td>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff). Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on $ 21^{st} $ May, 2026. Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026. Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td>CHEC</td></tr><tr><td>3.3</td><td>PM Facilities</td><td></td></tr><tr><td></td><td>The RE informed the meeting that, there was no update from TPA.</td><td>TPA</td></tr><tr><td>3.4</td><td>Daily, Weekly and Monthly Reports</td><td></td></tr><tr><td></td><td>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td>CHEC</td></tr></table>",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b004"
+    ],
+    "translation_unit_protected_source_text": "<table><tr><td>Item</td><td>Description</td><td>Action</td></tr><tr><td>2.0</td><td>Readiness of the Contractor to Start Work</td><td></td></tr><tr><td></td><td>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on $ 12^{th} $ May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works. Regarding the paving blocks the Contractor was instructed to provide representatives samples and verified test results derived from actual production intended for site works. The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test. The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td>INFO</td></tr><tr><td>3.0</td><td>Contractual Matter</td><td></td></tr><tr><td>3.1</td><td>Labourers, Materials and Equipment&#x27;s</td><td></td></tr><tr><td></td><td>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff). Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on $ 21^{st} $ May, 2026. Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026. Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td>CHEC</td></tr><tr><td>3.3</td><td>PM Facilities</td><td></td></tr><tr><td></td><td>The RE informed the meeting that, there was no update from TPA.</td><td>TPA</td></tr><tr><td>3.4</td><td>Daily, Weekly and Monthly Reports</td><td></td></tr><tr><td></td><td>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td>CHEC</td></tr></table>",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "<table><tr><td>项次</td><td>说明</td><td>行动</td></tr><tr><td>2.0</td><td>承包商开工准备情况</td><td></td></tr><tr><td></td><td>关于现场可达性，驻地工程师向会议通报，正如2026年5月12日三方会议所报告的，目前在港区内获取工作空间仍然困难。尽管如此，业主承诺将继续与迪拜环球港务集团跟进，一旦时机合适，即为承包商分配空间。随后，会议同意坦桑尼亚港务局将与迪拜环球港务集团协调，提前为承包商工人办理港区通行证，以便在条件允许开工时顺利进入。关于铺路砌块，承包商被要求提供代表性样品以及源自拟用于现场施工的实际生产的验证试验结果。承包商向会议通报，其在国内无法找到能够进行抗滑试验的合格实验室，因此请求驻地工程师协助在坦桑尼亚境内寻找可进行该试验的实验室。驻地工程师已承诺调查此事并将相应给出建议。同时，工程师正在分析承包商提交的劈裂抗拉试验结果，并将尽快给出答复。</td><td>INFO</td></tr><tr><td>3.0</td><td>合同事宜</td><td></td></tr><tr><td>3.1</td><td>劳工、材料和设备</td><td></td></tr><tr><td></td><td>驻地工程师再次提醒承包商，应根据合同中批准的人员名单提交所有员工（包括本地和外国员工）的名单。关于外国员工，驻地工程师提醒承包商提交护照入境许可复印件，以证明其获准进入并在该国工作。承包商承诺在2026年5月21日下次会议前提交。关于已调遣的设备，驻地工程师询问有缺陷的空压机是否已修复。承包商向会议通报，其仍在等待从中国订购的备件，预计于2026年5月底前到货。关于混凝土配合比设计，承包商已提交28天试验结果，工程师正在核查并将相应回复。</td><td>CHEC</td></tr><tr><td>3.3</td><td>项目管理设施</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，坦桑尼亚港务局方面无最新进展。</td><td>TPA</td></tr><tr><td>3.4</td><td>日报、周报和月报</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，已按合同要求收到承包商提交的相应报告。周报应按周提交，周期为周一至周日。</td><td>CHEC</td></tr></table>",
+    "translation_unit_translated_text": "<table><tr><td>项次</td><td>说明</td><td>行动</td></tr><tr><td>2.0</td><td>承包商开工准备情况</td><td></td></tr><tr><td></td><td>关于现场可达性，驻地工程师向会议通报，正如2026年5月12日三方会议所报告的，目前在港区内获取工作空间仍然困难。尽管如此，业主承诺将继续与迪拜环球港务集团跟进，一旦时机合适，即为承包商分配空间。随后，会议同意坦桑尼亚港务局将与迪拜环球港务集团协调，提前为承包商工人办理港区通行证，以便在条件允许开工时顺利进入。关于铺路砌块，承包商被要求提供代表性样品以及源自拟用于现场施工的实际生产的验证试验结果。承包商向会议通报，其在国内无法找到能够进行抗滑试验的合格实验室，因此请求驻地工程师协助在坦桑尼亚境内寻找可进行该试验的实验室。驻地工程师已承诺调查此事并将相应给出建议。同时，工程师正在分析承包商提交的劈裂抗拉试验结果，并将尽快给出答复。</td><td>INFO</td></tr><tr><td>3.0</td><td>合同事宜</td><td></td></tr><tr><td>3.1</td><td>劳工、材料和设备</td><td></td></tr><tr><td></td><td>驻地工程师再次提醒承包商，应根据合同中批准的人员名单提交所有员工（包括本地和外国员工）的名单。关于外国员工，驻地工程师提醒承包商提交护照入境许可复印件，以证明其获准进入并在该国工作。承包商承诺在2026年5月21日下次会议前提交。关于已调遣的设备，驻地工程师询问有缺陷的空压机是否已修复。承包商向会议通报，其仍在等待从中国订购的备件，预计于2026年5月底前到货。关于混凝土配合比设计，承包商已提交28天试验结果，工程师正在核查并将相应回复。</td><td>CHEC</td></tr><tr><td>3.3</td><td>项目管理设施</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，坦桑尼亚港务局方面无最新进展。</td><td>TPA</td></tr><tr><td>3.4</td><td>日报、周报和月报</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，已按合同要求收到承包商提交的相应报告。周报应按周提交，周期为周一至周日。</td><td>CHEC</td></tr></table>",
+    "protected_translated_text": "<table><tr><td>项次</td><td>说明</td><td>行动</td></tr><tr><td>2.0</td><td>承包商开工准备情况</td><td></td></tr><tr><td></td><td>关于现场可达性，驻地工程师向会议通报，正如2026年5月12日三方会议所报告的，目前在港区内获取工作空间仍然困难。尽管如此，业主承诺将继续与迪拜环球港务集团跟进，一旦时机合适，即为承包商分配空间。随后，会议同意坦桑尼亚港务局将与迪拜环球港务集团协调，提前为承包商工人办理港区通行证，以便在条件允许开工时顺利进入。关于铺路砌块，承包商被要求提供代表性样品以及源自拟用于现场施工的实际生产的验证试验结果。承包商向会议通报，其在国内无法找到能够进行抗滑试验的合格实验室，因此请求驻地工程师协助在坦桑尼亚境内寻找可进行该试验的实验室。驻地工程师已承诺调查此事并将相应给出建议。同时，工程师正在分析承包商提交的劈裂抗拉试验结果，并将尽快给出答复。</td><td>INFO</td></tr><tr><td>3.0</td><td>合同事宜</td><td></td></tr><tr><td>3.1</td><td>劳工、材料和设备</td><td></td></tr><tr><td></td><td>驻地工程师再次提醒承包商，应根据合同中批准的人员名单提交所有员工（包括本地和外国员工）的名单。关于外国员工，驻地工程师提醒承包商提交护照入境许可复印件，以证明其获准进入并在该国工作。承包商承诺在2026年5月21日下次会议前提交。关于已调遣的设备，驻地工程师询问有缺陷的空压机是否已修复。承包商向会议通报，其仍在等待从中国订购的备件，预计于2026年5月底前到货。关于混凝土配合比设计，承包商已提交28天试验结果，工程师正在核查并将相应回复。</td><td>CHEC</td></tr><tr><td>3.3</td><td>项目管理设施</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，坦桑尼亚港务局方面无最新进展。</td><td>TPA</td></tr><tr><td>3.4</td><td>日报、周报和月报</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，已按合同要求收到承包商提交的相应报告。周报应按周提交，周期为周一至周日。</td><td>CHEC</td></tr></table>",
+    "translated_text": "<table><tr><td>项次</td><td>说明</td><td>行动</td></tr><tr><td>2.0</td><td>承包商开工准备情况</td><td></td></tr><tr><td></td><td>关于现场可达性，驻地工程师向会议通报，正如2026年5月12日三方会议所报告的，目前在港区内获取工作空间仍然困难。尽管如此，业主承诺将继续与迪拜环球港务集团跟进，一旦时机合适，即为承包商分配空间。随后，会议同意坦桑尼亚港务局将与迪拜环球港务集团协调，提前为承包商工人办理港区通行证，以便在条件允许开工时顺利进入。关于铺路砌块，承包商被要求提供代表性样品以及源自拟用于现场施工的实际生产的验证试验结果。承包商向会议通报，其在国内无法找到能够进行抗滑试验的合格实验室，因此请求驻地工程师协助在坦桑尼亚境内寻找可进行该试验的实验室。驻地工程师已承诺调查此事并将相应给出建议。同时，工程师正在分析承包商提交的劈裂抗拉试验结果，并将尽快给出答复。</td><td>INFO</td></tr><tr><td>3.0</td><td>合同事宜</td><td></td></tr><tr><td>3.1</td><td>劳工、材料和设备</td><td></td></tr><tr><td></td><td>驻地工程师再次提醒承包商，应根据合同中批准的人员名单提交所有员工（包括本地和外国员工）的名单。关于外国员工，驻地工程师提醒承包商提交护照入境许可复印件，以证明其获准进入并在该国工作。承包商承诺在2026年5月21日下次会议前提交。关于已调遣的设备，驻地工程师询问有缺陷的空压机是否已修复。承包商向会议通报，其仍在等待从中国订购的备件，预计于2026年5月底前到货。关于混凝土配合比设计，承包商已提交28天试验结果，工程师正在核查并将相应回复。</td><td>CHEC</td></tr><tr><td>3.3</td><td>项目管理设施</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，坦桑尼亚港务局方面无最新进展。</td><td>TPA</td></tr><tr><td>3.4</td><td>日报、周报和月报</td><td></td></tr><tr><td></td><td>驻地工程师向会议通报，已按合同要求收到承包商提交的相应报告。周报应按周提交，周期为周一至周日。</td><td>CHEC</td></tr></table>",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b004",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "",
+    "translation_context_after": ""
+  }
+]

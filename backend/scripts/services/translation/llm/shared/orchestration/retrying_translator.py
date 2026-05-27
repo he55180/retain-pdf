@@ -247,6 +247,50 @@ def _translate_batch_once(
     )
 
 
+def strip_strikethrough_from_cell(item: dict) -> None:
+    is_cell = (
+        item.get("translate_reason") == "table_cell"
+        or item.get("provenance", {}).get("raw_label") == "table_cell"
+        or item.get("layout_role") == "table_cell"
+        or item.get("block_type") == "table_cell"
+    )
+    if not is_cell:
+        return
+        
+    segments = item.get("segments", [])
+    
+    if segments and isinstance(segments, list):
+        total_chars = 0
+        strikethrough_chars = 0
+        for seg in segments:
+            if isinstance(seg, dict):
+                text_len = len(str(seg.get("text", "")))
+                total_chars += text_len
+                if seg.get("strikethrough") is True:
+                    strikethrough_chars += text_len
+        
+        if total_chars > 0:
+            ratio = strikethrough_chars / total_chars
+        else:
+            ratio = 0.0
+            
+        if ratio >= 0.95:
+            item.pop("strikethrough", None)
+            if "content" in item and isinstance(item["content"], dict):
+                item["content"].pop("strikethrough", None)
+            for seg in segments:
+                if isinstance(seg, dict):
+                    seg.pop("strikethrough", None)
+        elif ratio > 0.0:
+            item_id = item.get("item_id", item.get("block_id", "unknown"))
+            print(f"[strikethrough LOG] item {item_id} has partial strikethrough (ratio={ratio:.2f}). Kept for manual review.", flush=True)
+    else:
+        if item.get("strikethrough") is True:
+            item.pop("strikethrough", None)
+            if "content" in item and isinstance(item["content"], dict):
+                item["content"].pop("strikethrough", None)
+
+
 def translate_batch(
     batch: list[dict],
     api_key: str = "",
@@ -257,6 +301,8 @@ def translate_batch(
     mode: str = "fast",
     context: TranslationControlContext | None = None,
 ) -> dict[str, dict[str, str]]:
+    for item in batch:
+        strip_strikethrough_from_cell(item)
     return _translate_items_plain_text(
         batch,
         api_key=api_key,

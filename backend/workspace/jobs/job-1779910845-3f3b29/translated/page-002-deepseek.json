@@ -1,0 +1,272 @@
+[
+  {
+    "item_id": "p002-b001",
+    "page_idx": 1,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      204,
+      100,
+      397,
+      111
+    ],
+    "source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "lines": [
+      {
+        "bbox": [
+          204,
+          100,
+          398,
+          113
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contract No: TZ-TPA-/424013-CW-DIR",
+            "bbox": [
+              204,
+              100,
+              398,
+              113
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 2,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "mixed_original_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b001"
+    ],
+    "translation_unit_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "translation_unit_translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "protected_translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b001",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "7. Contractor’s Invoicing / The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "translation_context_after": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / Contract No: TZ-TPA-/424013-CW-DIR"
+  },
+  {
+    "item_id": "p002-b002",
+    "page_idx": 1,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      73,
+      112,
+      527,
+      124
+    ],
+    "source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "lines": [
+      {
+        "bbox": [
+          73,
+          111,
+          528,
+          127
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "bbox": [
+              73,
+              111,
+              528,
+              127
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 2,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "mixed_original_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p002-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p002-b002"
+    ],
+    "translation_unit_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "translation_unit_translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "protected_translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p003-b001",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p002-b002",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p003-b001",
+    "translation_context_before": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer. / Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_context_after": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT"
+  }
+]

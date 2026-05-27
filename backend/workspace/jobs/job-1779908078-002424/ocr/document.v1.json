@@ -1,0 +1,5737 @@
+{
+  "schema": "normalized_document_v1",
+  "schema_version": "1.1",
+  "document_id": "d5385dad-e92a-4f87-93fa-1d853c1e85e0",
+  "source": {},
+  "page_count": 7,
+  "pages": [
+    {
+      "page_index": 0,
+      "page": 1,
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "111936a3-b20a-42e8-80f4-a5e687bdb453",
+          "page_index": 0,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              73.944,
+              371.71399999999994,
+              524.5920000000002,
+              412.11713812154693
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "PROPOSAL FOR HIV/AIDS AND COVID-19 AWARENESS PROGRAMME FOR DESIGN AND BUILD FOR MODERNIZATION OF THE MALINDI WHARF AREA AT DAR ES SALAAM PORT."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              73.944,
+              371.71399999999994,
+              524.5920000000002,
+              412.11713812154693
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    },
+    {
+      "page_index": 1,
+      "page": 2,
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "97dca343-3e79-4815-85ea-129e1f145a91",
+          "page_index": 1,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              230.7838592529297,
+              36.95513916015625,
+              414.0376892089844,
+              105.76276397705078
+            ]
+          },
+          "content": {
+            "kind": "image"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": false,
+            "translate_reason": "layout_role=paragraph"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "picture",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              230.7838592529297,
+              36.95513916015625,
+              414.0376892089844,
+              105.76276397705078
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "798b1592-f907-4509-8fdd-5a53efa2e191",
+          "page_index": 1,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              228.05,
+              159.28112,
+              371.02887999999996,
+              173.5068
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "TABLE OF CONTENTS"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              228.05,
+              159.28112,
+              371.02887999999996,
+              173.5068
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              70.88801574707031,
+              174.12327575683594,
+              522.8433227539062,
+              470.057861328125
+            ]
+          },
+          "content": {
+            "kind": "text"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "document_index",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              70.88801574707031,
+              174.12327575683594,
+              522.8433227539062,
+              470.057861328125
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-0",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              178.24399999999991,
+              522.912,
+              188.93999999999994
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "0.0 EXECUTIVE SUMMARY...................................................................................................................2"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              178.24399999999991,
+              522.912,
+              188.93999999999994
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-1",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              203.80399999999997,
+              522.912,
+              214.5
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "1.0 INTRODUCTION...............................................................................................................................3"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              203.80399999999997,
+              522.912,
+              214.5
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-2",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              83.064,
+              229.48399999999992,
+              522.912,
+              240.17999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "1.1 TRAINING OBJECTIVES ..............................................................................................................3"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              83.064,
+              229.48399999999992,
+              522.912,
+              240.17999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-3",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              83.064,
+              255.164,
+              522.912,
+              265.86
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "1.2 TARGET PARTICIPANTS.............................................................................................................4"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              83.064,
+              255.164,
+              522.912,
+              265.86
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-4",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              280.874,
+              522.912,
+              291.57000000000005
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "2.0 TRAINING METHODOLOGY............................................................................................................4"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              280.874,
+              522.912,
+              291.57000000000005
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-5",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              306.554,
+              522.912,
+              317.25
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "3.0 SIX-MONTH TRAINING PLAN..........................................................................................................4"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              306.554,
+              522.912,
+              317.25
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-6",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              332.114,
+              522.912,
+              342.80999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM............................................................................5"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              332.114,
+              522.912,
+              342.80999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-7",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              357.794,
+              522.912,
+              368.48999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "5.0 EXPECTED ACHIVEMENTS.............................................................................................................5"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              357.794,
+              522.912,
+              368.48999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-8",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              383.474,
+              522.912,
+              394.16999999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "6.0 TRAINING COST...............................................................................................................................6"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              383.474,
+              522.912,
+              394.16999999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-9",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              409.154,
+              522.912,
+              419.84999999999997
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "7.0 CONCLUSION...................................................................................................................................6"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              409.154,
+              522.912,
+              419.84999999999997
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-10",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              434.71399999999994,
+              522.912,
+              445.4099999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "8.0 APPENDICES....................................................................................................................................6"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              434.71399999999994,
+              522.912,
+              445.4099999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e-cell-11",
+          "page_index": 1,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              83.064,
+              460.39399999999995,
+              522.912,
+              471.0899999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "APPENDIX I: CONTACTS INFORMATION.........................................................................................6"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              83.064,
+              460.39399999999995,
+              522.912,
+              471.0899999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "d34fb623-b687-4603-a03a-bf42a1c0496e"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    },
+    {
+      "page_index": 2,
+      "page": 3,
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "3b4297ef-f559-45cc-b6d7-b0b6372730e9",
+          "page_index": 2,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              230.45323181152344,
+              36.97726058959961,
+              413.6371765136719,
+              104.53764343261719
+            ]
+          },
+          "content": {
+            "kind": "image"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": false,
+            "translate_reason": "layout_role=paragraph"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "picture",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              230.45323181152344,
+              36.97726058959961,
+              413.6371765136719,
+              104.53764343261719
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "a959cf18-664f-445a-bfe5-48ffed0d1e21",
+          "page_index": 2,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              72.024,
+              109.48111999999992,
+              246.92888,
+              123.70679999999993
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "0.0 EXECUTIVE SUMMARY"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              109.48111999999992,
+              246.92888,
+              123.70679999999993
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "5ed05b90-02c6-4434-93c3-37f559b9ba13",
+          "page_index": 2,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              142.48399999999992,
+              525.9999999999998,
+              221.93999999999994
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "The Government of Tanzania, through the Tanzania Ports Authority (TPA), is upgrading the Malindi Wharf at the Port of Dar es Salaam to enhance cargo handling capacity and operational efficiency. As the country's main seaport and a key regional trade gateway for several landlocked countries, the port plays a significant role in East Africa's economy. The project includes construction of a multipurpose berth and supporting infrastructure such as access roads, operational yards, utilities, and improved port systems, under a Design and Build contract led by China Harbour Engineering Company Ltd."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              142.48399999999992,
+              525.9999999999998,
+              221.93999999999994
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "eceaa92d-fde2-4b21-ac9d-4b71d78c53bd",
+          "page_index": 2,
+          "order": 3,
+          "reading_order": 3,
+          "geometry": {
+            "bbox": [
+              72.024,
+              239.08399999999995,
+              526.1639999999999,
+              291.09000000000003
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Large construction projects pose public health risks, particularly the spread of HIV/AIDS and COVID-19 due to workforce mobility and limited access to health services. Given Tanzania's HIV burden, targeted workplace  interventions  are  essential  to  protect  workers,  surrounding  communities,  and  overall productivity."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              239.08399999999995,
+              526.1639999999999,
+              291.09000000000003
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "aa056297-48a5-46cf-a4af-fe98041e1ea4",
+          "page_index": 2,
+          "order": 4,
+          "reading_order": 4,
+          "geometry": {
+            "bbox": [
+              72.024,
+              308.1139999999999,
+              525.6079999999996,
+              382.16999999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "In response to these challenges, Vision Care Clinic proposes to implement a comprehensive HIV/AIDS and COVID-19 awareness and prevention programme tailored specifically for personnel engaged in the Malindi Wharf modernization project. The programme will focus on enhancing awareness, promoting safe  practices,  facilitating  access  to  testing  and  counselling  services,  and  strengthening  linkages  to treatment and care."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              308.1139999999999,
+              525.6079999999996,
+              382.16999999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "3a4ccb96-c8e5-473f-9002-00a29bc8683d",
+          "page_index": 2,
+          "order": 5,
+          "reading_order": 5,
+          "geometry": {
+            "bbox": [
+              72.024,
+              401.354,
+              525.5399999999995,
+              439.5299999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "The programme also fulfills legal and contractual requirements under national laws and international standards,  while  ensuring  strict  confidentiality  of  health  information  in  line  with  the  HIV  and  AIDS (Prevention and Control) Act."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              401.354,
+              525.5399999999995,
+              439.5299999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    },
+    {
+      "page_index": 3,
+      "page": 4,
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "7d3ef0dc-229e-49cd-b442-8af7da0d6ef1",
+          "page_index": 3,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              72.024,
+              109.60111999999992,
+              198.20888,
+              123.82679999999993
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "1.0 INTRODUCTION"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              109.60111999999992,
+              198.20888,
+              123.82679999999993
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "30dbdece-8800-4128-82bc-18ce8956a6e7",
+          "page_index": 3,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              72.024,
+              142.48399999999992,
+              525.5759999999997,
+              200.58000000000004
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Globally,  about  40.8  million  people  were  living  with  HIV  by  2024,  with  Tanzania  accounting  for approximately  1.6  million  cases  and  a  national  prevalence  of  4.4%.  Although  new  infections  have declined,  HIV  transmission  remains  influenced  by  factors  such  as  demographic  differences,  socioeconomic conditions, and high-risk groups including mobile populations like construction workers."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              142.48399999999992,
+              525.5759999999997,
+              200.58000000000004
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "b9a37eac-a46f-4e82-9930-644d144fc123",
+          "page_index": 3,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              219.764,
+              526.1199999999999,
+              293.85
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Construction  settings  increase  vulnerability  to  HIV  and  COVID-19  due  to  worker  mobility,  social interaction,  and  separation  from  families.  Workplace  awareness  programs  are  therefore  essential  to reduce transmission, promote safe behaviors, encourage voluntary testing, and minimize stigma, while also  maintaining  productivity  and  reducing  workforce  turnover.  These  interventions  contribute  to national efforts aimed at lowering new infections and improving community health outcomes."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              219.764,
+              526.1199999999999,
+              293.85
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "089a795f-df3f-4056-b9be-0c202299c5ee",
+          "page_index": 3,
+          "order": 3,
+          "reading_order": 3,
+          "geometry": {
+            "bbox": [
+              72.024,
+              312.914,
+              525.8619999999996,
+              386.9699999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "The Malindi Wharf modernization project, implemented by the Tanzania Ports Authority on behalf of the Government  of  Tanzania,  is  being  executed  by  China  Harbour  Engineering  Company  Ltd  under  a Design and Build contract. The project includes development of a multipurpose berth and supporting infrastructure  such  as  yards,  roads,  utilities,  and  drainage  systems,  all  aimed  at  improving  port efficiency and strengthening its role as a key regional trade hub."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              312.914,
+              525.8619999999996,
+              386.9699999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "e40d031f-8592-46ae-bd5d-217ebd9a4948",
+          "page_index": 3,
+          "order": 4,
+          "reading_order": 4,
+          "geometry": {
+            "bbox": [
+              72.024,
+              406.154,
+              526.1999999999999,
+              448.5299999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "In response, Vision Care Clinic proposes a targeted HIV/AIDS awareness and prevention program for project workers, focusing on education, risk reduction, testing, and linkage to care services to support a healthier and safer working environment."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              406.154,
+              526.1999999999999,
+              448.5299999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f39a2bb5-6b61-45f9-9b5f-7a828680e73d",
+          "page_index": 3,
+          "order": 5,
+          "reading_order": 5,
+          "geometry": {
+            "bbox": [
+              72.024,
+              467.614,
+              525.9699999999998,
+              525.8299999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Vision  and  Care  Clinic  proposes  a  comprehensive  HIV/AIDS  Awareness  and  Prevention  Training Program  for  employees  working  in  the  construction  industry.  Construction  workers  often  work  in environments that expose them to higher health risks due to mobility, long working hours, and limited access to health education."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              467.614,
+              525.9699999999998,
+              525.8299999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f274f3b7-cc52-4e5a-9b34-2d14eec73f64",
+          "page_index": 3,
+          "order": 6,
+          "reading_order": 6,
+          "geometry": {
+            "bbox": [
+              72.024,
+              545.0139999999999,
+              525.6359999999995,
+              571.55
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "This program aims to improve awareness, encourage safe behaviors, promote HIV testing, and reduce stigma within the workplace."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              545.0139999999999,
+              525.6359999999995,
+              571.55
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "abbb7759-2118-4c13-bdc5-bc128abfe0d1",
+          "page_index": 3,
+          "order": 7,
+          "reading_order": 7,
+          "geometry": {
+            "bbox": [
+              72.024,
+              590.614,
+              203.90599999999998,
+              601.31
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "1.1 TRAINING OBJECTIVES"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              590.614,
+              203.90599999999998,
+              601.31
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7f24b438-c7d5-4e33-a20d-7f1574f5f5e0",
+          "page_index": 3,
+          "order": 8,
+          "reading_order": 8,
+          "geometry": {
+            "bbox": [
+              72.024,
+              619.534,
+              444.07599999999996,
+              630.23
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "The following are the objectives of the HIV/AIDS and COVID 19 awareness program:"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              619.534,
+              444.07599999999996,
+              630.23
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "2cc10665-2902-4ced-b6bd-ce47842763b3",
+          "page_index": 3,
+          "order": 9,
+          "reading_order": 9,
+          "geometry": {
+            "bbox": [
+              90.024,
+              650.2539999999999,
+              478.51599999999996,
+              660.9499999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Increase Knowledge about HIV/AID and Capacity Building for Preventive measures."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              650.2539999999999,
+              478.51599999999996,
+              660.9499999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "6abb248a-842c-4da6-86f4-1c981fc0e5ce",
+          "page_index": 3,
+          "order": 10,
+          "reading_order": 10,
+          "geometry": {
+            "bbox": [
+              90.024,
+              666.8439999999999,
+              305.566,
+              677.54
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Promote Safe Behaviors and Risk Reduction"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              666.8439999999999,
+              305.566,
+              677.54
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "db4a7277-2a7c-4448-afd7-0da3d16a896e",
+          "page_index": 3,
+          "order": 11,
+          "reading_order": 11,
+          "geometry": {
+            "bbox": [
+              90.024,
+              683.524,
+              345.046,
+              694.22
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Strengthen Access to Prevention and Health Services"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              683.524,
+              345.046,
+              694.22
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "1c5fd0a8-55ba-494e-8fef-8b2ba8babe6d",
+          "page_index": 3,
+          "order": 12,
+          "reading_order": 12,
+          "geometry": {
+            "bbox": [
+              90.024,
+              700.204,
+              349.246,
+              710.9
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Integrate Health and Safety into Workplace Operations"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              700.204,
+              349.246,
+              710.9
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "69e07714-05d5-4ab7-9bb4-bf9178450da6",
+          "page_index": 3,
+          "order": 13,
+          "reading_order": 13,
+          "geometry": {
+            "bbox": [
+              90.024,
+              716.884,
+              391.366,
+              727.5799999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Reduce Stigma, Discrimination, and Improve Workplace Welfare"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              716.884,
+              391.366,
+              727.5799999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "86d2aef0-111e-4e52-abed-5f9aa2f8f404",
+          "page_index": 3,
+          "order": 14,
+          "reading_order": 14,
+          "geometry": {
+            "bbox": [
+              90.024,
+              733.56,
+              384.406,
+              744.256
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Enhance Monitoring, Evaluation, and Continuous Improvement"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              733.56,
+              384.406,
+              744.256
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "2d4ca8d4-a612-43e8-af4b-026cf46b566f",
+          "page_index": 3,
+          "order": 15,
+          "reading_order": 15,
+          "geometry": {
+            "bbox": [
+              230.478515625,
+              37.085750579833984,
+              413.72869873046875,
+              104.23297119140625
+            ]
+          },
+          "content": {
+            "kind": "image"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": false,
+            "translate_reason": "layout_role=paragraph"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "picture",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              230.478515625,
+              37.085750579833984,
+              413.72869873046875,
+              104.23297119140625
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    },
+    {
+      "page_index": 4,
+      "page": 5,
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "43180243-16f6-4c60-9a6f-9680f825f7a8",
+          "page_index": 4,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              72.024,
+              108.644,
+              207.146,
+              119.34000000000003
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "1.2 TARGET PARTICIPANTS"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              108.644,
+              207.146,
+              119.34000000000003
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "0d1f7f30-5fe9-4c80-b95b-41141fd2840c",
+          "page_index": 4,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              72.024,
+              137.44399999999996,
+              213.146,
+              148.14
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "The training program will target:"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              137.44399999999996,
+              213.146,
+              148.14
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "2def0422-bd18-4d7e-8b05-2b26e61e49b4",
+          "page_index": 4,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              90.024,
+              166.12400000000002,
+              203.18599999999998,
+              176.82000000000005
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Construction workers"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              166.12400000000002,
+              203.18599999999998,
+              176.82000000000005
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "2b123588-68a9-4078-964b-b2ce073a8254",
+          "page_index": 4,
+          "order": 3,
+          "reading_order": 3,
+          "geometry": {
+            "bbox": [
+              90.024,
+              180.644,
+              180.74599999999998,
+              191.34000000000003
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Site supervisors"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              180.644,
+              180.74599999999998,
+              191.34000000000003
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "4ffcd449-0181-423f-b97e-b819d89b3ed9",
+          "page_index": 4,
+          "order": 4,
+          "reading_order": 4,
+          "geometry": {
+            "bbox": [
+              90.024,
+              195.284,
+              193.946,
+              205.98000000000002
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Administrative staff"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              195.284,
+              193.946,
+              205.98000000000002
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "162e73f5-6217-4250-a214-c66351f5998c",
+          "page_index": 4,
+          "order": 5,
+          "reading_order": 5,
+          "geometry": {
+            "bbox": [
+              90.024,
+              209.80399999999997,
+              173.18599999999998,
+              220.5
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Safety officers"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              209.80399999999997,
+              173.18599999999998,
+              220.5
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "c1cb3f02-c95e-4d1a-85bd-3def11f4f501",
+          "page_index": 4,
+          "order": 6,
+          "reading_order": 6,
+          "geometry": {
+            "bbox": [
+              72.024,
+              238.60111999999992,
+              268.88888,
+              252.82679999999993
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "2.0 TRAINING METHODOLOGY"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              238.60111999999992,
+              268.88888,
+              252.82679999999993
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "5456c604-b0c6-446f-a6b5-62a8a7e83a49",
+          "page_index": 4,
+          "order": 7,
+          "reading_order": 7,
+          "geometry": {
+            "bbox": [
+              72.024,
+              271.4839999999999,
+              421.156,
+              282.17999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "The training will use participatory and interactive learning approaches including:"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              271.4839999999999,
+              421.156,
+              282.17999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "137ab2aa-1f2e-43e1-ad6d-d420471b6ec4",
+          "page_index": 4,
+          "order": 8,
+          "reading_order": 8,
+          "geometry": {
+            "bbox": [
+              90.024,
+              300.07399999999996,
+              205.946,
+              310.77
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Interactive workshops"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              300.07399999999996,
+              205.946,
+              310.77
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "cd66a226-5522-4817-a2af-15e3ee0ef110",
+          "page_index": 4,
+          "order": 9,
+          "reading_order": 9,
+          "geometry": {
+            "bbox": [
+              90.024,
+              314.59399999999994,
+              191.786,
+              325.28999999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Group discussions"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              314.59399999999994,
+              191.786,
+              325.28999999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "672e6f15-9e4b-46e4-82a3-8f0581ebfac9",
+          "page_index": 4,
+          "order": 10,
+          "reading_order": 10,
+          "geometry": {
+            "bbox": [
+              90.024,
+              329.2339999999999,
+              336.286,
+              339.92999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Practical demonstrations (e.g., correct condom use)"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              329.2339999999999,
+              336.286,
+              339.92999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "56e5eb35-1b5e-4aa4-8137-d927a953b05d",
+          "page_index": 4,
+          "order": 11,
+          "reading_order": 11,
+          "geometry": {
+            "bbox": [
+              90.024,
+              343.87399999999997,
+              193.346,
+              354.56999999999994
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Educational videos"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              343.87399999999997,
+              193.346,
+              354.56999999999994
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "882a959b-a208-40a6-8bf6-59be7bc30593",
+          "page_index": 4,
+          "order": 12,
+          "reading_order": 12,
+          "geometry": {
+            "bbox": [
+              90.024,
+              358.39399999999995,
+              244.826,
+              369.0899999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Question and answer sessions"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              358.39399999999995,
+              244.826,
+              369.0899999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "64cf88ae-e9a7-4b36-af82-e30470d098b6",
+          "page_index": 4,
+          "order": 13,
+          "reading_order": 13,
+          "geometry": {
+            "bbox": [
+              90.024,
+              373.034,
+              266.786,
+              383.72999999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Distribution of educational materials"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              373.034,
+              266.786,
+              383.72999999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "86c10635-65b2-4ab9-9800-249c414fe579",
+          "page_index": 4,
+          "order": 14,
+          "reading_order": 14,
+          "geometry": {
+            "bbox": [
+              90.024,
+              387.554,
+              348.286,
+              398.24999999999994
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Guidance on Voluntary Counselling and Testing (VCT)"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              387.554,
+              348.286,
+              398.24999999999994
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "fe33dac8-0211-4ced-ac0f-32ea358fdef4",
+          "page_index": 4,
+          "order": 15,
+          "reading_order": 15,
+          "geometry": {
+            "bbox": [
+              72.024,
+              416.23112,
+              277.64887999999996,
+              430.4568
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "3.0 SIX-MONTH TRAINING PLAN"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              416.23112,
+              277.64887999999996,
+              430.4568
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "54efd0a8-a89d-402c-b42f-b481e5a67783",
+          "page_index": 4,
+          "order": 16,
+          "reading_order": 16,
+          "geometry": {
+            "bbox": [
+              72.024,
+              435.19399999999996,
+              508.11999999999995,
+              460.6499999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "The following is the plan for the six month awareness program concerning HIV/AIDS and COVID 19 issues in the Malindi Wharf modernization project."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              435.19399999999996,
+              508.11999999999995,
+              460.6499999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              65.25691986083984,
+              492.7384033203125,
+              504.705078125,
+              749.6138916015625
+            ]
+          },
+          "content": {
+            "kind": "table"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              65.25691986083984,
+              492.7384033203125,
+              504.705078125,
+              749.6138916015625
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-0",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              72.024,
+              496.294,
+              84.636,
+              506.98999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Sn"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              496.294,
+              84.636,
+              506.98999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-1",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              108.86,
+              496.294,
+              138.272,
+              506.98999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              496.294,
+              138.272,
+              506.98999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-2",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              171.89,
+              496.294,
+              215.738,
+              506.98999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Activities"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              496.294,
+              215.738,
+              506.98999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-3",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              90.024,
+              510.57399999999996,
+              98.28,
+              521.27
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "1."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              510.57399999999996,
+              98.28,
+              521.27
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-4",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              108.86,
+              510.57399999999996,
+              144.41599999999997,
+              521.27
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month 1"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              510.57399999999996,
+              144.41599999999997,
+              521.27
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-5",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              171.89,
+              510.57399999999996,
+              498.37399999999985,
+              550.79
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Basic understanding of HIV and AIDS  Hold introductory sensitization meeting on HIV/AIDS and prevention measures"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              510.57399999999996,
+              498.37399999999985,
+              550.79
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-6",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              90.024,
+              570.454,
+              98.28,
+              581.1499999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "2."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              570.454,
+              98.28,
+              581.1499999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-7",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              108.86,
+              570.454,
+              144.41599999999997,
+              581.1499999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month 2"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              570.454,
+              144.41599999999997,
+              581.1499999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-8",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              171.89,
+              570.454,
+              492.7219999999997,
+              608.63
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Organize HIV/AIDS awareness training sessions for workers and staff  Train peer educators on basic counseling and prevention messaging  Distribute IEC materials (posters, brochures) on HIV prevention"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              570.454,
+              492.7219999999997,
+              608.63
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-9",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              90.024,
+              626.2539999999999,
+              98.28,
+              636.9499999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "3."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              626.2539999999999,
+              98.28,
+              636.9499999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-10",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              108.86,
+              626.2539999999999,
+              144.41599999999997,
+              636.9499999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month 3"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              626.2539999999999,
+              144.41599999999997,
+              636.9499999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-11",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              171.89,
+              626.2539999999999,
+              476.90599999999984,
+              678.26
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Conduct behavior change communication (BCC) sessions on safe practices  Organize condom education and correct-use demonstrations  Facilitate peer-to-peer discussions on risk reduction strategies"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              626.2539999999999,
+              476.90599999999984,
+              678.26
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-12",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              90.024,
+              695.884,
+              98.28,
+              706.5799999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "4."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              695.884,
+              98.28,
+              706.5799999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-13",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              108.86,
+              695.884,
+              144.41599999999997,
+              706.5799999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month 4"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              695.884,
+              144.41599999999997,
+              706.5799999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592-cell-14",
+          "page_index": 4,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              171.89,
+              695.884,
+              485.3079999999999,
+              747.856
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Arrange voluntary counseling and testing (VCT) campaign at the workplace  Link workers to nearby health facilities for HIV services and support  Conduct referral system awareness sessions for treatment and care"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              695.884,
+              485.3079999999999,
+              747.856
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "f915a4ed-2fd9-4f2a-8812-c20f9f769592"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "dc35d830-7e7a-452f-9396-6f3c25b48a85",
+          "page_index": 4,
+          "order": 18,
+          "reading_order": 18,
+          "geometry": {
+            "bbox": [
+              72.024,
+              472.89399999999995,
+              250.346,
+              483.5899999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Table 1: Description of the Training Plan"
+          },
+          "layout_role": "caption",
+          "semantic_role": "body",
+          "structure_role": "caption",
+          "policy": {
+            "translate": false,
+            "translate_reason": "layout_role=caption"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "caption",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              472.89399999999995,
+              250.346,
+              483.5899999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7dcdcb11-075a-4eb1-be6f-9a98bf34acf5",
+          "page_index": 4,
+          "order": 19,
+          "reading_order": 19,
+          "geometry": {
+            "bbox": [
+              230.64520263671875,
+              37.26987075805664,
+              413.52789306640625,
+              103.61095428466797
+            ]
+          },
+          "content": {
+            "kind": "image"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": false,
+            "translate_reason": "layout_role=paragraph"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "picture",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              230.64520263671875,
+              37.26987075805664,
+              413.52789306640625,
+              103.61095428466797
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    },
+    {
+      "page_index": 5,
+      "page": 6,
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "448b6fec-525f-4d1f-b7ab-52cbe0c8c48d",
+          "page_index": 5,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              230.7643585205078,
+              37.23909378051758,
+              413.35626220703125,
+              103.85367584228516
+            ]
+          },
+          "content": {
+            "kind": "image"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": false,
+            "translate_reason": "layout_role=paragraph"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "picture",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              230.7643585205078,
+              37.23909378051758,
+              413.35626220703125,
+              103.85367584228516
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              65.29300689697266,
+              105.48509216308594,
+              504.7447509765625,
+              310.6680603027344
+            ]
+          },
+          "content": {
+            "kind": "table"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              65.29300689697266,
+              105.48509216308594,
+              504.7447509765625,
+              310.6680603027344
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-0",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              72.024,
+              109.12400000000002,
+              84.636,
+              119.82000000000005
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Sn"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              109.12400000000002,
+              84.636,
+              119.82000000000005
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-1",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              108.86,
+              109.12400000000002,
+              138.272,
+              119.82000000000005
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              109.12400000000002,
+              138.272,
+              119.82000000000005
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-2",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              171.89,
+              109.12400000000002,
+              215.738,
+              119.82000000000005
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Activities"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              109.12400000000002,
+              215.738,
+              119.82000000000005
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-3",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              189.89,
+              123.404,
+              225.98599999999996,
+              134.10000000000002
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "services"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              189.89,
+              123.404,
+              225.98599999999996,
+              134.10000000000002
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-4",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              90.024,
+              151.60399999999993,
+              98.28,
+              162.29999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "5."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              151.60399999999993,
+              98.28,
+              162.29999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-5",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              108.86,
+              151.60399999999993,
+              144.41599999999997,
+              162.29999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month 5"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              151.60399999999993,
+              144.41599999999997,
+              162.29999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-6",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              171.89,
+              165.404,
+              484.6579999999997,
+              217.38
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Integrate HIV/AIDS and occupational health topics into toolbox talks  Conduct anti-stigma and discrimination awareness campaign  Organize workplace dialogue sessions on employee welfare and inclusion"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              165.404,
+              484.6579999999997,
+              217.38
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-7",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              90.024,
+              234.764,
+              98.28,
+              245.46000000000004
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "6."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              234.764,
+              98.28,
+              245.46000000000004
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-8",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              108.86,
+              234.764,
+              144.41599999999997,
+              245.46000000000004
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Month 6"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              108.86,
+              234.764,
+              144.41599999999997,
+              245.46000000000004
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "7d19cd56-18cf-498d-80b7-9e363a439541-cell-9",
+          "page_index": 5,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              171.89,
+              234.764,
+              498.3379999999999,
+              293.01
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Conduct end line survey to measure knowledge and behavior change  Review program achievements against baseline results  Hold feedback and lessons learned workshop for improvement planning"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "table_cell"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "table_cell",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              171.89,
+              234.764,
+              498.3379999999999,
+              293.01
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {
+            "parent_block_id": "7d19cd56-18cf-498d-80b7-9e363a439541"
+          },
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "ae94dbf1-d04f-48f9-b431-3ecec7bfbba5",
+          "page_index": 5,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              325.6311199999999,
+              386.98888,
+              339.85679999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "4.0 EXPECTED PROVISIONS FOR THE PROGRAM"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              325.6311199999999,
+              386.98888,
+              339.85679999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "d0130617-3624-4f6c-9614-4e1c7e824d69",
+          "page_index": 5,
+          "order": 3,
+          "reading_order": 3,
+          "geometry": {
+            "bbox": [
+              72.024,
+              358.51399999999995,
+              225.74599999999998,
+              369.2099999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Vision and Care Clinic will provide:"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              358.51399999999995,
+              225.74599999999998,
+              369.2099999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "1eb76f56-1546-4639-a0b6-7b7213c7cd7a",
+          "page_index": 5,
+          "order": 4,
+          "reading_order": 4,
+          "geometry": {
+            "bbox": [
+              90.024,
+              389.114,
+              324.76599999999996,
+              399.80999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Qualified health educators for conducting training"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              389.114,
+              324.76599999999996,
+              399.80999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "53b7fcb4-b7a3-4ff7-92ab-61da2daaaf93",
+          "page_index": 5,
+          "order": 5,
+          "reading_order": 5,
+          "geometry": {
+            "bbox": [
+              90.024,
+              405.794,
+              399.07599999999996,
+              416.48999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Monthly training sessions to the community members and workers"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              405.794,
+              399.07599999999996,
+              416.48999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "78678d7d-ed28-4aad-9396-0eec66848619",
+          "page_index": 5,
+          "order": 6,
+          "reading_order": 6,
+          "geometry": {
+            "bbox": [
+              90.024,
+              422.474,
+              397.036,
+              433.16999999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Training materials and handouts such as magazines and notices."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              422.474,
+              397.036,
+              433.16999999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "dcc92904-2c14-4715-af2a-4c553bd46f85",
+          "page_index": 5,
+          "order": 7,
+          "reading_order": 7,
+          "geometry": {
+            "bbox": [
+              90.024,
+              439.034,
+              315.88599999999997,
+              449.72999999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " HIV/AIDS awareness posters for the workplace"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              439.034,
+              315.88599999999997,
+              449.72999999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "17211d0f-f0f7-458f-ab04-2b6ccafe9df5",
+          "page_index": 5,
+          "order": 8,
+          "reading_order": 8,
+          "geometry": {
+            "bbox": [
+              90.024,
+              455.71399999999994,
+              290.32599999999996,
+              466.4099999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Monitoring and evaluation of the program"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              455.71399999999994,
+              290.32599999999996,
+              466.4099999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "80c79831-24d5-4552-825a-1672404eb6d7",
+          "page_index": 5,
+          "order": 9,
+          "reading_order": 9,
+          "geometry": {
+            "bbox": [
+              90.024,
+              472.414,
+              264.506,
+              483.10999999999996
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " Reports for the conducted activities"
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              472.414,
+              264.506,
+              483.10999999999996
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "16755c6a-792b-4bbf-a098-ddcece9e16ee",
+          "page_index": 5,
+          "order": 10,
+          "reading_order": 10,
+          "geometry": {
+            "bbox": [
+              72.024,
+              503.01111999999995,
+              270.20888,
+              517.2367999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "5.0 EXPECTED ACHIVEMENTS"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              503.01111999999995,
+              270.20888,
+              517.2367999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "ea39ed96-f948-48fe-8cfb-a31a69f48eec",
+          "page_index": 5,
+          "order": 11,
+          "reading_order": 11,
+          "geometry": {
+            "bbox": [
+              72.024,
+              537.334,
+              226.346,
+              548.03
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "By the end of the training program:"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              537.334,
+              226.346,
+              548.03
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "321f2acf-4362-4bb8-a9e1-3aea942dce49",
+          "page_index": 5,
+          "order": 12,
+          "reading_order": 12,
+          "geometry": {
+            "bbox": [
+              90.024,
+              568.054,
+              525.9339999999997,
+              594.47
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " To enhance understanding of HIV/AIDS and COVID-19 transmission, prevention, and control through structured training, awareness campaigns, and peer education."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              568.054,
+              525.9339999999997,
+              594.47
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "4bbd9ba2-bbbf-4814-a08e-399ede55d27f",
+          "page_index": 5,
+          "order": 13,
+          "reading_order": 13,
+          "geometry": {
+            "bbox": [
+              90.024,
+              600.454,
+              525.7699999999994,
+              626.99
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " To encourage positive behavioral change among workers that reduces exposure to infection and promotes safe practices in both workplace and community settings."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              600.454,
+              525.7699999999994,
+              626.99
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "83719819-be7d-4cdf-8571-51ab0f97ac09",
+          "page_index": 5,
+          "order": 14,
+          "reading_order": 14,
+          "geometry": {
+            "bbox": [
+              90.024,
+              632.9739999999999,
+              525.9579999999999,
+              659.51
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " To  improve  access  to  voluntary  counselling  and  testing  (VCT),  treatment  services,  and preventive materials such as condoms and personal protective equipment."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              632.9739999999999,
+              525.9579999999999,
+              659.51
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "97daf73b-fe46-4e6c-b2ed-0e684b057530",
+          "page_index": 5,
+          "order": 15,
+          "reading_order": 15,
+          "geometry": {
+            "bbox": [
+              90.024,
+              665.524,
+              526.1759999999999,
+              692.06
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " To incorporate HIV/AIDS and COVID-19 preventive measures into daily construction activities, site safety systems, and project management procedures."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              665.524,
+              526.1759999999999,
+              692.06
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "b9deebb8-68d7-403b-ae5d-0c126f7677c0",
+          "page_index": 5,
+          "order": 16,
+          "reading_order": 16,
+          "geometry": {
+            "bbox": [
+              90.024,
+              698.044,
+              525.6199999999999,
+              724.4599999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " To promote a supportive working environment by reducing stigma, encouraging inclusion, and safeguarding the dignity of affected workers."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              698.044,
+              525.6199999999999,
+              724.4599999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "54ef3c86-e137-48b9-a84d-9144b8b66044",
+          "page_index": 5,
+          "order": 17,
+          "reading_order": 17,
+          "geometry": {
+            "bbox": [
+              90.024,
+              730.444,
+              526.176,
+              754.9359999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": " To track implementation effectiveness, evaluate outcomes, and continuously improve program delivery based on feedback and data."
+          },
+          "layout_role": "list_item",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "list_item",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              90.024,
+              730.444,
+              526.176,
+              754.9359999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    },
+    {
+      "page_index": 6,
+      "page": 7,
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "532175f8-6f14-495d-a2f6-a558d39379d8",
+          "page_index": 6,
+          "order": 0,
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              230.5552520751953,
+              36.8008918762207,
+              413.748291015625,
+              103.68273162841797
+            ]
+          },
+          "content": {
+            "kind": "image"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": false,
+            "translate_reason": "layout_role=paragraph"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "picture",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              230.5552520751953,
+              36.8008918762207,
+              413.748291015625,
+              103.68273162841797
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "345f1f7a-47fb-4cf6-a7d5-2c0a25af6ecb",
+          "page_index": 6,
+          "order": 1,
+          "reading_order": 1,
+          "geometry": {
+            "bbox": [
+              72.024,
+              109.60111999999992,
+              201.08888,
+              123.82679999999993
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "6.0 TRAINING COST"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              109.60111999999992,
+              201.08888,
+              123.82679999999993
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "3c0b7d99-8f9f-42e8-bb0d-2c764018faea",
+          "page_index": 6,
+          "order": 2,
+          "reading_order": 2,
+          "geometry": {
+            "bbox": [
+              72.024,
+              142.48399999999992,
+              237.86599999999999,
+              153.17999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Monthly Training Fee: TZS 1,200,000"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              142.48399999999992,
+              237.86599999999999,
+              153.17999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "95b067e7-fbb4-4324-8f51-f0a53d0ce41f",
+          "page_index": 6,
+          "order": 3,
+          "reading_order": 3,
+          "geometry": {
+            "bbox": [
+              72.024,
+              170.20399999999995,
+              198.386,
+              180.89999999999998
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Program Duration: 6 Months"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              170.20399999999995,
+              198.386,
+              180.89999999999998
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "612192aa-f109-48a2-9f8b-7213e9d2934b",
+          "page_index": 6,
+          "order": 4,
+          "reading_order": 4,
+          "geometry": {
+            "bbox": [
+              72.024,
+              197.92399999999998,
+              230.666,
+              208.62
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Total Program Cost: TZS 7,200,000"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              197.92399999999998,
+              230.666,
+              208.62
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "2ed02530-5050-4b95-81a2-7081fb8792d3",
+          "page_index": 6,
+          "order": 5,
+          "reading_order": 5,
+          "geometry": {
+            "bbox": [
+              72.024,
+              226.72111999999993,
+              185.72888,
+              240.94679999999994
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "7.0 CONCLUSION"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              226.72111999999993,
+              185.72888,
+              240.94679999999994
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "870dd2a4-d160-45ae-9bd7-4da9b1ee4ccd",
+          "page_index": 6,
+          "order": 6,
+          "reading_order": 6,
+          "geometry": {
+            "bbox": [
+              72.024,
+              259.6039999999999,
+              525.8979999999995,
+              297.80999999999995
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Vision  Care  Clinic  is  committed  to  improving  community  health  through  education,  prevention,  and support  services.  This  HIV/AIDS  awareness  program  will  help  create  a  safer,  healthier,  and  more informed workplace for construction company employees."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              259.6039999999999,
+              525.8979999999995,
+              297.80999999999995
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "0ff35ac5-1531-4c53-9797-c0af6cac339f",
+          "page_index": 6,
+          "order": 7,
+          "reading_order": 7,
+          "geometry": {
+            "bbox": [
+              72.024,
+              314.83399999999995,
+              451.276,
+              325.53
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "We look forward to working together to promote health and wellbeing in the workplace."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              314.83399999999995,
+              451.276,
+              325.53
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "b835dbc8-5c26-4a63-a17a-1afa11ebe0e4",
+          "page_index": 6,
+          "order": 8,
+          "reading_order": 8,
+          "geometry": {
+            "bbox": [
+              72.024,
+              369.19111999999996,
+              182.84888,
+              383.41679999999997
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "8.0 APPENDICES"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              369.19111999999996,
+              182.84888,
+              383.41679999999997
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "9106cf7a-6c57-4494-9bd9-a0e987cc39fd",
+          "page_index": 6,
+          "order": 9,
+          "reading_order": 9,
+          "geometry": {
+            "bbox": [
+              72.024,
+              390.07399999999996,
+              263.426,
+              400.7699999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "APPENDIX I: CONTACTS INFORMATION"
+          },
+          "layout_role": "heading",
+          "semantic_role": "body",
+          "structure_role": "heading",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "section_header",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              72.024,
+              390.07399999999996,
+              263.426,
+              400.7699999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "dc9d25ee-d39d-4e16-9af7-547f210287bf",
+          "page_index": 6,
+          "order": 10,
+          "reading_order": 10,
+          "geometry": {
+            "bbox": [
+              208.73,
+              404.95399999999995,
+              389.806,
+              415.6499999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "P o Box 21222 Dar es Salaam Tanzania,"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              208.73,
+              404.95399999999995,
+              389.806,
+              415.6499999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "a796a8f5-d29c-40b4-b396-fcb0da6100e1",
+          "page_index": 6,
+          "order": 11,
+          "reading_order": 11,
+          "geometry": {
+            "bbox": [
+              197.21,
+              419.83399999999995,
+              401.476,
+              430.5299999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Phone: +255 755 651 111 / +255 785 948 949"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              197.21,
+              419.83399999999995,
+              401.476,
+              430.5299999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        },
+        {
+          "block_id": "9b9bf74f-c4e0-4810-b572-700506259290",
+          "page_index": 6,
+          "order": 12,
+          "reading_order": 12,
+          "geometry": {
+            "bbox": [
+              237.17,
+              434.71399999999994,
+              358.29799999999994,
+              445.4099999999999
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Email:info@visioncare.co.tz"
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "main_text"
+          },
+          "provenance": {
+            "provider": "docling",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              237.17,
+              434.71399999999994,
+              358.29799999999994,
+              445.4099999999999
+            ],
+            "raw_path": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\Encl 3.HIV PROPOSAL（VISION CARE）.pdf"
+          },
+          "continuation_hint": {
+            "source": "",
+            "group_id": "",
+            "role": "",
+            "scope": "",
+            "reading_order": -1,
+            "confidence": 0.0
+          },
+          "metadata": {},
+          "source": {
+            "provider": "docling"
+          }
+        }
+      ]
+    }
+  ],
+  "assets": {},
+  "derived": {
+    "provider_signals": {
+      "provider": "docling",
+      "do_ocr": true,
+      "do_table_structure": true
+    },
+    "stats": {
+      "pages": 7,
+      "blocks": 114,
+      "elapsed_seconds": 12.46
+    }
+  },
+  "markers": {}
+}

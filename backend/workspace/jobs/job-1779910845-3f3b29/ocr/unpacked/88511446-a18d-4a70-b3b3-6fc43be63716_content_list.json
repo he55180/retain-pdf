@@ -1,0 +1,787 @@
+[
+    {
+        "type": "text",
+        "text": "Dar es Salaam Maritime Gateway Project (DMGP) ",
+        "text_level": 1,
+        "bbox": [
+            268,
+            101,
+            739,
+            118
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contract No: TZ-TPA-/424013-CW-DIR ",
+        "bbox": [
+            341,
+            118,
+            667,
+            131
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT ",
+        "bbox": [
+            121,
+            133,
+            885,
+            147
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Minutes of Weekly Meeting No.15 ",
+        "text_level": 1,
+        "bbox": [
+            361,
+            173,
+            658,
+            189
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reference: ",
+        "bbox": [
+            100,
+            206,
+            200,
+            219
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MoM- Weekly 15-2026/5/14 ",
+        "bbox": [
+            685,
+            206,
+            919,
+            222
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/a069406f33d6e21479e828ced9d253b8314e93444b1617e9472c229c5b1a15a8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Date/Start Time:</td><td>Thursday, 14thMay 2026 / 14:35hrs</td></tr><tr><td>Venue:</td><td>Contractor’s Conference Room at Site Camp OfficesDar es Salaam</td></tr><tr><td>Attendees:</td><td>See list annexed</td></tr></table>",
+        "bbox": [
+            90,
+            243,
+            929,
+            326
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/8a40665ad246b2bdfa20ebab918588b01dcf6944c53928d82d4a8756d962133d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Distribution List</td><td>Name</td><td>E-mail</td></tr><tr><td>Director General – TPA</td><td>Plasduce Mbossa</td><td>dg@ports.go.tz</td></tr><tr><td>Project Engineer (PE) – TPA</td><td>Twaha Msita</td><td>twaha.msita@ports.go.tz</td></tr><tr><td>Engineer (En) – INROS LACKNER</td><td>Klaus Richter</td><td>daressalaam.port@inros-lackner.de</td></tr><tr><td>Contractor’s Representative – CHEC</td><td>Bian Liang</td><td>tzdmgp@chec.bj.cn</td></tr></table>",
+        "bbox": [
+            90,
+            343,
+            929,
+            450
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0. Agenda of the Meeting ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            463,
+            341,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. Opening the Meeting ",
+            "2. Readiness of the Contractor to Start Work ",
+            "3. Contractual Matter ",
+            "1. Method Statement for the work ",
+            "2. Labourers, Materials and Equipment’s ",
+            "3. PM Facilities ",
+            "4. Daily, Weekly and Monthly Report "
+        ],
+        "bbox": [
+            127,
+            493,
+            510,
+            601
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4. AOB ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            601,
+            201,
+            614
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "1. New Defects ",
+            "2. Dumping Area ",
+            "3. First Aid Facilities ",
+            "4. Maintenance and Office Space ",
+            "5. Area for Precast Elements and Storage ",
+            "6. Illuminating Light in Container Yard Port ",
+            "7. Contractor’s Invoicing "
+        ],
+        "bbox": [
+            168,
+            615,
+            529,
+            721
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "5. Closure of the Meeting ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            721,
+            349,
+            736
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Opening the Meeting ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            765,
+            326,
+            781
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer. ",
+        "bbox": [
+            134,
+            787,
+            905,
+            818
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            102,
+            43,
+            147,
+            74
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "INROS LACKNER ",
+        "bbox": [
+            152,
+            45,
+            394,
+            73
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "TPA TANZANIA PORTS AUTHORITY ",
+        "bbox": [
+            495,
+            30,
+            623,
+            87
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "HEC ",
+        "bbox": [
+            813,
+            36,
+            929,
+            80
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "footer",
+        "text": "MoM-Weekly Meeting 15-2026/05/14 ",
+        "bbox": [
+            90,
+            942,
+            344,
+            956
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "Page 1 of 5 ",
+        "bbox": [
+            823,
+            942,
+            905,
+            956
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dar es Salaam Maritime Gateway Project (DMGP) ",
+        "text_level": 1,
+        "bbox": [
+            268,
+            102,
+            739,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Contract No: TZ-TPA-/424013-CW-DIR ",
+        "bbox": [
+            342,
+            118,
+            667,
+            131
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT ",
+        "bbox": [
+            122,
+            133,
+            885,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/15c617bacb2362bf95a5d74ae11dabc7ee636aa96aa8bd1c56ddc6ea61c417e5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Item</td><td>Description</td><td>Action</td></tr><tr><td>2.0</td><td>Readiness of the Contractor to Start Work</td><td></td></tr><tr><td></td><td>Regarding the site accessibility, the RE informed the meeting that, as reported during the tripartite meeting on 12 $^{th}$  May 2026, securing a working space within the port is still difficult at present. Nevertheless, the Employer undertook to keep following up with DP World to allocate space to the Contractor once the opportunity is favourable. Subsequently, it was agreed that TPA will arrange with DP World to issue port entry passes well in advance to Contractor&#x27;s workers to ease entry when the situation will allow to commence works.Regarding the paving blocks the Contractor was instructed to provide representative samples and verified test results derived from actual production intended for site works.The Contractor informed the meeting that he couldn&#x27;t find a reputable laboratory in the country capable of performing Skid Resistance tests, and therefore requested the RE to assist in the search for a laboratory in Tanzania to perform the said test.The RE has promised to investigate the issue and will advise accordingly. In the meantime, the Engineer is analysing the results of the Splitting Tensile tests submitted by the Contractor and will give his answer in short.</td><td>INFOCHECINFOIL</td></tr><tr><td>3.0</td><td>Contractual Matter</td><td></td></tr><tr><td>3.1</td><td>Labourers, Materials and Equipment&#x27;s</td><td></td></tr><tr><td></td><td>The RE once again reminded the Contractor to submit a list of all staff in accordance with the approved staff list in the Contract, for both Local and Foreign staff).Regarding foreign staff, RE reminded the Contractor to submit copies of Passport entry permit to show that they are allowed to enter and work in the country. The Contractor promised to submit before the next meeting on 21 $^{st}$  May, 2026.Regarding the mobilised equipment&#x27;s, the RE asked if the defective compressor is repaired already. The Contractor informed the Meeting that he still waiting for spare parts that was ordered from China and is expected to arrive before end of May 2026.Regarding the concrete mix design, the Contractor submitted the 28 days results and the Engineer is checking and will reply accordingly.</td><td>CHECCHECCHECIL</td></tr><tr><td>3.3</td><td>PM Facilities</td><td></td></tr><tr><td></td><td>The RE informed the meeting that, there was no update from TPA.</td><td>TPA</td></tr><tr><td>3.4</td><td>Daily, Weekly and Monthly Reports</td><td></td></tr><tr><td></td><td>The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday.</td><td>CHEC</td></tr></table>",
+        "bbox": [
+            90,
+            172,
+            929,
+            920
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            105,
+            43,
+            147,
+            74
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "INROS LACKNER ",
+        "bbox": [
+            152,
+            46,
+            394,
+            73
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "TPA TANZANIA PORTS AUTHORITY ",
+        "bbox": [
+            497,
+            30,
+            623,
+            87
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "HEC ",
+        "bbox": [
+            813,
+            38,
+            929,
+            80
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "footer",
+        "text": "MoM-Weekly Meeting 15-2026/05/14 ",
+        "bbox": [
+            90,
+            942,
+            344,
+            956
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "Page 2 of 5 ",
+        "bbox": [
+            823,
+            942,
+            905,
+            956
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dar es Salaam Maritime Gateway Project (DMGP) ",
+        "text_level": 1,
+        "bbox": [
+            268,
+            102,
+            739,
+            118
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Contract No: TZ-TPA-/424013-CW-DIR ",
+        "bbox": [
+            342,
+            118,
+            667,
+            131
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT ",
+        "bbox": [
+            122,
+            133,
+            885,
+            147
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/9ea77fa50dd8b404447b95775eac781a979e8b1f10590c9bac99a878c5241408.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>4.0</td><td>AOB</td><td></td></tr><tr><td>4.1</td><td>New defects</td><td></td></tr><tr><td></td><td>Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.</td><td>TPA/IL/CHEC</td></tr><tr><td>4.2</td><td>Dumping Area</td><td></td></tr><tr><td></td><td>As regard to Dumping area, the Contractor is still awaiting official communication from TPA.</td><td>TPA</td></tr><tr><td>4.3</td><td>First Aid Facilities</td><td></td></tr><tr><td></td><td>The third first aid room container already inspected jointly by the Contractor and Engineer on 10thApril at Supplier&#x27;s place and confirmed that it meets the need.The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026.</td><td>CHEC</td></tr><tr><td>4.4</td><td>Maintenance and Office Space</td><td></td></tr><tr><td></td><td>The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.</td><td>CHEC</td></tr><tr><td>4.5</td><td>Area for Precast Elements and Storage</td><td></td></tr><tr><td></td><td>Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion.The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility.The Contractor promised to put in writing before the next meeting on 21stMay 2026.</td><td>INFOCHEC</td></tr><tr><td>4.6</td><td>Illuminating Light in Container Yard Port</td><td></td></tr><tr><td></td><td>The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts.RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.</td><td>IL</td></tr><tr><td>4.7</td><td>Contractor&#x27;s Invoicing</td><td></td></tr><tr><td></td><td>The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.</td><td>CHEC</td></tr></table>",
+        "bbox": [
+            90,
+            172,
+            929,
+            909
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            105,
+            43,
+            147,
+            74
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "INROS LACKNER ",
+        "bbox": [
+            152,
+            46,
+            394,
+            73
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "TPA TANZANIA PORTS AUTHORITY ",
+        "bbox": [
+            497,
+            30,
+            623,
+            87
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "HEC ",
+        "bbox": [
+            813,
+            38,
+            929,
+            80
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "footer",
+        "text": "MoM-Weekly Meeting 15-2026/05/14 ",
+        "bbox": [
+            90,
+            942,
+            344,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "Page 3 of 5 ",
+        "bbox": [
+            823,
+            942,
+            905,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dar es Salaam Maritime Gateway Project (DMGP) ",
+        "text_level": 1,
+        "bbox": [
+            268,
+            102,
+            739,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Contract No: TZ-TPA-/424013-CW-DIR ",
+        "bbox": [
+            342,
+            118,
+            667,
+            131
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT ",
+        "bbox": [
+            122,
+            133,
+            885,
+            147
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/47ba0476fb0d3ea0a65c40e6b24161efc1dcc5317d7cd00b4e2055d0d40a15a0.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Next Meeting: Thursday, 21th May 2026 at 14:30hrs "
+        ],
+        "table_body": "<table><tr><td>5.0</td><td>Closure of the Meeting</td><td></td></tr><tr><td></td><td>There being no other business the meeting was declared closed at 14:56hrs</td><td>ALL</td></tr></table>",
+        "bbox": [
+            92,
+            172,
+            929,
+            235
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/efcb3eb2c64150c7875cd32f9ae090884fa4fd4ea478cbed63c5c302493e45cd.jpg",
+        "table_caption": [
+            "Signed By: "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Eng. Cheng Yongjian</td><td rowspan=\"3\"></td></tr><tr><td>Deputy Contractor&#x27;s Representative</td></tr><tr><td>For the CONTRACTOR – CHEC</td></tr></table>",
+        "bbox": [
+            92,
+            309,
+            929,
+            373
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/38649f4d01b9df2059b142ef212959b2b2e6e4aef3de11bea2fed9bc8bc8f84b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Eng. José Rodrigues</td><td rowspan=\"3\"></td></tr><tr><td>Resident Engineer</td></tr><tr><td>For the ENGINEER – IL</td></tr></table>",
+        "bbox": [
+            92,
+            397,
+            929,
+            461
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            105,
+            43,
+            147,
+            74
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "INROS LACKNER ",
+        "bbox": [
+            152,
+            46,
+            394,
+            73
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "TPA TANZANIA PORTS AUTHORITY ",
+        "bbox": [
+            497,
+            30,
+            623,
+            87
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "header",
+        "text": "HEC ",
+        "bbox": [
+            813,
+            38,
+            929,
+            80
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "footer",
+        "text": "MoM-Weekly Meeting 15-2026/05/14 ",
+        "bbox": [
+            90,
+            942,
+            344,
+            956
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "page_number",
+        "text": "Page 4 of 5 ",
+        "bbox": [
+            823,
+            942,
+            905,
+            956
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dar es Salaam Maritime Gateway Project (DMGP) ",
+        "text_level": 1,
+        "bbox": [
+            268,
+            102,
+            739,
+            118
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Contract No: TZ-TPA-/424013-CW-DIR ",
+        "bbox": [
+            342,
+            118,
+            665,
+            131
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            133,
+            885,
+            147
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            184,
+            758,
+            215,
+            925
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            223,
+            453,
+            265,
+            923
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            270,
+            758,
+            282,
+            923
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8a4f3ec7904029688903ecb38d4481ab20f6a766be22c799ceab68585b69716.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>No</td><td>Name</td><td>Company</td><td>Mobile</td><td>E-mail</td><td>Position</td><td>Signature</td></tr><tr><td>1</td><td>Jose Rodriguez</td><td>TL</td><td>0787608128</td><td>joe.bamoni@jimeng-lao.huan.uef</td><td>R.E.</td><td>T.</td></tr><tr><td>2</td><td>Johnstone Mutalemist</td><td>IL</td><td>0713250187</td><td>johnsbagc@gmail.com</td><td>Ass.RE</td><td>Jinwen</td></tr><tr><td>3</td><td>Geraldine J. Kilawasi</td><td>IL</td><td>0754763255</td><td>gikikawa@yahoo.com</td><td>QJS</td><td>###</td></tr><tr><td>4</td><td>Alistides R. Rwiza</td><td>IL</td><td>0754388423</td><td>nitta2923@gmail.com</td><td>WInspector</td><td>###</td></tr><tr><td>5</td><td>Gidesh Cimes</td><td>IL</td><td>0756270098</td><td>g.gamo_g@yahoo.com</td><td>M.limpedow</td><td>###</td></tr><tr><td>6</td><td>Bahlada Girangey</td><td>IL</td><td>0787110604</td><td>mattygiangay@yahoo.com</td><td>PS</td><td>Pausauy</td></tr><tr><td>7</td><td>cheng Yang Jian</td><td>CHEC</td><td>0777024687</td><td>yjcheng@chel.bj.cn</td><td>Deputy CR.</td><td>戎和健</td></tr><tr><td>8</td><td>JIN SHIWEN</td><td>CHEC</td><td>0656259636</td><td>swjin@chec.bj.cn</td><td>Civil Engleer</td><td>折世</td></tr><tr><td>9</td><td>Chen Yichong Ting</td><td>CHEC</td><td>0741183600</td><td>ydclchen@chec.bj.cn</td><td>Civil Eng.</td><td>陈乙东夏</td></tr><tr><td>10</td><td>Khadija EL KHEBIR</td><td>CHEC</td><td>0790931306</td><td>kheek.chec@gmail.com</td><td>Contracts Specialist</td><td>###</td></tr><tr><td>11</td><td>Wongzhen</td><td>CHEC</td><td>062318598</td><td>102425344@qq.com</td><td>Site Engnor</td><td>###</td></tr><tr><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>16</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>18</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>19</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>20</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            297,
+            181,
+            810,
+            925
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "",
+        "bbox": [
+            104,
+            43,
+            147,
+            74
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "INROS LACKNER ",
+        "bbox": [
+            152,
+            45,
+            394,
+            73
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "TPA TANZANIA PORTS AUTHORITY ",
+        "bbox": [
+            497,
+            30,
+            623,
+            87
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "header",
+        "text": "HEC ",
+        "bbox": [
+            813,
+            38,
+            929,
+            80
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "footer",
+        "text": "MoM-Weekly Meeting 15-2026/05/14 ",
+        "bbox": [
+            92,
+            942,
+            342,
+            956
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "page_number",
+        "text": "Page 5 of 5 ",
+        "bbox": [
+            823,
+            942,
+            905,
+            956
+        ],
+        "page_idx": 4
+    }
+]

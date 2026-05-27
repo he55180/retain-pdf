@@ -1,0 +1,89 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "CW-DIR": {
+      "hits": 1,
+      "key": "CW-DIR",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b003"
+      ],
+      "value": "CW-DIR"
+    },
+    "DMGP": {
+      "hits": 1,
+      "key": "DMGP",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b002"
+      ],
+      "value": "DMGP"
+    },
+    "DP World": {
+      "hits": 1,
+      "key": "DP World",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "DP World"
+    },
+    "In": {
+      "hits": 1,
+      "key": "In",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b014"
+      ],
+      "value": "In"
+    },
+    "RE": {
+      "hits": 2,
+      "key": "RE",
+      "prompt_eligible": true,
+      "sources": [
+        "p003-b036"
+      ],
+      "value": "驻地工程师"
+    },
+    "Splitting Tensile": {
+      "hits": 1,
+      "key": "Splitting Tensile",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b014"
+      ],
+      "value": "Splitting Tensile"
+    },
+    "TPA": {
+      "hits": 5,
+      "key": "TPA",
+      "prompt_eligible": true,
+      "sources": [
+        "p003-b014",
+        "p002-b011",
+        "p002-b033"
+      ],
+      "value": "坦桑尼亚港务局"
+    },
+    "TZ-TPA": {
+      "hits": 1,
+      "key": "TZ-TPA",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b003"
+      ],
+      "value": "TZ-TPA"
+    },
+    "World": {
+      "hits": 1,
+      "key": "World",
+      "prompt_eligible": true,
+      "sources": [
+        "p002-b011"
+      ],
+      "value": "World"
+    }
+  },
+  "version": 1
+}

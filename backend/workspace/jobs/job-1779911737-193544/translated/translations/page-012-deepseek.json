@@ -1,0 +1,2430 @@
+[
+  {
+    "item_id": "p012-b000",
+    "page_idx": 11,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      273.44887288411456,
+      179.09476725260413,
+      345.8323974609375,
+      190.55342610677087
+    ],
+    "source_text": "ANNEXURE3",
+    "lines": [
+      {
+        "bbox": [
+          273.44887288411456,
+          179.09476725260413,
+          345.8323974609375,
+          190.55342610677087
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ANNEXURE3",
+            "bbox": [
+              273.44887288411456,
+              179.09476725260413,
+              345.8323974609375,
+              190.55342610677087
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ANNEXURE3",
+    "mixed_original_protected_source_text": "ANNEXURE3",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b000"
+    ],
+    "translation_unit_protected_source_text": "ANNEXURE3",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "附录3",
+    "translation_unit_translated_text": "附录3",
+    "protected_translated_text": "附录3",
+    "translated_text": "附录3",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b000",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "20.Intubation kit / LIMIIED",
+    "translation_context_after": "PAYMENTRATESFORTHESERVICES / Description"
+  },
+  {
+    "item_id": "p012-b001",
+    "page_idx": 11,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      209.10795084635416,
+      203.2852783203125,
+      408.0568033854167,
+      215.59275309244788
+    ],
+    "source_text": "PAYMENTRATESFORTHESERVICES",
+    "lines": [
+      {
+        "bbox": [
+          209.10795084635416,
+          203.2852783203125,
+          408.0568033854167,
+          215.59275309244788
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "PAYMENTRATESFORTHESERVICES",
+            "bbox": [
+              209.10795084635416,
+              203.2852783203125,
+              408.0568033854167,
+              215.59275309244788
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "PAYMENTRATESFORTHESERVICES",
+    "mixed_original_protected_source_text": "PAYMENTRATESFORTHESERVICES",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b001"
+    ],
+    "translation_unit_protected_source_text": "PAYMENTRATESFORTHESERVICES",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "服务付款费率",
+    "translation_unit_translated_text": "服务付款费率",
+    "protected_translated_text": "服务付款费率",
+    "translated_text": "服务付款费率",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b001",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "LIMIIED / ANNEXURE3",
+    "translation_context_after": "Description / Rate"
+  },
+  {
+    "item_id": "p012-b003",
+    "page_idx": 11,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      59.684661865234375,
+      229.5977783203125,
+      118.52272542317708,
+      242.7540283203125
+    ],
+    "source_text": "Description",
+    "lines": [
+      {
+        "bbox": [
+          59.684661865234375,
+          229.5977783203125,
+          118.52272542317708,
+          242.7540283203125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Description",
+            "bbox": [
+              59.684661865234375,
+              229.5977783203125,
+              118.52272542317708,
+              242.7540283203125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Description",
+    "mixed_original_protected_source_text": "Description",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b003"
+    ],
+    "translation_unit_protected_source_text": "Description",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "描述",
+    "translation_unit_translated_text": "描述",
+    "protected_translated_text": "描述",
+    "translated_text": "描述",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b003",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "ANNEXURE3 / PAYMENTRATESFORTHESERVICES",
+    "translation_context_after": "Rate / 1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam"
+  },
+  {
+    "item_id": "p012-b004",
+    "page_idx": 11,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      393.2414957682292,
+      229.17338053385416,
+      419.9090983072917,
+      241.4808553059896
+    ],
+    "source_text": "Rate",
+    "lines": [
+      {
+        "bbox": [
+          393.2414957682292,
+          229.17338053385416,
+          419.9090983072917,
+          241.4808553059896
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Rate",
+            "bbox": [
+              393.2414957682292,
+              229.17338053385416,
+              419.9090983072917,
+              241.4808553059896
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Rate",
+    "mixed_original_protected_source_text": "Rate",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b004"
+    ],
+    "translation_unit_protected_source_text": "Rate",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "费用",
+    "translation_unit_translated_text": "费用",
+    "protected_translated_text": "费用",
+    "translated_text": "费用",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b004",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "PAYMENTRATESFORTHESERVICES / Description",
+    "translation_context_after": "1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam / TZS 250,000"
+  },
+  {
+    "item_id": "p012-b005",
+    "page_idx": 11,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      77.03977457682292,
+      257.1834716796875,
+      370.383544921875,
+      283.0715738932292
+    ],
+    "source_text": "1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam",
+    "lines": [
+      {
+        "bbox": [
+          77.03977457682292,
+          257.1834716796875,
+          370.383544921875,
+          283.0715738932292
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam",
+            "bbox": [
+              77.03977457682292,
+              257.1834716796875,
+              370.383544921875,
+              283.0715738932292
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam",
+    "mixed_original_protected_source_text": "1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b005"
+    ],
+    "translation_unit_protected_source_text": "1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 距我们在Dar Es Salaam的救护站30KMS内的稳定患者的地面救护车服务",
+    "translation_unit_translated_text": "1. 距我们在Dar Es Salaam的救护站30KMS内的稳定患者的地面救护车服务",
+    "protected_translated_text": "1. 距我们在Dar Es Salaam的救护站30KMS内的稳定患者的地面救护车服务",
+    "translated_text": "1. 距我们在Dar Es Salaam的救护站30KMS内的稳定患者的地面救护车服务",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b005",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Description / Rate",
+    "translation_context_after": "TZS 250,000 / 2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam"
+  },
+  {
+    "item_id": "p012-b006",
+    "page_idx": 11,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      393.664794921875,
+      257.6078694661458,
+      456.3125,
+      270.3397216796875
+    ],
+    "source_text": "TZS 250,000",
+    "lines": [
+      {
+        "bbox": [
+          393.664794921875,
+          257.6078694661458,
+          456.3125,
+          270.3397216796875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS 250,000",
+            "bbox": [
+              393.664794921875,
+              257.6078694661458,
+              456.3125,
+              270.3397216796875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS 250,000",
+    "mixed_original_protected_source_text": "TZS 250,000",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b006"
+    ],
+    "translation_unit_protected_source_text": "TZS 250,000",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p012-b006",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Rate / 1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam",
+    "translation_context_after": "2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam / TZS 300,000"
+  },
+  {
+    "item_id": "p012-b007",
+    "page_idx": 11,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      76.61647542317708,
+      291.55946858723956,
+      384.7755533854167,
+      315.3256022135417
+    ],
+    "source_text": "2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam",
+    "lines": [
+      {
+        "bbox": [
+          76.61647542317708,
+          291.55946858723956,
+          384.7755533854167,
+          315.3256022135417
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam",
+            "bbox": [
+              76.61647542317708,
+              291.55946858723956,
+              384.7755533854167,
+              315.3256022135417
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam",
+    "mixed_original_protected_source_text": "2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b007"
+    ],
+    "translation_unit_protected_source_text": "2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2. 地面救护车服务（插管患者）在达累斯萨拉姆我方救护站30公里范围内",
+    "translation_unit_translated_text": "2. 地面救护车服务（插管患者）在达累斯萨拉姆我方救护站30公里范围内",
+    "protected_translated_text": "2. 地面救护车服务（插管患者）在达累斯萨拉姆我方救护站30公里范围内",
+    "translated_text": "2. 地面救护车服务（插管患者）在达累斯萨拉姆我方救护站30公里范围内",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b007",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1.GroundAmbulanceServicesofStablePatientwithin30KMS ofour ambulance stationinDarEsSalaam / TZS 250,000",
+    "translation_context_after": "TZS 300,000 / 3.Transfer toorFromJuliusNyerereInternationalAirportstable patient"
+  },
+  {
+    "item_id": "p012-b008",
+    "page_idx": 11,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      394.0880533854167,
+      291.55946858723956,
+      455.4659016927083,
+      303.0181477864583
+    ],
+    "source_text": "TZS 300,000",
+    "lines": [
+      {
+        "bbox": [
+          394.0880533854167,
+          291.55946858723956,
+          455.4659016927083,
+          303.0181477864583
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS 300,000",
+            "bbox": [
+              394.0880533854167,
+              291.55946858723956,
+              455.4659016927083,
+              303.0181477864583
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS 300,000",
+    "mixed_original_protected_source_text": "TZS 300,000",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b008"
+    ],
+    "translation_unit_protected_source_text": "TZS 300,000",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p012-b008",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TZS 250,000 / 2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam",
+    "translation_context_after": "3.Transfer toorFromJuliusNyerereInternationalAirportstable patient / TZS250,000"
+  },
+  {
+    "item_id": "p012-b009",
+    "page_idx": 11,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      76.19318135579427,
+      317.023193359375,
+      375.8863525390625,
+      341.6381022135417
+    ],
+    "source_text": "3.Transfer toorFromJuliusNyerereInternationalAirportstable patient",
+    "lines": [
+      {
+        "bbox": [
+          76.19318135579427,
+          317.023193359375,
+          375.8863525390625,
+          341.6381022135417
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "3.Transfer toorFromJuliusNyerereInternationalAirportstable patient",
+            "bbox": [
+              76.19318135579427,
+              317.023193359375,
+              375.8863525390625,
+              341.6381022135417
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "3.Transfer toorFromJuliusNyerereInternationalAirportstable patient",
+    "mixed_original_protected_source_text": "3.Transfer toorFromJuliusNyerereInternationalAirportstable patient",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b009"
+    ],
+    "translation_unit_protected_source_text": "3.Transfer toorFromJuliusNyerereInternationalAirportstable patient",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "3. 往返Julius Nyerere International Airport的转运（病情稳定患者）",
+    "translation_unit_translated_text": "3. 往返Julius Nyerere International Airport的转运（病情稳定患者）",
+    "protected_translated_text": "3. 往返Julius Nyerere International Airport的转运（病情稳定患者）",
+    "translated_text": "3. 往返Julius Nyerere International Airport的转运（病情稳定患者）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b009",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "2.GroundAmbulanceServicesofIntubatedPatientwithin30KMS ofourambulancestationinDarEsSalaam / TZS 300,000",
+    "translation_context_after": "TZS250,000 / 4.Waiting charges per hour"
+  },
+  {
+    "item_id": "p012-b010",
+    "page_idx": 11,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      394.9346516927083,
+      318.29636637369794,
+      455.4659016927083,
+      328.4818522135417
+    ],
+    "source_text": "TZS250,000",
+    "lines": [
+      {
+        "bbox": [
+          394.9346516927083,
+          318.29636637369794,
+          455.4659016927083,
+          328.4818522135417
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS250,000",
+            "bbox": [
+              394.9346516927083,
+              318.29636637369794,
+              455.4659016927083,
+              328.4818522135417
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS250,000",
+    "mixed_original_protected_source_text": "TZS250,000",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b010"
+    ],
+    "translation_unit_protected_source_text": "TZS250,000",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p012-b010",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TZS 300,000 / 3.Transfer toorFromJuliusNyerereInternationalAirportstable patient",
+    "translation_context_after": "4.Waiting charges per hour / TZS 20,000"
+  },
+  {
+    "item_id": "p012-b011",
+    "page_idx": 11,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      75.76988728841145,
+      354.3699544270833,
+      209.95454915364584,
+      369.2237955729167
+    ],
+    "source_text": "4.Waiting charges per hour",
+    "lines": [
+      {
+        "bbox": [
+          75.76988728841145,
+          354.3699544270833,
+          209.95454915364584,
+          369.2237955729167
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "4.Waiting charges per hour",
+            "bbox": [
+              75.76988728841145,
+              354.3699544270833,
+              209.95454915364584,
+              369.2237955729167
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "4.Waiting charges per hour",
+    "mixed_original_protected_source_text": "4.Waiting charges per hour",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b011"
+    ],
+    "translation_unit_protected_source_text": "4.Waiting charges per hour",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "4.待时费（每小时）",
+    "translation_unit_translated_text": "4.待时费（每小时）",
+    "protected_translated_text": "4.待时费（每小时）",
+    "translated_text": "4.待时费（每小时）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b011",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "3.Transfer toorFromJuliusNyerereInternationalAirportstable patient / TZS250,000",
+    "translation_context_after": "TZS 20,000 / 5.Additional Charges per KM"
+  },
+  {
+    "item_id": "p012-b012",
+    "page_idx": 11,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      393.664794921875,
+      354.7943522135417,
+      450.3863525390625,
+      367.5262044270833
+    ],
+    "source_text": "TZS 20,000",
+    "lines": [
+      {
+        "bbox": [
+          393.664794921875,
+          354.7943522135417,
+          450.3863525390625,
+          367.5262044270833
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS 20,000",
+            "bbox": [
+              393.664794921875,
+              354.7943522135417,
+              450.3863525390625,
+              367.5262044270833
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS 20,000",
+    "mixed_original_protected_source_text": "TZS 20,000",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b012"
+    ],
+    "translation_unit_protected_source_text": "TZS 20,000",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p012-b012",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TZS250,000 / 4.Waiting charges per hour",
+    "translation_context_after": "5.Additional Charges per KM / TZS 2,300"
+  },
+  {
+    "item_id": "p012-b013",
+    "page_idx": 11,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      76.61647542317708,
+      379.4092610677083,
+      221.3835245768229,
+      392.14111328125
+    ],
+    "source_text": "5.Additional Charges per KM",
+    "lines": [
+      {
+        "bbox": [
+          76.61647542317708,
+          379.4092610677083,
+          221.3835245768229,
+          392.14111328125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "5.Additional Charges per KM",
+            "bbox": [
+              76.61647542317708,
+              379.4092610677083,
+              221.3835245768229,
+              392.14111328125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "5.Additional Charges per KM",
+    "mixed_original_protected_source_text": "5.Additional Charges per KM",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b013"
+    ],
+    "translation_unit_protected_source_text": "5.Additional Charges per KM",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "5. 每公里附加费",
+    "translation_unit_translated_text": "5. 每公里附加费",
+    "protected_translated_text": "5. 每公里附加费",
+    "translated_text": "5. 每公里附加费",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b013",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "4.Waiting charges per hour / TZS 20,000",
+    "translation_context_after": "TZS 2,300 / 6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events)"
+  },
+  {
+    "item_id": "p012-b014",
+    "page_idx": 11,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      393.664794921875,
+      378.5605061848958,
+      444.883544921875,
+      391.2923583984375
+    ],
+    "source_text": "TZS 2,300",
+    "lines": [
+      {
+        "bbox": [
+          393.664794921875,
+          378.5605061848958,
+          444.883544921875,
+          391.2923583984375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS 2,300",
+            "bbox": [
+              393.664794921875,
+              378.5605061848958,
+              444.883544921875,
+              391.2923583984375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS 2,300",
+    "mixed_original_protected_source_text": "TZS 2,300",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b014"
+    ],
+    "translation_unit_protected_source_text": "TZS 2,300",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p012-b014",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TZS 20,000 / 5.Additional Charges per KM",
+    "translation_context_after": "6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events) / TZS 400,000 per ambulance"
+  },
+  {
+    "item_id": "p012-b015",
+    "page_idx": 11,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      76.19318135579427,
+      403.1754150390625,
+      373.7698974609375,
+      429.4879150390625
+    ],
+    "source_text": "6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events)",
+    "lines": [
+      {
+        "bbox": [
+          76.19318135579427,
+          403.1754150390625,
+          373.7698974609375,
+          429.4879150390625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events)",
+            "bbox": [
+              76.19318135579427,
+              403.1754150390625,
+              373.7698974609375,
+              429.4879150390625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events)",
+    "mixed_original_protected_source_text": "6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b015"
+    ],
+    "translation_unit_protected_source_text": "6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "6. 待命救护车服务——适用于距我司所在地30公里范围内的活动（体育赛事、会议、社交活动）",
+    "translation_unit_translated_text": "6. 待命救护车服务——适用于距我司所在地30公里范围内的活动（体育赛事、会议、社交活动）",
+    "protected_translated_text": "6. 待命救护车服务——适用于距我司所在地30公里范围内的活动（体育赛事、会议、社交活动）",
+    "translated_text": "6. 待命救护车服务——适用于距我司所在地30公里范围内的活动（体育赛事、会议、社交活动）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b015",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "5.Additional Charges per KM / TZS 2,300",
+    "translation_context_after": "TZS 400,000 per ambulance / 7.Participation inDrill Exercises within 30KMS of our location."
+  },
+  {
+    "item_id": "p012-b016",
+    "page_idx": 11,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      392.3948974609375,
+      404.0242106119792,
+      462.6619466145833,
+      429.0635172526042
+    ],
+    "source_text": "TZS 400,000 per ambulance",
+    "lines": [
+      {
+        "bbox": [
+          392.3948974609375,
+          404.0242106119792,
+          462.6619466145833,
+          429.0635172526042
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS 400,000 per ambulance",
+            "bbox": [
+              392.3948974609375,
+              404.0242106119792,
+              462.6619466145833,
+              429.0635172526042
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS 400,000 per ambulance",
+    "mixed_original_protected_source_text": "TZS 400,000 per ambulance",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b016"
+    ],
+    "translation_unit_protected_source_text": "TZS 400,000 per ambulance",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "每辆救护车 TZS 400,000",
+    "translation_unit_translated_text": "每辆救护车 TZS 400,000",
+    "protected_translated_text": "每辆救护车 TZS 400,000",
+    "translated_text": "每辆救护车 TZS 400,000",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b016",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TZS 2,300 / 6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events)",
+    "translation_context_after": "7.Participation inDrill Exercises within 30KMS of our location. / TZS 400,000 per ambulance"
+  },
+  {
+    "item_id": "p012-b017",
+    "page_idx": 11,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      77.03977457682292,
+      437.1270345052083,
+      377.15625,
+      449.4344889322917
+    ],
+    "source_text": "7.Participation inDrill Exercises within 30KMS of our location.",
+    "lines": [
+      {
+        "bbox": [
+          77.03977457682292,
+          437.1270345052083,
+          377.15625,
+          449.4344889322917
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "7.Participation inDrill Exercises within 30KMS of our location.",
+            "bbox": [
+              77.03977457682292,
+              437.1270345052083,
+              377.15625,
+              449.4344889322917
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 10,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "7.Participation inDrill Exercises within 30KMS of our location.",
+    "mixed_original_protected_source_text": "7.Participation inDrill Exercises within 30KMS of our location.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b017"
+    ],
+    "translation_unit_protected_source_text": "7.Participation inDrill Exercises within 30KMS of our location.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "7. 在距我方所在地30KMS范围内参与演练活动。",
+    "translation_unit_translated_text": "7. 在距我方所在地30KMS范围内参与演练活动。",
+    "protected_translated_text": "7. 在距我方所在地30KMS范围内参与演练活动。",
+    "translated_text": "7. 在距我方所在地30KMS范围内参与演练活动。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b017",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "6.StandbyambulanceServicesforEventswithin30KMs ofour location (sports, conference, social events) / TZS 400,000 per ambulance",
+    "translation_context_after": "TZS 400,000 per ambulance"
+  },
+  {
+    "item_id": "p012-b018",
+    "page_idx": 11,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      392.8181966145833,
+      437.1270345052083,
+      462.6619466145833,
+      462.5907389322917
+    ],
+    "source_text": "TZS 400,000 per ambulance",
+    "lines": [
+      {
+        "bbox": [
+          392.8181966145833,
+          437.1270345052083,
+          462.6619466145833,
+          462.5907389322917
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TZS 400,000 per ambulance",
+            "bbox": [
+              392.8181966145833,
+              437.1270345052083,
+              462.6619466145833,
+              462.5907389322917
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "b65b493e-fc96-4c6b-baa7-16cc2041666b",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 358.11,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TZS 400,000 per ambulance",
+    "mixed_original_protected_source_text": "TZS 400,000 per ambulance",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p012-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p012-b018"
+    ],
+    "translation_unit_protected_source_text": "TZS 400,000 per ambulance",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "每辆救护车 TZS 400,000",
+    "translation_unit_translated_text": "每辆救护车 TZS 400,000",
+    "protected_translated_text": "每辆救护车 TZS 400,000",
+    "translated_text": "每辆救护车 TZS 400,000",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p012-b018",
+      "page_idx": 11,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TZS 400,000 per ambulance / 7.Participation inDrill Exercises within 30KMS of our location.",
+    "translation_context_after": ""
+  }
+]

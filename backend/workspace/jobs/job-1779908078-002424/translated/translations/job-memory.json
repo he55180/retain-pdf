@@ -1,0 +1,43 @@
+{
+  "preserve_hints": {},
+  "terms": {
+    "In": {
+      "hits": 1,
+      "key": "In",
+      "prompt_eligible": true,
+      "sources": [
+        "p003-b004"
+      ],
+      "value": "In"
+    },
+    "Malindi Wharf": {
+      "hits": 4,
+      "key": "Malindi Wharf",
+      "prompt_eligible": false,
+      "sources": [
+        "p003-b002",
+        "p003-b004"
+      ],
+      "value": "正在升级达累斯萨拉姆港的马林迪码头"
+    },
+    "TPA": {
+      "hits": 3,
+      "key": "TPA",
+      "prompt_eligible": false,
+      "sources": [
+        "p003-b002"
+      ],
+      "value": "坦桑尼亚政府通过坦桑尼亚港务局"
+    },
+    "Vision Care Clinic": {
+      "hits": 1,
+      "key": "Vision Care Clinic",
+      "prompt_eligible": true,
+      "sources": [
+        "p003-b004"
+      ],
+      "value": "Vision Care Clinic"
+    }
+  },
+  "version": 1
+}

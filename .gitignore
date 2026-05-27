@@ -47,3 +47,8 @@ desktop/src/runtime/
 
 backend/workspace/.cache/
 output_test/
+
+/RetainPDF-GUI/
+backend/run_p3_test.py
+backend/run_p3_test_mineru.py
+backend/run_p3_test_paddle.py

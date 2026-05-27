@@ -1,0 +1,676 @@
+{
+  "schema": "normalized_document_v1",
+  "schema_version": "1.1",
+  "document_id": "job-1779906979-32d315",
+  "doc_id": "job-1779906979-32d315",
+  "source": {
+    "provider": "paddle",
+    "provider_version": "PaddleOCR-VL-1.5",
+    "raw_files": {
+      "source_json": "E:\\My-HSE\\My-HSE\\Gemini\\RetainPDF-CHEC\\retain-pdf\\backend\\workspace\\jobs\\job-1779906979-32d315\\ocr\\result.json"
+    }
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_index": 0,
+      "page": 1,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "p001-b0000",
+          "page_index": 0,
+          "order": 0,
+          "type": "text",
+          "sub_type": "body",
+          "bbox": [
+            96.464,
+            79.99,
+            277.395,
+            96.987
+          ],
+          "text": "Page 1 - This is a test document.",
+          "lines": [
+            {
+              "bbox": [
+                96.464,
+                79.99,
+                277.395,
+                96.987
+              ],
+              "spans": [
+                {
+                  "type": "text",
+                  "raw_type": "text",
+                  "text": "Page 1 - This is a test document.",
+                  "bbox": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "score": null
+                }
+              ]
+            }
+          ],
+          "segments": [
+            {
+              "type": "text",
+              "raw_type": "text",
+              "text": "Page 1 - This is a test document.",
+              "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "score": null
+            }
+          ],
+          "tags": [],
+          "derived": {
+            "role": "",
+            "by": "",
+            "confidence": 0.0
+          },
+          "continuation_hint": {
+            "source": "provider",
+            "group_id": "provider-paddle-global-0",
+            "role": "single",
+            "scope": "intra_page",
+            "reading_order": 1,
+            "confidence": 0.98
+          },
+          "metadata": {
+            "raw_group_id": 0,
+            "raw_global_block_id": 0,
+            "raw_global_group_id": 0,
+            "raw_block_order": 1,
+            "raw_polygon": [
+              [
+                96.464,
+                79.99
+              ],
+              [
+                277.395,
+                79.99
+              ],
+              [
+                277.395,
+                96.987
+              ],
+              [
+                96.464,
+                96.987
+              ]
+            ],
+            "provider_cross_column_merge_suspected": false,
+            "provider_reading_order_unreliable": false,
+            "provider_structure_unreliable": false,
+            "provider_text_missing_but_bbox_present": false,
+            "provider_peer_block_absorbed_text": false,
+            "provider_suspected_peer_order": null,
+            "provider_column_layout_mode": "single",
+            "provider_column_index_guess": "left",
+            "layout_det_matched": true,
+            "layout_det_label": "text",
+            "layout_det_cls_id": 22,
+            "layout_det_score": 0.3456694483757019,
+            "layout_det_order": 2,
+            "layout_det_polygon": [
+              [
+                96.464,
+                79.99
+              ],
+              [
+                277.395,
+                79.99
+              ],
+              [
+                277.395,
+                96.987
+              ],
+              [
+                96.464,
+                96.987
+              ]
+            ],
+            "content_is_rich": false,
+            "content_length": 33,
+            "content_line_count": 1,
+            "asset_key": "",
+            "asset_kind": "",
+            "asset_url": "",
+            "asset_resolved": false,
+            "markdown_match_text": "Page 1 - This is a test document.",
+            "markdown_match_found": true,
+            "markdown_match_count": 1,
+            "provider_suspected_peer_block_id": "",
+            "cross_column_merge_suspected": false,
+            "reading_order_unreliable": false,
+            "structure_unreliable": false,
+            "text_missing_but_bbox_present": false,
+            "peer_block_absorbed_text": false,
+            "body_repair_attempted": false,
+            "body_repair_applied": false,
+            "body_repair_role": "",
+            "body_repair_strategy": "",
+            "body_repair_peer_block_id": "",
+            "continuation_suppressed": false,
+            "continuation_suppressed_reason": "",
+            "column_layout_mode": "single",
+            "column_index_guess": "left",
+            "structure_role": "body",
+            "layout_role": "paragraph",
+            "semantic_role": "body",
+            "policy_translate": true
+          },
+          "source": {
+            "provider": "paddle",
+            "raw_page_index": 0,
+            "raw_type": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              96.464,
+              79.99,
+              277.395,
+              96.987
+            ],
+            "raw_text_excerpt": "Page 1 - This is a test document.",
+            "raw_block_id": 0,
+            "raw_path": "/layoutParsingResults/0/prunedResult/parsing_res_list/0"
+          },
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              193.0,
+              160.0,
+              555.0,
+              194.0
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Page 1 - This is a test document."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "provider_body_whitelist:body"
+          },
+          "provenance": {
+            "provider": "paddle",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              193.0,
+              160.0,
+              555.0,
+              194.0
+            ],
+            "raw_path": "/layoutParsingResults/0/prunedResult/parsing_res_list/0"
+          }
+        }
+      ],
+      "metadata": {
+        "input_image": "",
+        "preprocessed_image": "",
+        "raw_unit": "px",
+        "provider_page_count": 2,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "markdown": {
+          "text": "Page 1 - This is a test document.",
+          "text_length": 33,
+          "images": {}
+        },
+        "output_images": {},
+        "column_layout_mode": "single",
+        "column_split_x": 595.5,
+        "suspected_cross_column_merge_block_count": 0,
+        "suspected_block_ids": [],
+        "layout_det_res": {
+          "box_count": 2,
+          "boxes": [
+            {
+              "label": "number",
+              "cls_id": 16,
+              "score": 0.47202247381210327,
+              "order": 1,
+              "coordinate": [
+                196.0,
+                160.0,
+                280.0,
+                193.0
+              ],
+              "polygon_points": [
+                [
+                  196.0,
+                  160.0
+                ],
+                [
+                  280.0,
+                  160.0
+                ],
+                [
+                  280.0,
+                  193.0
+                ],
+                [
+                  196.0,
+                  193.0
+                ]
+              ]
+            },
+            {
+              "label": "text",
+              "cls_id": 22,
+              "score": 0.3456694483757019,
+              "order": 2,
+              "coordinate": [
+                193.0,
+                160.0,
+                555.0,
+                194.0
+              ],
+              "polygon_points": [
+                [
+                  193.0,
+                  160.0
+                ],
+                [
+                  555.0,
+                  160.0
+                ],
+                [
+                  555.0,
+                  194.0
+                ],
+                [
+                  193.0,
+                  194.0
+                ]
+              ]
+            }
+          ]
+        },
+        "text_missing_but_bbox_present_count": 0,
+        "text_missing_but_bbox_present_block_ids": [],
+        "peer_block_absorbed_text_count": 0,
+        "peer_block_absorbed_text_block_ids": [],
+        "body_repair_pair_count": 0,
+        "body_repair_block_count": 0,
+        "body_repair_pairs": [],
+        "body_repair_block_ids": []
+      }
+    },
+    {
+      "page_index": 1,
+      "page": 2,
+      "width": 595.2755737304688,
+      "height": 841.8897705078125,
+      "unit": "pt",
+      "blocks": [
+        {
+          "block_id": "p002-b0000",
+          "page_index": 1,
+          "order": 0,
+          "type": "text",
+          "sub_type": "body",
+          "bbox": [
+            96.963,
+            79.99,
+            280.894,
+            97.487
+          ],
+          "text": "Page 2 - This is the second page.",
+          "lines": [
+            {
+              "bbox": [
+                96.963,
+                79.99,
+                280.894,
+                97.487
+              ],
+              "spans": [
+                {
+                  "type": "text",
+                  "raw_type": "text",
+                  "text": "Page 2 - This is the second page.",
+                  "bbox": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "score": null
+                }
+              ]
+            }
+          ],
+          "segments": [
+            {
+              "type": "text",
+              "raw_type": "text",
+              "text": "Page 2 - This is the second page.",
+              "bbox": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "score": null
+            }
+          ],
+          "tags": [],
+          "derived": {
+            "role": "",
+            "by": "",
+            "confidence": 0.0
+          },
+          "continuation_hint": {
+            "source": "provider",
+            "group_id": "provider-paddle-global-1",
+            "role": "single",
+            "scope": "intra_page",
+            "reading_order": 1,
+            "confidence": 0.98
+          },
+          "metadata": {
+            "raw_group_id": 0,
+            "raw_global_block_id": 1,
+            "raw_global_group_id": 1,
+            "raw_block_order": 1,
+            "raw_polygon": [
+              [
+                96.963,
+                79.99
+              ],
+              [
+                280.894,
+                79.99
+              ],
+              [
+                280.894,
+                97.487
+              ],
+              [
+                96.963,
+                97.487
+              ]
+            ],
+            "provider_cross_column_merge_suspected": false,
+            "provider_reading_order_unreliable": false,
+            "provider_structure_unreliable": false,
+            "provider_text_missing_but_bbox_present": false,
+            "provider_peer_block_absorbed_text": false,
+            "provider_suspected_peer_order": null,
+            "provider_column_layout_mode": "single",
+            "provider_column_index_guess": "left",
+            "layout_det_matched": true,
+            "layout_det_label": "text",
+            "layout_det_cls_id": 22,
+            "layout_det_score": 0.3172045350074768,
+            "layout_det_order": 2,
+            "layout_det_polygon": [
+              [
+                96.963,
+                79.99
+              ],
+              [
+                280.894,
+                79.99
+              ],
+              [
+                280.894,
+                97.487
+              ],
+              [
+                96.963,
+                97.487
+              ]
+            ],
+            "content_is_rich": false,
+            "content_length": 33,
+            "content_line_count": 1,
+            "asset_key": "",
+            "asset_kind": "",
+            "asset_url": "",
+            "asset_resolved": false,
+            "markdown_match_text": "Page 2 - This is the second page.",
+            "markdown_match_found": true,
+            "markdown_match_count": 1,
+            "provider_suspected_peer_block_id": "",
+            "cross_column_merge_suspected": false,
+            "reading_order_unreliable": false,
+            "structure_unreliable": false,
+            "text_missing_but_bbox_present": false,
+            "peer_block_absorbed_text": false,
+            "body_repair_attempted": false,
+            "body_repair_applied": false,
+            "body_repair_role": "",
+            "body_repair_strategy": "",
+            "body_repair_peer_block_id": "",
+            "continuation_suppressed": false,
+            "continuation_suppressed_reason": "",
+            "column_layout_mode": "single",
+            "column_index_guess": "left",
+            "structure_role": "body",
+            "layout_role": "paragraph",
+            "semantic_role": "body",
+            "policy_translate": true
+          },
+          "source": {
+            "provider": "paddle",
+            "raw_page_index": 1,
+            "raw_type": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              96.963,
+              79.99,
+              280.894,
+              97.487
+            ],
+            "raw_text_excerpt": "Page 2 - This is the second page.",
+            "raw_block_id": 0,
+            "raw_path": "/layoutParsingResults/1/prunedResult/parsing_res_list/0"
+          },
+          "reading_order": 0,
+          "geometry": {
+            "bbox": [
+              194.0,
+              160.0,
+              562.0,
+              195.0
+            ]
+          },
+          "content": {
+            "kind": "text",
+            "text": "Page 2 - This is the second page."
+          },
+          "layout_role": "paragraph",
+          "semantic_role": "body",
+          "structure_role": "body",
+          "policy": {
+            "translate": true,
+            "translate_reason": "provider_body_whitelist:body"
+          },
+          "provenance": {
+            "provider": "paddle",
+            "raw_label": "text",
+            "raw_sub_type": "",
+            "raw_bbox": [
+              194.0,
+              160.0,
+              562.0,
+              195.0
+            ],
+            "raw_path": "/layoutParsingResults/1/prunedResult/parsing_res_list/0"
+          }
+        }
+      ],
+      "metadata": {
+        "input_image": "",
+        "preprocessed_image": "",
+        "raw_unit": "px",
+        "provider_page_count": 2,
+        "model_settings": {
+          "use_doc_preprocessor": false,
+          "use_layout_detection": true,
+          "use_chart_recognition": false,
+          "use_seal_recognition": true,
+          "use_ocr_for_image_block": false,
+          "format_block_content": false,
+          "merge_layout_blocks": false,
+          "markdown_ignore_labels": [
+            "header",
+            "header_image",
+            "footer",
+            "footer_image",
+            "number",
+            "footnote",
+            "aside_text"
+          ],
+          "return_layout_polygon_points": true
+        },
+        "markdown": {
+          "text": "Page 2 - This is the second page.",
+          "text_length": 33,
+          "images": {}
+        },
+        "output_images": {},
+        "column_layout_mode": "single",
+        "column_split_x": 595.5,
+        "suspected_cross_column_merge_block_count": 0,
+        "suspected_block_ids": [],
+        "layout_det_res": {
+          "box_count": 2,
+          "boxes": [
+            {
+              "label": "number",
+              "cls_id": 16,
+              "score": 0.5083792805671692,
+              "order": 1,
+              "coordinate": [
+                197.0,
+                160.0,
+                281.0,
+                193.0
+              ],
+              "polygon_points": [
+                [
+                  197.0,
+                  160.0
+                ],
+                [
+                  281.0,
+                  160.0
+                ],
+                [
+                  281.0,
+                  193.0
+                ],
+                [
+                  197.0,
+                  193.0
+                ]
+              ]
+            },
+            {
+              "label": "text",
+              "cls_id": 22,
+              "score": 0.3172045350074768,
+              "order": 2,
+              "coordinate": [
+                194.0,
+                160.0,
+                562.0,
+                195.0
+              ],
+              "polygon_points": [
+                [
+                  194.0,
+                  160.0
+                ],
+                [
+                  562.0,
+                  160.0
+                ],
+                [
+                  562.0,
+                  195.0
+                ],
+                [
+                  194.0,
+                  195.0
+                ]
+              ]
+            }
+          ]
+        },
+        "text_missing_but_bbox_present_count": 0,
+        "text_missing_but_bbox_present_block_ids": [],
+        "peer_block_absorbed_text_count": 0,
+        "peer_block_absorbed_text_block_ids": [],
+        "body_repair_pair_count": 0,
+        "body_repair_block_count": 0,
+        "body_repair_pairs": [],
+        "body_repair_block_ids": []
+      }
+    }
+  ],
+  "assets": {},
+  "derived": {
+    "notes": "Adapted from PaddleOCR layoutParsingResults payload.",
+    "provider_signals": {
+      "provider": "paddle",
+      "suspicious_cross_column_merge_pages": 0,
+      "suspicious_cross_column_merge_blocks": 0,
+      "pages": [
+        {
+          "page_index": 0,
+          "column_layout_mode": "single",
+          "suspected_cross_column_merge_block_count": 0,
+          "suspected_block_ids": [],
+          "text_missing_but_bbox_present_count": 0,
+          "text_missing_but_bbox_present_block_ids": [],
+          "peer_block_absorbed_text_count": 0,
+          "peer_block_absorbed_text_block_ids": []
+        },
+        {
+          "page_index": 1,
+          "column_layout_mode": "single",
+          "suspected_cross_column_merge_block_count": 0,
+          "suspected_block_ids": [],
+          "text_missing_but_bbox_present_count": 0,
+          "text_missing_but_bbox_present_block_ids": [],
+          "peer_block_absorbed_text_count": 0,
+          "peer_block_absorbed_text_block_ids": []
+        }
+      ]
+    }
+  },
+  "markers": {}
+}

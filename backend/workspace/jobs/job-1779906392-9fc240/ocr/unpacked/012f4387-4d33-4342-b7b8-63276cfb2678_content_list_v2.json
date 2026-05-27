@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 1 - This is a test document. "
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                95,
+                462,
+                112
+            ]
+        }
+    ],
+    [
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 2 - This is the second page. "
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                95,
+                468,
+                112
+            ]
+        }
+    ]
+]

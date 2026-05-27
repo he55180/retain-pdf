@@ -1,0 +1,3644 @@
+[
+  {
+    "item_id": "p003-b002",
+    "page_idx": 2,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      161.75999475,
+      89.09967746375003,
+      443.90474864624355,
+      99.6804947802749
+    ],
+    "source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "lines": [
+      {
+        "bbox": [
+          161.75999475,
+          89.09967746375003,
+          443.90474864624355,
+          99.6804947802749
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Dar es Salaam Maritime Gateway Project (DMGP)",
+            "bbox": [
+              161.75999475,
+              89.09967746375003,
+              443.90474864624355,
+              99.6804947802749
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "mixed_original_protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b002"
+    ],
+    "translation_unit_protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "达累斯萨拉姆海上门户项目 (DMGP)",
+    "translation_unit_translated_text": "达累斯萨拉姆海上门户项目 (DMGP)",
+    "protected_translated_text": "达累斯萨拉姆海上门户项目 (DMGP)",
+    "translated_text": "达累斯萨拉姆海上门户项目 (DMGP)",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p002-b004",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b002",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p002-b004",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The RE informed the meeting that reports are being received accordingly from the Contractor as per contract requirements. Weekly Report should be submitted on a weekly basis from Monday to Sunday. / CHEC",
+    "translation_context_after": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT"
+  },
+  {
+    "item_id": "p003-b003",
+    "page_idx": 2,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      205.44000975,
+      102.61503455000002,
+      399.92107289966043,
+      112.36303213585643
+    ],
+    "source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "lines": [
+      {
+        "bbox": [
+          205.44000975,
+          102.61503455000002,
+          399.92107289966043,
+          112.36303213585643
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contract No: TZ-TPA-/424013-CW-DIR",
+            "bbox": [
+              205.44000975,
+              102.61503455000002,
+              399.92107289966043,
+              112.36303213585643
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "mixed_original_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b003"
+    ],
+    "translation_unit_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b003",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHEC / Dar es Salaam Maritime Gateway Project (DMGP)",
+    "translation_context_after": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / AOB"
+  },
+  {
+    "item_id": "p003-b004",
+    "page_idx": 2,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.76,
+      115.22607725,
+      530.7160081834604,
+      124.96046031408844
+    ],
+    "source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "lines": [
+      {
+        "bbox": [
+          74.76,
+          115.22607725,
+          530.7160081834604,
+          124.96046031408844
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "bbox": [
+              74.76,
+              115.22607725,
+              530.7160081834604,
+              124.96046031408844
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "full_width",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 1,
+    "layout_boundary_role": "single",
+    "math_mode": "direct_typst",
+    "protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "mixed_original_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b004"
+    ],
+    "translation_unit_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "达累斯萨拉姆港滚装船泊位及1-7号泊位混凝土损伤修复",
+    "translation_unit_translated_text": "达累斯萨拉姆港滚装船泊位及1-7号泊位混凝土损伤修复",
+    "protected_translated_text": "达累斯萨拉姆港滚装船泊位及1-7号泊位混凝土损伤修复",
+    "translated_text": "达累斯萨拉姆港滚装船泊位及1-7号泊位混凝土损伤修复",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b004",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Dar es Salaam Maritime Gateway Project (DMGP) / Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_context_after": "AOB / New defects"
+  },
+  {
+    "item_id": "p003-b007",
+    "page_idx": 2,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.08664229512215,
+      148.26096558291465,
+      135.74983221292496,
+      164.77914135158062
+    ],
+    "source_text": "AOB",
+    "lines": [
+      {
+        "bbox": [
+          105.08664229512215,
+          148.26096558291465,
+          135.74983221292496,
+          164.77914135158062
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "AOB",
+            "bbox": [
+              105.08664229512215,
+              148.26096558291465,
+              135.74983221292496,
+              164.77914135158062
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "AOB",
+    "mixed_original_protected_source_text": "AOB",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b007"
+    ],
+    "translation_unit_protected_source_text": "AOB",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "其他事项",
+    "translation_unit_translated_text": "其他事项",
+    "protected_translated_text": "其他事项",
+    "translated_text": "其他事项",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b007",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_context_after": "New defects / Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract."
+  },
+  {
+    "item_id": "p003-b009",
+    "page_idx": 2,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      104.4608567878604,
+      166.48770681768656,
+      176.1020274758339,
+      182.91043206304312
+    ],
+    "source_text": "New defects",
+    "lines": [
+      {
+        "bbox": [
+          104.4608567878604,
+          166.48770681768656,
+          176.1020274758339,
+          182.91043206304312
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "New defects",
+            "bbox": [
+              104.4608567878604,
+              166.48770681768656,
+              176.1020274758339,
+              182.91043206304312
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "New defects",
+    "mixed_original_protected_source_text": "New defects",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b009"
+    ],
+    "translation_unit_protected_source_text": "New defects",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "新缺陷",
+    "translation_unit_translated_text": "新缺陷",
+    "protected_translated_text": "新缺陷",
+    "translated_text": "新缺陷",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b009",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / AOB",
+    "translation_context_after": "Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract. / TPA/IL/CHEC"
+  },
+  {
+    "item_id": "p003-b010",
+    "page_idx": 2,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.96748250722885,
+      187.06133813410997,
+      445.9259175658226,
+      241.3662459552288
+    ],
+    "source_text": "Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.",
+    "lines": [
+      {
+        "bbox": [
+          105.96748250722885,
+          187.06133813410997,
+          445.9259175658226,
+          241.3662459552288
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.",
+            "bbox": [
+              105.96748250722885,
+              187.06133813410997,
+              445.9259175658226,
+              241.3662459552288
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.",
+    "mixed_original_protected_source_text": "Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b010"
+    ],
+    "translation_unit_protected_source_text": "Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "关于新缺陷，RE 向会议通报，雇主方面尚未更新关于拟与各方联合检查以确定与合同已识别裂缝相关的新裂缝的进展。",
+    "translation_unit_translated_text": "关于新缺陷，RE 向会议通报，雇主方面尚未更新关于拟与各方联合检查以确定与合同已识别裂缝相关的新裂缝的进展。",
+    "protected_translated_text": "关于新缺陷，RE 向会议通报，雇主方面尚未更新关于拟与各方联合检查以确定与合同已识别裂缝相关的新裂缝的进展。",
+    "translated_text": "关于新缺陷，RE 向会议通报，雇主方面尚未更新关于拟与各方联合检查以确定与合同已识别裂缝相关的新裂缝的进展。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b010",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "AOB / New defects",
+    "translation_context_after": "TPA/IL/CHEC / Dumping Area"
+  },
+  {
+    "item_id": "p003-b011",
+    "page_idx": 2,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      461.0551765561104,
+      203.0004274994135,
+      534.6426376700401,
+      219.54190446436405
+    ],
+    "source_text": "TPA/IL/CHEC",
+    "lines": [
+      {
+        "bbox": [
+          461.0551765561104,
+          203.0004274994135,
+          534.6426376700401,
+          219.54190446436405
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TPA/IL/CHEC",
+            "bbox": [
+              461.0551765561104,
+              203.0004274994135,
+              534.6426376700401,
+              219.54190446436405
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TPA/IL/CHEC",
+    "mixed_original_protected_source_text": "TPA/IL/CHEC",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b011"
+    ],
+    "translation_unit_protected_source_text": "TPA/IL/CHEC",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b011",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "New defects / Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract.",
+    "translation_context_after": "Dumping Area / As regard to Dumping area, the Contractor is still awaiting official communication from TPA."
+  },
+  {
+    "item_id": "p003-b013",
+    "page_idx": 2,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.49059215933084,
+      244.65278978645802,
+      185.56302067637444,
+      260.65942595899105
+    ],
+    "source_text": "Dumping Area",
+    "lines": [
+      {
+        "bbox": [
+          105.49059215933084,
+          244.65278978645802,
+          185.56302067637444,
+          260.65942595899105
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Dumping Area",
+            "bbox": [
+              105.49059215933084,
+              244.65278978645802,
+              185.56302067637444,
+              260.65942595899105
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Dumping Area",
+    "mixed_original_protected_source_text": "Dumping Area",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b013"
+    ],
+    "translation_unit_protected_source_text": "Dumping Area",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "倾倒区",
+    "translation_unit_translated_text": "倾倒区",
+    "protected_translated_text": "倾倒区",
+    "translated_text": "倾倒区",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b013",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Regarding new defects, the RE informed the meeting that there was no update from the Employer regarding the proposed joint inspection with all parties to ascertain new crack relative to those identified in the contract. / TPA/IL/CHEC",
+    "translation_context_after": "As regard to Dumping area, the Contractor is still awaiting official communication from TPA. / TPA"
+  },
+  {
+    "item_id": "p003-b014",
+    "page_idx": 2,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.99855756759644,
+      264.3009294420481,
+      444.5046112537384,
+      296.7016138881445
+    ],
+    "source_text": "As regard to Dumping area, the Contractor is still awaiting official communication from TPA.",
+    "lines": [
+      {
+        "bbox": [
+          105.99855756759644,
+          264.3009294420481,
+          444.5046112537384,
+          296.7016138881445
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "As regard to Dumping area, the Contractor is still awaiting official communication from TPA.",
+            "bbox": [
+              105.99855756759644,
+              264.3009294420481,
+              444.5046112537384,
+              296.7016138881445
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "As regard to Dumping area, the Contractor is still awaiting official communication from TPA.",
+    "mixed_original_protected_source_text": "As regard to Dumping area, the Contractor is still awaiting official communication from TPA.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b014"
+    ],
+    "translation_unit_protected_source_text": "As regard to Dumping area, the Contractor is still awaiting official communication from TPA.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "关于弃土区，承包商仍在等待TPA的正式通知。",
+    "translation_unit_translated_text": "关于弃土区，承包商仍在等待TPA的正式通知。",
+    "protected_translated_text": "关于弃土区，承包商仍在等待TPA的正式通知。",
+    "translated_text": "关于弃土区，承包商仍在等待TPA的正式通知。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b014",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TPA/IL/CHEC / Dumping Area",
+    "translation_context_after": "TPA / First Aid Facilities"
+  },
+  {
+    "item_id": "p003-b015",
+    "page_idx": 2,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      484.3762539625168,
+      277.2075562775135,
+      513.8061431646347,
+      294.00983729958534
+    ],
+    "source_text": "TPA",
+    "lines": [
+      {
+        "bbox": [
+          484.3762539625168,
+          277.2075562775135,
+          513.8061431646347,
+          294.00983729958534
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "TPA",
+            "bbox": [
+              484.3762539625168,
+              277.2075562775135,
+              513.8061431646347,
+              294.00983729958534
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "TPA",
+    "mixed_original_protected_source_text": "TPA",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b015"
+    ],
+    "translation_unit_protected_source_text": "TPA",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b015",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Dumping Area / As regard to Dumping area, the Contractor is still awaiting official communication from TPA.",
+    "translation_context_after": "First Aid Facilities / The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end..."
+  },
+  {
+    "item_id": "p003-b017",
+    "page_idx": 2,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.69875285029411,
+      296.57517240941525,
+      203.78404080867767,
+      312.76748248934746
+    ],
+    "source_text": "First Aid Facilities",
+    "lines": [
+      {
+        "bbox": [
+          105.69875285029411,
+          296.57517240941525,
+          203.78404080867767,
+          312.76748248934746
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "First Aid Facilities",
+            "bbox": [
+              105.69875285029411,
+              296.57517240941525,
+              203.78404080867767,
+              312.76748248934746
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "First Aid Facilities",
+    "mixed_original_protected_source_text": "First Aid Facilities",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b017"
+    ],
+    "translation_unit_protected_source_text": "First Aid Facilities",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "急救设施",
+    "translation_unit_translated_text": "急救设施",
+    "protected_translated_text": "急救设施",
+    "translated_text": "急救设施",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b017",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "As regard to Dumping area, the Contractor is still awaiting official communication from TPA. / TPA",
+    "translation_context_after": "The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026. / CHEC"
+  },
+  {
+    "item_id": "p003-b018",
+    "page_idx": 2,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.42355045676231,
+      315.46074891090393,
+      448.9941724538803,
+      398.80008202791214
+    ],
+    "source_text": "The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026.",
+    "lines": [
+      {
+        "bbox": [
+          105.42355045676231,
+          315.46074891090393,
+          448.9941724538803,
+          398.80008202791214
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026.",
+            "bbox": [
+              105.42355045676231,
+              315.46074891090393,
+              448.9941724538803,
+              398.80008202791214
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026.",
+    "mixed_original_protected_source_text": "The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b018"
+    ],
+    "translation_unit_protected_source_text": "The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "第三个急救室集装箱已于4月10日由承包商和工程师在供应商现场联合检查，确认其满足需求。承包商在会上通报，一旦收到来自中国的用于制造和运输的资金，该集装箱将于2026年5月底前运抵现场。",
+    "translation_unit_translated_text": "第三个急救室集装箱已于4月10日由承包商和工程师在供应商现场联合检查，确认其满足需求。承包商在会上通报，一旦收到来自中国的用于制造和运输的资金，该集装箱将于2026年5月底前运抵现场。",
+    "protected_translated_text": "第三个急救室集装箱已于4月10日由承包商和工程师在供应商现场联合检查，确认其满足需求。承包商在会上通报，一旦收到来自中国的用于制造和运输的资金，该集装箱将于2026年5月底前运抵现场。",
+    "translated_text": "第三个急救室集装箱已于4月10日由承包商和工程师在供应商现场联合检查，确认其满足需求。承包商在会上通报，一旦收到来自中国的用于制造和运输的资金，该集装箱将于2026年5月底前运抵现场。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b018",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "TPA / First Aid Facilities",
+    "translation_context_after": "CHEC / Maintenance and Office Space"
+  },
+  {
+    "item_id": "p003-b019",
+    "page_idx": 2,
+    "block_idx": 19,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      479.0079113841057,
+      347.6019988358021,
+      517.8696294426918,
+      364.6629740893841
+    ],
+    "source_text": "CHEC",
+    "lines": [
+      {
+        "bbox": [
+          479.0079113841057,
+          347.6019988358021,
+          517.8696294426918,
+          364.6629740893841
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHEC",
+            "bbox": [
+              479.0079113841057,
+              347.6019988358021,
+              517.8696294426918,
+              364.6629740893841
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHEC",
+    "mixed_original_protected_source_text": "CHEC",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b019",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b019"
+    ],
+    "translation_unit_protected_source_text": "CHEC",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b019",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "First Aid Facilities / The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end...",
+    "translation_context_after": "Maintenance and Office Space / The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt."
+  },
+  {
+    "item_id": "p003-b021",
+    "page_idx": 2,
+    "block_idx": 21,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.76398381590843,
+      400.618400067091,
+      265.49240097403526,
+      416.60321620106697
+    ],
+    "source_text": "Maintenance and Office Space",
+    "lines": [
+      {
+        "bbox": [
+          105.76398381590843,
+          400.618400067091,
+          265.49240097403526,
+          416.60321620106697
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Maintenance and Office Space",
+            "bbox": [
+              105.76398381590843,
+              400.618400067091,
+              265.49240097403526,
+              416.60321620106697
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Maintenance and Office Space",
+    "mixed_original_protected_source_text": "Maintenance and Office Space",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b021",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b021"
+    ],
+    "translation_unit_protected_source_text": "Maintenance and Office Space",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "维护与办公空间",
+    "translation_unit_translated_text": "维护与办公空间",
+    "protected_translated_text": "维护与办公空间",
+    "translated_text": "维护与办公空间",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b021",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The third first aid room container already inspected jointly by the Contractor and Engineer on 10 th April at Supplier's place and confirmed that it meets the need. The Contractor informed the meeting that, it will be delivered to site once the Contractor receive funds from China to pay for fabrication and delivery to site before end of May 2026. / CHEC",
+    "translation_context_after": "The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt. / CHEC"
+  },
+  {
+    "item_id": "p003-b022",
+    "page_idx": 2,
+    "block_idx": 22,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.58065873384476,
+      419.9993876814842,
+      443.48419988155365,
+      464.1093636751175
+    ],
+    "source_text": "The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.",
+    "lines": [
+      {
+        "bbox": [
+          105.58065873384476,
+          419.9993876814842,
+          443.48419988155365,
+          464.1093636751175
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.",
+            "bbox": [
+              105.58065873384476,
+              419.9993876814842,
+              443.48419988155365,
+              464.1093636751175
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.",
+    "mixed_original_protected_source_text": "The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b022",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b022"
+    ],
+    "translation_unit_protected_source_text": "The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "RE向会议通报，观察到周边环境有显著改善，即使在最近的降雨期间也未闻到任何气味。",
+    "translation_unit_translated_text": "RE向会议通报，观察到周边环境有显著改善，即使在最近的降雨期间也未闻到任何气味。",
+    "protected_translated_text": "RE向会议通报，观察到周边环境有显著改善，即使在最近的降雨期间也未闻到任何气味。",
+    "translated_text": "RE向会议通报，观察到周边环境有显著改善，即使在最近的降雨期间也未闻到任何气味。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b022",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHEC / Maintenance and Office Space",
+    "translation_context_after": "CHEC / Area for Precast Elements and Storage"
+  },
+  {
+    "item_id": "p003-b023",
+    "page_idx": 2,
+    "block_idx": 23,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      480.68403911590576,
+      436.64924305677414,
+      517.8349995613098,
+      453.3987414240837
+    ],
+    "source_text": "CHEC",
+    "lines": [
+      {
+        "bbox": [
+          480.68403911590576,
+          436.64924305677414,
+          517.8349995613098,
+          453.3987414240837
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHEC",
+            "bbox": [
+              480.68403911590576,
+              436.64924305677414,
+              517.8349995613098,
+              453.3987414240837
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHEC",
+    "mixed_original_protected_source_text": "CHEC",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b023",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b023"
+    ],
+    "translation_unit_protected_source_text": "CHEC",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b023",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Maintenance and Office Space / The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt.",
+    "translation_context_after": "Area for Precast Elements and Storage / Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion."
+  },
+  {
+    "item_id": "p003-b025",
+    "page_idx": 2,
+    "block_idx": 25,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.48364174365997,
+      466.3874201178551,
+      299.19457775354385,
+      482.19586223363876
+    ],
+    "source_text": "Area for Precast Elements and Storage",
+    "lines": [
+      {
+        "bbox": [
+          105.48364174365997,
+          466.3874201178551,
+          299.19457775354385,
+          482.19586223363876
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Area for Precast Elements and Storage",
+            "bbox": [
+              105.48364174365997,
+              466.3874201178551,
+              299.19457775354385,
+              482.19586223363876
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Area for Precast Elements and Storage",
+    "mixed_original_protected_source_text": "Area for Precast Elements and Storage",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b025",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b025"
+    ],
+    "translation_unit_protected_source_text": "Area for Precast Elements and Storage",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "预制构件及存储区",
+    "translation_unit_translated_text": "预制构件及存储区",
+    "protected_translated_text": "预制构件及存储区",
+    "translated_text": "预制构件及存储区",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b025",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The RE informed the meeting that it is observed that there is there is promising improvements on the surroundings, even during the recent rains no smell were felt. / CHEC",
+    "translation_context_after": "Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. / The RE once again instructed the Contractor to put in writing showing that h..."
+  },
+  {
+    "item_id": "p003-b026",
+    "page_idx": 2,
+    "block_idx": 26,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.8237492442131,
+      482.74641567468643,
+      445.1246609091759,
+      553.9677618145943
+    ],
+    "source_text": "Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion.",
+    "lines": [
+      {
+        "bbox": [
+          105.8237492442131,
+          482.74641567468643,
+          445.1246609091759,
+          553.9677618145943
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion.",
+            "bbox": [
+              105.8237492442131,
+              482.74641567468643,
+              445.1246609091759,
+              553.9677618145943
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion.",
+    "mixed_original_protected_source_text": "Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b026",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b026"
+    ],
+    "translation_unit_protected_source_text": "Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "关于港口内预制构件的场地需求，承包商告知会议，其已决定从港口外采购预制构件，因此先前讨论中关于获取港口内场地的紧迫性已不再必要。",
+    "translation_unit_translated_text": "关于港口内预制构件的场地需求，承包商告知会议，其已决定从港口外采购预制构件，因此先前讨论中关于获取港口内场地的紧迫性已不再必要。",
+    "protected_translated_text": "关于港口内预制构件的场地需求，承包商告知会议，其已决定从港口外采购预制构件，因此先前讨论中关于获取港口内场地的紧迫性已不再必要。",
+    "translated_text": "关于港口内预制构件的场地需求，承包商告知会议，其已决定从港口外采购预制构件，因此先前讨论中关于获取港口内场地的紧迫性已不再必要。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b026",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHEC / Area for Precast Elements and Storage",
+    "translation_context_after": "The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 st May 2026. / INFO"
+  },
+  {
+    "item_id": "p003-b027",
+    "page_idx": 2,
+    "block_idx": 27,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      106.0453330874443,
+      544.7114756703377,
+      447.35652565956116,
+      609.3576428294182
+    ],
+    "source_text": "The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 st May 2026.",
+    "lines": [
+      {
+        "bbox": [
+          106.0453330874443,
+          544.7114756703377,
+          447.35652565956116,
+          609.3576428294182
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 st May 2026.",
+            "bbox": [
+              106.0453330874443,
+              544.7114756703377,
+              447.35652565956116,
+              609.3576428294182
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 st May 2026.",
+    "mixed_original_protected_source_text": "The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 st May 2026.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b027",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b027"
+    ],
+    "translation_unit_protected_source_text": "The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 st May 2026.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "RE再次指示承包商书面表明其不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。",
+    "translation_unit_translated_text": "RE再次指示承包商书面表明其不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。",
+    "protected_translated_text": "RE再次指示承包商书面表明其不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。",
+    "translated_text": "RE再次指示承包商书面表明其不再需要该设施。承包商承诺在2026年5月21日下次会议前提交书面确认。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b027",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Area for Precast Elements and Storage / Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion.",
+    "translation_context_after": "INFO / CHEC"
+  },
+  {
+    "item_id": "p003-b028",
+    "page_idx": 2,
+    "block_idx": 28,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      482.21124947071075,
+      500.39799404144287,
+      515.9472118616104,
+      517.092044711113
+    ],
+    "source_text": "INFO",
+    "lines": [
+      {
+        "bbox": [
+          482.21124947071075,
+          500.39799404144287,
+          515.9472118616104,
+          517.092044711113
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "INFO",
+            "bbox": [
+              482.21124947071075,
+              500.39799404144287,
+              515.9472118616104,
+              517.092044711113
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "INFO",
+    "mixed_original_protected_source_text": "INFO",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b028",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b028"
+    ],
+    "translation_unit_protected_source_text": "INFO",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b028",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Regarding requirement of space for precast elements in the port; the Contractor informed the meeting that he has decided outsource precast elements from outside the port, therefore the urgency of getting space in the port is no longer necessary as it was from previous discussion. / The RE once again instructed the Contractor to put in writing showing that h...",
+    "translation_context_after": "CHEC / Illuminating Light in Container Yard Port"
+  },
+  {
+    "item_id": "p003-b029",
+    "page_idx": 2,
+    "block_idx": 29,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      479.96084040403366,
+      578.450548350811,
+      518.1355893015862,
+      595.1257956624031
+    ],
+    "source_text": "CHEC",
+    "lines": [
+      {
+        "bbox": [
+          479.96084040403366,
+          578.450548350811,
+          518.1355893015862,
+          595.1257956624031
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHEC",
+            "bbox": [
+              479.96084040403366,
+              578.450548350811,
+              518.1355893015862,
+              595.1257956624031
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHEC",
+    "mixed_original_protected_source_text": "CHEC",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b029",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b029"
+    ],
+    "translation_unit_protected_source_text": "CHEC",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b029",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The RE once again instructed the Contractor to put in writing showing that he is no longer in need of the said facility. The Contractor promised to put in writing before the next meeting on 21 st May 2026. / INFO",
+    "translation_context_after": "Illuminating Light in Container Yard Port / The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly."
+  },
+  {
+    "item_id": "p003-b031",
+    "page_idx": 2,
+    "block_idx": 31,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      105.04351787269115,
+      610.1155514121056,
+      322.59729754924774,
+      626.3845277428627
+    ],
+    "source_text": "Illuminating Light in Container Yard Port",
+    "lines": [
+      {
+        "bbox": [
+          105.04351787269115,
+          610.1155514121056,
+          322.59729754924774,
+          626.3845277428627
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Illuminating Light in Container Yard Port",
+            "bbox": [
+              105.04351787269115,
+              610.1155514121056,
+              322.59729754924774,
+              626.3845277428627
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Illuminating Light in Container Yard Port",
+    "mixed_original_protected_source_text": "Illuminating Light in Container Yard Port",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b031",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b031"
+    ],
+    "translation_unit_protected_source_text": "Illuminating Light in Container Yard Port",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "集装箱码头堆场照明",
+    "translation_unit_translated_text": "集装箱码头堆场照明",
+    "protected_translated_text": "集装箱码头堆场照明",
+    "translated_text": "集装箱码头堆场照明",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b031",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "INFO / CHEC",
+    "translation_context_after": "The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly. / IL"
+  },
+  {
+    "item_id": "p003-b032",
+    "page_idx": 2,
+    "block_idx": 32,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      103.43603521585464,
+      629.1216748356819,
+      444.0585108399391,
+      702.363641679287
+    ],
+    "source_text": "The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.",
+    "lines": [
+      {
+        "bbox": [
+          103.43603521585464,
+          629.1216748356819,
+          444.0585108399391,
+          702.363641679287
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.",
+            "bbox": [
+              103.43603521585464,
+              629.1216748356819,
+              444.0585108399391,
+              702.363641679287
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.",
+    "mixed_original_protected_source_text": "The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b032",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b032"
+    ],
+    "translation_unit_protected_source_text": "The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "承包商提交的照明推荐功率为410瓦，但驻地工程师（RE）指出设计要求为1000瓦。RE告知已收到承包商提交的港口拟用光源支持文件，将对其进行审查并相应回复承包商。",
+    "translation_unit_translated_text": "承包商提交的照明推荐功率为410瓦，但驻地工程师（RE）指出设计要求为1000瓦。RE告知已收到承包商提交的港口拟用光源支持文件，将对其进行审查并相应回复承包商。",
+    "protected_translated_text": "承包商提交的照明推荐功率为410瓦，但驻地工程师（RE）指出设计要求为1000瓦。RE告知已收到承包商提交的港口拟用光源支持文件，将对其进行审查并相应回复承包商。",
+    "translated_text": "承包商提交的照明推荐功率为410瓦，但驻地工程师（RE）指出设计要求为1000瓦。RE告知已收到承包商提交的港口拟用光源支持文件，将对其进行审查并相应回复承包商。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b032",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHEC / Illuminating Light in Container Yard Port",
+    "translation_context_after": "IL / Contractor's Invoicing"
+  },
+  {
+    "item_id": "p003-b033",
+    "page_idx": 2,
+    "block_idx": 33,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      490.3842569589615,
+      676.6752563714981,
+      508.0476293563843,
+      693.5580068826675
+    ],
+    "source_text": "IL",
+    "lines": [
+      {
+        "bbox": [
+          490.3842569589615,
+          676.6752563714981,
+          508.0476293563843,
+          693.5580068826675
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "IL",
+            "bbox": [
+              490.3842569589615,
+              676.6752563714981,
+              508.0476293563843,
+              693.5580068826675
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "IL",
+    "mixed_original_protected_source_text": "IL",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b033",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b033"
+    ],
+    "translation_unit_protected_source_text": "IL",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b033",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Illuminating Light in Container Yard Port / The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly.",
+    "translation_context_after": "Contractor's Invoicing / The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract."
+  },
+  {
+    "item_id": "p003-b035",
+    "page_idx": 2,
+    "block_idx": 35,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      104.02967921644449,
+      701.3138368725777,
+      224.55379354953766,
+      717.584293782711
+    ],
+    "source_text": "Contractor's Invoicing",
+    "lines": [
+      {
+        "bbox": [
+          104.02967921644449,
+          701.3138368725777,
+          224.55379354953766,
+          717.584293782711
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contractor's Invoicing",
+            "bbox": [
+              104.02967921644449,
+              701.3138368725777,
+              224.55379354953766,
+              717.584293782711
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contractor's Invoicing",
+    "mixed_original_protected_source_text": "Contractor's Invoicing",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b035",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b035"
+    ],
+    "translation_unit_protected_source_text": "Contractor's Invoicing",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "承包商发票",
+    "translation_unit_translated_text": "承包商发票",
+    "protected_translated_text": "承包商发票",
+    "translated_text": "承包商发票",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b035",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The Contractor submitted 410 Watts were recommended for lightings, but RE informed that the design requires 1,000 watts. RE informed that we received a document from Contractor to support the proposed Illuminant at Port; and that it will be reviewed and respond to Contractor accordingly. / IL",
+    "translation_context_after": "The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract. / CHEC"
+  },
+  {
+    "item_id": "p003-b036",
+    "page_idx": 2,
+    "block_idx": 36,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      106.1505706012249,
+      722.5768074393272,
+      443.28886246681213,
+      765.809651196003
+    ],
+    "source_text": "The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.",
+    "lines": [
+      {
+        "bbox": [
+          106.1505706012249,
+          722.5768074393272,
+          443.28886246681213,
+          765.809651196003
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.",
+            "bbox": [
+              106.1505706012249,
+              722.5768074393272,
+              443.28886246681213,
+              765.809651196003
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 18,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.",
+    "mixed_original_protected_source_text": "The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b036",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b036"
+    ],
+    "translation_unit_protected_source_text": "The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "驻地工程师建议承包商核实现有支出金额是否低于或高于合同规定的2%的最低开票金额要求。",
+    "translation_unit_translated_text": "驻地工程师建议承包商核实现有支出金额是否低于或高于合同规定的2%的最低开票金额要求。",
+    "protected_translated_text": "驻地工程师建议承包商核实现有支出金额是否低于或高于合同规定的2%的最低开票金额要求。",
+    "translated_text": "驻地工程师建议承包商核实现有支出金额是否低于或高于合同规定的2%的最低开票金额要求。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p003-b036",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "IL / Contractor's Invoicing",
+    "translation_context_after": "CHEC"
+  },
+  {
+    "item_id": "p003-b037",
+    "page_idx": 2,
+    "block_idx": 37,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "table_cell",
+    "normalized_sub_type": "",
+    "bbox": [
+      479.5120738744736,
+      723.1736660003662,
+      519.1419887542725,
+      739.8061245679855
+    ],
+    "source_text": "CHEC",
+    "lines": [
+      {
+        "bbox": [
+          479.5120738744736,
+          723.1736660003662,
+          519.1419887542725,
+          739.8061245679855
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "CHEC",
+            "bbox": [
+              479.5120738744736,
+              723.1736660003662,
+              519.1419887542725,
+              739.8061245679855
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "e02efa12-455f-496a-85a9-43c94852f69f",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 400.34,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 8,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "CHEC",
+    "mixed_original_protected_source_text": "CHEC",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p003-b037",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p003-b037"
+    ],
+    "translation_unit_protected_source_text": "CHEC",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p003-b037",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contractor's Invoicing / The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract.",
+    "translation_context_after": ""
+  }
+]

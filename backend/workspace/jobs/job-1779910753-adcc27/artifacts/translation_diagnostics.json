@@ -1,0 +1,591 @@
+{
+  "provider_family": "deepseek_official",
+  "model": "deepseek-chat",
+  "base_url": "https://api.deepseek.com/v1",
+  "configured_workers": 10,
+  "configured_batch_size": 1,
+  "configured_classify_batch_size": 12,
+  "effective_workers_translation": 10,
+  "effective_workers_policy": 10,
+  "effective_workers_continuation": 8,
+  "effective_workers_mixed_split": 4,
+  "effective_batch_size_translation": 8,
+  "pending_items": 28,
+  "total_batches": 28,
+  "request_counts": {
+    "total_http_attempts": 28,
+    "succeeded_attempts": 28,
+    "failed_attempts": 0,
+    "retried_attempts": 0,
+    "timeout_attempts": 0,
+    "http_error_attempts": 0,
+    "request_exception_attempts": 0
+  },
+  "latency_summary_ms": {
+    "count": 28,
+    "min": 619,
+    "p50": 1118,
+    "p90": 2733,
+    "p95": 3749,
+    "max": 4645,
+    "mean": 1467.54
+  },
+  "retry_summary": {
+    "retrying_request_labels": 0,
+    "max_http_attempt": 1
+  },
+  "concurrency_observed": {
+    "peak_inflight_translation_requests": 0,
+    "peak_inflight_classification_requests": 0,
+    "peak_inflight_policy_requests": 0,
+    "peak_inflight_all_llm_requests": 10
+  },
+  "adaptive_concurrency": {
+    "enabled": true,
+    "current_limit": 10,
+    "peak_limit": 10
+  },
+  "phase_elapsed_ms": {
+    "page_policies": 1,
+    "translation_batches": 6918,
+    "garbled_reconstruction": 1
+  },
+  "slow_request_samples": [
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 21/28 item 1/1 p002-b004 req#1",
+      "attempt": 1,
+      "elapsed_ms": 4645,
+      "timeout_s": 55,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 22/28 item 1/1 p003-b004 req#1",
+      "attempt": 1,
+      "elapsed_ms": 3970,
+      "timeout_s": 55,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 28/28 item 1/1 p005-b009 req#1",
+      "attempt": 1,
+      "elapsed_ms": 3339,
+      "timeout_s": 55,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 3/28 item 1/1 p001-b008 req#1",
+      "attempt": 1,
+      "elapsed_ms": 2473,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 2/28 item 1/1 p001-b007 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1899,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 1/28 item 1/1 p001-b006 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1614,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 6/28 item 1/1 p001-b012 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1523,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 10/28 item 1/1 p001-b016 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1515,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 9/28 item 1/1 p001-b015 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1469,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 8/28 item 1/1 p001-b014 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1448,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 5/28 item 1/1 p001-b011 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1424,
+      "timeout_s": 35,
+      "success": true
+    },
+    {
+      "stage": "other_llm",
+      "request_label": "book: single_fast batch 4/28 item 1/1 p001-b010 req#1",
+      "attempt": 1,
+      "elapsed_ms": 1419,
+      "timeout_s": 35,
+      "success": true
+    }
+  ],
+  "recommendations": [],
+  "translation_protocol_version": "v2",
+  "status_summary": {
+    "translated": 28,
+    "partially_translated": 0,
+    "kept_origin": 0,
+    "failed": 0
+  },
+  "route_summary": {
+    "block_level": {
+      "count": 28,
+      "success_rate": 1.0
+    },
+    "direct_typst": {
+      "count": 28,
+      "success_rate": 1.0
+    }
+  },
+  "error_summary": {},
+  "formula_route_summary": {},
+  "heavy_block_split_summary": {},
+  "slow_items": [],
+  "dead_letter_items": [],
+  "dead_letter_count": 0,
+  "unresolved_items": [],
+  "unresolved_translation_count": 0,
+  "item_diagnostics": [
+    {
+      "item_id": "p001-b006",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b007",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b008",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b010",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b011",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b012",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b013",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b014",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b015",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b016",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b017",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b018",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b019",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b020",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b021",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b022",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b023",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b024",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b025",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p001-b027",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p002-b004",
+      "page_idx": 1,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p003-b004",
+      "page_idx": 2,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p004-b004",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p004-b006",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p004-b007",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p004-b008",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p005-b005",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    {
+      "item_id": "p005-b009",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    }
+  ],
+  "glossary": {
+    "enabled": false,
+    "glossary_id": "",
+    "glossary_name": "",
+    "entry_count": 0,
+    "level_counts": {
+      "preserve": 0,
+      "canonical": 0,
+      "preferred": 0
+    },
+    "resource_entry_count": 0,
+    "inline_entry_count": 0,
+    "overridden_entry_count": 0,
+    "source_hit_entry_count": 0,
+    "target_hit_entry_count": 0,
+    "unused_entry_count": 0,
+    "unapplied_source_hit_entry_count": 0,
+    "preferred_hit_entry_count": 0,
+    "preferred_adoption_rate": 0.0
+  }
+}

@@ -1,0 +1,136 @@
+[
+  {
+    "item_id": "p001-b000",
+    "page_idx": 0,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      100.0,
+      83.27380000000005,
+      275.41600000000017,
+      94.37380000000007
+    ],
+    "source_text": "Page 1 - This is a test document.",
+    "lines": [
+      {
+        "bbox": [
+          100.0,
+          83.27380000000005,
+          275.41600000000017,
+          94.37380000000007
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Page 1 - This is a test document.",
+            "bbox": [
+              100.0,
+              83.27380000000005,
+              275.41600000000017,
+              94.37380000000007
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 1,
+    "layout_boundary_role": "single",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Page 1 - This is a test document.",
+    "mixed_original_protected_source_text": "Page 1 - This is a test document.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b000"
+    ],
+    "translation_unit_protected_source_text": "Page 1 - This is a test document.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "第1页 - 这是一份测试文档。",
+    "translation_unit_translated_text": "第1页 - 这是一份测试文档。",
+    "protected_translated_text": "第1页 - 这是一份测试文档。",
+    "translated_text": "第1页 - 这是一份测试文档。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b000",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "",
+    "translation_context_after": "Page 2 - This is the second page."
+  }
+]

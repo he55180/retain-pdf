@@ -1,0 +1,1208 @@
+[
+  {
+    "item_id": "p005-b000",
+    "page_idx": 4,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.8835245768229,
+      114.58669026692712,
+      521.5,
+      179.51914469401038
+    ],
+    "source_text": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair.",
+    "lines": [
+      {
+        "bbox": [
+          146.8835245768229,
+          114.58669026692712,
+          521.5,
+          179.51914469401038
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair.",
+            "bbox": [
+              146.8835245768229,
+              114.58669026692712,
+              521.5,
+              179.51914469401038
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair.",
+    "mixed_original_protected_source_text": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b000"
+    ],
+    "translation_unit_protected_source_text": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "f. 确保其车辆/救护车按照所有适用法律（包括所有国家运输与安全管理局条例及陆路运输监管局（LATRA）的规定）持有所有必要的执照、许可、批准、权限和许可证，并且此类车辆保持良好维修状态。",
+    "translation_unit_translated_text": "f. 确保其车辆/救护车按照所有适用法律（包括所有国家运输与安全管理局条例及陆路运输监管局（LATRA）的规定）持有所有必要的执照、许可、批准、权限和许可证，并且此类车辆保持良好维修状态。",
+    "protected_translated_text": "f. 确保其车辆/救护车按照所有适用法律（包括所有国家运输与安全管理局条例及陆路运输监管局（LATRA）的规定）持有所有必要的执照、许可、批准、权限和许可证，并且此类车辆保持良好维修状态。",
+    "translated_text": "f. 确保其车辆/救护车按照所有适用法律（包括所有国家运输与安全管理局条例及陆路运输监管局（LATRA）的规定）持有所有必要的执照、许可、批准、权限和许可证，并且此类车辆保持良好维修状态。",
+    "continuation_group": "",
+    "continuation_prev_text": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price.",
+    "continuation_next_text": "",
+    "continuation_decision": "joined",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b000",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "d.E-Plus will be required tofill all the necessary documents that need tobe filled in accordancewith theE-Plusstandardprocedures.Someof these include medications administered,transfernotes,patient'sinitial assessmentetc.This list isbyno means anexhaustivelistbut a mereindicationoftheforms thatwill be needed. / e.E-Plus shall as part of the agreed Services e...",
+    "translation_context_after": "Provide the Client with all the necessary documentation including vehicle/ambulance registration number, valid comprehensive insurance cover anditspersonnel's(including its ambulance operators) details onrequest. / h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and a..."
+  },
+  {
+    "item_id": "p005-b001",
+    "page_idx": 4,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.4602254231771,
+      190.97782389322913,
+      521.9232991536459,
+      230.8709716796875
+    ],
+    "source_text": "Provide the Client with all the necessary documentation including vehicle/ambulance registration number, valid comprehensive insurance cover anditspersonnel's(including its ambulance operators) details onrequest.",
+    "lines": [
+      {
+        "bbox": [
+          146.4602254231771,
+          190.97782389322913,
+          521.9232991536459,
+          230.8709716796875
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Provide the Client with all the necessary documentation including vehicle/ambulance registration number, valid comprehensive insurance cover anditspersonnel's(including its ambulance operators) details onrequest.",
+            "bbox": [
+              146.4602254231771,
+              190.97782389322913,
+              521.9232991536459,
+              230.8709716796875
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Provide the Client with all the necessary documentation including vehicle/ambulance registration number, valid comprehensive insurance cover anditspersonnel's(including its ambulance operators) details onrequest.",
+    "mixed_original_protected_source_text": "Provide the Client with all the necessary documentation including vehicle/ambulance registration number, valid comprehensive insurance cover anditspersonnel's(including its ambulance operators) details onrequest.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b001"
+    ],
+    "translation_unit_protected_source_text": "Provide the Client with all the necessary documentation including vehicle/ambulance registration number, valid comprehensive insurance cover anditspersonnel's(including its ambulance operators) details onrequest.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "应客户要求，向客户提供所有必要文件，包括车辆/救护车登记编号、有效的综合保险单及其人员（包括其救护车操作员）的详细信息。",
+    "translation_unit_translated_text": "应客户要求，向客户提供所有必要文件，包括车辆/救护车登记编号、有效的综合保险单及其人员（包括其救护车操作员）的详细信息。",
+    "protected_translated_text": "应客户要求，向客户提供所有必要文件，包括车辆/救护车登记编号、有效的综合保险单及其人员（包括其救护车操作员）的详细信息。",
+    "translated_text": "应客户要求，向客户提供所有必要文件，包括车辆/救护车登记编号、有效的综合保险单及其人员（包括其救护车操作员）的详细信息。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b001",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "e.E-Plus shall as part of the agreed Services ensure that it utilizes its own facilities including vehicles, tools, machinery, apparatus and equipment in the provision of the Services, at no additional cost and as part of the agreed contract price. / f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and lic...",
+    "translation_context_after": "h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and also ensure that they haveatalltimesvalidcertificatesofgoodconductandhavepoliceclearances and possesstherequisitedriving experience to drive ambulances; / Keep the Client informed at all times regarding all matters c..."
+  },
+  {
+    "item_id": "p005-b002",
+    "page_idx": 4,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.4602254231771,
+      241.90525309244788,
+      521.0767008463541,
+      294.1058553059895
+    ],
+    "source_text": "h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and also ensure that they haveatalltimesvalidcertificatesofgoodconductandhavepoliceclearances and possesstherequisitedriving experience to drive ambulances;",
+    "lines": [
+      {
+        "bbox": [
+          146.4602254231771,
+          241.90525309244788,
+          521.0767008463541,
+          294.1058553059895
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and also ensure that they haveatalltimesvalidcertificatesofgoodconductandhavepoliceclearances and possesstherequisitedriving experience to drive ambulances;",
+            "bbox": [
+              146.4602254231771,
+              241.90525309244788,
+              521.0767008463541,
+              294.1058553059895
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and also ensure that they haveatalltimesvalidcertificatesofgoodconductandhavepoliceclearances and possesstherequisitedriving experience to drive ambulances;",
+    "mixed_original_protected_source_text": "h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and also ensure that they haveatalltimesvalidcertificatesofgoodconductandhavepoliceclearances and possesstherequisitedriving experience to drive ambulances;",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b002"
+    ],
+    "translation_unit_protected_source_text": "h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and also ensure that they haveatalltimesvalidcertificatesofgoodconductandhavepoliceclearances and possesstherequisitedriving experience to drive ambulances;",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "h. 确保其救护车驾驶员持有有效驾驶执照，并始终遵守所有交通规则及高速公路法规；同时确保其驾驶员始终持有有效的良好行为证明及警方无犯罪记录证明，并具备驾驶救护车所需的驾驶经验；",
+    "translation_unit_translated_text": "h. 确保其救护车驾驶员持有有效驾驶执照，并始终遵守所有交通规则及高速公路法规；同时确保其驾驶员始终持有有效的良好行为证明及警方无犯罪记录证明，并具备驾驶救护车所需的驾驶经验；",
+    "protected_translated_text": "h. 确保其救护车驾驶员持有有效驾驶执照，并始终遵守所有交通规则及高速公路法规；同时确保其驾驶员始终持有有效的良好行为证明及警方无犯罪记录证明，并具备驾驶救护车所需的驾驶经验；",
+    "translated_text": "h. 确保其救护车驾驶员持有有效驾驶执照，并始终遵守所有交通规则及高速公路法规；同时确保其驾驶员始终持有有效的良好行为证明及警方无犯罪记录证明，并具备驾驶救护车所需的驾驶经验；",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b002",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "f.Ensure that its vehicles/ambulances have all the necessary licenses,permits, approvals, permission and licenses in accordance with all applicable laws, including all National Transport and Safety Authorityrules and regulations, Land Transport Regulatory Authority (LATRA) and that such vehicles are kept in a good state of repair. / Provide the Client with...",
+    "translation_context_after": "Keep the Client informed at all times regarding all matters concerning the provision of theServices.Without limiting the generality of this clause,E-Plus memberofitstechnical staff,whomust be available duringnormal business days, with the authority to act for and on behalf of E-Plus), to coordinate, cooperateandprovideinformationtotheClientasrequired; / Ens..."
+  },
+  {
+    "item_id": "p005-b003",
+    "page_idx": 4,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      147.73011271158853,
+      305.140116373698,
+      521.5,
+      380.6824544270833
+    ],
+    "source_text": "Keep the Client informed at all times regarding all matters concerning the provision of theServices.Without limiting the generality of this clause,E-Plus memberofitstechnical staff,whomust be available duringnormal business days, with the authority to act for and on behalf of E-Plus), to coordinate, cooperateandprovideinformationtotheClientasrequired;",
+    "lines": [
+      {
+        "bbox": [
+          147.73011271158853,
+          305.140116373698,
+          521.5,
+          380.6824544270833
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Keep the Client informed at all times regarding all matters concerning the provision of theServices.Without limiting the generality of this clause,E-Plus memberofitstechnical staff,whomust be available duringnormal business days, with the authority to act for and on behalf of E-Plus), to coordinate, cooperateandprovideinformationtotheClientasrequired;",
+            "bbox": [
+              147.73011271158853,
+              305.140116373698,
+              521.5,
+              380.6824544270833
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Keep the Client informed at all times regarding all matters concerning the provision of theServices.Without limiting the generality of this clause,E-Plus memberofitstechnical staff,whomust be available duringnormal business days, with the authority to act for and on behalf of E-Plus), to coordinate, cooperateandprovideinformationtotheClientasrequired;",
+    "mixed_original_protected_source_text": "Keep the Client informed at all times regarding all matters concerning the provision of theServices.Without limiting the generality of this clause,E-Plus memberofitstechnical staff,whomust be available duringnormal business days, with the authority to act for and on behalf of E-Plus), to coordinate, cooperateandprovideinformationtotheClientasrequired;",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b003"
+    ],
+    "translation_unit_protected_source_text": "Keep the Client informed at all times regarding all matters concerning the provision of theServices.Without limiting the generality of this clause,E-Plus memberofitstechnical staff,whomust be available duringnormal business days, with the authority to act for and on behalf of E-Plus), to coordinate, cooperateandprovideinformationtotheClientasrequired;",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "在所有与服务提供相关的事项上随时保持客户知情。在不限制本条款一般性原则的前提下，E-Plus 应指派其技术人员（须在正常工作日随时可联络，并有权代表 E-Plus 行事）按需协调、合作并向客户提供信息；",
+    "translation_unit_translated_text": "在所有与服务提供相关的事项上随时保持客户知情。在不限制本条款一般性原则的前提下，E-Plus 应指派其技术人员（须在正常工作日随时可联络，并有权代表 E-Plus 行事）按需协调、合作并向客户提供信息；",
+    "protected_translated_text": "在所有与服务提供相关的事项上随时保持客户知情。在不限制本条款一般性原则的前提下，E-Plus 应指派其技术人员（须在正常工作日随时可联络，并有权代表 E-Plus 行事）按需协调、合作并向客户提供信息；",
+    "translated_text": "在所有与服务提供相关的事项上随时保持客户知情。在不限制本条款一般性原则的前提下，E-Plus 应指派其技术人员（须在正常工作日随时可联络，并有权代表 E-Plus 行事）按需协调、合作并向客户提供信息；",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b003",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Provide the Client with all the necessary documentation including vehicle/ambulance registration number, valid comprehensive insurance cover anditspersonnel's(including its ambulance operators) details onrequest. / h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and a...",
+    "translation_context_after": "Ensure that itsPersonnel arefreefrom alcohol intoxicationandotherillegal substances whilst on duty; / k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable..."
+  },
+  {
+    "item_id": "p005-b004",
+    "page_idx": 4,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.03693644205728,
+      391.7167561848958,
+      520.6534016927084,
+      420.1512044270833
+    ],
+    "source_text": "Ensure that itsPersonnel arefreefrom alcohol intoxicationandotherillegal substances whilst on duty;",
+    "lines": [
+      {
+        "bbox": [
+          146.03693644205728,
+          391.7167561848958,
+          520.6534016927084,
+          420.1512044270833
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Ensure that itsPersonnel arefreefrom alcohol intoxicationandotherillegal substances whilst on duty;",
+            "bbox": [
+              146.03693644205728,
+              391.7167561848958,
+              520.6534016927084,
+              420.1512044270833
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Ensure that itsPersonnel arefreefrom alcohol intoxicationandotherillegal substances whilst on duty;",
+    "mixed_original_protected_source_text": "Ensure that itsPersonnel arefreefrom alcohol intoxicationandotherillegal substances whilst on duty;",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b004"
+    ],
+    "translation_unit_protected_source_text": "Ensure that itsPersonnel arefreefrom alcohol intoxicationandotherillegal substances whilst on duty;",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "确保其人员在值班时无酒精中毒及其他非法物质影响；",
+    "translation_unit_translated_text": "确保其人员在值班时无酒精中毒及其他非法物质影响；",
+    "protected_translated_text": "确保其人员在值班时无酒精中毒及其他非法物质影响；",
+    "translated_text": "确保其人员在值班时无酒精中毒及其他非法物质影响；",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b004",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "h.Ensure that itsPersonnel driving the ambulance have avalid drivinglicense and adhere to all traffic rules and highway codes at all times and also ensure that they haveatalltimesvalidcertificatesofgoodconductandhavepoliceclearances and possesstherequisitedriving experience to drive ambulances; / Keep the Client informed at all times regarding all matters c...",
+    "translation_context_after": "k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable laws, and to ensure that such uniform are regularly cleaned andin a clean and tidycondition; / E-Plus..."
+  },
+  {
+    "item_id": "p005-b005",
+    "page_idx": 4,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      146.4602254231771,
+      430.7611083984375,
+      521.0767008463541,
+      494.8447672526042
+    ],
+    "source_text": "k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable laws, and to ensure that such uniform are regularly cleaned andin a clean and tidycondition;",
+    "lines": [
+      {
+        "bbox": [
+          146.4602254231771,
+          430.7611083984375,
+          521.0767008463541,
+          494.8447672526042
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable laws, and to ensure that such uniform are regularly cleaned andin a clean and tidycondition;",
+            "bbox": [
+              146.4602254231771,
+              430.7611083984375,
+              521.0767008463541,
+              494.8447672526042
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable laws, and to ensure that such uniform are regularly cleaned andin a clean and tidycondition;",
+    "mixed_original_protected_source_text": "k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable laws, and to ensure that such uniform are regularly cleaned andin a clean and tidycondition;",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b005"
+    ],
+    "translation_unit_protected_source_text": "k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable laws, and to ensure that such uniform are regularly cleaned andin a clean and tidycondition;",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "k. 确保其根据本协议指派给客户的人员在值班时配备适当制服及所有其他必要的个人防护装备和服装（PPE），费用由其自行承担，并符合适用法律；且确保此类制服定期清洁并保持干净整洁；",
+    "translation_unit_translated_text": "k. 确保其根据本协议指派给客户的人员在值班时配备适当制服及所有其他必要的个人防护装备和服装（PPE），费用由其自行承担，并符合适用法律；且确保此类制服定期清洁并保持干净整洁；",
+    "protected_translated_text": "k. 确保其根据本协议指派给客户的人员在值班时配备适当制服及所有其他必要的个人防护装备和服装（PPE），费用由其自行承担，并符合适用法律；且确保此类制服定期清洁并保持干净整洁；",
+    "translated_text": "k. 确保其根据本协议指派给客户的人员在值班时配备适当制服及所有其他必要的个人防护装备和服装（PPE），费用由其自行承担，并符合适用法律；且确保此类制服定期清洁并保持干净整洁；",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b005",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Keep the Client informed at all times regarding all matters concerning the provision of theServices.Without limiting the generality of this clause,E-Plus memberofitstechnical staff,whomust be available duringnormal business days, with the authority to act for and on behalf of E-Plus), to coordinate, cooperateandprovideinformationtotheClientasrequired; / Ens...",
+    "translation_context_after": "E-Plus shall maintain the required equipment and supplies in well working conditions atall times.SeeAnnexure2for thelistofequipment andsupplies required at any point in time. / m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliable..."
+  },
+  {
+    "item_id": "p005-b006",
+    "page_idx": 4,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      147.30682373046875,
+      504.6058349609375,
+      521.0767008463541,
+      544.9233805338541
+    ],
+    "source_text": "E-Plus shall maintain the required equipment and supplies in well working conditions atall times.SeeAnnexure2for thelistofequipment andsupplies required at any point in time.",
+    "lines": [
+      {
+        "bbox": [
+          147.30682373046875,
+          504.6058349609375,
+          521.0767008463541,
+          544.9233805338541
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "E-Plus shall maintain the required equipment and supplies in well working conditions atall times.SeeAnnexure2for thelistofequipment andsupplies required at any point in time.",
+            "bbox": [
+              147.30682373046875,
+              504.6058349609375,
+              521.0767008463541,
+              544.9233805338541
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "E-Plus shall maintain the required equipment and supplies in well working conditions atall times.SeeAnnexure2for thelistofequipment andsupplies required at any point in time.",
+    "mixed_original_protected_source_text": "E-Plus shall maintain the required equipment and supplies in well working conditions atall times.SeeAnnexure2for thelistofequipment andsupplies required at any point in time.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b006"
+    ],
+    "translation_unit_protected_source_text": "E-Plus shall maintain the required equipment and supplies in well working conditions atall times.SeeAnnexure2for thelistofequipment andsupplies required at any point in time.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-Plus 应始终将所需设备和用品保持在良好的工作状态。任何时间点所需的设备和用品清单见附录2。",
+    "translation_unit_translated_text": "E-Plus 应始终将所需设备和用品保持在良好的工作状态。任何时间点所需的设备和用品清单见附录2。",
+    "protected_translated_text": "E-Plus 应始终将所需设备和用品保持在良好的工作状态。任何时间点所需的设备和用品清单见附录2。",
+    "translated_text": "E-Plus 应始终将所需设备和用品保持在良好的工作状态。任何时间点所需的设备和用品清单见附录2。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b006",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Ensure that itsPersonnel arefreefrom alcohol intoxicationandotherillegal substances whilst on duty; / k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable...",
+    "translation_context_after": "m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliableforanymisconduct,negligenceor anyotherissues that mayrelateto any liabilitywhatsoever arisingfrom the actions orinactions of E-Plus,its agents and employees and whomsoever actin..."
+  },
+  {
+    "item_id": "p005-b007",
+    "page_idx": 4,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      145.19033813476562,
+      556.382080078125,
+      521.5,
+      632.773193359375
+    ],
+    "source_text": "m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliableforanymisconduct,negligenceor anyotherissues that mayrelateto any liabilitywhatsoever arisingfrom the actions orinactions of E-Plus,its agents and employees and whomsoever acting under the instructionsoftheE-Plus.",
+    "lines": [
+      {
+        "bbox": [
+          145.19033813476562,
+          556.382080078125,
+          521.5,
+          632.773193359375
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliableforanymisconduct,negligenceor anyotherissues that mayrelateto any liabilitywhatsoever arisingfrom the actions orinactions of E-Plus,its agents and employees and whomsoever acting under the instructionsoftheE-Plus.",
+            "bbox": [
+              145.19033813476562,
+              556.382080078125,
+              521.5,
+              632.773193359375
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliableforanymisconduct,negligenceor anyotherissues that mayrelateto any liabilitywhatsoever arisingfrom the actions orinactions of E-Plus,its agents and employees and whomsoever acting under the instructionsoftheE-Plus.",
+    "mixed_original_protected_source_text": "m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliableforanymisconduct,negligenceor anyotherissues that mayrelateto any liabilitywhatsoever arisingfrom the actions orinactions of E-Plus,its agents and employees and whomsoever acting under the instructionsoftheE-Plus.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b007"
+    ],
+    "translation_unit_protected_source_text": "m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliableforanymisconduct,negligenceor anyotherissues that mayrelateto any liabilitywhatsoever arisingfrom the actions orinactions of E-Plus,its agents and employees and whomsoever acting under the instructionsoftheE-Plus.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "m. E-Plus 并非客户的代理人，且在任何情况下均不得如此声称。E-Plus 系独立顾问，客户或其员工在任何情况下均无需对 E-Plus、其代理人及雇员，以及任何根据 E-Plus 指示行事之人的作为或不作为所引发的任何不当行为、疏忽或其他可能产生的任何责任问题承担责任。",
+    "translation_unit_translated_text": "m. E-Plus 并非客户的代理人，且在任何情况下均不得如此声称。E-Plus 系独立顾问，客户或其员工在任何情况下均无需对 E-Plus、其代理人及雇员，以及任何根据 E-Plus 指示行事之人的作为或不作为所引发的任何不当行为、疏忽或其他可能产生的任何责任问题承担责任。",
+    "protected_translated_text": "m. E-Plus 并非客户的代理人，且在任何情况下均不得如此声称。E-Plus 系独立顾问，客户或其员工在任何情况下均无需对 E-Plus、其代理人及雇员，以及任何根据 E-Plus 指示行事之人的作为或不作为所引发的任何不当行为、疏忽或其他可能产生的任何责任问题承担责任。",
+    "translated_text": "m. E-Plus 并非客户的代理人，且在任何情况下均不得如此声称。E-Plus 系独立顾问，客户或其员工在任何情况下均无需对 E-Plus、其代理人及雇员，以及任何根据 E-Plus 指示行事之人的作为或不作为所引发的任何不当行为、疏忽或其他可能产生的任何责任问题承担责任。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b007",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "k.Ensure that itsPersonnel assigned to the Clientunder thisAgreement are provided with appropriate uniform and all other necessary personal protective equipment and clothing (PPE) whilst on duty at its own cost and expense and in accordance with applicable laws, and to ensure that such uniform are regularly cleaned andin a clean and tidycondition; / E-Plus...",
+    "translation_context_after": "n.E-Plus'provision of Services shall conform to the highest clinical and professional standards.E-Plus shall complywith all applicable laws,regulations and standards regarding the provision of Services.All persons employed by EPlusshall becompetentin theperformance oftheirduties,and hold andmaintain applicable and valid certificates/licenses/accreditations..."
+  },
+  {
+    "item_id": "p005-b008",
+    "page_idx": 4,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "list_item",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "list_item",
+    "normalized_sub_type": "",
+    "bbox": [
+      145.19033813476562,
+      644.65625,
+      521.0767008463541,
+      710.8618977864584
+    ],
+    "source_text": "n.E-Plus'provision of Services shall conform to the highest clinical and professional standards.E-Plus shall complywith all applicable laws,regulations and standards regarding the provision of Services.All persons employed by EPlusshall becompetentin theperformance oftheirduties,and hold andmaintain applicable and valid certificates/licenses/accreditations in their respective roles",
+    "lines": [
+      {
+        "bbox": [
+          145.19033813476562,
+          644.65625,
+          521.0767008463541,
+          710.8618977864584
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "n.E-Plus'provision of Services shall conform to the highest clinical and professional standards.E-Plus shall complywith all applicable laws,regulations and standards regarding the provision of Services.All persons employed by EPlusshall becompetentin theperformance oftheirduties,and hold andmaintain applicable and valid certificates/licenses/accreditations in their respective roles",
+            "bbox": [
+              145.19033813476562,
+              644.65625,
+              521.0767008463541,
+              710.8618977864584
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 9,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "n.E-Plus'provision of Services shall conform to the highest clinical and professional standards.E-Plus shall complywith all applicable laws,regulations and standards regarding the provision of Services.All persons employed by EPlusshall becompetentin theperformance oftheirduties,and hold andmaintain applicable and valid certificates/licenses/accreditations in their respective roles",
+    "mixed_original_protected_source_text": "n.E-Plus'provision of Services shall conform to the highest clinical and professional standards.E-Plus shall complywith all applicable laws,regulations and standards regarding the provision of Services.All persons employed by EPlusshall becompetentin theperformance oftheirduties,and hold andmaintain applicable and valid certificates/licenses/accreditations in their respective roles",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "llm_reconstructed_garbled",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p005-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p005-b008"
+    ],
+    "translation_unit_protected_source_text": "n.E-Plus'provision of Services shall conform to the highest clinical and professional standards.E-Plus shall complywith all applicable laws,regulations and standards regarding the provision of Services.All persons employed by EPlusshall becompetentin theperformance oftheirduties,and hold andmaintain applicable and valid certificates/licenses/accreditations in their respective roles",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "E-Plus的服务提供应符合最高的临床和专业标准。E-Plus应遵守所有关于服务提供的适用法律、法规和标准。E-Plus雇用的所有人员应能胜任其职责，并在各自的岗位上持有并维持适用的有效证书/执照/认证。",
+    "translation_unit_translated_text": "E-Plus的服务提供应符合最高的临床和专业标准。E-Plus应遵守所有关于服务提供的适用法律、法规和标准。E-Plus雇用的所有人员应能胜任其职责，并在各自的岗位上持有并维持适用的有效证书/执照/认证。",
+    "protected_translated_text": "E-Plus的服务提供应符合最高的临床和专业标准。E-Plus应遵守所有关于服务提供的适用法律、法规和标准。E-Plus雇用的所有人员应能胜任其职责，并在各自的岗位上持有并维持适用的有效证书/执照/认证。",
+    "translated_text": "E-Plus的服务提供应符合最高的临床和专业标准。E-Plus应遵守所有关于服务提供的适用法律、法规和标准。E-Plus雇用的所有人员应能胜任其职责，并在各自的岗位上持有并维持适用的有效证书/执照/认证。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions.",
+    "continuation_decision": "joined",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p005-b008",
+      "page_idx": 4,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "E-Plus shall maintain the required equipment and supplies in well working conditions atall times.SeeAnnexure2for thelistofequipment andsupplies required at any point in time. / m.E-Plus are not agents of the Client and will not in any manner whatsoever portray to be so. E-Plus is an independent consultant and the Client or its staff shall innomannerbeliable...",
+    "translation_context_after": "or profession. E-Plus shall be held accountable for employee performance, licensing, and actions. / 5.Entire Agreement:"
+  }
+]

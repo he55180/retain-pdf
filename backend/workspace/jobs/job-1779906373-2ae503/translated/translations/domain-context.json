@@ -1,0 +1,6 @@
+{
+  "domain": "通用",
+  "summary": "文档为测试页面，无具体学术内容。",
+  "translation_guidance": "由于文档仅为测试页面，无具体领域内容。翻译时建议保持原文格式，遵循通用翻译原则:术语统一、避免意译、保留英文缩写和代码。当出现数学公式或特殊符号时，用$...$包裹。",
+  "preview_text": "[Page 1]\nPage 1 - This is a test document.\n\n[Page 2]\nPage 2 - This is the second page."
+}

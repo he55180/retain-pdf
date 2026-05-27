@@ -1,0 +1,28 @@
+[
+    [
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.165,
+                0.096,
+                0.463,
+                0.113
+            ],
+            "angle": 0,
+            "content": "Page 1 - This is a test document."
+        }
+    ],
+    [
+        {
+            "type": "page_footnote",
+            "bbox": [
+                0.165,
+                0.096,
+                0.47,
+                0.113
+            ],
+            "angle": 0,
+            "content": "Page 2 - This is the second page."
+        }
+    ]
+]

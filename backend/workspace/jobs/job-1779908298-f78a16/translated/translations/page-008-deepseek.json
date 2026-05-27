@@ -1,0 +1,1074 @@
+[
+  {
+    "item_id": "p008-b000",
+    "page_idx": 7,
+    "block_idx": 0,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 0,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      96.93466186523438,
+      112.88910929361975,
+      204.02840169270834,
+      126.8941548665365
+    ],
+    "source_text": "14.Force Majeure",
+    "lines": [
+      {
+        "bbox": [
+          96.93466186523438,
+          112.88910929361975,
+          204.02840169270834,
+          126.8941548665365
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "14.Force Majeure",
+            "bbox": [
+              96.93466186523438,
+              112.88910929361975,
+              204.02840169270834,
+              126.8941548665365
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "14.Force Majeure",
+    "mixed_original_protected_source_text": "14.Force Majeure",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b000",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b000"
+    ],
+    "translation_unit_protected_source_text": "14.Force Majeure",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "14. 不可抗力",
+    "translation_unit_translated_text": "14. 不可抗力",
+    "protected_translated_text": "14. 不可抗力",
+    "translated_text": "14. 不可抗力",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p007-b019",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b000",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p007-b019",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "13. No joint Venture or Partnership / Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party",
+    "translation_context_after": "NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweather,actsof God,epide..."
+  },
+  {
+    "item_id": "p008-b001",
+    "page_idx": 7,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      129.52841186523438,
+      138.35282389322913,
+      522.3465983072916,
+      254.21270751953125
+    ],
+    "source_text": "NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweather,actsof God,epidemics,pandemic,protest demonstrations, war,terrorism or terrorist acts,riot,strikes,lockoutsorotherindustrial disturbancesor unanticipatedsiteconditions.Intheeventthatsuchactsoreventsdooccur,bothParties shallattempttoovercomealldifficultiesarisingandtoresume assoonasreasonably possible the normal pursuit and schedule of the Services set forth in this Agreement.",
+    "lines": [
+      {
+        "bbox": [
+          129.52841186523438,
+          138.35282389322913,
+          522.3465983072916,
+          254.21270751953125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweather,actsof God,epidemics,pandemic,protest demonstrations, war,terrorism or terrorist acts,riot,strikes,lockoutsorotherindustrial disturbancesor unanticipatedsiteconditions.Intheeventthatsuchactsoreventsdooccur,bothParties shallattempttoovercomealldifficultiesarisingandtoresume assoonasreasonably possible the normal pursuit and schedule of the Services set forth in this Agreement.",
+            "bbox": [
+              129.52841186523438,
+              138.35282389322913,
+              522.3465983072916,
+              254.21270751953125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweather,actsof God,epidemics,pandemic,protest demonstrations, war,terrorism or terrorist acts,riot,strikes,lockoutsorotherindustrial disturbancesor unanticipatedsiteconditions.Intheeventthatsuchactsoreventsdooccur,bothParties shallattempttoovercomealldifficultiesarisingandtoresume assoonasreasonably possible the normal pursuit and schedule of the Services set forth in this Agreement.",
+    "mixed_original_protected_source_text": "NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweather,actsof God,epidemics,pandemic,protest demonstrations, war,terrorism or terrorist acts,riot,strikes,lockoutsorotherindustrial disturbancesor unanticipatedsiteconditions.Intheeventthatsuchactsoreventsdooccur,bothParties shallattempttoovercomealldifficultiesarisingandtoresume assoonasreasonably possible the normal pursuit and schedule of the Services set forth in this Agreement.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b001"
+    ],
+    "translation_unit_protected_source_text": "NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweather,actsof God,epidemics,pandemic,protest demonstrations, war,terrorism or terrorist acts,riot,strikes,lockoutsorotherindustrial disturbancesor unanticipatedsiteconditions.Intheeventthatsuchactsoreventsdooccur,bothParties shallattempttoovercomealldifficultiesarisingandtoresume assoonasreasonably possible the normal pursuit and schedule of the Services set forth in this Agreement.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "任何一方均不被视为违反本协议，前提是其履行义务（支付款项除外）的任何延迟或未能履行是由于超出其合理控制范围且非因其过错或疏忽所致。为此，此类行为或事件应包括但不限于：暴风雨、洪水、异常恶劣天气、不可抗力、流行病、大流行病、抗议示威、战争、恐怖主义或恐怖行为、暴乱、罢工、停工或其他工业干扰或不可预见的现场条件。若此类行为或事件确实发生，双方应努力克服由此产生的所有困难，并尽可能合理尽快恢复本协议所规定服务的正常开展和进度。",
+    "translation_unit_translated_text": "任何一方均不被视为违反本协议，前提是其履行义务（支付款项除外）的任何延迟或未能履行是由于超出其合理控制范围且非因其过错或疏忽所致。为此，此类行为或事件应包括但不限于：暴风雨、洪水、异常恶劣天气、不可抗力、流行病、大流行病、抗议示威、战争、恐怖主义或恐怖行为、暴乱、罢工、停工或其他工业干扰或不可预见的现场条件。若此类行为或事件确实发生，双方应努力克服由此产生的所有困难，并尽可能合理尽快恢复本协议所规定服务的正常开展和进度。",
+    "protected_translated_text": "任何一方均不被视为违反本协议，前提是其履行义务（支付款项除外）的任何延迟或未能履行是由于超出其合理控制范围且非因其过错或疏忽所致。为此，此类行为或事件应包括但不限于：暴风雨、洪水、异常恶劣天气、不可抗力、流行病、大流行病、抗议示威、战争、恐怖主义或恐怖行为、暴乱、罢工、停工或其他工业干扰或不可预见的现场条件。若此类行为或事件确实发生，双方应努力克服由此产生的所有困难，并尽可能合理尽快恢复本协议所规定服务的正常开展和进度。",
+    "translated_text": "任何一方均不被视为违反本协议，前提是其履行义务（支付款项除外）的任何延迟或未能履行是由于超出其合理控制范围且非因其过错或疏忽所致。为此，此类行为或事件应包括但不限于：暴风雨、洪水、异常恶劣天气、不可抗力、流行病、大流行病、抗议示威、战争、恐怖主义或恐怖行为、暴乱、罢工、停工或其他工业干扰或不可预见的现场条件。若此类行为或事件确实发生，双方应努力克服由此产生的所有困难，并尽可能合理尽快恢复本协议所规定服务的正常开展和进度。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b001",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Itisunderstoodand agreed thatnothingcontainedinthisAgreementshallbe deemed or construed ascreatingapartnershiporjointventurebetween theClient and theE-Plus or any other party, or cause either party to be responsible in any way for the debts and obligations of the other party / 14.Force Majeure",
+    "translation_context_after": "15.Dispute Resolution / Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent..."
+  },
+  {
+    "item_id": "p008-b002",
+    "page_idx": 7,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      93.54829915364583,
+      265.671366373698,
+      205.29829915364584,
+      279.25201416015625
+    ],
+    "source_text": "15.Dispute Resolution",
+    "lines": [
+      {
+        "bbox": [
+          93.54829915364583,
+          265.671366373698,
+          205.29829915364584,
+          279.25201416015625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "15.Dispute Resolution",
+            "bbox": [
+              93.54829915364583,
+              265.671366373698,
+              205.29829915364584,
+              279.25201416015625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "15.Dispute Resolution",
+    "mixed_original_protected_source_text": "15.Dispute Resolution",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b002"
+    ],
+    "translation_unit_protected_source_text": "15.Dispute Resolution",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "15.争议解决",
+    "translation_unit_translated_text": "15.争议解决",
+    "protected_translated_text": "15.争议解决",
+    "translated_text": "15.争议解决",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b002",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "14.Force Majeure / NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweath...",
+    "translation_context_after": "Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent courtwith jurisdictionf..."
+  },
+  {
+    "item_id": "p008-b003",
+    "page_idx": 7,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      96.51136271158855,
+      291.5594685872395,
+      499.4886474609375,
+      367.9506022135417
+    ],
+    "source_text": "Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent courtwith jurisdictionfor the appropriaterelief.",
+    "lines": [
+      {
+        "bbox": [
+          96.51136271158855,
+          291.5594685872395,
+          499.4886474609375,
+          367.9506022135417
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent courtwith jurisdictionfor the appropriaterelief.",
+            "bbox": [
+              96.51136271158855,
+              291.5594685872395,
+              499.4886474609375,
+              367.9506022135417
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent courtwith jurisdictionfor the appropriaterelief.",
+    "mixed_original_protected_source_text": "Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent courtwith jurisdictionfor the appropriaterelief.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b003"
+    ],
+    "translation_unit_protected_source_text": "Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent courtwith jurisdictionfor the appropriaterelief.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "任何因本协议引起的或与之相关的争议、纠纷或索赔，包括对本协议的违反、终止或无效，均应依据《2020年第2号仲裁法》（Arbitration Act, Act No. 2 of 2020）通过仲裁解决。仲裁地点为达累斯萨拉姆。若任一方对仲裁结果不满，可向有管辖权的适格法院寻求适当救济。",
+    "translation_unit_translated_text": "任何因本协议引起的或与之相关的争议、纠纷或索赔，包括对本协议的违反、终止或无效，均应依据《2020年第2号仲裁法》（Arbitration Act, Act No. 2 of 2020）通过仲裁解决。仲裁地点为达累斯萨拉姆。若任一方对仲裁结果不满，可向有管辖权的适格法院寻求适当救济。",
+    "protected_translated_text": "任何因本协议引起的或与之相关的争议、纠纷或索赔，包括对本协议的违反、终止或无效，均应依据《2020年第2号仲裁法》（Arbitration Act, Act No. 2 of 2020）通过仲裁解决。仲裁地点为达累斯萨拉姆。若任一方对仲裁结果不满，可向有管辖权的适格法院寻求适当救济。",
+    "translated_text": "任何因本协议引起的或与之相关的争议、纠纷或索赔，包括对本协议的违反、终止或无效，均应依据《2020年第2号仲裁法》（Arbitration Act, Act No. 2 of 2020）通过仲裁解决。仲裁地点为达累斯萨拉姆。若任一方对仲裁结果不满，可向有管辖权的适格法院寻求适当救济。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b003",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "NeitherpartyshallbedeemedindefaultofthisAgreement totheextentthatanydelay or failure in the performance of an obligation, other than the payment of money,results from anycausesbeyonditsreasonablecontrol andwithoutitsfaultornegligence.For this purpose,such acts or events shall include,without limitation,storms,floods, unusually severeweather,actsof God,epide...",
+    "translation_context_after": "16. Indemnity / 15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orpe..."
+  },
+  {
+    "item_id": "p008-b004",
+    "page_idx": 7,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      93.125,
+      379.4092610677083,
+      169.31818644205728,
+      393.414306640625
+    ],
+    "source_text": "16. Indemnity",
+    "lines": [
+      {
+        "bbox": [
+          93.125,
+          379.4092610677083,
+          169.31818644205728,
+          393.414306640625
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "16. Indemnity",
+            "bbox": [
+              93.125,
+              379.4092610677083,
+              169.31818644205728,
+              393.414306640625
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "left_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 3,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "16. Indemnity",
+    "mixed_original_protected_source_text": "16. Indemnity",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b004"
+    ],
+    "translation_unit_protected_source_text": "16. Indemnity",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "16. 赔偿",
+    "translation_unit_translated_text": "16. 赔偿",
+    "protected_translated_text": "16. 赔偿",
+    "translated_text": "16. 赔偿",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b004",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "15.Dispute Resolution / Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent...",
+    "translation_context_after": "15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orperformancerelated..."
+  },
+  {
+    "item_id": "p008-b005",
+    "page_idx": 7,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      113.4431864420573,
+      403.1754150390625,
+      521.9232991536459,
+      468.5322672526042
+    ],
+    "source_text": "15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orperformancerelatedtotheServices.",
+    "lines": [
+      {
+        "bbox": [
+          113.4431864420573,
+          403.1754150390625,
+          521.9232991536459,
+          468.5322672526042
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orperformancerelatedtotheServices.",
+            "bbox": [
+              113.4431864420573,
+              403.1754150390625,
+              521.9232991536459,
+              468.5322672526042
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orperformancerelatedtotheServices.",
+    "mixed_original_protected_source_text": "15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orperformancerelatedtotheServices.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b005"
+    ],
+    "translation_unit_protected_source_text": "15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orperformancerelatedtotheServices.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "15.1. 在法律允许的最大范围内，E-Plus 应就因 E-Plus 或其任何雇员或代理人在履行本协议项下服务过程中的任何过失或故意行为或不作为，或因任何与“服务”相关的行为或履行，所全部或部分引起的所有索赔、诉讼或责任主张，为客户进行辩护、赔偿并使其免受损害。",
+    "translation_unit_translated_text": "15.1. 在法律允许的最大范围内，E-Plus 应就因 E-Plus 或其任何雇员或代理人在履行本协议项下服务过程中的任何过失或故意行为或不作为，或因任何与“服务”相关的行为或履行，所全部或部分引起的所有索赔、诉讼或责任主张，为客户进行辩护、赔偿并使其免受损害。",
+    "protected_translated_text": "15.1. 在法律允许的最大范围内，E-Plus 应就因 E-Plus 或其任何雇员或代理人在履行本协议项下服务过程中的任何过失或故意行为或不作为，或因任何与“服务”相关的行为或履行，所全部或部分引起的所有索赔、诉讼或责任主张，为客户进行辩护、赔偿并使其免受损害。",
+    "translated_text": "15.1. 在法律允许的最大范围内，E-Plus 应就因 E-Plus 或其任何雇员或代理人在履行本协议项下服务过程中的任何过失或故意行为或不作为，或因任何与“服务”相关的行为或履行，所全部或部分引起的所有索赔、诉讼或责任主张，为客户进行辩护、赔偿并使其免受损害。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b005",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Anydispute,controversyorclaim arisingoutoforrelatingto thisAgreement,orthe breach,terminationorinvaliditythereof,shallbesettledbyarbitrationinaccordancewith theArbitrationAct,ActNo.2of2020.TheplaceofarbitrationshallbeDaresSalaam Party be dissatisfied with the outcome received for the arbitration, either party may approach a competent courtwith jurisdictionf...",
+    "translation_context_after": "15.2.E-Plus'duty to defend,indemnify and hold the Client harmless shall arise in connectionwithanyclaim,damage,lossorexpense(includingbutnot limitedtoreasonable attorney'sfees,courtcosts,andthecostof appellateproceedings)thatisattributableto personal or bodily injury, sickness, disease, death, injury to, impairment or destruction of property including loss..."
+  },
+  {
+    "item_id": "p008-b006",
+    "page_idx": 7,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      112.17329915364583,
+      479.9909261067708,
+      522.3465983072916,
+      595.0020345052084
+    ],
+    "source_text": "15.2.E-Plus'duty to defend,indemnify and hold the Client harmless shall arise in connectionwithanyclaim,damage,lossorexpense(includingbutnot limitedtoreasonable attorney'sfees,courtcosts,andthecostof appellateproceedings)thatisattributableto personal or bodily injury, sickness, disease, death, injury to, impairment or destruction of property including loss of use resulting therefrom, caused in whole or in part by any negligent orintentional act or omission of E-Plus,anyone directly or indirectly employed by E-Plus or anyone for whose acts E-Plus may be liable, or by any act or performance related to theServices,regardless ofwhether such claim,damage,lossor expense is caused in part by a party indemnified hereunder, including the Client.",
+    "lines": [
+      {
+        "bbox": [
+          112.17329915364583,
+          479.9909261067708,
+          522.3465983072916,
+          595.0020345052084
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "15.2.E-Plus'duty to defend,indemnify and hold the Client harmless shall arise in connectionwithanyclaim,damage,lossorexpense(includingbutnot limitedtoreasonable attorney'sfees,courtcosts,andthecostof appellateproceedings)thatisattributableto personal or bodily injury, sickness, disease, death, injury to, impairment or destruction of property including loss of use resulting therefrom, caused in whole or in part by any negligent orintentional act or omission of E-Plus,anyone directly or indirectly employed by E-Plus or anyone for whose acts E-Plus may be liable, or by any act or performance related to theServices,regardless ofwhether such claim,damage,lossor expense is caused in part by a party indemnified hereunder, including the Client.",
+            "bbox": [
+              112.17329915364583,
+              479.9909261067708,
+              522.3465983072916,
+              595.0020345052084
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "15.2.E-Plus'duty to defend,indemnify and hold the Client harmless shall arise in connectionwithanyclaim,damage,lossorexpense(includingbutnot limitedtoreasonable attorney'sfees,courtcosts,andthecostof appellateproceedings)thatisattributableto personal or bodily injury, sickness, disease, death, injury to, impairment or destruction of property including loss of use resulting therefrom, caused in whole or in part by any negligent orintentional act or omission of E-Plus,anyone directly or indirectly employed by E-Plus or anyone for whose acts E-Plus may be liable, or by any act or performance related to theServices,regardless ofwhether such claim,damage,lossor expense is caused in part by a party indemnified hereunder, including the Client.",
+    "mixed_original_protected_source_text": "15.2.E-Plus'duty to defend,indemnify and hold the Client harmless shall arise in connectionwithanyclaim,damage,lossorexpense(includingbutnot limitedtoreasonable attorney'sfees,courtcosts,andthecostof appellateproceedings)thatisattributableto personal or bodily injury, sickness, disease, death, injury to, impairment or destruction of property including loss of use resulting therefrom, caused in whole or in part by any negligent orintentional act or omission of E-Plus,anyone directly or indirectly employed by E-Plus or anyone for whose acts E-Plus may be liable, or by any act or performance related to theServices,regardless ofwhether such claim,damage,lossor expense is caused in part by a party indemnified hereunder, including the Client.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b006"
+    ],
+    "translation_unit_protected_source_text": "15.2.E-Plus'duty to defend,indemnify and hold the Client harmless shall arise in connectionwithanyclaim,damage,lossorexpense(includingbutnot limitedtoreasonable attorney'sfees,courtcosts,andthecostof appellateproceedings)thatisattributableto personal or bodily injury, sickness, disease, death, injury to, impairment or destruction of property including loss of use resulting therefrom, caused in whole or in part by any negligent orintentional act or omission of E-Plus,anyone directly or indirectly employed by E-Plus or anyone for whose acts E-Plus may be liable, or by any act or performance related to theServices,regardless ofwhether such claim,damage,lossor expense is caused in part by a party indemnified hereunder, including the Client.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "15.2. E-Plus 的辩护、赔偿并使客户免受损害义务，应就任何因以下原因全部或部分造成的人身伤害、疾病、死亡、财产损害或毁坏（包括由此导致的使用损失）所引起的索赔、损害、损失或费用（包括但不限于合理的律师费、诉讼费及上诉费用）而产生：E-Plus、E-Plus 直接或间接雇用的任何人、或为 E-Plus 的行为承担责任之任何人的任何过失或故意作为或不作为，或与相关服务有关的任何行为或履行，无论该等索赔、损害、损失或费用是否部分由本协议项下被赔偿方（包括客户）造成。",
+    "translation_unit_translated_text": "15.2. E-Plus 的辩护、赔偿并使客户免受损害义务，应就任何因以下原因全部或部分造成的人身伤害、疾病、死亡、财产损害或毁坏（包括由此导致的使用损失）所引起的索赔、损害、损失或费用（包括但不限于合理的律师费、诉讼费及上诉费用）而产生：E-Plus、E-Plus 直接或间接雇用的任何人、或为 E-Plus 的行为承担责任之任何人的任何过失或故意作为或不作为，或与相关服务有关的任何行为或履行，无论该等索赔、损害、损失或费用是否部分由本协议项下被赔偿方（包括客户）造成。",
+    "protected_translated_text": "15.2. E-Plus 的辩护、赔偿并使客户免受损害义务，应就任何因以下原因全部或部分造成的人身伤害、疾病、死亡、财产损害或毁坏（包括由此导致的使用损失）所引起的索赔、损害、损失或费用（包括但不限于合理的律师费、诉讼费及上诉费用）而产生：E-Plus、E-Plus 直接或间接雇用的任何人、或为 E-Plus 的行为承担责任之任何人的任何过失或故意作为或不作为，或与相关服务有关的任何行为或履行，无论该等索赔、损害、损失或费用是否部分由本协议项下被赔偿方（包括客户）造成。",
+    "translated_text": "15.2. E-Plus 的辩护、赔偿并使客户免受损害义务，应就任何因以下原因全部或部分造成的人身伤害、疾病、死亡、财产损害或毁坏（包括由此导致的使用损失）所引起的索赔、损害、损失或费用（包括但不限于合理的律师费、诉讼费及上诉费用）而产生：E-Plus、E-Plus 直接或间接雇用的任何人、或为 E-Plus 的行为承担责任之任何人的任何过失或故意作为或不作为，或与相关服务有关的任何行为或履行，无论该等索赔、损害、损失或费用是否部分由本协议项下被赔偿方（包括客户）造成。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b006",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "16. Indemnity / 15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orpe...",
+    "translation_context_after": "15.3. E-Plus agrees to indemnify, defend and hold the Client harmless from and against any and all penalties and damagesincurred by theClientas aresult of E-Plus'failure toobtain regulations in the performance of its services under this Agreement. / IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing."
+  },
+  {
+    "item_id": "p008-b007",
+    "page_idx": 7,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      113.01988728841145,
+      606.460693359375,
+      521.0767008463541,
+      657.8125
+    ],
+    "source_text": "15.3. E-Plus agrees to indemnify, defend and hold the Client harmless from and against any and all penalties and damagesincurred by theClientas aresult of E-Plus'failure toobtain regulations in the performance of its services under this Agreement.",
+    "lines": [
+      {
+        "bbox": [
+          113.01988728841145,
+          606.460693359375,
+          521.0767008463541,
+          657.8125
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "15.3. E-Plus agrees to indemnify, defend and hold the Client harmless from and against any and all penalties and damagesincurred by theClientas aresult of E-Plus'failure toobtain regulations in the performance of its services under this Agreement.",
+            "bbox": [
+              113.01988728841145,
+              606.460693359375,
+              521.0767008463541,
+              657.8125
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "double",
+    "layout_split_x": 224.24,
+    "layout_zone": "right_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 5,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "15.3. E-Plus agrees to indemnify, defend and hold the Client harmless from and against any and all penalties and damagesincurred by theClientas aresult of E-Plus'failure toobtain regulations in the performance of its services under this Agreement.",
+    "mixed_original_protected_source_text": "15.3. E-Plus agrees to indemnify, defend and hold the Client harmless from and against any and all penalties and damagesincurred by theClientas aresult of E-Plus'failure toobtain regulations in the performance of its services under this Agreement.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p008-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p008-b007"
+    ],
+    "translation_unit_protected_source_text": "15.3. E-Plus agrees to indemnify, defend and hold the Client harmless from and against any and all penalties and damagesincurred by theClientas aresult of E-Plus'failure toobtain regulations in the performance of its services under this Agreement.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "15.3. E-Plus 同意赔偿、辩护并使客户免受因 E-Plus 在本协议项下履行服务时未能获取相关法规而导致的任何及所有罚款和损失的损害。",
+    "translation_unit_translated_text": "15.3. E-Plus 同意赔偿、辩护并使客户免受因 E-Plus 在本协议项下履行服务时未能获取相关法规而导致的任何及所有罚款和损失的损害。",
+    "protected_translated_text": "15.3. E-Plus 同意赔偿、辩护并使客户免受因 E-Plus 在本协议项下履行服务时未能获取相关法规而导致的任何及所有罚款和损失的损害。",
+    "translated_text": "15.3. E-Plus 同意赔偿、辩护并使客户免受因 E-Plus 在本协议项下履行服务时未能获取相关法规而导致的任何及所有罚款和损失的损害。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p008-b007",
+      "page_idx": 7,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "15.1. To the fullest extent permitted by law,E-Plus shall defend, indemnify and hold harmless the Clientfrom and against all claims,lawsuits or assertions ofliability,caused in wholeorinpartbyanynegligentorintentionalactoromissionofE-Plusoranyofits employees or agents in the performance of its services under this Agreement or by any act orperformancerelated...",
+    "translation_context_after": "IN WITNESS WHEREOF the parties hereto have duly executed these presents on the date hereinbeforeappearing. / SignedforandonbehalfoftheCHINAHARBOURENGINEERINGCOMPANYLTD"
+  }
+]

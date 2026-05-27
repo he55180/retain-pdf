@@ -1,0 +1,1878 @@
+[
+  {
+    "item_id": "p004-b002",
+    "page_idx": 3,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      161.75999475,
+      89.09967746375003,
+      443.90474864624355,
+      99.6804947802749
+    ],
+    "source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "lines": [
+      {
+        "bbox": [
+          161.75999475,
+          89.09967746375003,
+          443.90474864624355,
+          99.6804947802749
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Dar es Salaam Maritime Gateway Project (DMGP)",
+            "bbox": [
+              161.75999475,
+              89.09967746375003,
+              443.90474864624355,
+              99.6804947802749
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "mixed_original_protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b002"
+    ],
+    "translation_unit_protected_source_text": "Dar es Salaam Maritime Gateway Project (DMGP)",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "达累斯萨拉姆海运门户项目（DMGP）",
+    "translation_unit_translated_text": "达累斯萨拉姆海运门户项目（DMGP）",
+    "protected_translated_text": "达累斯萨拉姆海运门户项目（DMGP）",
+    "translated_text": "达累斯萨拉姆海运门户项目（DMGP）",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p003-b004",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b002",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p003-b004",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "The RE suggested that the Contractor verify whether the amount currently spent is less than or greater than the minimum amount required for issuance of an invoice, 2%, as stipulated in the Contract. / CHEC",
+    "translation_context_after": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT"
+  },
+  {
+    "item_id": "p004-b003",
+    "page_idx": 3,
+    "block_idx": 3,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 3,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      205.44000975,
+      102.61503455000002,
+      399.92107289966043,
+      112.36303213585643
+    ],
+    "source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "lines": [
+      {
+        "bbox": [
+          205.44000975,
+          102.61503455000002,
+          399.92107289966043,
+          112.36303213585643
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contract No: TZ-TPA-/424013-CW-DIR",
+            "bbox": [
+              205.44000975,
+              102.61503455000002,
+              399.92107289966043,
+              112.36303213585643
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "mixed_original_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b003",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b003"
+    ],
+    "translation_unit_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p004-b003",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "CHEC / Dar es Salaam Maritime Gateway Project (DMGP)",
+    "translation_context_after": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / Next Meeting: Thursday, 21 th May 2026 at 14:30hrs"
+  },
+  {
+    "item_id": "p004-b004",
+    "page_idx": 3,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      74.76,
+      115.22607725,
+      530.7160081834604,
+      124.96046031408844
+    ],
+    "source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "lines": [
+      {
+        "bbox": [
+          74.76,
+          115.22607725,
+          530.7160081834604,
+          124.96046031408844
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "bbox": [
+              74.76,
+              115.22607725,
+              530.7160081834604,
+              124.96046031408844
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "mixed_original_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b004"
+    ],
+    "translation_unit_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "达累斯萨拉姆港滚装船码头及1-7号泊位混凝土损伤修复",
+    "translation_unit_translated_text": "达累斯萨拉姆港滚装船码头及1-7号泊位混凝土损伤修复",
+    "protected_translated_text": "达累斯萨拉姆港滚装船码头及1-7号泊位混凝土损伤修复",
+    "translated_text": "达累斯萨拉姆港滚装船码头及1-7号泊位混凝土损伤修复",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b004",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Dar es Salaam Maritime Gateway Project (DMGP) / Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_context_after": "Next Meeting: Thursday, 21 th May 2026 at 14:30hrs / Signed By:"
+  },
+  {
+    "item_id": "p004-b005",
+    "page_idx": 3,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      56.639997750000006,
+      201.85502855000004,
+      309.07508713191294,
+      211.60302613585634
+    ],
+    "source_text": "Next Meeting: Thursday, 21 th May 2026 at 14:30hrs",
+    "lines": [
+      {
+        "bbox": [
+          56.639997750000006,
+          201.85502855000004,
+          309.07508713191294,
+          211.60302613585634
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Next Meeting: Thursday, 21 th May 2026 at 14:30hrs",
+            "bbox": [
+              56.639997750000006,
+              201.85502855000004,
+              309.07508713191294,
+              211.60302613585634
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Next Meeting: Thursday, 21 th May 2026 at 14:30hrs",
+    "mixed_original_protected_source_text": "Next Meeting: Thursday, 21 th May 2026 at 14:30hrs",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b005"
+    ],
+    "translation_unit_protected_source_text": "Next Meeting: Thursday, 21 th May 2026 at 14:30hrs",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "下次会议：2026年5月21日（星期四）14:30",
+    "translation_unit_translated_text": "下次会议：2026年5月21日（星期四）14:30",
+    "protected_translated_text": "下次会议：2026年5月21日（星期四）14:30",
+    "translated_text": "下次会议：2026年5月21日（星期四）14:30",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b005",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_context_after": "Signed By: / Eng. Cheng Yongjian"
+  },
+  {
+    "item_id": "p004-b006",
+    "page_idx": 3,
+    "block_idx": 6,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "example_intro",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 6,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      56.639997750000006,
+      239.77502630000004,
+      112.85214704597567,
+      249.52302388585633
+    ],
+    "source_text": "Signed By:",
+    "lines": [
+      {
+        "bbox": [
+          56.639997750000006,
+          239.77502630000004,
+          112.85214704597567,
+          249.52302388585633
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Signed By:",
+            "bbox": [
+              56.639997750000006,
+              239.77502630000004,
+              112.85214704597567,
+              249.52302388585633
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "example-001",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Signed By:",
+    "mixed_original_protected_source_text": "Signed By:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b006",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b006"
+    ],
+    "translation_unit_protected_source_text": "Signed By:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "签署人：",
+    "translation_unit_translated_text": "签署人：",
+    "protected_translated_text": "签署人：",
+    "translated_text": "签署人：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b006",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / Next Meeting: Thursday, 21 th May 2026 at 14:30hrs",
+    "translation_context_after": "Eng. Cheng Yongjian / Deputy Contractor`s Representative"
+  },
+  {
+    "item_id": "p004-b007",
+    "page_idx": 3,
+    "block_idx": 7,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "example_line",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 7,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.39999775,
+      267.61502255000005,
+      169.4251712778887,
+      277.36302013585635
+    ],
+    "source_text": "Eng. Cheng Yongjian",
+    "lines": [
+      {
+        "bbox": [
+          62.39999775,
+          267.61502255000005,
+          169.4251712778887,
+          277.36302013585635
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Eng. Cheng Yongjian",
+            "bbox": [
+              62.39999775,
+              267.61502255000005,
+              169.4251712778887,
+              277.36302013585635
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "example-001",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Eng. Cheng Yongjian",
+    "mixed_original_protected_source_text": "Eng. Cheng Yongjian",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b007",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b007"
+    ],
+    "translation_unit_protected_source_text": "Eng. Cheng Yongjian",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "工程师程永建",
+    "translation_unit_translated_text": "工程师程永建",
+    "protected_translated_text": "工程师程永建",
+    "translated_text": "工程师程永建",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b007",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Next Meeting: Thursday, 21 th May 2026 at 14:30hrs / Signed By:",
+    "translation_context_after": "Deputy Contractor`s Representative / For the CONTRACTOR - CHEC"
+  },
+  {
+    "item_id": "p004-b008",
+    "page_idx": 3,
+    "block_idx": 8,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "example_line",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 8,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.39999775,
+      284.77502630000004,
+      240.87542726718715,
+      294.52302388585633
+    ],
+    "source_text": "Deputy Contractor`s Representative",
+    "lines": [
+      {
+        "bbox": [
+          62.39999775,
+          284.77502630000004,
+          240.87542726718715,
+          294.52302388585633
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Deputy Contractor`s Representative",
+            "bbox": [
+              62.39999775,
+              284.77502630000004,
+              240.87542726718715,
+              294.52302388585633
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "example-001",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Deputy Contractor`s Representative",
+    "mixed_original_protected_source_text": "Deputy Contractor`s Representative",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b008",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b008"
+    ],
+    "translation_unit_protected_source_text": "Deputy Contractor`s Representative",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "副承包商代表",
+    "translation_unit_translated_text": "副承包商代表",
+    "protected_translated_text": "副承包商代表",
+    "translated_text": "副承包商代表",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b008",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Signed By: / Eng. Cheng Yongjian",
+    "translation_context_after": "For the CONTRACTOR - CHEC / Eng. José Rodrigues"
+  },
+  {
+    "item_id": "p004-b009",
+    "page_idx": 3,
+    "block_idx": 9,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "example_line",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 9,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.39999775,
+      301.9460705,
+      227.39766855769437,
+      311.68045356408845
+    ],
+    "source_text": "For the CONTRACTOR - CHEC",
+    "lines": [
+      {
+        "bbox": [
+          62.39999775,
+          301.9460705,
+          227.39766855769437,
+          311.68045356408845
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "For the CONTRACTOR - CHEC",
+            "bbox": [
+              62.39999775,
+              301.9460705,
+              227.39766855769437,
+              311.68045356408845
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "example-001",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "For the CONTRACTOR - CHEC",
+    "mixed_original_protected_source_text": "For the CONTRACTOR - CHEC",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b009",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b009"
+    ],
+    "translation_unit_protected_source_text": "For the CONTRACTOR - CHEC",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "致承包商 - CHEC",
+    "translation_unit_translated_text": "致承包商 - CHEC",
+    "protected_translated_text": "致承包商 - CHEC",
+    "translated_text": "致承包商 - CHEC",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b009",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Eng. Cheng Yongjian / Deputy Contractor`s Representative",
+    "translation_context_after": "Eng. José Rodrigues / Resident Engineer"
+  },
+  {
+    "item_id": "p004-b010",
+    "page_idx": 3,
+    "block_idx": 10,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 10,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.39999775,
+      341.2950383,
+      167.59077463157388,
+      351.04303588585634
+    ],
+    "source_text": "Eng. José Rodrigues",
+    "lines": [
+      {
+        "bbox": [
+          62.39999775,
+          341.2950383,
+          167.59077463157388,
+          351.04303588585634
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Eng. José Rodrigues",
+            "bbox": [
+              62.39999775,
+              341.2950383,
+              167.59077463157388,
+              351.04303588585634
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Eng. José Rodrigues",
+    "mixed_original_protected_source_text": "Eng. José Rodrigues",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b010",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b010"
+    ],
+    "translation_unit_protected_source_text": "Eng. José Rodrigues",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "工程师 José Rodrigues",
+    "translation_unit_translated_text": "工程师 José Rodrigues",
+    "protected_translated_text": "工程师 José Rodrigues",
+    "translated_text": "工程师 José Rodrigues",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b010",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Deputy Contractor`s Representative / For the CONTRACTOR - CHEC",
+    "translation_context_after": "Resident Engineer / For the ENGINEER - IL"
+  },
+  {
+    "item_id": "p004-b011",
+    "page_idx": 3,
+    "block_idx": 11,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 11,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.39999775,
+      358.33503905,
+      156.01145578994658,
+      368.08303663585633
+    ],
+    "source_text": "Resident Engineer",
+    "lines": [
+      {
+        "bbox": [
+          62.39999775,
+          358.33503905,
+          156.01145578994658,
+          368.08303663585633
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Resident Engineer",
+            "bbox": [
+              62.39999775,
+              358.33503905,
+              156.01145578994658,
+              368.08303663585633
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Resident Engineer",
+    "mixed_original_protected_source_text": "Resident Engineer",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b011",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b011"
+    ],
+    "translation_unit_protected_source_text": "Resident Engineer",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "驻地工程师",
+    "translation_unit_translated_text": "驻地工程师",
+    "protected_translated_text": "驻地工程师",
+    "translated_text": "驻地工程师",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b011",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "For the CONTRACTOR - CHEC / Eng. José Rodrigues",
+    "translation_context_after": "For the ENGINEER - IL / 5.0 Closure of the Meeting"
+  },
+  {
+    "item_id": "p004-b012",
+    "page_idx": 3,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      62.39999775,
+      375.50608325,
+      185.27641110635284,
+      385.2404663140884
+    ],
+    "source_text": "For the ENGINEER - IL",
+    "lines": [
+      {
+        "bbox": [
+          62.39999775,
+          375.50608325,
+          185.27641110635284,
+          385.2404663140884
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "For the ENGINEER - IL",
+            "bbox": [
+              62.39999775,
+              375.50608325,
+              185.27641110635284,
+              385.2404663140884
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "For the ENGINEER - IL",
+    "mixed_original_protected_source_text": "For the ENGINEER - IL",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b012"
+    ],
+    "translation_unit_protected_source_text": "For the ENGINEER - IL",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "致工程师 - IL",
+    "translation_unit_translated_text": "致工程师 - IL",
+    "protected_translated_text": "致工程师 - IL",
+    "translated_text": "致工程师 - IL",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b012",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Eng. José Rodrigues / Resident Engineer",
+    "translation_context_after": "5.0 Closure of the Meeting / There being no other business the meeting was declared closed at 14:56hrs"
+  },
+  {
+    "item_id": "p004-b013",
+    "page_idx": 3,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "heading",
+    "semantic_role": "body",
+    "structure_role": "heading",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "section_header",
+    "normalized_sub_type": "",
+    "bbox": [
+      81.120003,
+      153.38606900000002,
+      228.83123985100212,
+      163.12045206408845
+    ],
+    "source_text": "5.0 Closure of the Meeting",
+    "lines": [
+      {
+        "bbox": [
+          81.120003,
+          153.38606900000002,
+          228.83123985100212,
+          163.12045206408845
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "5.0 Closure of the Meeting",
+            "bbox": [
+              81.120003,
+              153.38606900000002,
+              228.83123985100212,
+              163.12045206408845
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "heading",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "5.0 Closure of the Meeting",
+    "mixed_original_protected_source_text": "5.0 Closure of the Meeting",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b013"
+    ],
+    "translation_unit_protected_source_text": "5.0 Closure of the Meeting",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "5.0 会议闭幕",
+    "translation_unit_translated_text": "5.0 会议闭幕",
+    "protected_translated_text": "5.0 会议闭幕",
+    "translated_text": "5.0 会议闭幕",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b013",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Resident Engineer / For the ENGINEER - IL",
+    "translation_context_after": "There being no other business the meeting was declared closed at 14:56hrs / ALL"
+  },
+  {
+    "item_id": "p004-b014",
+    "page_idx": 3,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      107.16000375000002,
+      172.57503305,
+      446.0661098386928,
+      194.9230328858564
+    ],
+    "source_text": "There being no other business the meeting was declared closed at 14:56hrs",
+    "lines": [
+      {
+        "bbox": [
+          107.16000375000002,
+          172.57503305,
+          446.0661098386928,
+          194.9230328858564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "There being no other business the meeting was declared closed at 14:56hrs",
+            "bbox": [
+              107.16000375000002,
+              172.57503305,
+              446.0661098386928,
+              194.9230328858564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "There being no other business the meeting was declared closed at 14:56hrs",
+    "mixed_original_protected_source_text": "There being no other business the meeting was declared closed at 14:56hrs",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b014"
+    ],
+    "translation_unit_protected_source_text": "There being no other business the meeting was declared closed at 14:56hrs",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "由于没有其他事项，会议于14:56宣布结束。",
+    "translation_unit_translated_text": "由于没有其他事项，会议于14:56宣布结束。",
+    "protected_translated_text": "由于没有其他事项，会议于14:56宣布结束。",
+    "translated_text": "由于没有其他事项，会议于14:56宣布结束。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "p004-b015",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b014",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "p004-b015",
+    "translation_context_before": "For the ENGINEER - IL / 5.0 Closure of the Meeting",
+    "translation_context_after": "ALL / Dar es Salaam Maritime Gateway Project (DMGP)"
+  },
+  {
+    "item_id": "p004-b015",
+    "page_idx": 3,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 15,
+    "raw_block_type": "text",
+    "normalized_sub_type": "",
+    "bbox": [
+      490.800018,
+      172.57503305,
+      513.4252639426297,
+      182.3230306358564
+    ],
+    "source_text": "ALL",
+    "lines": [
+      {
+        "bbox": [
+          490.800018,
+          172.57503305,
+          513.4252639426297,
+          182.3230306358564
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "ALL",
+            "bbox": [
+              490.800018,
+              172.57503305,
+              513.4252639426297,
+              182.3230306358564
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 14,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "ALL",
+    "mixed_original_protected_source_text": "ALL",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p004-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p004-b015"
+    ],
+    "translation_unit_protected_source_text": "ALL",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "全体",
+    "translation_unit_translated_text": "全体",
+    "protected_translated_text": "全体",
+    "translated_text": "全体",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "candidate_break",
+    "continuation_candidate_prev_id": "p004-b014",
+    "continuation_candidate_next_id": "p005-b003",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p004-b015",
+      "page_idx": 3,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "p004-b014",
+    "candidate_pair_next_id": "p005-b003",
+    "translation_context_before": "5.0 Closure of the Meeting / There being no other business the meeting was declared closed at 14:56hrs",
+    "translation_context_after": "Dar es Salaam Maritime Gateway Project (DMGP) / Contract No: TZ-TPA-/424013-CW-DIR REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT"
+  }
+]

@@ -1,0 +1,2597 @@
+[
+  {
+    "item_id": "p001-b001",
+    "page_idx": 0,
+    "block_idx": 1,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 1,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      203,
+      100,
+      397,
+      111
+    ],
+    "source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "lines": [
+      {
+        "bbox": [
+          204,
+          100,
+          397,
+          113
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Contract No: TZ-TPA-/424013-CW-DIR",
+            "bbox": [
+              204,
+              100,
+              397,
+              113
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 0,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "head",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "mixed_original_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b001",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b001"
+    ],
+    "translation_unit_protected_source_text": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "translation_unit_translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "protected_translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "translated_text": "合同号：TZ-TPA-/424013-CW-DIR",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b001",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "",
+    "translation_context_after": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / Reference:"
+  },
+  {
+    "item_id": "p001-b002",
+    "page_idx": 0,
+    "block_idx": 2,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 2,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      72,
+      112,
+      527,
+      124
+    ],
+    "source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "lines": [
+      {
+        "bbox": [
+          72,
+          111,
+          528,
+          127
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+            "bbox": [
+              72,
+              111,
+              528,
+              127
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 1,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "mixed_original_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b002",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b002"
+    ],
+    "translation_unit_protected_source_text": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "translation_unit_translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "protected_translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "translated_text": "修复达累斯萨拉姆港滚装码头及1-7号泊位混凝土损伤工程",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b002",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contract No: TZ-TPA-/424013-CW-DIR",
+    "translation_context_after": "Reference: / MoM- Weekly 15-2026/5/14"
+  },
+  {
+    "item_id": "p001-b004",
+    "page_idx": 0,
+    "block_idx": 4,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 4,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      60,
+      174,
+      119,
+      185
+    ],
+    "source_text": "Reference:",
+    "lines": [
+      {
+        "bbox": [
+          59,
+          172,
+          121,
+          188
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "Reference:",
+            "bbox": [
+              59,
+              172,
+              121,
+              188
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 2,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "Reference:",
+    "mixed_original_protected_source_text": "Reference:",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b004",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b004"
+    ],
+    "translation_unit_protected_source_text": "Reference:",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "参考文献：",
+    "translation_unit_translated_text": "参考文献：",
+    "protected_translated_text": "参考文献：",
+    "translated_text": "参考文献：",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b004",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT",
+    "translation_context_after": "MoM- Weekly 15-2026/5/14 / 1. Opening the Meeting"
+  },
+  {
+    "item_id": "p001-b005",
+    "page_idx": 0,
+    "block_idx": 5,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 5,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      408,
+      174,
+      547,
+      187
+    ],
+    "source_text": "MoM- Weekly 15-2026/5/14",
+    "lines": [
+      {
+        "bbox": [
+          408,
+          174,
+          548,
+          187
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "MoM- Weekly 15-2026/5/14",
+            "bbox": [
+              408,
+              174,
+              548,
+              187
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 3,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "MoM- Weekly 15-2026/5/14",
+    "mixed_original_protected_source_text": "MoM- Weekly 15-2026/5/14",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "skip_model_keep_origin",
+    "should_translate": false,
+    "skip_reason": "skip_model_keep_origin",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b005",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b005"
+    ],
+    "translation_unit_protected_source_text": "MoM- Weekly 15-2026/5/14",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "",
+    "translation_unit_translated_text": "",
+    "protected_translated_text": "",
+    "translated_text": "",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "kept_origin",
+    "translation_diagnostics": {
+      "item_id": "p001-b005",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT / Reference:",
+    "translation_context_after": "1. Opening the Meeting / 2. Readiness of the Contractor to Start Work"
+  },
+  {
+    "item_id": "p001-b012",
+    "page_idx": 0,
+    "block_idx": 12,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 12,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      76,
+      415,
+      199,
+      428
+    ],
+    "source_text": "1. Opening the Meeting",
+    "lines": [
+      {
+        "bbox": [
+          77,
+          414,
+          201,
+          431
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1. Opening the Meeting",
+            "bbox": [
+              77,
+              414,
+              201,
+              431
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0011",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 4,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1. Opening the Meeting",
+    "mixed_original_protected_source_text": "1. Opening the Meeting",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b012",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b012"
+    ],
+    "translation_unit_protected_source_text": "1. Opening the Meeting",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 会议开始",
+    "translation_unit_translated_text": "1. 会议开始",
+    "protected_translated_text": "1. 会议开始",
+    "translated_text": "1. 会议开始",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b012",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "Reference: / MoM- Weekly 15-2026/5/14",
+    "translation_context_after": "2. Readiness of the Contractor to Start Work / 3. Contractual Matter"
+  },
+  {
+    "item_id": "p001-b013",
+    "page_idx": 0,
+    "block_idx": 13,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 13,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      76,
+      428,
+      302,
+      441
+    ],
+    "source_text": "2. Readiness of the Contractor to Start Work",
+    "lines": [
+      {
+        "bbox": [
+          76,
+          428,
+          303,
+          442
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "2. Readiness of the Contractor to Start Work",
+            "bbox": [
+              76,
+              428,
+              303,
+              442
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0011",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 5,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "2. Readiness of the Contractor to Start Work",
+    "mixed_original_protected_source_text": "2. Readiness of the Contractor to Start Work",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b013",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b013"
+    ],
+    "translation_unit_protected_source_text": "2. Readiness of the Contractor to Start Work",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2. 承包商开工准备情况",
+    "translation_unit_translated_text": "2. 承包商开工准备情况",
+    "protected_translated_text": "2. 承包商开工准备情况",
+    "translated_text": "2. 承包商开工准备情况",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b013",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "MoM- Weekly 15-2026/5/14 / 1. Opening the Meeting",
+    "translation_context_after": "3. Contractual Matter / 1. Method Statement for the work"
+  },
+  {
+    "item_id": "p001-b014",
+    "page_idx": 0,
+    "block_idx": 14,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 14,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      76,
+      443,
+      188,
+      454
+    ],
+    "source_text": "3. Contractual Matter",
+    "lines": [
+      {
+        "bbox": [
+          76,
+          441,
+          189,
+          456
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "3. Contractual Matter",
+            "bbox": [
+              76,
+              441,
+              189,
+              456
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0011",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 6,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "3. Contractual Matter",
+    "mixed_original_protected_source_text": "3. Contractual Matter",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b014",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b014"
+    ],
+    "translation_unit_protected_source_text": "3. Contractual Matter",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "3. 合同事宜",
+    "translation_unit_translated_text": "3. 合同事宜",
+    "protected_translated_text": "3. 合同事宜",
+    "translated_text": "3. 合同事宜",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b014",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1. Opening the Meeting / 2. Readiness of the Contractor to Start Work",
+    "translation_context_after": "1. Method Statement for the work / 2. Labourers, Materials and Equipment’s"
+  },
+  {
+    "item_id": "p001-b015",
+    "page_idx": 0,
+    "block_idx": 15,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 15,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      101,
+      455,
+      271,
+      467
+    ],
+    "source_text": "1. Method Statement for the work",
+    "lines": [
+      {
+        "bbox": [
+          101,
+          454,
+          272,
+          468
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1. Method Statement for the work",
+            "bbox": [
+              101,
+              454,
+              272,
+              468
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0011",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 7,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1. Method Statement for the work",
+    "mixed_original_protected_source_text": "1. Method Statement for the work",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b015",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b015"
+    ],
+    "translation_unit_protected_source_text": "1. Method Statement for the work",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 施工方案",
+    "translation_unit_translated_text": "1. 施工方案",
+    "protected_translated_text": "1. 施工方案",
+    "translated_text": "1. 施工方案",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b015",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "2. Readiness of the Contractor to Start Work / 3. Contractual Matter",
+    "translation_context_after": "2. Labourers, Materials and Equipment’s / 3. PM Facilities"
+  },
+  {
+    "item_id": "p001-b016",
+    "page_idx": 0,
+    "block_idx": 16,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 16,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      468,
+      305,
+      481
+    ],
+    "source_text": "2. Labourers, Materials and Equipment’s",
+    "lines": [
+      {
+        "bbox": [
+          99,
+          465,
+          308,
+          482
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "2. Labourers, Materials and Equipment’s",
+            "bbox": [
+              99,
+              465,
+              308,
+              482
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0011",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 8,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "2. Labourers, Materials and Equipment’s",
+    "mixed_original_protected_source_text": "2. Labourers, Materials and Equipment’s",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b016",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b016"
+    ],
+    "translation_unit_protected_source_text": "2. Labourers, Materials and Equipment’s",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2. 劳工、材料与设备",
+    "translation_unit_translated_text": "2. 劳工、材料与设备",
+    "protected_translated_text": "2. 劳工、材料与设备",
+    "translated_text": "2. 劳工、材料与设备",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b016",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "3. Contractual Matter / 1. Method Statement for the work",
+    "translation_context_after": "3. PM Facilities / 4. Daily, Weekly and Monthly Report"
+  },
+  {
+    "item_id": "p001-b017",
+    "page_idx": 0,
+    "block_idx": 17,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 17,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      481,
+      183,
+      492
+    ],
+    "source_text": "3. PM Facilities",
+    "lines": [
+      {
+        "bbox": [
+          100,
+          480,
+          184,
+          493
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "3. PM Facilities",
+            "bbox": [
+              100,
+              480,
+              184,
+              493
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0011",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 9,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "3. PM Facilities",
+    "mixed_original_protected_source_text": "3. PM Facilities",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b017",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b017"
+    ],
+    "translation_unit_protected_source_text": "3. PM Facilities",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "3. 项目经理设施",
+    "translation_unit_translated_text": "3. 项目经理设施",
+    "protected_translated_text": "3. 项目经理设施",
+    "translated_text": "3. 项目经理设施",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b017",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1. Method Statement for the work / 2. Labourers, Materials and Equipment’s",
+    "translation_context_after": "4. Daily, Weekly and Monthly Report / 1. New Defects"
+  },
+  {
+    "item_id": "p001-b018",
+    "page_idx": 0,
+    "block_idx": 18,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 18,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      493,
+      286,
+      506
+    ],
+    "source_text": "4. Daily, Weekly and Monthly Report",
+    "lines": [
+      {
+        "bbox": [
+          99,
+          491,
+          289,
+          508
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "4. Daily, Weekly and Monthly Report",
+            "bbox": [
+              99,
+              491,
+              289,
+              508
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0011",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 10,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "4. Daily, Weekly and Monthly Report",
+    "mixed_original_protected_source_text": "4. Daily, Weekly and Monthly Report",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b018",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b018"
+    ],
+    "translation_unit_protected_source_text": "4. Daily, Weekly and Monthly Report",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "4. 日报、周报与月报",
+    "translation_unit_translated_text": "4. 日报、周报与月报",
+    "protected_translated_text": "4. 日报、周报与月报",
+    "translated_text": "4. 日报、周报与月报",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b018",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "2. Labourers, Materials and Equipment’s / 3. PM Facilities",
+    "translation_context_after": "1. New Defects / 2. Dumping Area"
+  },
+  {
+    "item_id": "p001-b021",
+    "page_idx": 0,
+    "block_idx": 21,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 21,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      101,
+      518,
+      183,
+      529
+    ],
+    "source_text": "1. New Defects",
+    "lines": [
+      {
+        "bbox": [
+          101,
+          518,
+          184,
+          531
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "1. New Defects",
+            "bbox": [
+              101,
+              518,
+              184,
+              531
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0020",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 11,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "1. New Defects",
+    "mixed_original_protected_source_text": "1. New Defects",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b021",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b021"
+    ],
+    "translation_unit_protected_source_text": "1. New Defects",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "1. 新缺陷",
+    "translation_unit_translated_text": "1. 新缺陷",
+    "protected_translated_text": "1. 新缺陷",
+    "translated_text": "1. 新缺陷",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b021",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "3. PM Facilities / 4. Daily, Weekly and Monthly Report",
+    "translation_context_after": "2. Dumping Area / 3. First Aid Facilities"
+  },
+  {
+    "item_id": "p001-b022",
+    "page_idx": 0,
+    "block_idx": 22,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 22,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      531,
+      191,
+      544
+    ],
+    "source_text": "2. Dumping Area",
+    "lines": [
+      {
+        "bbox": [
+          98,
+          528,
+          193,
+          545
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "2. Dumping Area",
+            "bbox": [
+              98,
+              528,
+              193,
+              545
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0020",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 12,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "2. Dumping Area",
+    "mixed_original_protected_source_text": "2. Dumping Area",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b022",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b022"
+    ],
+    "translation_unit_protected_source_text": "2. Dumping Area",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "2. 弃土区",
+    "translation_unit_translated_text": "2. 弃土区",
+    "protected_translated_text": "2. 弃土区",
+    "translated_text": "2. 弃土区",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b022",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "4. Daily, Weekly and Monthly Report / 1. New Defects",
+    "translation_context_after": "3. First Aid Facilities / 4. Maintenance and Office Space"
+  },
+  {
+    "item_id": "p001-b023",
+    "page_idx": 0,
+    "block_idx": 23,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 23,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      544,
+      207,
+      555
+    ],
+    "source_text": "3. First Aid Facilities",
+    "lines": [
+      {
+        "bbox": [
+          98,
+          542,
+          207,
+          557
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "3. First Aid Facilities",
+            "bbox": [
+              98,
+              542,
+              207,
+              557
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0020",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 13,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "3. First Aid Facilities",
+    "mixed_original_protected_source_text": "3. First Aid Facilities",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b023",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b023"
+    ],
+    "translation_unit_protected_source_text": "3. First Aid Facilities",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "3. 急救设施",
+    "translation_unit_translated_text": "3. 急救设施",
+    "protected_translated_text": "3. 急救设施",
+    "translated_text": "3. 急救设施",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b023",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "1. New Defects / 2. Dumping Area",
+    "translation_context_after": "4. Maintenance and Office Space / 5. Area for Precast Elements and Storage"
+  },
+  {
+    "item_id": "p001-b024",
+    "page_idx": 0,
+    "block_idx": 24,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 24,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      556,
+      271,
+      568
+    ],
+    "source_text": "4. Maintenance and Office Space",
+    "lines": [
+      {
+        "bbox": [
+          98,
+          555,
+          272,
+          570
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "4.",
+            "bbox": [
+              98,
+              555,
+              116,
+              570
+            ]
+          },
+          {
+            "type": "text",
+            "content": "Maintenance and Office Space",
+            "bbox": [
+              117,
+              555,
+              272,
+              570
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0020",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 14,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "4. Maintenance and Office Space",
+    "mixed_original_protected_source_text": "4. Maintenance and Office Space",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b024",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b024"
+    ],
+    "translation_unit_protected_source_text": "4. Maintenance and Office Space",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "4. 维修与办公空间",
+    "translation_unit_translated_text": "4. 维修与办公空间",
+    "protected_translated_text": "4. 维修与办公空间",
+    "translated_text": "4. 维修与办公空间",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b024",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "2. Dumping Area / 3. First Aid Facilities",
+    "translation_context_after": "5. Area for Precast Elements and Storage / 6. Illuminating Light in Container Yard Port"
+  },
+  {
+    "item_id": "p001-b025",
+    "page_idx": 0,
+    "block_idx": 25,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 25,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      569,
+      312,
+      581
+    ],
+    "source_text": "5. Area for Precast Elements and Storage",
+    "lines": [
+      {
+        "bbox": [
+          99,
+          565,
+          313,
+          584
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "5. Area for Precast Elements and Storage",
+            "bbox": [
+              99,
+              565,
+              313,
+              584
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0020",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 15,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "5. Area for Precast Elements and Storage",
+    "mixed_original_protected_source_text": "5. Area for Precast Elements and Storage",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b025",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b025"
+    ],
+    "translation_unit_protected_source_text": "5. Area for Precast Elements and Storage",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "5. 预制构件与存储区",
+    "translation_unit_translated_text": "5. 预制构件与存储区",
+    "protected_translated_text": "5. 预制构件与存储区",
+    "translated_text": "5. 预制构件与存储区",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b025",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "3. First Aid Facilities / 4. Maintenance and Office Space",
+    "translation_context_after": "6. Illuminating Light in Container Yard Port / 7. Contractor’s Invoicing"
+  },
+  {
+    "item_id": "p001-b026",
+    "page_idx": 0,
+    "block_idx": 26,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 26,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      581,
+      315,
+      594
+    ],
+    "source_text": "6. Illuminating Light in Container Yard Port",
+    "lines": [
+      {
+        "bbox": [
+          99,
+          580,
+          317,
+          596
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "6. Illuminating Light in Container Yard Port",
+            "bbox": [
+              99,
+              580,
+              317,
+              596
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0020",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 16,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "6. Illuminating Light in Container Yard Port",
+    "mixed_original_protected_source_text": "6. Illuminating Light in Container Yard Port",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b026",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b026"
+    ],
+    "translation_unit_protected_source_text": "6. Illuminating Light in Container Yard Port",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "6. 集装箱堆场照明",
+    "translation_unit_translated_text": "6. 集装箱堆场照明",
+    "protected_translated_text": "6. 集装箱堆场照明",
+    "translated_text": "6. 集装箱堆场照明",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b026",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "4. Maintenance and Office Space / 5. Area for Precast Elements and Storage",
+    "translation_context_after": "7. Contractor’s Invoicing / The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer."
+  },
+  {
+    "item_id": "p001-b027",
+    "page_idx": 0,
+    "block_idx": 27,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 27,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      100,
+      595,
+      226,
+      607
+    ],
+    "source_text": "7. Contractor’s Invoicing",
+    "lines": [
+      {
+        "bbox": [
+          99,
+          592,
+          227,
+          608
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "7. Contractor’s Invoicing",
+            "bbox": [
+              99,
+              592,
+              227,
+              608
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "p001-b0020",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 17,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "middle",
+    "math_mode": "direct_typst",
+    "protected_source_text": "7. Contractor’s Invoicing",
+    "mixed_original_protected_source_text": "7. Contractor’s Invoicing",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b027",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b027"
+    ],
+    "translation_unit_protected_source_text": "7. Contractor’s Invoicing",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "7. 承包商开票",
+    "translation_unit_translated_text": "7. 承包商开票",
+    "protected_translated_text": "7. 承包商开票",
+    "translated_text": "7. 承包商开票",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b027",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "5. Area for Precast Elements and Storage / 6. Illuminating Light in Container Yard Port",
+    "translation_context_after": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer. / Contract No: TZ-TPA-/424013-CW-DIR"
+  },
+  {
+    "item_id": "p001-b030",
+    "page_idx": 0,
+    "block_idx": 30,
+    "block_type": "text",
+    "block_kind": "text",
+    "layout_role": "paragraph",
+    "semantic_role": "body",
+    "structure_role": "body",
+    "policy_translate": true,
+    "asset_id": "",
+    "reading_order": 30,
+    "raw_block_type": "text",
+    "normalized_sub_type": "body",
+    "bbox": [
+      80,
+      662,
+      539,
+      688
+    ],
+    "source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "lines": [
+      {
+        "bbox": [
+          82,
+          662,
+          539,
+          679
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming",
+            "bbox": [
+              82,
+              662,
+              539,
+              679
+            ]
+          }
+        ]
+      },
+      {
+        "bbox": [
+          81,
+          674,
+          517,
+          692
+        ],
+        "spans": [
+          {
+            "type": "text",
+            "content": "the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+            "bbox": [
+              81,
+              674,
+              517,
+              692
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "parent_block_id": "",
+      "continuation_hint": {
+        "source": "",
+        "group_id": "",
+        "role": "",
+        "scope": "",
+        "reading_order": -1,
+        "confidence": 0.0
+      },
+      "structure_role": "body",
+      "structure_group": "",
+      "pair_with": ""
+    },
+    "ocr_continuation_source": "",
+    "ocr_continuation_group_id": "",
+    "ocr_continuation_role": "",
+    "ocr_continuation_scope": "",
+    "ocr_continuation_reading_order": -1,
+    "ocr_continuation_confidence": 0.0,
+    "provider_cross_column_merge_suspected": false,
+    "provider_reading_order_unreliable": false,
+    "provider_structure_unreliable": false,
+    "provider_text_missing_but_bbox_present": false,
+    "provider_peer_block_absorbed_text": false,
+    "provider_body_repair_applied": false,
+    "provider_body_repair_role": "",
+    "provider_body_repair_strategy": "",
+    "provider_suspected_peer_block_id": "",
+    "provider_continuation_suppressed": false,
+    "provider_continuation_suppressed_reason": "",
+    "provider_column_layout_mode": "",
+    "provider_column_index_guess": "",
+    "layout_mode": "single",
+    "layout_split_x": 0.0,
+    "layout_zone": "single_column",
+    "layout_zone_rank": 18,
+    "layout_zone_size": 19,
+    "layout_boundary_role": "tail",
+    "math_mode": "direct_typst",
+    "protected_source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "mixed_original_protected_source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "formula_map": [],
+    "protected_map": [],
+    "classification_label": "",
+    "should_translate": true,
+    "skip_reason": "",
+    "mixed_literal_action": "",
+    "mixed_literal_prefix": "",
+    "translation_unit_id": "p001-b030",
+    "translation_unit_kind": "single",
+    "translation_unit_member_ids": [
+      "p001-b030"
+    ],
+    "translation_unit_protected_source_text": "The Resident Engineer - RE (IL - Eng. José Rodrigues)) opened the meeting by welcoming the members. The meeting was chaired by Resident Engineer on behalf of the Engineer.",
+    "translation_unit_formula_map": [],
+    "translation_unit_protected_map": [],
+    "translation_unit_protected_translated_text": "驻地工程师——RE（IL - Eng. José Rodrigues）宣布会议开始，并对与会成员表示欢迎。会议由驻地工程师代表工程师主持。",
+    "translation_unit_translated_text": "驻地工程师——RE（IL - Eng. José Rodrigues）宣布会议开始，并对与会成员表示欢迎。会议由驻地工程师代表工程师主持。",
+    "protected_translated_text": "驻地工程师——RE（IL - Eng. José Rodrigues）宣布会议开始，并对与会成员表示欢迎。会议由驻地工程师代表工程师主持。",
+    "translated_text": "驻地工程师——RE（IL - Eng. José Rodrigues）宣布会议开始，并对与会成员表示欢迎。会议由驻地工程师代表工程师主持。",
+    "continuation_group": "",
+    "continuation_prev_text": "",
+    "continuation_next_text": "",
+    "continuation_decision": "",
+    "continuation_candidate_prev_id": "",
+    "continuation_candidate_next_id": "",
+    "group_protected_source_text": "",
+    "group_formula_map": [],
+    "group_protected_map": [],
+    "group_protected_translated_text": "",
+    "group_translated_text": "",
+    "final_status": "translated",
+    "translation_diagnostics": {
+      "item_id": "p001-b030",
+      "page_idx": 0,
+      "route_path": [
+        "block_level",
+        "direct_typst"
+      ],
+      "output_mode_path": [
+        "plain_text"
+      ],
+      "fallback_to": "",
+      "degradation_reason": "",
+      "final_status": "translated"
+    },
+    "candidate_pair_prev_id": "",
+    "candidate_pair_next_id": "",
+    "translation_context_before": "6. Illuminating Light in Container Yard Port / 7. Contractor’s Invoicing",
+    "translation_context_after": "Contract No: TZ-TPA-/424013-CW-DIR / REPAIR OF CONCRETE DAMAGES AT RORO AND BERTH 1-7 DAR ES SALAAM PORT"
+  }
+]
