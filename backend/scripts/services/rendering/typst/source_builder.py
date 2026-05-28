@@ -148,8 +148,7 @@ def _build_typst_block(block_id: str, block: RenderBlock) -> str:
 
 def _build_cover_rect(block_id: str, block: RenderBlock,
                      page_height: float = 0) -> str:
-    if "appended-table-translation" in block_id:
-        return ""
+    is_appended = "appended-table-translation" in block_id
     rect_name = f"{block_id.replace('-', '_')}_cover"
     x0, y0, x1, y1 = block.cover_bbox
     width = max(8.0, x1 - x0)
@@ -160,7 +159,9 @@ def _build_cover_rect(block_id: str, block: RenderBlock,
     # English text residue at edges after cover rect is drawn.
     bottom_frac = y1 / page_height if page_height > 0 else 0
     is_large_font = block.font_size_pt >= 14.0
-    if "table-cell" in block_id:
+    if is_appended:
+        outset = 3.0
+    elif "table-cell" in block_id:
         outset = 3.0  # table cells need outset 3.0pt to prevent leakage at edges
     elif bottom_frac > 0.85:
         outset = 4.0  # footer/signature area

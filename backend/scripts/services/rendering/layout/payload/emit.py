@@ -48,6 +48,12 @@ def payload_to_render_block(payload: dict) -> RenderBlock:
     # Embed 'table' tag in block_id so page_ops can identify table blocks
     # for outer-border redraw without needing separate bookkeeping.
     is_appended = bool(item.get("is_appended_table_translation", False))
+    cover_bbox = payload["cover_bbox"]
+    if is_appended:
+        prov = item.get("provenance", {})
+        if "raw_bbox" in prov:
+            cover_bbox = prov["raw_bbox"]
+
     if is_table_block:
         block_id_prefix = "table-item"
     elif is_table_cell:
@@ -60,7 +66,7 @@ def payload_to_render_block(payload: dict) -> RenderBlock:
     return RenderBlock(
         block_id=f"{block_id_prefix}-{payload['index']}",
         bbox=payload["bbox"],
-        cover_bbox=payload["cover_bbox"],
+        cover_bbox=cover_bbox,
         inner_bbox=payload["inner_bbox"],
         markdown_text=build_item_render_markdown(payload["item"], payload["translated_text"], payload["formula_map"]),
         plain_text=build_plain_text_from_text(payload["translated_text"]),

@@ -47,6 +47,14 @@ def iter_valid_redaction_items(
 ) -> list[tuple[fitz.Rect, dict, str]]:
     redaction_items: list[tuple[fitz.Rect, dict, str]] = []
     for rect, item, translated_text in iter_valid_translated_items(translated_items):
+        if item.get("is_appended_table_translation"):
+            raw_bbox = item.get("provenance", {}).get("raw_bbox")
+            if raw_bbox and len(raw_bbox) == 4:
+                raw_rect = fitz.Rect(raw_bbox)
+                expanded_raw = expand_image_page_item_rect(raw_rect) if image_page else expand_item_rect(raw_rect)
+                if not expanded_raw.is_empty:
+                    redaction_items.append((expanded_raw, item, translated_text))
+
         expanded = expand_image_page_item_rect(rect) if image_page else expand_item_rect(rect)
         if expanded.is_empty:
             continue

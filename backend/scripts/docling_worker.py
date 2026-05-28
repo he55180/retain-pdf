@@ -269,17 +269,24 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
             return clusters_list
 
         def is_failed_table_region(para_blocks, page_num):
+            x_positions = [b.get("geometry", {}).get("bbox", [0])[0] for b in para_blocks]
+            clusters = cluster_by_threshold(x_positions, threshold=15.0)
+            all_text = " ".join([b.get("content", {}).get("text", "") for b in para_blocks])
+            TABLE_KEYWORDS = ["HIV Intervention", "Primary Responsibility", "Main Content", "No.", "Service Provider"]
+
+            # [DEBUG LOG STAGE]
+            print(f"[DEBUG] Page {page_num} para_blocks count: {len(para_blocks)}", flush=True)
+            print(f"[DEBUG] x clusters: {len(clusters)}", flush=True)
+            print(f"[DEBUG] all_text sample: {all_text[:200]}", flush=True)
+            print(f"[DEBUG] keyword match: {any(kw in all_text for kw in TABLE_KEYWORDS)}", flush=True)
+
             # 条件1：散乱段落块数量足够多
             if len(para_blocks) < 7:
                 return False
-            # 条件2：x坐标形成3-5列聚类（代表表格列对齐）
-            x_positions = [b.get("geometry", {}).get("bbox", [0])[0] for b in para_blocks]
-            clusters = cluster_by_threshold(x_positions, threshold=15.0)
-            if len(clusters) < 3 or len(clusters) > 5:
+            # 条件2：x坐标形成3-8列聚类（代表表格列对齐）
+            if len(clusters) < 3 or len(clusters) > 8:
                 return False
             # 条件3：必须匹配责任矩阵特征关键词
-            all_text = " ".join([b.get("content", {}).get("text", "") for b in para_blocks])
-            TABLE_KEYWORDS = ["HIV Intervention", "Primary Responsibility", "Main Content", "No.", "Service Provider"]
             if not any(kw in all_text for kw in TABLE_KEYWORDS):
                 return False
             # 条件4：排除第1页
@@ -347,7 +354,7 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                         "provider": "docling",
                         "raw_label": "appended_table_translation",
                         "raw_sub_type": "",
-                        "raw_bbox": [region_bbox[0], insert_y, region_bbox[2], insert_y + estimated_height],
+                        "raw_bbox": region_bbox,
                         "raw_path": str(pdf_path),
                     },
                     "continuation_hint": {
