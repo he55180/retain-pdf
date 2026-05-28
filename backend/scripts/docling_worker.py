@@ -52,13 +52,13 @@ def _label_to_role(label: str) -> tuple[str, str, str, str, bool]:
         "chart":           ("image", "paragraph", "body", "body", False),
         "formula":         ("formula", "paragraph", "body", "body", True),
         "caption":         ("text", "caption", "body", "caption", False),
-        "footnote":        ("text", "footnote", "metadata", "metadata", False),
+        "footnote":        ("text", "footnote", "metadata", "metadata", True),
         "page_header":     ("text", "header", "metadata", "metadata", False),
         "page_footer":     ("text", "footer", "metadata", "metadata", False),
         "checkbox_selected":  ("text", "paragraph", "body", "body", True),
         "checkbox_unselected": ("text", "paragraph", "body", "body", True),
         "code":            ("text", "paragraph", "body", "body", True),
-        "reference":       ("text", "paragraph", "reference", "reference_entry", False),
+        "reference":       ("text", "paragraph", "reference", "reference_entry", True),
         "form":            ("text", "paragraph", "metadata", "metadata", False),
         "key_value_region": ("text", "paragraph", "metadata", "metadata", False),
         "handwritten_text":  ("text", "paragraph", "body", "body", True),
@@ -249,6 +249,118 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                     }
                     blocks.append(cell_block)
                     total_blocks += 1
+
+        # P5.1+ Failed Table Detection & Appended Translation:
+        # Determine if the current page contains a table that failed structure parsing.
+        para_blocks = [b for b in blocks if b.get("layout_role") == "paragraph" and (b.get("content") or {}).get("text")]
+        
+        def cluster_by_threshold(values, threshold=15.0):
+            clusters_list = []
+            for val in sorted(values):
+                found_cluster = False
+                for cluster in clusters_list:
+                    avg = sum(cluster) / len(cluster)
+                    if abs(val - avg) <= threshold:
+                        cluster.append(val)
+                        found_cluster = True
+                        break
+                if not found_cluster:
+                    clusters_list.append([val])
+            return clusters_list
+
+        def is_failed_table_region(para_blocks, page_num):
+            # 条件1：散乱段落块数量足够多
+            if len(para_blocks) < 7:
+                return False
+            # 条件2：x坐标形成3-5列聚类（代表表格列对齐）
+            x_positions = [b.get("geometry", {}).get("bbox", [0])[0] for b in para_blocks]
+            clusters = cluster_by_threshold(x_positions, threshold=15.0)
+            if len(clusters) < 3 or len(clusters) > 5:
+                return False
+            # 条件3：必须匹配责任矩阵特征关键词
+            all_text = " ".join([b.get("content", {}).get("text", "") for b in para_blocks])
+            TABLE_KEYWORDS = ["HIV Intervention", "Primary Responsibility", "Main Content", "No.", "Service Provider"]
+            if not any(kw in all_text for kw in TABLE_KEYWORDS):
+                return False
+            # 条件4：排除第1页
+            if page_num == 1:
+                return False
+            return True
+
+        def find_safe_insert_position(all_blocks, region_bbox):
+            # 找到表格区域底边之下的第一个段落块
+            post_table_blocks = [
+                b for b in all_blocks
+                if b.get("geometry", {}).get("bbox", [0, 0, 0, 0])[1] > region_bbox[3]
+                and b.get("layout_role") == "paragraph"
+            ]
+            if post_table_blocks:
+                sorted_post = sorted(post_table_blocks, key=lambda x: x.get("geometry", {}).get("bbox", [0, 0, 0, 0])[1])
+                first_post_y = sorted_post[0].get("geometry", {}).get("bbox", [0, 0, 0, 0])[1]
+                # 在表格底和后续段落顶之间居中偏下插入，或保底在表格底下 8pt 处
+                return max(region_bbox[3] + 8.0, first_post_y - 45.0)
+            return region_bbox[3] + 8.0
+
+        if is_failed_table_region(para_blocks, page_num):
+            xs = []
+            ys = []
+            for b in para_blocks:
+                bbox = b.get("geometry", {}).get("bbox", [])
+                if len(bbox) == 4:
+                    xs.extend([bbox[0], bbox[2]])
+                    ys.extend([bbox[1], bbox[3]])
+            if xs and ys:
+                region_bbox = [min(xs), min(ys), max(xs), max(ys)]
+                texts = [b["content"]["text"].strip() for b in para_blocks if b.get("content", {}).get("text")]
+
+                # 标记该区域的原始段落块为不翻译（图像直通）
+                for b in para_blocks:
+                    b["policy"]["translate"] = False
+                    b["policy"]["translate_reason"] = "failed_table_passthrough"
+
+                # 寻找安全的位置插入附加译文块
+                insert_y = find_safe_insert_position(blocks, region_bbox)
+                estimated_height = max(60.0, len(texts) * 14.0)
+                max_order = max([b.get("order", 0) for b in blocks]) if blocks else 0
+                max_r_order = max([b.get("reading_order", 0) for b in blocks]) if blocks else 0
+
+                appended_block = {
+                    "block_id": f"appended-table-translation-{uuid.uuid4()}",
+                    "page_index": page_index,
+                    "order": max_order + 1,
+                    "reading_order": max_r_order + 1,
+                    "geometry": {
+                        "bbox": [region_bbox[0], insert_y, region_bbox[2], insert_y + estimated_height],
+                    },
+                    "content": {
+                        "kind": "text",
+                        "text": "\n\n".join(texts),
+                    },
+                    "layout_role": "paragraph",
+                    "semantic_role": "body",
+                    "structure_role": "body",
+                    "policy": {
+                        "translate": True,
+                        "translate_reason": "appended_table_translation",
+                    },
+                    "provenance": {
+                        "provider": "docling",
+                        "raw_label": "appended_table_translation",
+                        "raw_sub_type": "",
+                        "raw_bbox": [region_bbox[0], insert_y, region_bbox[2], insert_y + estimated_height],
+                        "raw_path": str(pdf_path),
+                    },
+                    "continuation_hint": {
+                        "source": "", "group_id": "", "role": "", "scope": "", "reading_order": -1, "confidence": 0.0
+                    },
+                    "is_appended_table_translation": True,
+                    "metadata": {},
+                    "source": {
+                        "provider": "docling",
+                    }
+                }
+                blocks.append(appended_block)
+                total_blocks += 1
 
         # P5.1+ Post-signature block protection:
         # If current page contains a signature table passthrough, prevent translation for all blocks below it.

@@ -47,10 +47,13 @@ def payload_to_render_block(payload: dict) -> RenderBlock:
 
     # Embed 'table' tag in block_id so page_ops can identify table blocks
     # for outer-border redraw without needing separate bookkeeping.
+    is_appended = bool(item.get("is_appended_table_translation", False))
     if is_table_block:
         block_id_prefix = "table-item"
     elif is_table_cell:
         block_id_prefix = "table-cell"
+    elif is_appended:
+        block_id_prefix = "appended-table-translation"
     else:
         block_id_prefix = "item"
 

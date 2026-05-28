@@ -88,6 +88,25 @@ def _build_typst_block(block_id: str, block: RenderBlock) -> str:
     font_weight = block.font_weight if str(block.font_weight or "").strip() else "regular"
     text_fill = _typst_rgb(block.text_color)
 
+    if "appended-table-translation" in block_id:
+        markdown_name = f"{var_prefix}_md"
+        body_name = f"{var_prefix}_body"
+        markdown = block.markdown_text
+        return (
+            f'#let {markdown_name} = "{escape_typst_string(markdown)}"\n'
+            f'#let {body_name} = block(width: {width}pt, fill: rgb("F5F5F5"), inset: 8pt, radius: 4pt)[#{{\n'
+            f'  set text(size: 9pt, weight: "bold", fill: rgb("454545"))\n'
+            f'  [【表格译文】\\ ]\n'
+            f'  v(4pt)\n'
+            f'  set text(size: 8.5pt, weight: "regular", fill: rgb("202020"))\n'
+            f'  set par(leading: 0.6em)\n'
+            f'  cmarker.render({markdown_name}, math: mitex)\n'
+            f'}}]\n'
+            "#context {\n"
+            f"  place(top + left, dx: {x0}pt, dy: {y0}pt, {body_name})\n"
+            "}"
+        )
+
     if block.render_kind == "plain_line":
         text_name = f"{var_prefix}_txt"
         base_name = f"{var_prefix}_base"
@@ -129,6 +148,8 @@ def _build_typst_block(block_id: str, block: RenderBlock) -> str:
 
 def _build_cover_rect(block_id: str, block: RenderBlock,
                      page_height: float = 0) -> str:
+    if "appended-table-translation" in block_id:
+        return ""
     rect_name = f"{block_id.replace('-', '_')}_cover"
     x0, y0, x1, y1 = block.cover_bbox
     width = max(8.0, x1 - x0)
