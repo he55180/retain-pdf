@@ -263,6 +263,9 @@ def build_block_payloads(
     block_payloads: list[dict] = []
 
     for index, item in enumerate(translated_items):
+        # 过滤被判定为failed_table_passthrough的废弃英文段落块，防止它们在页面上被重新渲染
+        if item.get("policy", {}).get("translate_reason") == "failed_table_passthrough":
+            continue
         translated_text = get_render_protected_text(item)
         bbox = item.get("bbox", [])
         if len(bbox) != 4 or not translated_text:

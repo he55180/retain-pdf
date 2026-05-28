@@ -252,7 +252,14 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
 
         # P5.1+ Failed Table Detection & Appended Translation:
         # Determine if the current page contains a table that failed structure parsing.
-        para_blocks = [b for b in blocks if b.get("layout_role") == "paragraph" and (b.get("content") or {}).get("text")]
+        import re
+        para_blocks = []
+        for b in blocks:
+            if b.get("layout_role") == "paragraph" and (b.get("content") or {}).get("text"):
+                # 条款段落（形如 6.1, 2.3）不作为失败表格识别候选，防止其被误抹除
+                if re.match(r'^\d+\.\d*\s', b["content"]["text"].strip()):
+                    continue
+                para_blocks.append(b)
         
         def cluster_by_threshold(values, threshold=15.0):
             clusters_list = []
@@ -331,13 +338,17 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                 max_order = max([b.get("order", 0) for b in blocks]) if blocks else 0
                 max_r_order = max([b.get("reading_order", 0) for b in blocks]) if blocks else 0
 
+                margin = 54.0
+                left_x = margin if page_width > 0 else region_bbox[0]
+                right_x = (page_width - margin) if page_width > 0 else region_bbox[2]
+
                 appended_block = {
                     "block_id": f"appended-table-translation-{uuid.uuid4()}",
                     "page_index": page_index,
                     "order": max_order + 1,
                     "reading_order": max_r_order + 1,
                     "geometry": {
-                        "bbox": [region_bbox[0], insert_y, region_bbox[2], insert_y + estimated_height],
+                        "bbox": [left_x, insert_y, right_x, insert_y + estimated_height],
                     },
                     "content": {
                         "kind": "text",
@@ -387,6 +398,10 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
             for block in blocks:
                 bbox = block.get("geometry", {}).get("bbox", [])
                 if len(bbox) == 4 and bbox[1] >= min_sig_table_bottom_y - 2.0:
+                    # 豁免检查：如果是以 数字.数字 开头的条款，保持翻译
+                    b_text = (block.get("content", {}).get("text") or "").strip()
+                    if re.match(r'^\d+\.\d*\s', b_text):
+                        continue
                     block["policy"]["translate"] = False
                     block["policy"]["translate_reason"] = "post_signature_passthrough"
 
