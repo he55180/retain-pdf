@@ -139,7 +139,9 @@ def _build_cover_rect(block_id: str, block: RenderBlock,
     # English text residue at edges after cover rect is drawn.
     bottom_frac = y1 / page_height if page_height > 0 else 0
     is_large_font = block.font_size_pt >= 14.0
-    if bottom_frac > 0.85:
+    if "table-cell" in block_id:
+        outset = 3.0  # table cells need outset 3.0pt to prevent leakage at edges
+    elif bottom_frac > 0.85:
         outset = 4.0  # footer/signature area
     elif is_large_font:
         outset = 3.5  # title/heading blocks

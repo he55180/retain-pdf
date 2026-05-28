@@ -250,6 +250,27 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
                     blocks.append(cell_block)
                     total_blocks += 1
 
+        # P5.1+ Post-signature block protection:
+        # If current page contains a signature table passthrough, prevent translation for all blocks below it.
+        sig_table_bottom_ys = []
+        for block in blocks:
+            if (
+                block.get("layout_role") == "table"
+                and block.get("policy", {}).get("translate") is False
+                and block.get("policy", {}).get("translate_reason") == "signature_table_passthrough"
+            ):
+                bbox = block.get("geometry", {}).get("bbox", [])
+                if len(bbox) == 4:
+                    sig_table_bottom_ys.append(bbox[3])
+
+        if sig_table_bottom_ys:
+            min_sig_table_bottom_y = min(sig_table_bottom_ys)
+            for block in blocks:
+                bbox = block.get("geometry", {}).get("bbox", [])
+                if len(bbox) == 4 and bbox[1] >= min_sig_table_bottom_y - 2.0:
+                    block["policy"]["translate"] = False
+                    block["policy"]["translate_reason"] = "post_signature_passthrough"
+
         pages_data.append({
             "page_index": page_index,
             "page": page_num,

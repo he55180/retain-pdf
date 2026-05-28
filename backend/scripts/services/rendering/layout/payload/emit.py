@@ -47,7 +47,12 @@ def payload_to_render_block(payload: dict) -> RenderBlock:
 
     # Embed 'table' tag in block_id so page_ops can identify table blocks
     # for outer-border redraw without needing separate bookkeeping.
-    block_id_prefix = "table-item" if is_table_block else "item"
+    if is_table_block:
+        block_id_prefix = "table-item"
+    elif is_table_cell:
+        block_id_prefix = "table-cell"
+    else:
+        block_id_prefix = "item"
 
     return RenderBlock(
         block_id=f"{block_id_prefix}-{payload['index']}",

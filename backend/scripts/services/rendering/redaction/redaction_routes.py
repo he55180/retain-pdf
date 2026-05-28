@@ -197,46 +197,12 @@ def apply_auto_redaction(
     diagnostics["route"] = "auto"
     diagnostics["strategy"] = "auto"
 
-    protected_math_rects = collect_page_math_protection_rects(page)
-    non_math_span_heights = collect_page_non_math_span_heights(page)
-    has_intrusive_math_protection = page_has_intrusive_math_protection(
-        valid_items,
-        protected_math_rects,
-        non_math_span_heights,
-    )
-    if has_intrusive_math_protection:
-        diagnostics["auto_text_cleanup_math_protected"] = True
-
     cover_items: list[tuple[fitz.Rect, dict, str]] = []
-    removable_rects: list[fitz.Rect] = []
-    skipped_risky_items = 0
-    force_bbox_redaction_rects: list[fitz.Rect] = []  # P5.1 Bug-6: rects for forced text removal
+    force_bbox_redaction_rects: list[fitz.Rect] = []  # rects for forced text removal
     for rect, item, _translated_text in valid_items:
-        # P5.1 Bug-6: table_cell blocks must use bbox-level redaction to fully
-        # clear the original English text layer, preventing source text residue.
-        _is_table_cell = (
-            str(item.get("translate_reason", "") or "").strip() == "table_cell"
-            or str((item.get("provenance") or {}).get("raw_label", "") or "").strip() == "table_cell"
-        )
-        if _is_table_cell:
-            cover_items.append((rect, item, _translated_text))
-            force_bbox_redaction_rects.append(rect)
-            continue
-        if not _item_is_safe_for_auto_text_cleanup(item):
-            skipped_risky_items += 1
-            cover_items.append((rect, item, _translated_text))
-            continue
-        item_rects = item_removable_text_rects(
-            page,
-            item,
-            rect,
-            special_math_rects=protected_math_rects if has_intrusive_math_protection else None,
-        )
-        diagnostics["raw_removable_rects"] = int(diagnostics["raw_removable_rects"]) + len(item_rects)
-        if item_rects:
-            removable_rects.extend(item_rects)
-        else:
-            cover_items.append((rect, item, _translated_text))
+        # All translated blocks require physical text layer removal to prevent original text remnants.
+        cover_items.append((rect, item, _translated_text))
+        force_bbox_redaction_rects.append(rect)
 
     cover_rects = _cover_rects_from_valid_items(cover_items)
     if flat_cover:
@@ -244,14 +210,9 @@ def apply_auto_redaction(
     else:
         draw_white_covers(page, cover_rects)
     diagnostics["cover_rects"] = len(cover_rects)
-    diagnostics["fast_page_cover_only"] = bool(cover_rects) and len(cover_items) == len(valid_items)
+    diagnostics["fast_page_cover_only"] = True
 
-    merged_removable_rects = _merge_rects(removable_rects)
-    diagnostics["merged_removable_rects"] = len(merged_removable_rects)
-    diagnostics["auto_text_cleanup_items_skipped"] = skipped_risky_items
-    if merged_removable_rects:
-        _remove_text_under_rects(page, merged_removable_rects)
-    # P5.1 Bug-6: Force remove text layer under table_cell bboxes
+    # Force remove text layer under all translated block bboxes
     if force_bbox_redaction_rects:
         _remove_text_under_rects(page, _merge_rects(force_bbox_redaction_rects))
         diagnostics["table_cell_force_redaction_rects"] = len(force_bbox_redaction_rects)
@@ -307,64 +268,10 @@ def apply_standard_redaction(
 
     redactions: list[tuple[fitz.Rect, tuple[float, float, float] | None]] = []
     cover_rects: list[fitz.Rect] = []
-    removable_counts: list[int] = []
     for rect, item, _translated_text in valid_items:
-        if fill_background is None:
-            # P5.1 Bug-6: table_cell blocks must use bbox-level redaction
-            _is_table_cell = (
-                str(item.get("translate_reason", "") or "").strip() == "table_cell"
-                or str((item.get("provenance") or {}).get("raw_label", "") or "").strip() == "table_cell"
-            )
-            if _is_table_cell:
-                cover_rects.append(rect)
-                redactions.append((rect, None))
-                continue
-            if _should_force_visual_cover(item):
-                cover_rects.append(rect)
-                diagnostics["item_fast_cover_count"] = int(diagnostics["item_fast_cover_count"]) + 1
-                continue
-            if _should_force_bbox_redaction(item):
-                redactions.append((rect, None))
-                continue
-            removable_rects = item_removable_text_rects(page, item, rect)
-            raw_count = len(removable_rects)
-            diagnostics["raw_removable_rects"] = int(diagnostics["raw_removable_rects"]) + raw_count
-            if raw_count:
-                removable_counts.append(raw_count)
-            merged_removable_rects = _merge_rects(removable_rects)
-            merged_count = len(merged_removable_rects)
-            diagnostics["merged_removable_rects"] = int(diagnostics["merged_removable_rects"]) + merged_count
-            removable = bool(merged_removable_rects)
-            if raw_count >= ITEM_REMOVABLE_RECTS_FAST_COVER_THRESHOLD:
-                cover_rects.append(rect)
-                diagnostics["item_fast_cover_count"] = int(diagnostics["item_fast_cover_count"]) + 1
-                continue
-            if removable:
-                for removable_rect in merged_removable_rects:
-                    redactions.append((removable_rect, None))
-                continue
-            cover_rects.append(rect)
-            continue
-        else:
-            fill = (1, 1, 1) if fill_background else None
-        redactions.append((rect, fill))
-
-    if fill_background is None and removable_counts:
-        total_raw_rects = sum(removable_counts)
-        avg_raw_rects = total_raw_rects / max(len(removable_counts), 1)
-        if (
-            total_raw_rects >= PAGE_REMOVABLE_RECTS_FAST_COVER_THRESHOLD
-            or avg_raw_rects >= PAGE_AVG_REMOVABLE_RECTS_FAST_COVER_THRESHOLD
-            or len([count for count in removable_counts if count >= ITEM_REMOVABLE_RECTS_FAST_COVER_THRESHOLD])
-            >= PAGE_ITEM_REMOVABLE_RECTS_FAST_COVER_COUNT
-        ):
-            page_cover_rects = _cover_rects_from_valid_items(valid_items)
-            draw_white_covers(page, page_cover_rects)
-            _remove_text_under_rects(page, page_cover_rects)
-            diagnostics["cover_rects"] = len(page_cover_rects)
-            diagnostics["fast_page_cover_only"] = True
-            diagnostics["route"] = "fast_page_cover_only"
-            return diagnostics
+        # All translated blocks require physical text layer removal to prevent original text remnants.
+        cover_rects.append(rect)
+        redactions.append((rect, None))
 
     merged_cover_rects = _merge_rects(cover_rects)
     diagnostics["cover_rects"] = len(merged_cover_rects)
