@@ -210,7 +210,18 @@ def apply_auto_redaction(
     cover_items: list[tuple[fitz.Rect, dict, str]] = []
     removable_rects: list[fitz.Rect] = []
     skipped_risky_items = 0
+    force_bbox_redaction_rects: list[fitz.Rect] = []  # P5.1 Bug-6: rects for forced text removal
     for rect, item, _translated_text in valid_items:
+        # P5.1 Bug-6: table_cell blocks must use bbox-level redaction to fully
+        # clear the original English text layer, preventing source text residue.
+        _is_table_cell = (
+            str(item.get("translate_reason", "") or "").strip() == "table_cell"
+            or str((item.get("provenance") or {}).get("raw_label", "") or "").strip() == "table_cell"
+        )
+        if _is_table_cell:
+            cover_items.append((rect, item, _translated_text))
+            force_bbox_redaction_rects.append(rect)
+            continue
         if not _item_is_safe_for_auto_text_cleanup(item):
             skipped_risky_items += 1
             cover_items.append((rect, item, _translated_text))
@@ -240,6 +251,10 @@ def apply_auto_redaction(
     diagnostics["auto_text_cleanup_items_skipped"] = skipped_risky_items
     if merged_removable_rects:
         _remove_text_under_rects(page, merged_removable_rects)
+    # P5.1 Bug-6: Force remove text layer under table_cell bboxes
+    if force_bbox_redaction_rects:
+        _remove_text_under_rects(page, _merge_rects(force_bbox_redaction_rects))
+        diagnostics["table_cell_force_redaction_rects"] = len(force_bbox_redaction_rects)
     return diagnostics
 
 
@@ -295,6 +310,15 @@ def apply_standard_redaction(
     removable_counts: list[int] = []
     for rect, item, _translated_text in valid_items:
         if fill_background is None:
+            # P5.1 Bug-6: table_cell blocks must use bbox-level redaction
+            _is_table_cell = (
+                str(item.get("translate_reason", "") or "").strip() == "table_cell"
+                or str((item.get("provenance") or {}).get("raw_label", "") or "").strip() == "table_cell"
+            )
+            if _is_table_cell:
+                cover_rects.append(rect)
+                redactions.append((rect, None))
+                continue
             if _should_force_visual_cover(item):
                 cover_rects.append(rect)
                 diagnostics["item_fast_cover_count"] = int(diagnostics["item_fast_cover_count"]) + 1

@@ -134,9 +134,17 @@ def _build_cover_rect(block_id: str, block: RenderBlock,
     width = max(8.0, x1 - x0)
     height = max(8.0, y1 - y0)
     cover_fill = _typst_rgb(block.cover_fill)
-    # Boost outset for bottom-page signature/footer areas
+    # P5.1 Scene-3: Boost outset to fully cover original text
+    # Large font blocks (titles/headings >= 14pt) need extra outset to prevent
+    # English text residue at edges after cover rect is drawn.
     bottom_frac = y1 / page_height if page_height > 0 else 0
-    outset = 3.0 if bottom_frac > 0.85 else 1.5
+    is_large_font = block.font_size_pt >= 14.0
+    if bottom_frac > 0.85:
+        outset = 4.0  # footer/signature area
+    elif is_large_font:
+        outset = 3.5  # title/heading blocks
+    else:
+        outset = 2.5  # standard blocks (was 1.5)
     return (
         f"#let {rect_name} = rect(width: {width}pt, height: {height}pt, "
         f"fill: {cover_fill}, outset: {outset}pt)\n"

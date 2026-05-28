@@ -46,6 +46,7 @@ VERSION
 desktop/src/runtime/
 
 backend/workspace/.cache/
+backend/workspace/jobs/
 output_test/
 
 /RetainPDF-GUI/

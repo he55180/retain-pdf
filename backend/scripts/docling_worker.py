@@ -55,8 +55,8 @@ def _label_to_role(label: str) -> tuple[str, str, str, str, bool]:
         "footnote":        ("text", "footnote", "metadata", "metadata", False),
         "page_header":     ("text", "header", "metadata", "metadata", False),
         "page_footer":     ("text", "footer", "metadata", "metadata", False),
-        "checkbox_selected":  ("text", "paragraph", "body", "body", False),
-        "checkbox_unselected": ("text", "paragraph", "body", "body", False),
+        "checkbox_selected":  ("text", "paragraph", "body", "body", True),
+        "checkbox_unselected": ("text", "paragraph", "body", "body", True),
         "code":            ("text", "paragraph", "body", "body", True),
         "reference":       ("text", "paragraph", "reference", "reference_entry", False),
         "form":            ("text", "paragraph", "metadata", "metadata", False),
@@ -161,6 +161,34 @@ def _build_document_v1(pdf_path: Path, docling_doc, elapsed: float) -> dict:
             # for cell-level translation and background cover overlay, while keeping 
             # the parent table block empty for scheme C border redraw.
             if label in ("table", "document_index") and hasattr(item, "data") and getattr(item.data, "table_cells", None):
+                # P5.1 Scene-2: Detect signature tables and skip cell expansion
+                # If table text contains signature keywords, mark as non-translatable
+                # so the entire table region is preserved as-is (image pass-through).
+                _SIGNATURE_KEYWORDS = {
+                    "signed by", "signature", "签署", "签名", "sign here",
+                    "authorized signatory", "witnessed by", "approved by",
+                    "countersigned", "signatories",
+                }
+                _all_cell_texts = []
+                for _sc in item.data.table_cells:
+                    _ct = (getattr(_sc, "text", "") or "").strip()
+                    if _ct:
+                        _all_cell_texts.append(_ct)
+                _combined_table_text = " ".join(_all_cell_texts).lower()
+                _is_signature_table = any(kw in _combined_table_text for kw in _SIGNATURE_KEYWORDS)
+                if _is_signature_table:
+                    # Mark parent table block as non-translatable (image pass-through)
+                    block["policy"]["translate"] = False
+                    block["policy"]["translate_reason"] = "signature_table_passthrough"
+                    print(
+                        f"docling-worker: signature table detected on page {page_num}, "
+                        f"skipping cell expansion for block {block['block_id']}",
+                        flush=True,
+                    )
+                    # Skip cell expansion entirely for signature tables
+                    # (parent block already appended at line 157)
+                    continue  # skip to next item
+
                 for cell_idx, cell in enumerate(item.data.table_cells):
                     cell_text = (getattr(cell, "text", "") or "").strip()
                     if not cell_text:

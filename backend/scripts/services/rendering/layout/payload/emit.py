@@ -25,15 +25,25 @@ def payload_to_render_block(payload: dict) -> RenderBlock:
         adjacent_collision_risk=payload["adjacent_collision_risk"],
         adjacent_available_height_pt=payload["adjacent_available_height_pt"],
     )
-    # P3: Table blocks must always use fit_to_box so pdftr_fit_markdown shrinks
-    # the font until the translation fits within the table bbox height.
-    if is_table_block:
+    # P3: Table blocks and cells must always use fit_to_box so pdftr_fit_markdown shrinks
+    # the font until the translation fits within the table/cell bbox height.
+    item = payload.get("item", {})
+    is_table_cell = (
+        item.get("translate_reason") == "table_cell"
+        or item.get("provenance", {}).get("raw_label") == "table_cell"
+        or item.get("layout_role") == "table_cell"
+        or item.get("block_type") == "table_cell"
+    )
+    if is_table_block or is_table_cell:
         fit_to_box = True
         inner = payload["inner_bbox"]
         if len(inner) == 4:
             fit_max_height_pt = max(8.0, inner[3] - inner[1])
-        if not fit_min_font_size_pt or fit_min_font_size_pt > payload["font_size_pt"]:
-            fit_min_font_size_pt = max(4.0, payload["font_size_pt"] * 0.35)
+        if is_table_cell:
+            fit_min_font_size_pt = min(8.0, payload["font_size_pt"])
+        else:
+            if not fit_min_font_size_pt or fit_min_font_size_pt > payload["font_size_pt"]:
+                fit_min_font_size_pt = max(4.0, payload["font_size_pt"] * 0.35)
 
     # Embed 'table' tag in block_id so page_ops can identify table blocks
     # for outer-border redraw without needing separate bookkeeping.
